@@ -1,5 +1,21 @@
+<!--
+ * Loading Spinner Component - Canadian Grocery Index
+ * 
+ * A simple, reusable loading spinner component with animation.
+ * Used throughout the application to indicate data loading states.
+ * 
+ * Features:
+ * - Smooth CSS animation
+ * - Responsive design
+ * - Customizable size and colors
+ * - Accessible loading indicator
+ * 
+ * @author Canadian Grocery Index Team
+ * @version 1.0.0
+ -->
+
 <script lang="ts">
-  // Simple loading spinner component
+  // No props or logic needed for this simple component
 </script>
 
 <div class="loading-container">

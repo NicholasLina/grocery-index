@@ -1,71 +1,115 @@
+<!-- Main Dashboard Page - Canadian Grocery Index -->
+
 <script lang="ts">
   import { onMount } from 'svelte';
   import { format, subMonths } from 'date-fns';
   import PriceCard from '$lib/components/PriceCard.svelte';
   import LoadingSpinner from '$lib/components/LoadingSpinner.svelte';
 
+  // Interface representing a single price data point from the API
   interface PriceData {
+    // Unique identifier for the record
     _id: string;
+    // Reference date in YYYY-MM format
     REF_DATE: string;
+    // Geographic location (e.g., 'Canada', 'Ontario')
     GEO: string;
+    // Product name and description
     Products: string;
+    // Vector identifier from StatCan
     VECTOR: string;
+    // Price value
     VALUE: number;
   }
 
+  // Interface representing calculated price change data for a product
   interface ProductChange {
+    // Product name
     product: string;
+    // Current (most recent) price
     currentPrice: number;
+    // Previous period price
     previousPrice: number;
+    // Absolute price change
     change: number;
+    // Percentage price change
     changePercent: number;
+    // Geographic location
     geo: string;
+    // Full price history data
     data: PriceData[];
   }
 
+  // Reactive state variables
+  // Array of all available product names
   let products: string[] = [];
+  // Array of available geographic locations
   let geoValues: string[] = [];
+  // Currently selected geographic location
   let selectedGeo: string = 'Canada';
+  // Top 3 products with highest price increases
   let topGainers: ProductChange[] = [];
+  // Top 3 products with highest price decreases
   let topLosers: ProductChange[] = [];
+  // Loading state indicator
   let loading = true;
+  // Error message if data loading fails
   let error = '';
 
+  // Base URL for the API endpoints
   const API_BASE = 'http://localhost:3000/api/statcan';
 
-  async function fetchProducts() {
+  // Fetches all available product names from the API
+  // Returns: Array of product names
+  async function fetchProducts(): Promise<string[]> {
     try {
       const response = await fetch(`${API_BASE}/products`);
       const data = await response.json();
+      console.log('🔍 Products API response:', data);
+      console.log('🔍 Products found:', data.products?.length || 0);
       return data.products;
     } catch (err) {
-      console.error('Error fetching products:', err);
+      console.error('❌ Error fetching products:', err);
       return [];
     }
   }
 
-  async function fetchGeoValues() {
+  // Fetches all available geographic locations from the API
+  // Returns: Array of geographic locations
+  async function fetchGeoValues(): Promise<string[]> {
     try {
       const response = await fetch(`${API_BASE}/debug`);
       const data = await response.json();
+      console.log('🔍 Geo values API response:', data);
+      console.log('🔍 Geo values found:', data.geoValues);
       return data.geoValues || [];
     } catch (err) {
-      console.error('Error fetching geo values:', err);
-      return ['Canada']; // Fallback
+      console.error('❌ Error fetching geo values:', err);
+      return ['Canada']; // Fallback to Canada if API fails
     }
   }
 
-  async function fetchProductData(product: string, geo: string) {
+  // Fetches price data for a specific product and geographic location
+  // Parameters:
+  //   product - Product name to fetch data for
+  //   geo - Geographic location to fetch data for
+  // Returns: Array of price data points
+  async function fetchProductData(product: string, geo: string): Promise<PriceData[]> {
     try {
       const response = await fetch(`${API_BASE}?geo=${encodeURIComponent(geo)}&product=${encodeURIComponent(product)}`);
       const data = await response.json();
+      console.log(`🔍 Product data for ${product} in ${geo}:`, data);
       return data;
     } catch (err) {
-      console.error(`Error fetching data for ${product}:`, err);
+      console.error(`❌ Error fetching data for ${product}:`, err);
       return [];
     }
   }
 
+  // Calculates price change statistics from an array of price data
+  // Parameters:
+  //   data - Array of price data points
+  // Returns: Calculated price change data or null if insufficient data
   function calculatePriceChanges(data: PriceData[]): ProductChange | null {
     if (data.length < 2) return null;
 
@@ -88,53 +132,83 @@
     };
   }
 
-  async function loadPriceChanges() {
+  // Loads pre-calculated price changes for the selected region
+  // Uses the optimized backend endpoint for fast retrieval
+  async function loadPriceChanges(): Promise<void> {
     loading = true;
     error = '';
     
     try {
-      // Get a sample of products (first 30 for better coverage)
-      const allProducts = await fetchProducts();
-      const sampleProducts = allProducts.slice(0, 30);
+      console.log('🚀 Loading pre-calculated price changes for region:', selectedGeo);
       
-      const allChanges: ProductChange[] = [];
+      const response = await fetch(`http://localhost:3000/api/statcan/price-changes?geo=${encodeURIComponent(selectedGeo)}&limit=3`);
       
-      for (const product of sampleProducts) {
-        const data = await fetchProductData(product, selectedGeo);
-        const change = calculatePriceChanges(data);
-        if (change) {
-          allChanges.push(change);
-        }
+      if (!response.ok) {
+        throw new Error(`HTTP error! status: ${response.status}`);
       }
       
-      // Separate gainers and losers
-      const gainers = allChanges.filter(change => change.changePercent > 0);
-      const losers = allChanges.filter(change => change.changePercent < 0);
+      const data = await response.json();
+      console.log('📊 Pre-calculated price changes:', data);
       
-      // Sort gainers by percentage increase (highest first)
-      topGainers = gainers
-        .sort((a, b) => b.changePercent - a.changePercent)
-        .slice(0, 3);
+      // Map the backend data to our frontend format and fetch full data for charts
+      const gainersWithData = await Promise.all(
+        data.gainers.map(async (item: any) => {
+          // Fetch full historical data for the mini-chart
+          const fullData = await fetchProductData(item.product, item.geo);
+          return {
+            product: item.product,
+            currentPrice: item.currentPrice,
+            previousPrice: item.previousPrice,
+            change: item.change,
+            changePercent: item.changePercent,
+            geo: item.geo,
+            data: fullData // Include full data for mini-chart
+          };
+        })
+      );
       
-      // Sort losers by percentage decrease (lowest first, then take absolute value)
-      topLosers = losers
-        .sort((a, b) => a.changePercent - b.changePercent)
-        .slice(0, 3);
+      const losersWithData = await Promise.all(
+        data.losers.map(async (item: any) => {
+          // Fetch full historical data for the mini-chart
+          const fullData = await fetchProductData(item.product, item.geo);
+          return {
+            product: item.product,
+            currentPrice: item.currentPrice,
+            previousPrice: item.previousPrice,
+            change: item.change,
+            changePercent: item.changePercent,
+            geo: item.geo,
+            data: fullData // Include full data for mini-chart
+          };
+        })
+      );
+      
+      topGainers = gainersWithData;
+      topLosers = losersWithData;
+      
+      console.log('🏆 Top gainers with data:', topGainers);
+      console.log('🏆 Top losers with data:', topLosers);
       
     } catch (err) {
       error = 'Failed to load price data';
-      console.error('Error loading price changes:', err);
+      console.error('❌ Error loading price changes:', err);
     } finally {
       loading = false;
     }
   }
 
-  async function handleGeoChange(event: Event) {
+  // Handles geographic location change events
+  // Reloads price data when the user selects a different region
+  // Parameters:
+  //   event - Change event from the select element
+  async function handleGeoChange(event: Event): Promise<void> {
     const target = event.target as HTMLSelectElement;
     selectedGeo = target.value;
     await loadPriceChanges();
   }
 
+  // Lifecycle hook that runs when the component mounts
+  // Initializes the page by loading geographic locations and price data
   onMount(async () => {
     geoValues = await fetchGeoValues();
     await loadPriceChanges();
@@ -167,50 +241,33 @@
     </div>
   </header>
 
-  {#if error}
-    <div class="error">
-      {error}
-    </div>
-  {/if}
-
   {#if loading}
     <LoadingSpinner />
+  {:else if error}
+    <div class="error-message">
+      <p>❌ {error}</p>
+      <button on:click={loadPriceChanges}>Try Again</button>
+    </div>
   {:else}
     <div class="content">
       <!-- Biggest Discounts Section -->
       <section class="section">
-        <h2 class="section-title losers-title">
-          Biggest Discounts
-          <span class="section-subtitle">Highest Percentage Decreases</span>
-        </h2>
-        <div class="price-grid">
-          {#each topLosers as product (product.product)}
+        <h2 class="section-title">Biggest Discounts</h2>
+        <div class="cards-grid">
+          {#each topLosers as product}
             <PriceCard {product} />
           {/each}
         </div>
-        {#if topLosers.length === 0}
-          <div class="no-data">
-            <p>No price decreases found in the data</p>
-          </div>
-        {/if}
       </section>
 
       <!-- Most Expensive Section -->
       <section class="section">
-        <h2 class="section-title gainers-title">
-          Most Expensive
-          <span class="section-subtitle">Highest Percentage Increases</span>
-        </h2>
-        <div class="price-grid">
-          {#each topGainers as product (product.product)}
+        <h2 class="section-title">Most Expensive</h2>
+        <div class="cards-grid">
+          {#each topGainers as product}
             <PriceCard {product} />
           {/each}
         </div>
-        {#if topGainers.length === 0}
-          <div class="no-data">
-            <p>No price increases found in the data</p>
-          </div>
-        {/if}
       </section>
     </div>
   {/if}
@@ -218,23 +275,21 @@
 
 <style>
   .container {
-    max-width: 1400px;
+    max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
-    background: #0a0a0a;
-    min-height: 100vh;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background: #0f0f0f;
     color: #ffffff;
+    min-height: 100vh;
   }
 
   .header {
     text-align: center;
     margin-bottom: 40px;
-    padding: 20px 0;
-    border-bottom: 1px solid #333;
   }
 
-  h1 {
+  .header h1 {
     font-size: 2.5rem;
     margin: 0 0 10px 0;
     background: linear-gradient(45deg, #00ff88, #00ccff);
@@ -244,9 +299,9 @@
   }
 
   .subtitle {
-    font-size: 1.1rem;
+    font-size: 1.2rem;
     color: #888;
-    margin: 0 0 20px 0;
+    margin: 0 0 30px 0;
   }
 
   .controls {
@@ -264,45 +319,33 @@
   }
 
   .geo-filter label {
-    color: #888;
     font-weight: 500;
+    color: #ccc;
   }
 
   .geo-filter select {
-    background: #1a1a1a;
-    border: 1px solid #333;
-    color: #ffffff;
     padding: 8px 12px;
+    border: 1px solid #333;
     border-radius: 6px;
-    font-size: 1rem;
-    cursor: pointer;
-    transition: all 0.3s ease;
-  }
-
-  .geo-filter select:hover {
-    border-color: #00ff88;
-  }
-
-  .geo-filter select:focus {
-    outline: none;
-    border-color: #00ff88;
-    box-shadow: 0 0 0 2px rgba(0, 255, 136, 0.2);
+    background: #1a1a1a;
+    color: #fff;
+    font-size: 14px;
   }
 
   .refresh-btn {
+    padding: 8px 16px;
     background: linear-gradient(45deg, #00ff88, #00ccff);
     border: none;
-    padding: 12px 24px;
-    border-radius: 8px;
+    border-radius: 6px;
     color: #000;
-    font-weight: bold;
+    font-weight: 600;
     cursor: pointer;
     transition: all 0.3s ease;
   }
 
   .refresh-btn:hover:not(:disabled) {
     transform: translateY(-2px);
-    box-shadow: 0 8px 25px rgba(0, 255, 136, 0.3);
+    box-shadow: 0 4px 12px rgba(0, 255, 136, 0.3);
   }
 
   .refresh-btn:disabled {
@@ -310,70 +353,71 @@
     cursor: not-allowed;
   }
 
-  .error {
-    background: #ff4444;
-    color: white;
-    padding: 15px;
-    border-radius: 8px;
-    margin: 20px 0;
-    text-align: center;
+  .content {
+    display: flex;
+    flex-direction: column;
+    gap: 40px;
   }
 
   .section {
-    margin-bottom: 50px;
+    background: #1a1a1a;
+    border-radius: 12px;
+    padding: 30px;
+    border: 1px solid #333;
   }
 
   .section-title {
     font-size: 1.8rem;
-    margin: 0 0 20px 0;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    gap: 5px;
+    margin: 0 0 25px 0;
+    color: #ffffff;
+    text-align: center;
   }
 
-  .gainers-title {
+  .cards-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    gap: 20px;
+  }
+
+  .error-message {
+    text-align: center;
+    padding: 40px;
+    background: #1a1a1a;
+    border-radius: 12px;
+    border: 1px solid #ff4444;
+  }
+
+  .error-message p {
+    font-size: 1.2rem;
+    margin: 0 0 20px 0;
     color: #ff4444;
   }
 
-  .losers-title {
-    color: #00ff88;
+  .error-message button {
+    padding: 10px 20px;
+    background: #ff4444;
+    border: none;
+    border-radius: 6px;
+    color: white;
+    cursor: pointer;
+    font-weight: 600;
   }
 
-  .section-subtitle {
-    font-size: 0.9rem;
-    color: #888;
-    font-weight: normal;
-  }
-
-  .price-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    gap: 20px;
-    margin-bottom: 20px;
-  }
-
-  .no-data {
-    text-align: center;
-    padding: 40px;
-    color: #888;
-    font-style: italic;
-    background: #1a1a1a;
-    border-radius: 12px;
-    border: 1px solid #333;
+  .error-message button:hover {
+    background: #cc3333;
   }
 
   @media (max-width: 768px) {
     .container {
-      padding: 10px;
+      padding: 15px;
     }
 
-    h1 {
+    .header h1 {
       font-size: 2rem;
     }
 
-    .section-title {
-      font-size: 1.5rem;
+    .subtitle {
+      font-size: 1rem;
     }
 
     .controls {
@@ -381,13 +425,12 @@
       gap: 15px;
     }
 
-    .geo-filter {
-      flex-direction: column;
-      gap: 5px;
-    }
-
-    .price-grid {
+    .cards-grid {
       grid-template-columns: 1fr;
     }
+
+    .section {
+      padding: 20px;
+    }
   }
-</style>
+</style> 

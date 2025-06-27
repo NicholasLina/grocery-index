@@ -1,25 +1,72 @@
+<!--
+  Price Card Component - Canadian Grocery Index
+  
+  A reusable card component for displaying product price information
+  with mini-charts and navigation to detailed product pages.
+  
+  Props:
+  - product: Product name
+  - currentPrice: Current price value
+  - change: Absolute price change
+  - changePercent: Percentage price change
+  - geo: Geographic location
+  - data: Array of price data points for mini-chart
+  
+  Features:
+  - Interactive mini-chart showing price history
+  - Color-coded price changes (red for increases, green for decreases)
+  - Click navigation to detailed product page
+  - Responsive design for mobile and desktop
+  - Hover effects and animations
+  
+  @author Canadian Grocery Index Team
+  @version 1.0.0
+-->
+
 <script lang="ts">
   import { createEventDispatcher } from 'svelte';
   import { format } from 'date-fns';
   import { goto } from '$app/navigation';
 
+  // Props interface for the PriceCard component
   export let product: {
+    // Product name and description
     product: string;
+    // Current (most recent) price
     currentPrice: number;
+    // Previous period price
     previousPrice: number;
+    // Absolute price change
     change: number;
+    // Percentage price change
     changePercent: number;
+    // Geographic location
     geo: string;
+    // Full price history data for mini-chart
     data: any[];
   };
 
-  function handleClick() {
+  // Handles click events on the price card
+  // Navigates to the product detail page with encoded product and geo information
+  function handleClick(): void {
     // Create a URL-friendly slug with product name and geo
     const slug = encodeURIComponent(`${product.product}|${product.geo}`);
     goto(`/product/${slug}`);
   }
 
-  function formatProductTitle(productName: string) {
+  // Formats a product title by capitalizing words and handling subtitles
+  // Parameters:
+  //   productName - Raw product name from API
+  // Returns: Object with mainTitle and subtitle
+  function formatProductTitle(productName: string): { mainTitle: string; subtitle: string } {
+    // Handle undefined or null product names
+    if (!productName || typeof productName !== 'string') {
+      return {
+        mainTitle: 'Unknown Product',
+        subtitle: ''
+      };
+    }
+
     const parts = productName.split(',');
     if (parts.length > 1) {
       return {
@@ -34,8 +81,13 @@
     }
   }
 
-  function createMiniChart(data: any[]) {
-    if (data.length < 2) return null;
+  // Creates mini-chart data for displaying recent price history
+  // Parameters:
+  //   data - Array of price data points
+  // Returns: Chart data object or null if insufficient data
+  function createMiniChart(data: any[]): any {
+    // Handle undefined or null data
+    if (!data || !Array.isArray(data) || data.length < 2) return null;
     
     // Sort data by date (oldest to newest)
     const sortedData = data.sort((a, b) => new Date(a.REF_DATE).getTime() - new Date(b.REF_DATE).getTime());
@@ -73,16 +125,24 @@
     return { pathData, areaPathData, points, minValue, maxValue };
   }
 
-  $: isPositive = product.changePercent > 0;
-  $: isNegative = product.changePercent < 0;
+  // Reactive statements for computed values
+  // Whether the price change is positive (increase)
+  $: isPositive = product?.changePercent > 0;
+  // Whether the price change is negative (decrease)
+  $: isNegative = product?.changePercent < 0;
+  // Color for price change indicators (red for increases, green for decreases)
   $: changeColor = isPositive ? '#ff4444' : isNegative ? '#00ff88' : '#888';
-  $: formattedTitle = formatProductTitle(product.product);
+  // Formatted product title with main title and subtitle
+  $: formattedTitle = formatProductTitle(product?.product || '');
+  // Main product title (capitalized)
   $: mainTitle = formattedTitle.mainTitle;
+  // Product subtitle (if any)
   $: subtitle = formattedTitle.subtitle;
-  $: miniChart = createMiniChart(product.data);
+  // Mini-chart data for the price history visualization
+  $: miniChart = createMiniChart(product?.data || []);
   
   // Debug: Log the color for this product
-  $: console.log(`Product: ${product.product}, Change: ${product.changePercent}%, Color: ${changeColor}`);
+  $: console.log(`Product: ${product?.product || 'Unknown'}, Change: ${product?.changePercent || 0}%, Color: ${changeColor}`);
 </script>
 
 <div class="price-card" on:click={handleClick} style="--change-color: {changeColor}">
@@ -93,7 +153,7 @@
         <p class="product-subtitle">{subtitle}</p>
       {/if}
     </div>
-    <span class="location">{product.geo}</span>
+    <span class="location">{product?.geo || 'Unknown Location'}</span>
   </div>
   
   <!-- Mini Chart -->
@@ -101,7 +161,7 @@
     <div class="mini-chart-container">
       <svg class="mini-chart" viewBox="0 0 280 50" preserveAspectRatio="xMidYMid meet">
         <defs>
-          <linearGradient id="chartGradient-{product.product.replace(/\s+/g, '-')}-{product._id}" x1="0%" y1="0%" x2="0%" y2="100%">
+          <linearGradient id="chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}-{product?._id || 'unknown'}" x1="0%" y1="0%" x2="0%" y2="100%">
             <stop offset="0%" style="stop-color:{changeColor};stop-opacity:0.3" />
             <stop offset="100%" style="stop-color:{changeColor};stop-opacity:0.05" />
           </linearGradient>
@@ -110,7 +170,7 @@
         <!-- Gradient fill area -->
         <path 
           d={miniChart.areaPathData} 
-          fill="url(#chartGradient-{product.product.replace(/\s+/g, '-')}-{product._id})"
+          fill="url(#chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}-{product?._id || 'unknown'})"
           stroke="none"
         />
         
@@ -141,15 +201,15 @@
   <div class="price-info">
     <div class="current-price">
       <span class="currency">$</span>
-      <span class="amount">{product.currentPrice.toFixed(2)}</span>
+      <span class="amount">{product?.currentPrice?.toFixed(2) || '0.00'}</span>
       <span class="price-change" style="color: {changeColor}">
-        {product.change > 0 ? '+' : ''}{product.change.toFixed(2)} ({product.changePercent > 0 ? '+' : ''}{product.changePercent.toFixed(1)}%)
+        {product?.change > 0 ? '+' : ''}{product?.change?.toFixed(2) || '0.00'} ({product?.changePercent > 0 ? '+' : ''}{product?.changePercent?.toFixed(1) || '0.0'}%)
       </span>
     </div>
   </div>
   
   <div class="previous-price">
-    Previous: ${product.previousPrice.toFixed(2)}
+    Previous: ${product?.previousPrice?.toFixed(2) || '0.00'}
   </div>
 </div>
 
