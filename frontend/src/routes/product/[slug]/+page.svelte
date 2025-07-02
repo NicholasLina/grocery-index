@@ -132,7 +132,7 @@
     const currentPrice = sortedData[0].VALUE;
     const previousPrice = sortedData.length > 1 ? sortedData[1].VALUE : currentPrice;
     const change = currentPrice - previousPrice;
-    const changePercent = previousPrice !== 0 ? (change / previousPrice) * 100 : 0;
+    const changePercent = (previousPrice !== 0) ? (change / previousPrice) * 100 : 0;
 
     return {
       product: sortedData[0].Products,
@@ -227,7 +227,7 @@
           <span class="currency">$</span>
           <span class="amount">{productStats.currentPrice.toFixed(2)}</span>
         </div>
-        <div class="change" class:positive={productStats.changePercent > 0} class:negative={productStats.changePercent < 0}>
+        <div class="change" class:positive={(productStats.change ?? 0) > 0} class:negative={(productStats.change ?? 0) < 0}>
           {productStats.change > 0 ? '+' : ''}{productStats.change.toFixed(2)} ({productStats.changePercent > 0 ? '+' : ''}{productStats.changePercent.toFixed(1)}%)
         </div>
       </div>
@@ -291,14 +291,14 @@
             {#each productStats.data as row, index}
               {@const prevRow = productStats.data[index + 1]}
               {@const change = prevRow ? row.VALUE - prevRow.VALUE : null}
-              {@const changePercent = prevRow && prevRow.VALUE !== 0 ? (change / prevRow.VALUE) * 100 : null}
+              {@const changePercent = (prevRow && prevRow.VALUE !== 0) ? ((change ?? 0) / prevRow.VALUE) * 100 : 0}
               <tr>
                 <td>{formatDate(row.REF_DATE)}</td>
                 <td>{formatCurrency(row.VALUE)}</td>
-                <td class:positive={change > 0} class:negative={change < 0}>
+                <td class:positive={(change ?? 0) > 0} class:negative={(change ?? 0) < 0}>
                   {change !== null ? (change > 0 ? '+' : '') + formatCurrency(change) : '-'}
                 </td>
-                <td class:positive={changePercent > 0} class:negative={changePercent < 0}>
+                <td class:positive={(changePercent ?? 0) > 0} class:negative={(changePercent ?? 0) < 0}>
                   {changePercent !== null ? (changePercent > 0 ? '+' : '') + changePercent.toFixed(1) + '%' : '-'}
                 </td>
               </tr>
