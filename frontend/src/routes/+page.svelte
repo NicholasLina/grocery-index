@@ -220,27 +220,22 @@
   <meta name="description" content="Track grocery price changes in real-time" />
 </svelte:head>
 
-<main class="container">
-  <header class="header">
+<header class="top-bar">
+  <div class="top-bar-title">
     <h1>Canadian Grocery Index</h1>
-    <p class="subtitle">Top Gainers & Losers - This Month's Biggest Movers</p>
-    
-    <div class="controls">
-      <div class="geo-filter">
-        <label for="geo-select">Region:</label>
-        <select id="geo-select" bind:value={selectedGeo} on:change={handleGeoChange}>
-          {#each geoValues as geo}
-            <option value={geo}>{geo}</option>
-          {/each}
-        </select>
-      </div>
-      
-      <button class="refresh-btn" on:click={loadPriceChanges} disabled={loading}>
-        {loading ? 'Loading...' : '🔄 Refresh'}
-      </button>
+  </div>
+  <div class="controls">
+    <div class="geo-filter">
+      <label for="geo-select">Region:</label>
+      <select id="geo-select" bind:value={selectedGeo} on:change={handleGeoChange}>
+        {#each geoValues as geo}
+          <option value={geo}>{geo}</option>
+        {/each}
+      </select>
     </div>
-  </header>
-
+  </div>
+</header>
+<main class="container">
   {#if loading}
     <LoadingSpinner />
   {:else if error}
@@ -274,6 +269,47 @@
 </main>
 
 <style>
+  .top-bar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 32px;
+    height: 70px;
+    background: #181818;
+    margin-bottom: 40px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    z-index: 100;
+    border-radius: 0;
+    position: sticky;
+  }
+
+  .top-bar::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100vw;
+    background: linear-gradient(45deg, #00ff88, #00ccff);
+    pointer-events: none;
+    z-index: 101;
+  }
+
+  .top-bar-title h1 {
+    font-size: 2rem;
+    margin: 0;
+    background: linear-gradient(45deg, #00ff88, #00ccff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
   .container {
     max-width: 1200px;
     margin: 0 auto;
@@ -282,31 +318,12 @@
     background: #0f0f0f;
     color: #ffffff;
     min-height: 100vh;
-  }
-
-  .header {
-    text-align: center;
-    margin-bottom: 40px;
-  }
-
-  .header h1 {
-    font-size: 2.5rem;
-    margin: 0 0 10px 0;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
-  .subtitle {
-    font-size: 1.2rem;
-    color: #888;
-    margin: 0 0 30px 0;
+    margin-top: 0;
   }
 
   .controls {
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
     gap: 20px;
     flex-wrap: wrap;
@@ -408,29 +425,20 @@
   }
 
   @media (max-width: 768px) {
-    .container {
-      padding: 15px;
-    }
-
-    .header h1 {
-      font-size: 2rem;
-    }
-
-    .subtitle {
-      font-size: 1rem;
-    }
-
-    .controls {
+    .top-bar {
       flex-direction: column;
+      align-items: stretch;
+      height: auto;
+      padding: 12px 10px;
+      gap: 10px;
+    }
+    .top-bar-title h1 {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+    .controls {
+      justify-content: center;
       gap: 15px;
-    }
-
-    .cards-grid {
-      grid-template-columns: 1fr;
-    }
-
-    .section {
-      padding: 20px;
     }
   }
 </style> 
