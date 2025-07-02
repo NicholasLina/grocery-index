@@ -220,7 +220,7 @@
     border-radius: 12px;
     padding: 20px;
     cursor: pointer;
-    transition: all 0.3s ease;
+    transition: all 0.2s ease;
     position: relative;
     overflow: hidden;
   }
@@ -240,7 +240,6 @@
   .price-card:hover {
     transform: translateY(-4px);
     box-shadow: 0 12px 30px rgba(0, 0, 0, 0.3);
-    border-color: var(--change-color);
   }
 
   .price-card:hover::before {
