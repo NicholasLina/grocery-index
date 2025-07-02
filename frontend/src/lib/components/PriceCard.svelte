@@ -46,14 +46,6 @@
     data: any[];
   };
 
-  // Handles click events on the price card
-  // Navigates to the product detail page with encoded product and geo information
-  function handleClick(): void {
-    // Create a URL-friendly slug with product name and geo
-    const slug = encodeURIComponent(`${product.product}|${product.geo}`);
-    goto(`/product/${slug}`);
-  }
-
   // Formats a product title by capitalizing words and handling subtitles
   // Parameters:
   //   productName - Raw product name from API
@@ -145,7 +137,7 @@
   $: console.log(`Product: ${product?.product || 'Unknown'}, Change: ${product?.changePercent || 0}%, Color: ${changeColor}`);
 </script>
 
-<div class="price-card" on:click={handleClick} style="--change-color: {changeColor}">
+<a class="price-card" href={`/product/${encodeURIComponent(product.product + '|' + product.geo)}`} tabindex="0" style="--change-color: {changeColor}">
   <div class="card-header">
     <div class="product-info">
       <h3 class="product-name">{mainTitle}</h3>
@@ -161,7 +153,7 @@
     <div class="mini-chart-container">
       <svg class="mini-chart" viewBox="0 0 280 50" preserveAspectRatio="xMidYMid meet">
         <defs>
-          <linearGradient id="chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}-{product?._id || 'unknown'}" x1="0%" y1="0%" x2="0%" y2="100%">
+          <linearGradient id="chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}" x1="0%" y1="0%" x2="0%" y2="100%">
             <stop offset="0%" style="stop-color:{changeColor};stop-opacity:0.3" />
             <stop offset="100%" style="stop-color:{changeColor};stop-opacity:0.05" />
           </linearGradient>
@@ -170,7 +162,7 @@
         <!-- Gradient fill area -->
         <path 
           d={miniChart.areaPathData} 
-          fill="url(#chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}-{product?._id || 'unknown'})"
+          fill="url(#chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')})"
           stroke="none"
         />
         
@@ -211,7 +203,7 @@
   <div class="previous-price">
     Previous: ${product?.previousPrice?.toFixed(2) || '0.00'}
   </div>
-</div>
+</a>
 
 <style>
   .price-card {
@@ -223,6 +215,7 @@
     transition: all 0.2s ease;
     position: relative;
     overflow: hidden;
+    text-decoration: none;
   }
 
   .price-card::before {
