@@ -39,6 +39,8 @@
     geo: string;
     // Full price history data
     data: PriceData[];
+    // Price from one year ago
+    yearAgoPrice?: number;
   }
 
   // Reactive state variables
@@ -58,6 +60,11 @@
   let loading = true;
   // Error message if data loading fails
   let error = "";
+  // Array to hold all product price changes for the selected region
+  let allProductChanges: ProductChange[] = [];
+  // --- Sorting state for all products table ---
+  let sortColumn: string = "product";
+  let sortDirection: "asc" | "desc" = "asc";
 
   // Base URL for the API endpoints
   const API_BASE = "http://localhost:3000/api/statcan";
@@ -215,6 +222,27 @@
     await loadPriceChanges();
   }
 
+  // Helper to fetch all product changes for the region (now uses new endpoint)
+  async function fetchAllProductChanges(geo: string): Promise<any[]> {
+    try {
+      const response = await fetch(
+        `${API_BASE}/all-price-changes?geo=${encodeURIComponent(geo)}`,
+      );
+      const data = await response.json();
+      return data.products || [];
+    } catch (err) {
+      console.error("❌ Error fetching all product changes:", err);
+      return [];
+    }
+  }
+
+  // Load all product changes when region changes
+  $: if (!loading && selectedGeo) {
+    fetchAllProductChanges(selectedGeo).then((data) => {
+      allProductChanges = data;
+    });
+  }
+
   // Lifecycle hook that runs when the component mounts
   // Initializes the page by loading geographic locations and price data
   onMount(async () => {
@@ -223,6 +251,55 @@
     const storedGeo = localStorage.getItem("selectedGeo");
     selectedGeo = storedGeo || "Canada";
     await loadPriceChanges();
+  });
+
+  function setSort(column: string) {
+    if (sortColumn === column) {
+      sortDirection = sortDirection === "asc" ? "desc" : "asc";
+    } else {
+      sortColumn = column;
+      sortDirection = "asc";
+    }
+  }
+
+  // --- Reactive sorted products for the table ---
+  $: sortedProducts = [...allProductChanges].sort((a, b) => {
+    let aValue: any;
+    let bValue: any;
+    switch (sortColumn) {
+      case "product":
+        aValue = a.product.toLowerCase();
+        bValue = b.product.toLowerCase();
+        break;
+      case "currentPrice":
+        aValue = a.currentPrice;
+        bValue = b.currentPrice;
+        break;
+      case "change":
+        aValue = a.change;
+        bValue = b.change;
+        break;
+      case "changePercent":
+        aValue = a.changePercent;
+        bValue = b.changePercent;
+        break;
+      case "yearChange":
+        aValue =
+          a.yearAgoPrice !== null && a.yearAgoPrice !== undefined
+            ? a.currentPrice - a.yearAgoPrice
+            : null;
+        bValue =
+          b.yearAgoPrice !== null && b.yearAgoPrice !== undefined
+            ? b.currentPrice - b.yearAgoPrice
+            : null;
+        break;
+      // No default
+    }
+    if (aValue === null || aValue === undefined) return 1;
+    if (bValue === null || bValue === undefined) return -1;
+    if (aValue < bValue) return sortDirection === "asc" ? -1 : 1;
+    if (aValue > bValue) return sortDirection === "asc" ? 1 : -1;
+    return 0;
   });
 </script>
 
@@ -293,6 +370,109 @@
         </section>
       </div>
     </div>
+  {/if}
+
+  <!-- All Products Table -->
+  {#if !loading && !error && allProductChanges.length > 0}
+    <section class="section" style="margin-top: 40px;">
+      <h2 class="section-title">All Products ({selectedGeo})</h2>
+      <div style="overflow-x: auto;">
+        <table class="all-products-table">
+          <thead>
+            <tr>
+              <th on:click={() => setSort("product")} style="cursor:pointer">
+                Product {sortColumn === "product"
+                  ? sortDirection === "asc"
+                    ? "▲"
+                    : "▼"
+                  : ""}
+              </th>
+              <th
+                on:click={() => setSort("currentPrice")}
+                style="cursor:pointer"
+              >
+                Current Price {sortColumn === "currentPrice"
+                  ? sortDirection === "asc"
+                    ? "▲"
+                    : "▼"
+                  : ""}
+              </th>
+              <th on:click={() => setSort("change")} style="cursor:pointer">
+                Change ($) {sortColumn === "change"
+                  ? sortDirection === "asc"
+                    ? "▲"
+                    : "▼"
+                  : ""}
+              </th>
+              <th
+                on:click={() => setSort("changePercent")}
+                style="cursor:pointer"
+              >
+                Change (%) {sortColumn === "changePercent"
+                  ? sortDirection === "asc"
+                    ? "▲"
+                    : "▼"
+                  : ""}
+              </th>
+              <th on:click={() => setSort("yearChange")} style="cursor:pointer">
+                Change (1 Year) {sortColumn === "yearChange"
+                  ? sortDirection === "asc"
+                    ? "▲"
+                    : "▼"
+                  : ""}
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            {#each sortedProducts as product}
+              <tr>
+                <td>{product.product}</td>
+                <td>{product.currentPrice?.toFixed(2) ?? "-"}</td>
+                <td
+                  style="color: {product.change > 0
+                    ? '#ff4444'
+                    : product.change < 0
+                      ? '#00ff88'
+                      : '#fff'}"
+                >
+                  {product.change?.toFixed(2) ?? "-"}
+                </td>
+                <td
+                  style="color: {product.changePercent > 0
+                    ? '#ff4444'
+                    : product.changePercent < 0
+                      ? '#00ff88'
+                      : '#fff'}"
+                >
+                  {product.changePercent?.toFixed(2) ?? "-"}%
+                </td>
+                <td>
+                  {#if product.yearAgoPrice !== null && product.yearAgoPrice !== undefined}
+                    <span
+                      style="color: {product.yearAgoChange > 0
+                        ? '#ff4444'
+                        : product.yearAgoChange < 0
+                          ? '#00ff88'
+                          : '#fff'}"
+                    >
+                      {product.yearAgoChange >= 0
+                        ? "+"
+                        : ""}{product.yearAgoChange?.toFixed(2) ?? "-"}
+                      ({product.yearAgoPercent === null ||
+                      product.yearAgoPercent === undefined
+                        ? "-"
+                        : product.yearAgoPercent.toFixed(2) + "%"})
+                    </span>
+                  {:else}
+                    -
+                  {/if}
+                </td>
+              </tr>
+            {/each}
+          </tbody>
+        </table>
+      </div>
+    </section>
   {/if}
 </main>
 
@@ -489,5 +669,30 @@
     .section {
       padding: 10px;
     }
+  }
+
+  .all-products-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 10px;
+    background: #181818;
+    color: #fff;
+    font-size: 15px;
+  }
+  .all-products-table th,
+  .all-products-table td {
+    border: 1px solid #333;
+    padding: 8px 12px;
+    text-align: left;
+  }
+  .all-products-table th {
+    background: #222;
+    font-weight: 600;
+  }
+  .all-products-table tr:nth-child(even) {
+    background: #1a1a1a;
+  }
+  .all-products-table tr:hover {
+    background: #222;
   }
 </style>

@@ -533,4 +533,67 @@ router.get('/streaks', async (req: Request, res: Response) => {
   }
 });
 
+/**
+ * GET /api/statcan/all-price-changes - Get all products' price changes for a region, including 1-year change
+ *
+ * Returns all products for a region with current price, previous price, price change, percent change,
+ * and price change over the past year (dollar and percent).
+ *
+ * @param {string} req.query.geo - Geographic location (required)
+ *
+ * @returns {Array} Array of product change objects
+ *
+ * @example
+ * GET /api/statcan/all-price-changes?geo=Canada
+ */
+router.get('/all-price-changes', async (req: Request, res: Response) => {
+  const { geo } = req.query;
+  if (!geo) {
+    return res.status(400).json({ error: 'Geographic location (geo) is required' });
+  }
+  try {
+    // Get all price changes for the region
+    const allChanges = await PriceChange.find({ geo });
+    // For each product, fetch the price from 1 year ago
+    const results = await Promise.all(
+      allChanges.map(async (item) => {
+        // Find the price from 1 year ago
+        const currentDate = item.currentDate;
+        let yearAgoPrice = null;
+        let yearAgoPercent = null;
+        if (currentDate) {
+          // Find the StatCan record for this product/geo at year-ago date
+          const yearAgoDate = (() => {
+            const d = new Date(currentDate + '-01');
+            d.setMonth(d.getMonth() - 12);
+            return d.toISOString().slice(0, 7);
+          })();
+          const yearAgo = await StatCan.findOne({ GEO: geo, Products: item.product, REF_DATE: yearAgoDate });
+          if (yearAgo && typeof yearAgo.VALUE === 'number') {
+            yearAgoPrice = yearAgo.VALUE;
+            yearAgoPercent = yearAgoPrice === 0 ? null : (((item.currentPrice ?? 0) - yearAgoPrice) / yearAgoPrice) * 100;
+          }
+        }
+        return {
+          product: item.product,
+          geo: item.geo,
+          currentPrice: item.currentPrice ?? 0,
+          previousPrice: item.previousPrice,
+          change: item.change,
+          changePercent: item.changePercent,
+          currentDate: item.currentDate,
+          previousDate: item.previousDate,
+          yearAgoPrice,
+          yearAgoChange: yearAgoPrice !== null ? ((item.currentPrice ?? 0) - yearAgoPrice) : null,
+          yearAgoPercent,
+        };
+      })
+    );
+    res.json({ geo, products: results });
+  } catch (err) {
+    console.error('❌ all-price-changes endpoint error:', err);
+    res.status(500).json({ error: 'Failed to fetch all price changes', details: err });
+  }
+});
+
 export default router; 
