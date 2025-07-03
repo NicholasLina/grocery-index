@@ -327,10 +327,8 @@
 
 <header class="top-bar">
   <div class="top-bar-title">
-    <button
-      class="back-btn"
-      on:click={() => history.back()}
-      style="margin-right: 16px;">← Back</button
+    <button class="back-btn" on:click={() => history.back()} aria-label="Back"
+      >←</button
     >
     <h1>Canadian Grocery Index</h1>
   </div>
@@ -871,5 +869,22 @@
   .pagination button:disabled {
     opacity: 0.5;
     cursor: not-allowed;
+  }
+
+  .back-btn {
+    background: none;
+    border: none;
+    color: #fff;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 0 8px 0 0;
+    margin-right: 16px;
+    line-height: 1;
+    transition: color 0.2s;
+  }
+  .back-btn:hover,
+  .back-btn:focus {
+    color: #00ccff;
+    outline: none;
   }
 </style>
