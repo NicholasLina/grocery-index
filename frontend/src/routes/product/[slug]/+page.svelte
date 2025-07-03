@@ -286,6 +286,33 @@
   $: if (productStats && productStats.data) {
     console.log("PriceChart data:", productStats.data);
   }
+
+  // --- PAGINATION STATE FOR HISTORICAL DATA ---
+  let currentPage = 1;
+  const rowsPerPage = 12;
+
+  $: totalRows = productStats?.data.length || 0;
+  $: totalPages = Math.ceil(totalRows / rowsPerPage);
+
+  $: paginatedData =
+    productStats?.data.slice(
+      (currentPage - 1) * rowsPerPage,
+      currentPage * rowsPerPage,
+    ) || [];
+
+  function goToPage(page: number) {
+    if (page < 1 || page > totalPages) return;
+    currentPage = page;
+  }
+
+  function getRowStats(row: PriceData, index: number) {
+    const globalIndex = (currentPage - 1) * rowsPerPage + index;
+    const prevRow = productStats?.data[globalIndex + 1];
+    const change = prevRow ? row.VALUE - prevRow.VALUE : 0;
+    const changePercent =
+      prevRow && prevRow.VALUE !== 0 ? (change / prevRow.VALUE) * 100 : 0;
+    return { change, changePercent };
+  }
 </script>
 
 <svelte:head>
@@ -413,7 +440,7 @@
 
     <!-- Historical Data Table -->
     <section class="table-section">
-      <h3>Historical Data</h3>
+      <h3>Price History</h3>
       <div class="table-container">
         <table class="data-table">
           <thead>
@@ -425,31 +452,26 @@
             </tr>
           </thead>
           <tbody>
-            {#each productStats.data as row, index}
-              {@const prevRow = productStats.data[index + 1]}
-              {@const change = prevRow ? row.VALUE - prevRow.VALUE : null}
-              {@const changePercent =
-                prevRow && prevRow.VALUE !== 0
-                  ? ((change ?? 0) / prevRow.VALUE) * 100
-                  : 0}
+            {#each paginatedData as row, index}
               <tr>
                 <td>{formatDate(row.REF_DATE)}</td>
                 <td>{formatCurrency(row.VALUE)}</td>
                 <td
-                  class:positive={(change ?? 0) > 0}
-                  class:negative={(change ?? 0) < 0}
+                  class:positive={getRowStats(row, index).change > 0}
+                  class:negative={getRowStats(row, index).change < 0}
                 >
-                  {change !== null
-                    ? (change > 0 ? "+" : "") + formatCurrency(change)
+                  {getRowStats(row, index).change !== 0
+                    ? (getRowStats(row, index).change > 0 ? "+" : "") +
+                      formatCurrency(getRowStats(row, index).change)
                     : "-"}
                 </td>
                 <td
-                  class:positive={(changePercent ?? 0) > 0}
-                  class:negative={(changePercent ?? 0) < 0}
+                  class:positive={getRowStats(row, index).changePercent > 0}
+                  class:negative={getRowStats(row, index).changePercent < 0}
                 >
-                  {changePercent !== null
-                    ? (changePercent > 0 ? "+" : "") +
-                      changePercent.toFixed(1) +
+                  {getRowStats(row, index).changePercent !== 0
+                    ? (getRowStats(row, index).changePercent > 0 ? "+" : "") +
+                      getRowStats(row, index).changePercent.toFixed(1) +
                       "%"
                     : "-"}
                 </td>
@@ -457,6 +479,27 @@
             {/each}
           </tbody>
         </table>
+        <!-- Pagination Controls -->
+        {#if totalPages > 1}
+          <div class="pagination">
+            <button
+              on:click={() => goToPage(currentPage - 1)}
+              disabled={currentPage === 1}>&laquo; Prev</button
+            >
+            {#each Array(totalPages) as _, i}
+              <button
+                class:active={currentPage === i + 1}
+                on:click={() => goToPage(i + 1)}
+              >
+                {i + 1}
+              </button>
+            {/each}
+            <button
+              on:click={() => goToPage(currentPage + 1)}
+              disabled={currentPage === totalPages}>Next &raquo;</button
+            >
+          </div>
+        {/if}
       </div>
     </section>
   {/if}
@@ -638,6 +681,19 @@
     gap: 20px;
   }
 
+  @media (min-width: 769px) {
+    .stats-grid {
+      grid-template-columns: repeat(6, 1fr);
+      gap: 16px;
+    }
+  }
+
+  @media (max-width: 768px) {
+    .stats-grid {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+
   .stat-card {
     background: #2a2a2a;
     border-radius: 8px;
@@ -767,10 +823,6 @@
       text-align: center;
     }
 
-    .stats-grid {
-      grid-template-columns: repeat(2, 1fr);
-    }
-
     .top-bar {
       flex-direction: column;
       align-items: stretch;
@@ -786,5 +838,38 @@
       justify-content: center;
       gap: 15px;
     }
+  }
+
+  /* Add styles for pagination */
+  .pagination {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+    margin-top: 18px;
+  }
+  .pagination button {
+    background: #222;
+    color: #fff;
+    border: 1px solid #444;
+    border-radius: 4px;
+    padding: 6px 12px;
+    font-size: 1rem;
+    cursor: pointer;
+    transition:
+      background 0.2s,
+      color 0.2s;
+  }
+  .pagination button.active,
+  .pagination button:hover:not(:disabled) {
+    background: #00ccff;
+    color: #181818;
+  }
+  .pagination button:focus {
+    outline: none;
+  }
+  .pagination button:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
   }
 </style>
