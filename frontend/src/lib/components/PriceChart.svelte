@@ -19,8 +19,8 @@
 -->
 
 <script lang="ts">
-  import { onMount } from 'svelte';
-  import { format, parseISO } from 'date-fns';
+  import { onMount } from "svelte";
+  import { format, parseISO } from "date-fns";
 
   // Props
   // Array of price data points to display
@@ -35,8 +35,9 @@
   let tooltipVisible = false;
   let tooltipX = 0;
   let tooltipY = 0;
-  let tooltipDate = '';
-  let tooltipValue = '';
+  let tooltipDate = "";
+  let tooltipValue = "";
+  let activePoint: any = null;
   // Chart dimensions
   let width = 0; // Will be set by container measurement
   let height = 400; // Fixed height for now
@@ -51,27 +52,20 @@
   // Chart configuration
   // Chart colors
   const colors = {
-    line: '#3b82f6',
-    fill: 'url(#gradient)',
-    grid: '#374151',
-    text: '#9ca3af'
+    line: "#3b82f6",
+    fill: "url(#gradient)",
+    grid: "#374151",
+    text: "#9ca3af",
   };
 
   // Reactive statements
   // Wait for container to be sized before processing data
   $: containerReady = width > 0;
-  
+
   // Chart dimensions excluding margins
   $: {
     chartWidth = Math.max(0, width - margin.left - margin.right);
     chartHeight = Math.max(0, height - margin.top - margin.bottom);
-    console.log('Chart dimensions calculation:', {
-      width,
-      height,
-      margin,
-      chartWidth,
-      chartHeight
-    });
   }
 
   // Reactive statement to update width when container is available
@@ -82,105 +76,92 @@
 
   // Processed chart data with calculated positions
   $: {
-    console.log('PriceChart reactive check:', {
-      dataLength: data?.length,
-      width,
-      height,
-      dataExists: !!data,
-      containerReady,
-      condition: data && data.length >= 2 && containerReady && height > 0
-    });
     if (data && data.length >= 2 && containerReady && height > 0) {
       const processedData = processData();
-      console.log('Processed data result:', processedData);
       chartData = processedData;
     } else {
-      console.log('Chart data conditions not met, setting empty array');
       chartData = [];
     }
-    console.log('Final chartData length:', chartData.length);
   }
 
   // Processes raw data into chart-ready format with calculated positions
   // Returns: Array of data points with x, y coordinates
   function processData() {
-    console.log('=== processData START ===');
-    
-    // Debug logs
-    console.log('PriceChart processData - data:', data);
-    console.log('PriceChart processData - chartWidth:', chartWidth, 'chartHeight:', chartHeight);
-
     // Skip filtering for now - use raw data
     const filteredData = data;
-    console.log('Using raw data length:', filteredData.length);
-    
-    console.log('Checking if filteredData.length < 2...');
+
     if (filteredData.length < 2) {
-      console.warn('PriceChart: Not enough data points to render chart.', filteredData);
+      console.warn(
+        "PriceChart: Not enough data points to render chart.",
+        filteredData,
+      );
       return [];
     }
-    console.log('Data length check passed');
-    
-    console.log('Checking if chartWidth > 0 && chartHeight > 0...');
+
     if (!(chartWidth > 0 && chartHeight > 0)) {
-      console.warn('PriceChart: chartWidth or chartHeight is not positive.', chartWidth, chartHeight);
+      console.warn(
+        "PriceChart: chartWidth or chartHeight is not positive.",
+        chartWidth,
+        chartHeight,
+      );
       return [];
     }
-    console.log('Chart dimensions check passed');
 
     // Sort data by date (oldest to newest)
-    console.log('Starting data sorting...');
-    const sortedData = [...filteredData].sort((a, b) => new Date(a.REF_DATE).getTime() - new Date(b.REF_DATE).getTime());
-    console.log('Sorted data length:', sortedData.length);
-    
+    const sortedData = [...filteredData].sort(
+      (a, b) => new Date(a.REF_DATE).getTime() - new Date(b.REF_DATE).getTime(),
+    );
+
     // Use full SVG width (chartWidth) without any x-axis offset
     const xScale = chartWidth / (sortedData.length - 1);
-    const minPrice = Math.min(...sortedData.map(d => d.VALUE));
-    const maxPrice = Math.max(...sortedData.map(d => d.VALUE));
+    const minPrice = Math.min(...sortedData.map((d) => d.VALUE));
+    const maxPrice = Math.max(...sortedData.map((d) => d.VALUE));
     const priceRange = maxPrice - minPrice;
     const yScale = priceRange > 0 ? chartHeight / priceRange : 1;
-    
-    console.log('Scale calculations:', { xScale, minPrice, maxPrice, priceRange, yScale, chartWidth });
 
     // Map data to chart coordinates - use full SVG width from 0 to chartWidth
-    console.log('Starting coordinate mapping...');
     const result = sortedData.map((point, index) => ({
       ...point,
       x: index * xScale, // Start from 0, use full SVG width
-      y: margin.top + chartHeight - ((point.VALUE - minPrice) * yScale)
+      y: margin.top + chartHeight - (point.VALUE - minPrice) * yScale,
     }));
-    
-    console.log('Final processed data length:', result.length);
-    console.log('=== processData END ===');
+
     return result;
   }
 
   // Generates the SVG path for the line chart
   // Returns: SVG path string
   function generatePath(): string {
-    if (chartData.length === 0) return '';
+    if (chartData.length === 0) return "";
 
     // Use the actual container width for the chart line
     const actualWidth = chartContainer ? chartContainer.clientWidth : width;
-    console.log('Chart line dimensions:', { width, chartWidth, actualWidth });
-    
-    const points = chartData.map(point => `${point.x},${point.y}`);
-    return `M ${points.join(' L ')}`;
+    console.log("Chart line dimensions:", { width, chartWidth, actualWidth });
+
+    const points = chartData.map((point) => `${point.x},${point.y}`);
+    return `M ${points.join(" L ")}`;
   }
 
   // Generates the SVG path for the gradient fill area
   // Returns: SVG path string
   function generateFillPath(): string {
-    if (chartData.length === 0) return '';
+    if (chartData.length === 0) return "";
 
-    const points = chartData.map(point => `${point.x},${point.y}`);
+    const points = chartData.map((point) => `${point.x},${point.y}`);
     const firstPoint = chartData[0];
     const lastPoint = chartData[chartData.length - 1];
-    
+
     // Use the actual chart area height from the container
-    const actualChartHeight = chartContainer ? chartContainer.clientHeight : height;
-    console.log('Gradient dimensions:', { height, chartHeight, actualChartHeight, margin });
-    return `M ${firstPoint.x},${actualChartHeight} L ${points.join(' L ')} L ${lastPoint.x},${actualChartHeight} Z`;
+    const actualChartHeight = chartContainer
+      ? chartContainer.clientHeight
+      : height;
+    console.log("Gradient dimensions:", {
+      height,
+      chartHeight,
+      actualChartHeight,
+      margin,
+    });
+    return `M ${firstPoint.x},${actualChartHeight} L ${points.join(" L ")} L ${lastPoint.x},${actualChartHeight} Z`;
   }
 
   // Handles mouse move events to show tooltip
@@ -190,8 +171,8 @@
     if (chartData.length === 0) return;
 
     const rect = chartContainer.getBoundingClientRect();
-    const mouseX = event.clientX - rect.left;
-    
+    const mouseX = event.clientX - (rect.left + 50);
+
     // Find the closest data point
     const closestPoint = chartData.reduce((closest, point) => {
       const distance = Math.abs(point.x - mouseX);
@@ -202,15 +183,17 @@
     tooltipX = event.clientX - rect.left;
     tooltipY = event.clientY - rect.top - 40;
     tooltipVisible = true;
-    
+
     // Update tooltip content
     tooltipDate = formatDate(closestPoint.REF_DATE);
     tooltipValue = `$${closestPoint.VALUE.toFixed(2)}`;
+    activePoint = closestPoint;
   }
 
   // Handles mouse leave events to hide tooltip
   function handleMouseLeave(): void {
     tooltipVisible = false;
+    activePoint = null;
   }
 
   // Formats a date string to a readable format
@@ -219,33 +202,39 @@
   // Returns: Formatted date string
   function formatDate(dateString: string): string {
     const date = new Date(dateString);
-    return date.toLocaleDateString('en-CA', { year: 'numeric', month: 'short' });
+    return date.toLocaleDateString("en-CA", {
+      year: "numeric",
+      month: "short",
+    });
   }
 
   // Generate grid lines
-  $: gridLines = chartData.length > 0 ? (() => {
-    const lines = [];
-    const numLines = 5;
-    
-    for (let i = 0; i <= numLines; i++) {
-      const y = margin.top + (i * chartHeight / numLines);
-      lines.push({
-        x1: 0, // Start from left edge of SVG
-        y1: y,
-        x2: chartWidth, // End at right edge of SVG
-        y2: y
-      });
-    }
-    
-    return lines;
-  })() : [];
+  $: gridLines =
+    chartData.length > 0
+      ? (() => {
+          const lines = [];
+          const numLines = 5;
+
+          for (let i = 0; i <= numLines; i++) {
+            const y = margin.top + (i * chartHeight) / numLines;
+            lines.push({
+              x1: 0, // Start from left edge of SVG
+              y1: y,
+              x2: chartWidth, // End at right edge of SVG
+              y2: y,
+            });
+          }
+
+          return lines;
+        })()
+      : [];
 
   // Lifecycle hook that runs when the component mounts
   // Sets up the chart dimensions and handles window resize
   onMount(() => {
     // Chart is ready with fixed dimensions
-    console.log('PriceChart mounted with width:', width);
-    
+    console.log("PriceChart mounted with width:", width);
+
     // Optional: Add resize listener for future responsive behavior
     // window.addEventListener('resize', () => {
     //   // Could update width here if needed
@@ -259,26 +248,34 @@
 
 <div class="chart-wrapper" bind:this={chartContainer}>
   <div class="chart-area">
-    <svg width={chartWidth} height={chartHeight} class="chart">
+    <svg
+      role="img"
+      width={chartWidth}
+      height={chartHeight}
+      class="chart"
+      on:mousemove={handleMouseMove}
+      on:mouseenter={handleMouseMove}
+      on:mouseleave={handleMouseLeave}
+    >
       {#if chartData.length > 0}
         <!-- Grid lines -->
         {#each gridLines as line}
-          <line 
-            x1={line.x1} 
-            y1={line.y1} 
-            x2={line.x2} 
-            y2={line.y2} 
-            stroke="#333" 
+          <line
+            x1={line.x1}
+            y1={line.y1}
+            x2={line.x2}
+            y2={line.y2}
+            stroke="#333"
             stroke-width="1"
             opacity="0.3"
           />
         {/each}
 
         <!-- Chart line -->
-        <path 
-          d={generatePath()} 
-          stroke="#00ff88" 
-          stroke-width="3" 
+        <path
+          d={generatePath()}
+          stroke="#00ff88"
+          stroke-width="3"
           fill="none"
           stroke-linecap="round"
           stroke-linejoin="round"
@@ -287,39 +284,46 @@
         <!-- Gradient fill underneath the line -->
         {#if generateFillPath()}
           <defs>
-            <linearGradient id="chartGradient" x1="0%" y1="0%" x2="0%" y2="100%">
+            <linearGradient
+              id="chartGradient"
+              x1="0%"
+              y1="0%"
+              x2="0%"
+              y2="100%"
+            >
               <stop offset="0%" style="stop-color:#00ff88;stop-opacity:0.3" />
-              <stop offset="100%" style="stop-color:#00ff88;stop-opacity:0.05" />
+              <stop
+                offset="100%"
+                style="stop-color:#00ff88;stop-opacity:0.05"
+              />
             </linearGradient>
           </defs>
-          <path 
+          <path
             d={generateFillPath()}
             fill="url(#chartGradient)"
             stroke="none"
           />
         {/if}
 
-        <!-- Data points -->
-        {#each chartData as point}
-          <circle 
-            cx={point.x} 
-            cy={point.y} 
-            r="4" 
+        {#if tooltipVisible && activePoint}
+          <circle
+            cx={activePoint.x}
+            cy={activePoint.y}
+            r="6"
             fill="#00ff88"
-            stroke="#1a1a1a"
+            stroke="#fff"
             stroke-width="2"
-            on:mouseover={(e) => handleMouseMove(e)}
-            on:mouseout={handleMouseLeave}
+            style="pointer-events: none;"
           />
-        {/each}
+        {/if}
       {/if}
     </svg>
-    
+
     <!-- Y-axis labels as overlay -->
     {#if chartData.length > 0}
       <div class="y-axis-labels-overlay">
         {#each Array.from({ length: 5 }, (_, i) => {
-          const value = Math.max(...chartData.map(d => d.VALUE)) - (i * (Math.max(...chartData.map(d => d.VALUE)) - Math.min(...chartData.map(d => d.VALUE))) / 4);
+          const value = Math.max(...chartData.map((d) => d.VALUE)) - (i * (Math.max(...chartData.map((d) => d.VALUE)) - Math.min(...chartData.map((d) => d.VALUE)))) / 4;
           return { i, value };
         }) as item}
           <div class="y-label-overlay">{`$${item.value.toFixed(2)}`}</div>
@@ -336,7 +340,7 @@
       {/each}
     </div>
   {/if}
-  
+
   {#if chartData.length === 0}
     <div class="no-data">
       <p>No data available for chart</p>
@@ -344,7 +348,7 @@
   {/if}
 
   {#if tooltipVisible}
-    <div class="tooltip" style="left: {tooltipX}px; top: {tooltipY}px;">
+    <div class="tooltip tooltip-top-right">
       <div><strong>{tooltipValue}</strong></div>
       <div>{tooltipDate}</div>
     </div>
@@ -393,17 +397,25 @@
   .tooltip {
     position: absolute;
     pointer-events: none;
-    background: #222;
+    background: #222a;
     color: #fff;
     border-radius: 6px;
     padding: 8px 12px;
     font-size: 0.95rem;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
     border: 1px solid #00ff88;
     z-index: 10;
     min-width: 90px;
     text-align: center;
     white-space: nowrap;
+  }
+
+  .tooltip-top-right {
+    left: auto !important;
+    right: 10px;
+    top: 10px;
+    bottom: auto;
+    transform: none !important;
   }
 
   .y-axis-labels-overlay {
@@ -445,4 +457,4 @@
       max-width: 100%;
     }
   }
-</style> 
+</style>
