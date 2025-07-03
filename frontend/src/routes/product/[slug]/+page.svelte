@@ -88,6 +88,41 @@
   // Base URL for the API endpoints
   const API_BASE = "http://localhost:3000/api/statcan";
 
+  // --- REGION FILTER STATE (copied from home page, with persistence) ---
+  let geoValues: string[] = [];
+  let selectedGeo: string = "Canada";
+
+  // Fetches all available geographic locations from the API
+  async function fetchGeoValues(): Promise<string[]> {
+    try {
+      const response = await fetch(`${API_BASE}/debug`);
+      const data = await response.json();
+      return data.geoValues || [];
+    } catch (err) {
+      console.error("❌ Error fetching geo values:", err);
+      return ["Canada"]; // Fallback to Canada if API fails
+    }
+  }
+
+  // Handles geographic location change events
+  async function handleGeoChange(event: Event): Promise<void> {
+    const target = event.target as HTMLSelectElement;
+    selectedGeo = target.value;
+    geo = selectedGeo;
+    localStorage.setItem("selectedGeo", selectedGeo);
+    await loadProductData();
+  }
+
+  // On mount, fetch geo values and load product data for the initial geo
+  onMount(async () => {
+    geoValues = await fetchGeoValues();
+    // Try to load from localStorage, fallback to 'Canada'
+    const storedGeo = localStorage.getItem("selectedGeo");
+    selectedGeo = storedGeo || "Canada";
+    geo = selectedGeo;
+    await loadProductData();
+  });
+
   // Helper function to calculate standard deviation
   // Parameters:
   //   values - Array of numeric values
@@ -234,12 +269,6 @@
     }
   }
 
-  // Lifecycle hook that runs when the component mounts
-  // Initializes the page by loading product data
-  onMount(() => {
-    loadProductData();
-  });
-
   // Helper function to format currency
   function formatCurrency(value: number): string {
     return `$${value.toFixed(2)}`;
@@ -269,13 +298,31 @@
   />
 </svelte:head>
 
-<main class="container">
-  <header class="header">
-    <button class="back-btn" on:click={() => history.back()}
-      >← Back to Dashboard</button
+<header class="top-bar">
+  <div class="top-bar-title">
+    <button
+      class="back-btn"
+      on:click={() => history.back()}
+      style="margin-right: 16px;">← Back</button
     >
-  </header>
-
+    <h1>Canadian Grocery Index</h1>
+  </div>
+  <div class="controls">
+    <div class="geo-filter">
+      <label for="geo-select">Region:</label>
+      <select
+        id="geo-select"
+        bind:value={selectedGeo}
+        on:change={handleGeoChange}
+      >
+        {#each geoValues as geoOpt}
+          <option value={geoOpt}>{geoOpt}</option>
+        {/each}
+      </select>
+    </div>
+  </div>
+</header>
+<main class="container">
   {#if loading}
     <LoadingSpinner />
   {:else if error}
@@ -426,27 +473,71 @@
     min-height: 100vh;
   }
 
-  .header {
+  .top-bar {
+    position: sticky;
+    top: 0;
+    left: 0;
+    right: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 32px;
+    height: 70px;
+    background: #181818;
+    margin-bottom: 40px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
+    z-index: 100;
+    border-radius: 0;
+  }
+  .top-bar::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    height: 2px;
+    width: 100vw;
+    background: linear-gradient(45deg, #00ff88, #00ccff);
+    pointer-events: none;
+    z-index: 101;
+  }
+  .top-bar-title {
     display: flex;
     align-items: center;
+    gap: 10px;
+  }
+  .top-bar-title h1 {
+    font-size: 2rem;
+    margin: 0;
+    background: linear-gradient(45deg, #00ff88, #00ccff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+  .controls {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
     gap: 20px;
-    margin-bottom: 30px;
+    flex-wrap: wrap;
   }
-
-  .back-btn {
-    padding: 8px 16px;
-    background: #333;
-    border: 1px solid #555;
+  .geo-filter {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+  .geo-filter label {
+    font-weight: 500;
+    color: #ccc;
+  }
+  .geo-filter select {
+    padding: 8px 12px;
+    border: 1px solid #333;
     border-radius: 6px;
+    background: #1a1a1a;
     color: #fff;
-    cursor: pointer;
     font-size: 14px;
-    transition: all 0.3s ease;
-  }
-
-  .back-btn:hover {
-    background: #444;
-    border-color: #666;
   }
 
   .product-header {
@@ -680,9 +771,19 @@
       grid-template-columns: repeat(2, 1fr);
     }
 
-    .header {
+    .top-bar {
       flex-direction: column;
-      align-items: flex-start;
+      align-items: stretch;
+      height: auto;
+      padding: 12px 10px;
+      gap: 10px;
+    }
+    .top-bar-title h1 {
+      font-size: 1.5rem;
+      text-align: center;
+    }
+    .controls {
+      justify-content: center;
       gap: 15px;
     }
   }

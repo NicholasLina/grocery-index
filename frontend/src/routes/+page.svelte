@@ -211,6 +211,7 @@
   async function handleGeoChange(event: Event): Promise<void> {
     const target = event.target as HTMLSelectElement;
     selectedGeo = target.value;
+    localStorage.setItem("selectedGeo", selectedGeo);
     await loadPriceChanges();
   }
 
@@ -218,6 +219,9 @@
   // Initializes the page by loading geographic locations and price data
   onMount(async () => {
     geoValues = await fetchGeoValues();
+    // Try to load from localStorage, fallback to 'Canada'
+    const storedGeo = localStorage.getItem("selectedGeo");
+    selectedGeo = storedGeo || "Canada";
     await loadPriceChanges();
   });
 </script>
