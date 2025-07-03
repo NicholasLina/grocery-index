@@ -323,6 +323,51 @@
     name="description"
     content="Detailed price history and statistics for {productName}"
   />
+
+  <!-- Open Graph -->
+  <meta property="og:title" content="{mainTitle} - Canadian Grocery Index" />
+  <meta
+    property="og:description"
+    content="Detailed price history and statistics for {mainTitle} in {geo}"
+  />
+  <meta property="og:type" content="product" />
+  <meta
+    property="og:url"
+    content={`https://groceryindex.nicklina.com/product/${productSlug}`}
+  />
+  <!-- <meta property="og:image" content="URL_TO_IMAGE" /> -->
+
+  <!-- Twitter Card -->
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:title" content="{mainTitle} - Canadian Grocery Index" />
+  <meta
+    name="twitter:description"
+    content="Detailed price history and statistics for {mainTitle} in {geo}"
+  />
+  <!-- <meta name="twitter:image" content="URL_TO_IMAGE" /> -->
+
+  <!-- Canonical -->
+  <link
+    rel="canonical"
+    href={`https://groceryindex.nicklina.com/product/${productSlug}`}
+  />
+
+  <!-- Structured Data (JSON-LD) -->
+  {#if productStats}
+    <script type="application/ld+json">
+      {JSON.stringify({
+        "@context": "https://schema.org/",
+        "@type": "Product",
+        name: mainTitle,
+        description: `Detailed price history and statistics for ${mainTitle} in ${geo}`,
+        offers: {
+          "@type": "Offer",
+          price: productStats.currentPrice,
+          priceCurrency: "CAD"
+        }
+      })}
+    </script>
+  {/if}
 </svelte:head>
 
 <header class="top-bar">
