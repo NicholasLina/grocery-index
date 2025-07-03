@@ -57,7 +57,8 @@
     $: formattedTitle = formatProductTitle(streak.product);
     $: mainTitle = formattedTitle.mainTitle;
     $: subtitle = formattedTitle.subtitle;
-    $: streakColor = streak.streakType === "increase" ? "#00ff88" : "#ff4444";
+    $: streakColor = streak.streakType === "increase" ? "#ff4444" : "#00ff88";
+    $: chartColor = streak.streakType === "increase" ? "#ff4444" : "#00ff88";
     $: streakLabel =
         streak.streakType === "increase"
             ? "Consecutive Increases"
@@ -130,11 +131,11 @@
                     >
                         <stop
                             offset="0%"
-                            style="stop-color:{streakColor};stop-opacity:0.3"
+                            style="stop-color:{chartColor};stop-opacity:0.3"
                         />
                         <stop
                             offset="100%"
-                            style="stop-color:{streakColor};stop-opacity:0.05"
+                            style="stop-color:{chartColor};stop-opacity:0.05"
                         />
                     </linearGradient>
                 </defs>
@@ -147,7 +148,7 @@
                 />
                 <path
                     d={miniChart.pathData}
-                    stroke={streakColor}
+                    stroke={chartColor}
                     stroke-width="2"
                     fill="none"
                     stroke-linecap="round"
@@ -157,7 +158,7 @@
         {/if}
     </div>
     <div class="streak-info">
-        <span class="streak-length" style="color: {streakColor}"
+        <span class="streak-length" style="color: {chartColor}"
             >{streak.streakLength}</span
         >
         <span class="streak-label">{streakLabel}</span>

@@ -438,7 +438,7 @@
     padding: 8px 12px;
     font-size: 0.95rem;
     box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
-    border: 1px solid #00ff88;
+    border: 1px solid #fff;
     z-index: 10;
     min-width: 90px;
     text-align: center;
