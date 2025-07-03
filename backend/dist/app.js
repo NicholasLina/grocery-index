@@ -16,12 +16,27 @@ const express_1 = __importDefault(require("express"));
 const mongoose_1 = __importDefault(require("mongoose"));
 const cors_1 = __importDefault(require("cors"));
 const statcan_1 = __importDefault(require("./routes/statcan"));
+const dotenv_1 = __importDefault(require("dotenv"));
+const helmet_1 = __importDefault(require("helmet"));
+const morgan_1 = __importDefault(require("morgan"));
 /** Express application instance */
 const app = (0, express_1.default)();
+// Load environment variables
+dotenv_1.default.config();
+// Use helmet for security headers
+app.use((0, helmet_1.default)());
+// Use morgan for logging
+app.use((0, morgan_1.default)(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'));
 /** Port number for the server (defaults to 3000) */
 const PORT = process.env.PORT || 3000;
 // Middleware configuration
-app.use((0, cors_1.default)()); // Enable CORS for all routes
+const allowedOrigins = [
+    'https://groceryindex.nicklina.com'
+];
+app.use((0, cors_1.default)({
+    origin: allowedOrigins,
+    credentials: true
+}));
 app.use(express_1.default.json()); // Parse JSON request bodies
 /**
  * MongoDB connection configuration
@@ -35,6 +50,18 @@ mongoose_1.default.connect('mongodb://localhost:27017/statcan', {
     .catch(err => console.error('❌ MongoDB connection error:', err));
 // API Routes
 app.use('/api/statcan', statcan_1.default);
+// Health check endpoint
+app.get('/health', (req, res) => res.send('OK'));
+// Centralized error handler
+app.use((err, req, res, next) => {
+    console.error(err);
+    if (process.env.NODE_ENV === 'production') {
+        res.status(500).json({ error: 'Internal Server Error' });
+    }
+    else {
+        res.status(500).json({ error: err.message, stack: err.stack });
+    }
+});
 /**
  * Start the Express server
  * Logs the port number when the server starts successfully
