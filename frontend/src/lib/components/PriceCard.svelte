@@ -24,9 +24,9 @@
 -->
 
 <script lang="ts">
-  import { createEventDispatcher } from 'svelte';
-  import { format } from 'date-fns';
-  import { goto } from '$app/navigation';
+  import { createEventDispatcher } from "svelte";
+  import { format } from "date-fns";
+  import { goto } from "$app/navigation";
 
   // Props interface for the PriceCard component
   export let product: {
@@ -50,25 +50,42 @@
   // Parameters:
   //   productName - Raw product name from API
   // Returns: Object with mainTitle and subtitle
-  function formatProductTitle(productName: string): { mainTitle: string; subtitle: string } {
+  function formatProductTitle(productName: string): {
+    mainTitle: string;
+    subtitle: string;
+  } {
     // Handle undefined or null product names
-    if (!productName || typeof productName !== 'string') {
+    if (!productName || typeof productName !== "string") {
       return {
-        mainTitle: 'Unknown Product',
-        subtitle: ''
+        mainTitle: "Unknown Product",
+        subtitle: "",
       };
     }
 
-    const parts = productName.split(',');
+    const parts = productName.split(",");
     if (parts.length > 1) {
       return {
-        mainTitle: parts[0].trim().split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' '),
-        subtitle: parts.slice(1).join(',').trim()
+        mainTitle: parts[0]
+          .trim()
+          .split(" ")
+          .map(
+            (word) =>
+              word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
+          )
+          .join(" "),
+        subtitle: parts.slice(1).join(",").trim(),
       };
     } else {
       return {
-        mainTitle: productName.trim().split(' ').map(word => word.charAt(0).toUpperCase() + word.slice(1).toLowerCase()).join(' '),
-        subtitle: ''
+        mainTitle: productName
+          .trim()
+          .split(" ")
+          .map(
+            (word) =>
+              word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
+          )
+          .join(" "),
+        subtitle: "",
       };
     }
   }
@@ -80,40 +97,44 @@
   function createMiniChart(data: any[]): any {
     // Handle undefined or null data
     if (!data || !Array.isArray(data) || data.length < 2) return null;
-    
+
     // Sort data by date (oldest to newest)
-    const sortedData = data.sort((a, b) => new Date(a.REF_DATE).getTime() - new Date(b.REF_DATE).getTime());
-    
+    const sortedData = data.sort(
+      (a, b) => new Date(a.REF_DATE).getTime() - new Date(b.REF_DATE).getTime(),
+    );
+
     // Take the last 12 data points for the mini chart
     const chartData = sortedData.slice(-12);
-    const values = chartData.map(d => d.VALUE);
+    const values = chartData.map((d) => d.VALUE);
     const minValue = Math.min(...values);
     const maxValue = Math.max(...values);
     const valueRange = maxValue - minValue;
-    
+
     // Chart dimensions - full width, no padding
     const width = 280;
     const height = 50;
-    
+
     // Calculate x positions to span full width
     const xStep = width / (chartData.length - 1);
     const yScale = height / valueRange;
-    
+
     const points = chartData.map((d, i) => ({
       x: i * xStep, // This ensures first point is at x=0 and last point is at x=width
       y: height - (d.VALUE - minValue) * yScale,
-      value: d.VALUE
+      value: d.VALUE,
     }));
-    
-    const pathData = points.length > 1 
-      ? `M ${points.map(p => `${p.x},${p.y}`).join(' L ')}`
-      : '';
-    
+
+    const pathData =
+      points.length > 1
+        ? `M ${points.map((p) => `${p.x},${p.y}`).join(" L ")}`
+        : "";
+
     // Create area path for gradient fill - extend to full width
-    const areaPathData = points.length > 1 
-      ? `M 0,${height} L ${points.map(p => `${p.x},${p.y}`).join(' L ')} L ${width},${height} Z`
-      : '';
-    
+    const areaPathData =
+      points.length > 1
+        ? `M 0,${height} L ${points.map((p) => `${p.x},${p.y}`).join(" L ")} L ${width},${height} Z`
+        : "";
+
     return { pathData, areaPathData, points, minValue, maxValue };
   }
 
@@ -123,21 +144,23 @@
   // Whether the price change is negative (decrease)
   $: isNegative = product?.changePercent < 0;
   // Color for price change indicators (red for increases, green for decreases)
-  $: changeColor = isPositive ? '#ff4444' : isNegative ? '#00ff88' : '#888';
+  $: changeColor = isPositive ? "#ff4444" : isNegative ? "#00ff88" : "#888";
   // Formatted product title with main title and subtitle
-  $: formattedTitle = formatProductTitle(product?.product || '');
+  $: formattedTitle = formatProductTitle(product?.product || "");
   // Main product title (capitalized)
   $: mainTitle = formattedTitle.mainTitle;
   // Product subtitle (if any)
   $: subtitle = formattedTitle.subtitle;
   // Mini-chart data for the price history visualization
   $: miniChart = createMiniChart(product?.data || []);
-  
-  // Debug: Log the color for this product
-  $: console.log(`Product: ${product?.product || 'Unknown'}, Change: ${product?.changePercent || 0}%, Color: ${changeColor}`);
 </script>
 
-<a class="price-card" href={`/product/${encodeURIComponent(product.product + '|' + product.geo)}`} tabindex="0" style="--change-color: {changeColor}">
+<a
+  class="price-card"
+  href={`/product/${encodeURIComponent(product.product + "|" + product.geo)}`}
+  tabindex="0"
+  style="--change-color: {changeColor}"
+>
   <div class="card-header">
     <div class="product-info">
       <h3 class="product-name">{mainTitle}</h3>
@@ -145,63 +168,73 @@
         <p class="product-subtitle">{subtitle}</p>
       {/if}
     </div>
-    <span class="location">{product?.geo || 'Unknown Location'}</span>
+    <span class="location">{product?.geo || "Unknown Location"}</span>
   </div>
-  
+
   <!-- Mini Chart -->
   {#if miniChart}
     <div class="mini-chart-container">
-      <svg class="mini-chart" viewBox="0 0 280 50" preserveAspectRatio="xMidYMid meet">
+      <svg
+        class="mini-chart"
+        viewBox="0 0 280 50"
+        preserveAspectRatio="xMidYMid meet"
+      >
         <defs>
-          <linearGradient id="chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')}" x1="0%" y1="0%" x2="0%" y2="100%">
-            <stop offset="0%" style="stop-color:{changeColor};stop-opacity:0.3" />
-            <stop offset="100%" style="stop-color:{changeColor};stop-opacity:0.05" />
+          <linearGradient
+            id="chartGradient-{(product?.product || 'unknown').replace(
+              /\s+/g,
+              '-',
+            )}"
+            x1="0%"
+            y1="0%"
+            x2="0%"
+            y2="100%"
+          >
+            <stop
+              offset="0%"
+              style="stop-color:{changeColor};stop-opacity:0.3"
+            />
+            <stop
+              offset="100%"
+              style="stop-color:{changeColor};stop-opacity:0.05"
+            />
           </linearGradient>
         </defs>
-        
-        <!-- Gradient fill area -->
-        <path 
-          d={miniChart.areaPathData} 
-          fill="url(#chartGradient-{(product?.product || 'unknown').replace(/\s+/g, '-')})"
+        <path
+          d={miniChart.areaPathData}
+          fill="url(#chartGradient-{(product?.product || 'unknown').replace(
+            /\s+/g,
+            '-',
+          )})"
           stroke="none"
         />
-        
-        <!-- Line chart -->
-        <path 
-          d={miniChart.pathData} 
+        <path
+          d={miniChart.pathData}
           stroke={changeColor}
-          stroke-width="2" 
+          stroke-width="2"
           fill="none"
           stroke-linecap="round"
           stroke-linejoin="round"
         />
-        
-        <!-- Data points -->
-        {#each miniChart.points as point}
-          <circle 
-            cx={point.x} 
-            cy={point.y} 
-            r="1.5" 
-            fill={changeColor}
-            stroke="none"
-          />
-        {/each}
       </svg>
     </div>
   {/if}
-  
+
   <div class="price-info">
     <div class="current-price">
       <span class="currency">$</span>
-      <span class="amount">{product?.currentPrice?.toFixed(2) || '0.00'}</span>
+      <span class="amount">{product?.currentPrice?.toFixed(2) || "0.00"}</span>
       <span class="price-change" style="color: {changeColor}">
-        {product?.change > 0 ? '+' : ''}{product?.change?.toFixed(2) || '0.00'} ({product?.changePercent > 0 ? '+' : ''}{product?.changePercent?.toFixed(1) || '0.0'}%)
+        {product?.change > 0 ? "+" : ""}{product?.change?.toFixed(2) || "0.00"} ({product?.changePercent >
+        0
+          ? "+"
+          : ""}{product?.changePercent?.toFixed(1) || "0.0"}%)
       </span>
     </div>
   </div>
-  
+
   <div class="previous-price">
-    Previous: ${product?.previousPrice?.toFixed(2) || '0.00'}
+    Previous: ${product?.previousPrice?.toFixed(2) || "0.00"}
   </div>
 </a>
 
@@ -219,7 +252,7 @@
   }
 
   .price-card::before {
-    content: '';
+    content: "";
     position: absolute;
     top: 0;
     left: 0;
@@ -282,7 +315,6 @@
     display: flex;
     justify-content: flex-start;
     align-items: baseline;
-    margin-bottom: 8px;
   }
 
   .current-price {
@@ -317,19 +349,9 @@
   }
 
   .mini-chart-container {
-    display: flex;
-    justify-content: center;
-    margin: 15px 0;
-    padding: 10px;
-    background: rgba(0, 0, 0, 0.2);
-    border-radius: 8px;
     width: 100%;
-  }
-
-  .mini-chart {
-    background: transparent;
-    width: 100%;
-    height: 50px;
+    height: 60px;
+    margin: 0 0 8px 0;
   }
 
   @media (max-width: 768px) {
@@ -358,4 +380,4 @@
       padding: 8px;
     }
   }
-</style> 
+</style>

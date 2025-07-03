@@ -1,10 +1,11 @@
 <!-- Main Dashboard Page - Canadian Grocery Index -->
 
 <script lang="ts">
-  import { onMount } from 'svelte';
-  import { format, subMonths } from 'date-fns';
-  import PriceCard from '$lib/components/PriceCard.svelte';
-  import LoadingSpinner from '$lib/components/LoadingSpinner.svelte';
+  import { onMount } from "svelte";
+  import { format, subMonths } from "date-fns";
+  import PriceCard from "$lib/components/PriceCard.svelte";
+  import LoadingSpinner from "$lib/components/LoadingSpinner.svelte";
+  import StreakCard from "$lib/components/StreakCard.svelte";
 
   // Interface representing a single price data point from the API
   interface PriceData {
@@ -46,18 +47,20 @@
   // Array of available geographic locations
   let geoValues: string[] = [];
   // Currently selected geographic location
-  let selectedGeo: string = 'Canada';
+  let selectedGeo: string = "Canada";
   // Top 3 products with highest price increases
   let topGainers: ProductChange[] = [];
   // Top 3 products with highest price decreases
   let topLosers: ProductChange[] = [];
+  // Top 3 products with longest current streaks
+  let streaks: any[] = [];
   // Loading state indicator
   let loading = true;
   // Error message if data loading fails
-  let error = '';
+  let error = "";
 
   // Base URL for the API endpoints
-  const API_BASE = 'http://localhost:3000/api/statcan';
+  const API_BASE = "http://localhost:3000/api/statcan";
 
   // Fetches all available product names from the API
   // Returns: Array of product names
@@ -65,11 +68,9 @@
     try {
       const response = await fetch(`${API_BASE}/products`);
       const data = await response.json();
-      console.log('🔍 Products API response:', data);
-      console.log('🔍 Products found:', data.products?.length || 0);
       return data.products;
     } catch (err) {
-      console.error('❌ Error fetching products:', err);
+      console.error("❌ Error fetching products:", err);
       return [];
     }
   }
@@ -80,12 +81,10 @@
     try {
       const response = await fetch(`${API_BASE}/debug`);
       const data = await response.json();
-      console.log('🔍 Geo values API response:', data);
-      console.log('🔍 Geo values found:', data.geoValues);
       return data.geoValues || [];
     } catch (err) {
-      console.error('❌ Error fetching geo values:', err);
-      return ['Canada']; // Fallback to Canada if API fails
+      console.error("❌ Error fetching geo values:", err);
+      return ["Canada"]; // Fallback to Canada if API fails
     }
   }
 
@@ -94,11 +93,15 @@
   //   product - Product name to fetch data for
   //   geo - Geographic location to fetch data for
   // Returns: Array of price data points
-  async function fetchProductData(product: string, geo: string): Promise<PriceData[]> {
+  async function fetchProductData(
+    product: string,
+    geo: string,
+  ): Promise<PriceData[]> {
     try {
-      const response = await fetch(`${API_BASE}?geo=${encodeURIComponent(geo)}&product=${encodeURIComponent(product)}`);
+      const response = await fetch(
+        `${API_BASE}?geo=${encodeURIComponent(geo)}&product=${encodeURIComponent(product)}`,
+      );
       const data = await response.json();
-      console.log(`🔍 Product data for ${product} in ${geo}:`, data);
       return data;
     } catch (err) {
       console.error(`❌ Error fetching data for ${product}:`, err);
@@ -114,8 +117,10 @@
     if (data.length < 2) return null;
 
     // Sort by date to get most recent first
-    const sortedData = data.sort((a, b) => new Date(b.REF_DATE).getTime() - new Date(a.REF_DATE).getTime());
-    
+    const sortedData = data.sort(
+      (a, b) => new Date(b.REF_DATE).getTime() - new Date(a.REF_DATE).getTime(),
+    );
+
     const currentPrice = sortedData[0].VALUE;
     const previousPrice = sortedData[1].VALUE;
     const change = currentPrice - previousPrice;
@@ -128,7 +133,7 @@
       change,
       changePercent,
       geo: sortedData[0].GEO,
-      data: sortedData
+      data: sortedData,
     };
   }
 
@@ -136,20 +141,19 @@
   // Uses the optimized backend endpoint for fast retrieval
   async function loadPriceChanges(): Promise<void> {
     loading = true;
-    error = '';
-    
+    error = "";
+
     try {
-      console.log('🚀 Loading pre-calculated price changes for region:', selectedGeo);
-      
-      const response = await fetch(`http://localhost:3000/api/statcan/price-changes?geo=${encodeURIComponent(selectedGeo)}&limit=3`);
-      
+      const response = await fetch(
+        `http://localhost:3000/api/statcan/price-changes?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
+      );
+
       if (!response.ok) {
         throw new Error(`HTTP error! status: ${response.status}`);
       }
-      
+
       const data = await response.json();
-      console.log('📊 Pre-calculated price changes:', data);
-      
+
       // Map the backend data to our frontend format and fetch full data for charts
       const gainersWithData = await Promise.all(
         data.gainers.map(async (item: any) => {
@@ -162,11 +166,11 @@
             change: item.change,
             changePercent: item.changePercent,
             geo: item.geo,
-            data: fullData // Include full data for mini-chart
+            data: fullData, // Include full data for mini-chart
           };
-        })
+        }),
       );
-      
+
       const losersWithData = await Promise.all(
         data.losers.map(async (item: any) => {
           // Fetch full historical data for the mini-chart
@@ -178,20 +182,23 @@
             change: item.change,
             changePercent: item.changePercent,
             geo: item.geo,
-            data: fullData // Include full data for mini-chart
+            data: fullData, // Include full data for mini-chart
           };
-        })
+        }),
       );
-      
+
       topGainers = gainersWithData;
       topLosers = losersWithData;
-      
-      console.log('🏆 Top gainers with data:', topGainers);
-      console.log('🏆 Top losers with data:', topLosers);
-      
+
+      // Fetch streaks
+      const streaksRes = await fetch(
+        `http://localhost:3000/api/statcan/streaks?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
+      );
+      const streaksData = await streaksRes.json();
+      streaks = streaksData.streaks || [];
     } catch (err) {
-      error = 'Failed to load price data';
-      console.error('❌ Error loading price changes:', err);
+      error = "Failed to load price data";
+      console.error("❌ Error loading price changes:", err);
     } finally {
       loading = false;
     }
@@ -227,7 +234,11 @@
   <div class="controls">
     <div class="geo-filter">
       <label for="geo-select">Region:</label>
-      <select id="geo-select" bind:value={selectedGeo} on:change={handleGeoChange}>
+      <select
+        id="geo-select"
+        bind:value={selectedGeo}
+        on:change={handleGeoChange}
+      >
         {#each geoValues as geo}
           <option value={geo}>{geo}</option>
         {/each}
@@ -245,25 +256,38 @@
     </div>
   {:else}
     <div class="content">
-      <!-- Biggest Discounts Section -->
-      <section class="section">
-        <h2 class="section-title">Biggest Discounts</h2>
-        <div class="cards-grid">
-          {#each topLosers as product}
-            <PriceCard {product} />
-          {/each}
-        </div>
-      </section>
+      <!-- Arrange sections side by side on desktop/tablet -->
+      <div class="sections-row">
+        <!-- Biggest Discounts Section -->
+        <section class="section">
+          <h2 class="section-title">Biggest Discounts</h2>
+          <div class="cards-grid">
+            {#each topLosers as product}
+              <PriceCard {product} />
+            {/each}
+          </div>
+        </section>
 
-      <!-- Most Expensive Section -->
-      <section class="section">
-        <h2 class="section-title">Most Expensive</h2>
-        <div class="cards-grid">
-          {#each topGainers as product}
-            <PriceCard {product} />
-          {/each}
-        </div>
-      </section>
+        <!-- Most Expensive Section -->
+        <section class="section">
+          <h2 class="section-title">Most Expensive</h2>
+          <div class="cards-grid">
+            {#each topGainers as product}
+              <PriceCard {product} />
+            {/each}
+          </div>
+        </section>
+
+        <!-- Longest Streaks Section -->
+        <section class="section">
+          <h2 class="section-title">Long Trends</h2>
+          <div class="cards-grid">
+            {#each streaks as streak}
+              <StreakCard {streak} />
+            {/each}
+          </div>
+        </section>
+      </div>
     </div>
   {/if}
 </main>
@@ -282,14 +306,14 @@
     height: 70px;
     background: #181818;
     margin-bottom: 40px;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.12);
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.12);
     z-index: 100;
     border-radius: 0;
     position: sticky;
   }
 
   .top-bar::after {
-    content: '';
+    content: "";
     position: absolute;
     left: 0;
     right: 0;
@@ -311,10 +335,10 @@
   }
 
   .container {
-    max-width: 1200px;
+    max-width: min(90%, 1500px);
     margin: 0 auto;
     padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background: #0f0f0f;
     color: #ffffff;
     min-height: 100vh;
@@ -376,6 +400,17 @@
     gap: 40px;
   }
 
+  .sections-row {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+  }
+
+  .sections-row > .section {
+    flex: 1 1 0;
+    min-width: 0;
+  }
+
   .section {
     background: #1a1a1a;
     border-radius: 12px;
@@ -392,7 +427,7 @@
 
   .cards-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(350px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
     gap: 20px;
   }
 
@@ -425,6 +460,10 @@
   }
 
   @media (max-width: 768px) {
+    .sections-row {
+      flex-direction: column;
+      gap: 20px;
+    }
     .top-bar {
       flex-direction: column;
       align-items: stretch;
@@ -440,5 +479,11 @@
       justify-content: center;
       gap: 15px;
     }
+    .container {
+      padding: 0;
+    }
+    .section {
+      padding: 10px;
+    }
   }
-</style> 
+</style>

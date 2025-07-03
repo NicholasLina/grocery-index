@@ -60,15 +60,31 @@ const PriceChangeSchema = new mongoose.Schema({
   lastUpdated: { type: Date, default: Date.now },
 }, { collection: 'price_changes' });
 
-// Create compound index for efficient queries
-PriceChangeSchema.index({ geo: 1, changePercent: -1 });
-PriceChangeSchema.index({ product: 1, geo: 1 });
+/**
+ * MongoDB Schema for pre-calculated price streaks
+ *
+ * Stores the current streak (increase or decrease) for each product/region for fast retrieval.
+ */
+const PriceStreakSchema = new mongoose.Schema({
+  product: String,
+  geo: String,
+  streakLength: Number,
+  streakType: String, // 'increase' or 'decrease'
+  data: Array, // price history for the streak
+  lastUpdated: { type: Date, default: Date.now },
+}, { collection: 'price_streaks' });
+
+PriceStreakSchema.index({ geo: 1, streakLength: -1 });
+PriceStreakSchema.index({ product: 1, geo: 1 });
 
 /** Mongoose model for StatCan data */
 const StatCan = mongoose.model('StatCan', StatCanSchema);
 
 /** Mongoose model for pre-calculated price changes */
 const PriceChange = mongoose.model('PriceChange', PriceChangeSchema);
+
+/** Mongoose model for pre-calculated price streaks */
+const PriceStreak = mongoose.model('PriceStreak', PriceStreakSchema);
 
 /**
  * Service function to calculate and store price changes for all products in a region
@@ -138,6 +154,50 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
           },
           { upsert: true, new: true }
         );
+        
+        // --- Streak Calculation (new) ---
+        let currentStreak = 1;
+        let streakType = null;
+        let streakStartIdx = priceData.length - 1;
+        for (let i = priceData.length - 1; i > 0; i--) {
+          const diff = priceData[i].VALUE - priceData[i - 1].VALUE;
+          if (diff > 0) {
+            if (streakType === 'increase' || streakType === null) {
+              currentStreak++;
+              streakType = 'increase';
+              streakStartIdx = i - 1;
+            } else {
+              break;
+            }
+          } else if (diff < 0) {
+            if (streakType === 'decrease' || streakType === null) {
+              currentStreak++;
+              streakType = 'decrease';
+              streakStartIdx = i - 1;
+            } else {
+              break;
+            }
+          } else {
+            break;
+          }
+        }
+        if (currentStreak > 1 && streakType) {
+          await PriceStreak.findOneAndUpdate(
+            { product, geo },
+            {
+              product,
+              geo,
+              streakLength: currentStreak,
+              streakType,
+              data: priceData.slice(streakStartIdx),
+              lastUpdated: new Date()
+            },
+            { upsert: true, new: true }
+          );
+        } else {
+          // Remove streak if no current streak
+          await PriceStreak.deleteOne({ product, geo });
+        }
         
         processedCount++;
         
@@ -442,6 +502,34 @@ router.get('/debug', async (req: Request, res: Response) => {
   } catch (err) {
     console.error('❌ Debug error:', err);
     res.status(500).json({ error: 'Debug query failed', details: err });
+  }
+});
+
+/**
+ * GET /api/statcan/streaks - Get products with the longest current streaks of price increases or decreases
+ *
+ * Returns the top products in a region with the longest ongoing streaks of consecutive monthly price increases or decreases.
+ * Only products still in a streak (i.e., the most recent change continues the streak) are included.
+ *
+ * @param {string} req.query.geo - Geographic location (required)
+ * @param {number} [req.query.limit=3] - Number of top streaks to return
+ *
+ * @returns {Array} Array of streak objects: { product, geo, streakLength, streakType, data }
+ *
+ * @example
+ * GET /api/statcan/streaks?geo=Canada&limit=3
+ */
+router.get('/streaks', async (req: Request, res: Response) => {
+  const { geo, limit = 3 } = req.query;
+  if (!geo) {
+    return res.status(400).json({ error: 'Geographic location (geo) is required' });
+  }
+  try {
+    const streaks = await PriceStreak.find({ geo }).sort({ streakLength: -1 }).limit(Number(limit));
+    res.json({ geo, streaks });
+  } catch (err) {
+    console.error('❌ Streaks endpoint error:', err);
+    res.status(500).json({ error: 'Failed to fetch streaks', details: err });
   }
 });
 
