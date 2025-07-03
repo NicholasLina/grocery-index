@@ -98,46 +98,46 @@ const PriceStreak = mongoose.model('PriceStreak', PriceStreakSchema);
  */
 async function calculateAndStorePriceChanges(geo: string): Promise<number> {
   console.log(`🔄 Calculating price changes for ${geo}...`);
-  
+
   try {
     // Get all products for this geographic location
     const products = await StatCan.distinct('Products', { GEO: geo });
     console.log(`📦 Found ${products.length} products for ${geo}`);
-    
+
     let processedCount = 0;
-    
+
     // Process each product
     for (const product of products) {
       try {
         // Get all price data for this product in this region, sorted by date
-        const priceData = await StatCan.find({ 
-          GEO: geo, 
-          Products: product 
+        const priceData = await StatCan.find({
+          GEO: geo,
+          Products: product
         }).sort({ REF_DATE: 1 });
-        
+
         // Need at least 2 data points to calculate a change
         if (priceData.length < 2) {
           console.log(`⚠️ Insufficient data for ${product} in ${geo} (${priceData.length} points)`);
           continue;
         }
-        
+
         // Get the two most recent data points
         const current = priceData[priceData.length - 1];
         const previous = priceData[priceData.length - 2];
-        
+
         // Ensure we have valid numeric values
         const currentPrice = Number(current.VALUE);
         const previousPrice = Number(previous.VALUE);
-        
+
         if (isNaN(currentPrice) || isNaN(previousPrice)) {
           console.log(`⚠️ Invalid price data for ${product} in ${geo}`);
           continue;
         }
-        
+
         // Calculate changes
         const change = currentPrice - previousPrice;
         const changePercent = (change / previousPrice) * 100;
-        
+
         // Create or update the price change record
         await PriceChange.findOneAndUpdate(
           { product, geo },
@@ -154,7 +154,7 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
           },
           { upsert: true, new: true }
         );
-        
+
         // --- Streak Calculation (new) ---
         let currentStreak = 1;
         let streakType = null;
@@ -198,21 +198,21 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
           // Remove streak if no current streak
           await PriceStreak.deleteOne({ product, geo });
         }
-        
+
         processedCount++;
-        
+
         if (processedCount % 10 === 0) {
           console.log(`✅ Processed ${processedCount}/${products.length} products for ${geo}`);
         }
-        
+
       } catch (err) {
         console.error(`❌ Error processing ${product} in ${geo}:`, err);
       }
     }
-    
+
     console.log(`✅ Completed price change calculation for ${geo}: ${processedCount} products processed`);
     return processedCount;
-    
+
   } catch (err) {
     console.error(`❌ Error calculating price changes for ${geo}:`, err);
     throw err;
@@ -238,28 +238,28 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
  */
 router.get('/price-changes', async (req: Request, res: Response) => {
   const { geo, limit = 3 } = req.query;
-  
+
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
   }
-  
+
   try {
     console.log(`📊 Fetching price changes for ${geo} (limit: ${limit})`);
-    
+
     // Get top gainers (positive percentage changes)
     const gainers = await PriceChange.find({ geo })
       .where('changePercent').gt(0)
       .sort({ changePercent: -1 })
       .limit(Number(limit));
-    
+
     // Get top losers (negative percentage changes)
     const losers = await PriceChange.find({ geo })
       .where('changePercent').lt(0)
       .sort({ changePercent: 1 })
       .limit(Number(limit));
-    
+
     console.log(`✅ Found ${gainers.length} gainers and ${losers.length} losers for ${geo}`);
-    
+
     res.json({
       geo,
       gainers,
@@ -267,7 +267,7 @@ router.get('/price-changes', async (req: Request, res: Response) => {
       totalGainers: gainers.length,
       totalLosers: losers.length
     });
-    
+
   } catch (err) {
     console.error('❌ Price changes endpoint error:', err);
     res.status(500).json({ error: 'Failed to fetch price changes', details: err });
@@ -293,22 +293,22 @@ router.get('/price-changes', async (req: Request, res: Response) => {
  */
 router.post('/calculate-changes', async (req: Request, res: Response) => {
   const { geo } = req.body;
-  
+
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
   }
-  
+
   try {
     console.log(`🚀 Starting price change calculation for ${geo}...`);
     const processedCount = await calculateAndStorePriceChanges(geo);
-    
+
     res.json({
       success: true,
       geo,
       processedCount,
       message: `Successfully processed ${processedCount} products for ${geo}`
     });
-    
+
   } catch (err) {
     console.error('❌ Calculate changes error:', err);
     res.status(500).json({ error: 'Failed to calculate price changes', details: err });
@@ -332,14 +332,14 @@ router.post('/calculate-changes', async (req: Request, res: Response) => {
 router.get('/calculate-all', async (req: Request, res: Response) => {
   try {
     console.log('🚀 Starting price change calculation for all regions...');
-    
+
     // Get all available geographic locations
     const geoValues = await StatCan.distinct('GEO');
     console.log(`🌍 Found ${geoValues.length} geographic locations:`, geoValues);
-    
+
     const results = [];
     let totalProcessed = 0;
-    
+
     // Process each region
     for (const geo of geoValues) {
       try {
@@ -351,16 +351,16 @@ router.get('/calculate-all', async (req: Request, res: Response) => {
         results.push({ geo, processedCount: 0, success: false, error: (err as Error).message });
       }
     }
-    
+
     console.log(`✅ Completed all calculations: ${totalProcessed} total products processed`);
-    
+
     res.json({
       success: true,
       totalProcessed,
       totalRegions: geoValues.length,
       results
     });
-    
+
   } catch (err) {
     console.error('❌ Calculate all error:', err);
     res.status(500).json({ error: 'Failed to calculate all price changes', details: err });
@@ -390,7 +390,7 @@ router.get('/calculate-all', async (req: Request, res: Response) => {
  */
 router.get('/', async (req: Request, res: Response) => {
   const { date, geo, product, limit = 100 } = req.query;
-  
+
   /** Query object for MongoDB */
   const query: any = {};
   if (date) query.REF_DATE = date;
@@ -402,7 +402,7 @@ router.get('/', async (req: Request, res: Response) => {
 
   try {
     let results;
-    
+
     // If only geo and product are provided (no date), get all dates ordered by date
     if (geo && product && !date) {
       console.log('📅 Executing geo + product query with date sorting...');
@@ -414,7 +414,7 @@ router.get('/', async (req: Request, res: Response) => {
       console.log('🔍 Executing standard query...');
       results = await StatCan.find(query).limit(Number(limit));
     }
-    
+
     console.log(`✅ Found ${results.length} results`);
     if (results.length > 0) {
       console.log('📋 First result:', JSON.stringify(results[0], null, 2));
@@ -426,7 +426,7 @@ router.get('/', async (req: Request, res: Response) => {
       console.log(`🔍 Records with GEO="${geo}": ${geoOnlyCount}`);
       console.log(`🔍 Records with Products="${product}": ${productOnlyCount}`);
     }
-    
+
     res.json(results);
   } catch (err) {
     console.error('❌ Database error:', err);
@@ -490,7 +490,7 @@ router.get('/debug', async (req: Request, res: Response) => {
     const sampleRecords = await StatCan.find().limit(5);
     const geoValues = await StatCan.distinct('GEO');
     const productValues = await StatCan.distinct('Products');
-    
+
     res.json({
       totalRecords: totalCount,
       sampleRecords,
