@@ -6,6 +6,7 @@
   
   Props:
   - data: Array of price data points with REF_DATE and VALUE properties
+  - change: Number representing the price change
   
   Features:
   - Interactive tooltips showing date and price on hover
@@ -25,6 +26,7 @@
   // Props
   // Array of price data points to display
   export let data: Array<{ REF_DATE: string; VALUE: number }> = [];
+  export let change: number = 0;
 
   // Internal state
   // Reference to the chart container element
@@ -38,6 +40,8 @@
   let tooltipDate = "";
   let tooltipValue = "";
   let activePoint: any = null;
+  let priceChange: number | null = null;
+  let changeClass = "";
   // Chart dimensions
   let width = 0; // Will be set by container measurement
   let height = 400; // Fixed height for now
@@ -83,6 +87,10 @@
       chartData = [];
     }
   }
+
+  // Dynamically set the color for the line, point, and gradient based on the change prop
+  $: currentColor =
+    (change ?? 0) > 0 ? "#ff4d4f" : (change ?? 0) < 0 ? "#00ff88" : "#00ff88"; // fallback for no change
 
   // Processes raw data into chart-ready format with calculated positions
   // Returns: Array of data points with x, y coordinates
@@ -188,12 +196,29 @@
     tooltipDate = formatDate(closestPoint.REF_DATE);
     tooltipValue = `$${closestPoint.VALUE.toFixed(2)}`;
     activePoint = closestPoint;
+
+    // Find previous point for change calculation
+    const idx = chartData.findIndex((d) => d === closestPoint);
+    if (idx > 0) {
+      priceChange = closestPoint.VALUE - chartData[idx - 1].VALUE;
+      changeClass =
+        priceChange > 0
+          ? "change-positive"
+          : priceChange < 0
+            ? "change-negative"
+            : "";
+    } else {
+      priceChange = null;
+      changeClass = "";
+    }
   }
 
   // Handles mouse leave events to hide tooltip
   function handleMouseLeave(): void {
     tooltipVisible = false;
     activePoint = null;
+    priceChange = null;
+    changeClass = "";
   }
 
   // Formats a date string to a readable format
@@ -274,7 +299,7 @@
         <!-- Chart line -->
         <path
           d={generatePath()}
-          stroke="#00ff88"
+          stroke={currentColor}
           stroke-width="3"
           fill="none"
           stroke-linecap="round"
@@ -291,10 +316,13 @@
               x2="0%"
               y2="100%"
             >
-              <stop offset="0%" style="stop-color:#00ff88;stop-opacity:0.3" />
+              <stop
+                offset="0%"
+                style={`stop-color:${currentColor};stop-opacity:0.3`}
+              />
               <stop
                 offset="100%"
-                style="stop-color:#00ff88;stop-opacity:0.05"
+                style={`stop-color:${currentColor};stop-opacity:0.05`}
               />
             </linearGradient>
           </defs>
@@ -310,7 +338,7 @@
             cx={activePoint.x}
             cy={activePoint.y}
             r="6"
-            fill="#00ff88"
+            fill={currentColor}
             stroke="#fff"
             stroke-width="2"
             style="pointer-events: none;"
@@ -349,7 +377,14 @@
 
   {#if tooltipVisible}
     <div class="tooltip tooltip-top-right">
-      <div><strong>{tooltipValue}</strong></div>
+      <div>
+        <strong class="price-highlight {changeClass}">{tooltipValue}</strong>
+        {#if priceChange !== null}
+          <span class="change-indicator {changeClass}">
+            ({priceChange > 0 ? "+" : ""}{priceChange.toFixed(2)})
+          </span>
+        {/if}
+      </div>
       <div>{tooltipDate}</div>
     </div>
   {/if}
@@ -450,6 +485,27 @@
     font-size: 11px;
     text-align: center;
     flex: 1;
+  }
+
+  .price-highlight,
+  .change-indicator {
+    color: #00ff88;
+  }
+
+  .change-positive {
+    color: #ff4d4f;
+  }
+
+  .change-negative {
+    color: #00ff88;
+  }
+
+  .price-highlight.change-positive {
+    color: #ff4d4f;
+  }
+
+  .price-highlight.change-negative {
+    color: #00ff88;
   }
 
   @media (max-width: 768px) {

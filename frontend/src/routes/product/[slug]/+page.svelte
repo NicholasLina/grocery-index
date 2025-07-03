@@ -16,11 +16,11 @@
 -->
 
 <script lang="ts">
-  import { page } from '$app/stores';
-  import { onMount } from 'svelte';
-  import { format, parseISO } from 'date-fns';
-  import PriceChart from '$lib/components/PriceChart.svelte';
-  import LoadingSpinner from '$lib/components/LoadingSpinner.svelte';
+  import { page } from "$app/stores";
+  import { onMount } from "svelte";
+  import { format, parseISO } from "date-fns";
+  import PriceChart from "$lib/components/PriceChart.svelte";
+  import LoadingSpinner from "$lib/components/LoadingSpinner.svelte";
 
   // Interface representing a single price data point from the API
   interface PriceData {
@@ -72,15 +72,21 @@
   // Product slug from URL parameters
   $: productSlug = $page.params.slug;
   // Decoded product name and geo from URL slug
-  $: [productName, geo] = decodeURIComponent(productSlug).split('|');
+  $: [productName, geo] = decodeURIComponent(productSlug).split("|");
+  // Formatted product title with main title and subtitle
+  $: formattedTitle = formatProductTitle(productStats?.product || "");
+  // Main product title (capitalized)
+  $: mainTitle = formattedTitle.mainTitle;
+  // Product subtitle (if any)
+  $: subtitle = formattedTitle.subtitle;
   // Loading state indicator
   let loading = true;
   // Error message if data loading fails
-  let error = '';
+  let error = "";
   // Product statistics and data
   let productStats: ProductStats | null = null;
   // Base URL for the API endpoints
-  const API_BASE = 'http://localhost:3000/api/statcan';
+  const API_BASE = "http://localhost:3000/api/statcan";
 
   // Helper function to calculate standard deviation
   // Parameters:
@@ -88,8 +94,9 @@
   // Returns: Standard deviation value
   function calculateStandardDeviation(values: number[]): number {
     const mean = values.reduce((sum, val) => sum + val, 0) / values.length;
-    const squaredDiffs = values.map(val => Math.pow(val - mean, 2));
-    const variance = squaredDiffs.reduce((sum, val) => sum + val, 0) / values.length;
+    const squaredDiffs = values.map((val) => Math.pow(val - mean, 2));
+    const variance =
+      squaredDiffs.reduce((sum, val) => sum + val, 0) / values.length;
     return Math.sqrt(variance);
   }
 
@@ -109,11 +116,16 @@
   // Returns: Array of price data points
   async function fetchProductData(): Promise<PriceData[]> {
     try {
-      const response = await fetch(`${API_BASE}?product=${encodeURIComponent(productName)}&geo=${encodeURIComponent(geo)}`);
+      const response = await fetch(
+        `${API_BASE}?product=${encodeURIComponent(productName)}&geo=${encodeURIComponent(geo)}`,
+      );
       const data = await response.json();
       return data;
     } catch (err) {
-      console.error(`❌ Error fetching data for ${productName} in ${geo}:`, err);
+      console.error(
+        `❌ Error fetching data for ${productName} in ${geo}:`,
+        err,
+      );
       return [];
     }
   }
@@ -126,13 +138,17 @@
     if (data.length === 0) return null;
 
     // Sort by date to get most recent first
-    const sortedData = data.sort((a, b) => new Date(b.REF_DATE).getTime() - new Date(a.REF_DATE).getTime());
-    
-    const prices = sortedData.map(d => d.VALUE);
+    const sortedData = data.sort(
+      (a, b) => new Date(b.REF_DATE).getTime() - new Date(a.REF_DATE).getTime(),
+    );
+
+    const prices = sortedData.map((d) => d.VALUE);
     const currentPrice = sortedData[0].VALUE;
-    const previousPrice = sortedData.length > 1 ? sortedData[1].VALUE : currentPrice;
+    const previousPrice =
+      sortedData.length > 1 ? sortedData[1].VALUE : currentPrice;
     const change = currentPrice - previousPrice;
-    const changePercent = (previousPrice !== 0) ? (change / previousPrice) * 100 : 0;
+    const changePercent =
+      previousPrice !== 0 ? (change / previousPrice) * 100 : 0;
 
     return {
       product: sortedData[0].Products,
@@ -147,31 +163,74 @@
       maxPrice: Math.max(...prices),
       volatility: calculateStandardDeviation(prices),
       dataPoints: prices.length,
-      data: sortedData
+      data: sortedData,
     };
   }
 
   // Loads product data and calculates statistics
   async function loadProductData(): Promise<void> {
     loading = true;
-    error = '';
-    
+    error = "";
+
     try {
       const data = await fetchProductData();
       if (data.length === 0) {
-        error = 'No data found for this product';
+        error = "No data found for this product";
         return;
       }
-      
+
       productStats = calculateStats(data);
       if (!productStats) {
-        error = 'Unable to calculate statistics for this product';
+        error = "Unable to calculate statistics for this product";
       }
     } catch (err) {
-      error = 'Failed to load product data';
-      console.error('❌ Error loading product data:', err);
+      error = "Failed to load product data";
+      console.error("❌ Error loading product data:", err);
     } finally {
       loading = false;
+    }
+  }
+
+  // Parameters:
+  //   productName - Raw product name from API
+  // Returns: Object with mainTitle and subtitle
+  function formatProductTitle(productName: string): {
+    mainTitle: string;
+    subtitle: string;
+  } {
+    // Handle undefined or null product names
+    if (!productName || typeof productName !== "string") {
+      return {
+        mainTitle: "Unknown Product",
+        subtitle: "",
+      };
+    }
+
+    const parts = productName.split(",");
+    if (parts.length > 1) {
+      return {
+        mainTitle: parts[0]
+          .trim()
+          .split(" ")
+          .map(
+            (word) =>
+              word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
+          )
+          .join(" "),
+        subtitle: parts.slice(1).join(",").trim(),
+      };
+    } else {
+      return {
+        mainTitle: productName
+          .trim()
+          .split(" ")
+          .map(
+            (word) =>
+              word.charAt(0).toUpperCase() + word.slice(1).toLowerCase(),
+          )
+          .join(" "),
+        subtitle: "",
+      };
     }
   }
 
@@ -189,23 +248,32 @@
   // Helper function to format date
   function formatDate(dateString: string): string {
     const date = new Date(dateString);
-    return date.toLocaleDateString('en-CA', { year: 'numeric', month: 'short' });
+    return date.toLocaleDateString("en-CA", {
+      year: "numeric",
+      month: "short",
+    });
   }
 
   $: if (productStats && productStats.data) {
-    console.log('PriceChart data:', productStats.data);
+    console.log("PriceChart data:", productStats.data);
   }
 </script>
 
 <svelte:head>
-  <title>{productName ? productName : 'Product Details'} - Canadian Grocery Index</title>
-  <meta name="description" content="Detailed price history and statistics for {productName}" />
+  <title
+    >{productName ? productName : "Product Details"} - Canadian Grocery Index</title
+  >
+  <meta
+    name="description"
+    content="Detailed price history and statistics for {productName}"
+  />
 </svelte:head>
 
 <main class="container">
   <header class="header">
-    <button class="back-btn" on:click={() => history.back()}>← Back to Dashboard</button>
-    <h1>Product Details</h1>
+    <button class="back-btn" on:click={() => history.back()}
+      >← Back to Dashboard</button
+    >
   </header>
 
   {#if loading}
@@ -218,22 +286,38 @@
   {:else if productStats}
     <div class="product-header">
       <div class="product-info">
-        <h2 class="product-name">{productStats.product}</h2>
-        <span class="location">{productStats.geo}</span>
+        <div class="product-name">
+          <h1 class="product-name">{mainTitle}</h1>
+          <p class="product-subtitle">{subtitle}</p>
+        </div>
+        <span class="location">{geo}</span>
       </div>
-      
+
       <div class="current-price-display">
         <div class="price">
-          <span class="currency">$</span>
+          <span
+            class="currency"
+            class:positive={(productStats.change ?? 0) > 0}
+            class:negative={(productStats.change ?? 0) < 0}
+          >
+            $
+          </span>
           <span class="amount">{productStats.currentPrice.toFixed(2)}</span>
-        </div>
-        <div class="change" class:positive={(productStats.change ?? 0) > 0} class:negative={(productStats.change ?? 0) < 0}>
-          {productStats.change > 0 ? '+' : ''}{productStats.change.toFixed(2)} ({productStats.changePercent > 0 ? '+' : ''}{productStats.changePercent.toFixed(1)}%)
+          <div
+            class="change"
+            class:positive={(productStats.change ?? 0) > 0}
+            class:negative={(productStats.change ?? 0) < 0}
+          >
+            {productStats.change > 0 ? "+" : ""}{productStats.change.toFixed(2)}
+            ({productStats.changePercent > 0
+              ? "+"
+              : ""}{productStats.changePercent.toFixed(1)}%)
+          </div>
         </div>
       </div>
-      
+
       <div class="chart-container">
-        <PriceChart data={productStats.data} />
+        <PriceChart data={productStats.data} change={productStats.change} />
       </div>
     </div>
 
@@ -244,7 +328,9 @@
         <div class="stat-card">
           <div class="stat-icon">📊</div>
           <div class="stat-label">Previous Price</div>
-          <div class="stat-value">{formatCurrency(productStats.previousPrice)}</div>
+          <div class="stat-value">
+            {formatCurrency(productStats.previousPrice)}
+          </div>
         </div>
         <div class="stat-card">
           <div class="stat-icon">📈</div>
@@ -264,12 +350,16 @@
         <div class="stat-card">
           <div class="stat-icon">📊</div>
           <div class="stat-label">Price Volatility</div>
-          <div class="stat-value">{formatCurrency(productStats.volatility)}</div>
+          <div class="stat-value">
+            {formatCurrency(productStats.volatility)}
+          </div>
         </div>
         <div class="stat-card">
           <div class="stat-icon">📏</div>
           <div class="stat-label">Price Range</div>
-          <div class="stat-value">{formatCurrency(productStats.maxPrice - productStats.minPrice)}</div>
+          <div class="stat-value">
+            {formatCurrency(productStats.maxPrice - productStats.minPrice)}
+          </div>
         </div>
       </div>
     </section>
@@ -291,15 +381,30 @@
             {#each productStats.data as row, index}
               {@const prevRow = productStats.data[index + 1]}
               {@const change = prevRow ? row.VALUE - prevRow.VALUE : null}
-              {@const changePercent = (prevRow && prevRow.VALUE !== 0) ? ((change ?? 0) / prevRow.VALUE) * 100 : 0}
+              {@const changePercent =
+                prevRow && prevRow.VALUE !== 0
+                  ? ((change ?? 0) / prevRow.VALUE) * 100
+                  : 0}
               <tr>
                 <td>{formatDate(row.REF_DATE)}</td>
                 <td>{formatCurrency(row.VALUE)}</td>
-                <td class:positive={(change ?? 0) > 0} class:negative={(change ?? 0) < 0}>
-                  {change !== null ? (change > 0 ? '+' : '') + formatCurrency(change) : '-'}
+                <td
+                  class:positive={(change ?? 0) > 0}
+                  class:negative={(change ?? 0) < 0}
+                >
+                  {change !== null
+                    ? (change > 0 ? "+" : "") + formatCurrency(change)
+                    : "-"}
                 </td>
-                <td class:positive={(changePercent ?? 0) > 0} class:negative={(changePercent ?? 0) < 0}>
-                  {changePercent !== null ? (changePercent > 0 ? '+' : '') + changePercent.toFixed(1) + '%' : '-'}
+                <td
+                  class:positive={(changePercent ?? 0) > 0}
+                  class:negative={(changePercent ?? 0) < 0}
+                >
+                  {changePercent !== null
+                    ? (changePercent > 0 ? "+" : "") +
+                      changePercent.toFixed(1) +
+                      "%"
+                    : "-"}
                 </td>
               </tr>
             {/each}
@@ -315,7 +420,7 @@
     max-width: 1200px;
     margin: 0 auto;
     padding: 20px;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
     background: #0f0f0f;
     color: #ffffff;
     min-height: 100vh;
@@ -344,19 +449,10 @@
     border-color: #666;
   }
 
-  .header h1 {
-    font-size: 2rem;
-    margin: 0;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    background-clip: text;
-  }
-
   .product-header {
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 0;
     background: #1a1a1a;
     border-radius: 12px;
     padding: 30px;
@@ -370,15 +466,24 @@
     align-items: flex-start;
   }
 
-  .product-info h2 {
-    font-size: 1.8rem;
-    margin: 0 0 10px 0;
-    color: #ffffff;
+  .product-name {
+    margin: 0;
+  }
+
+  .product-subtitle {
+    font-size: 1rem;
+    color: #888;
+    margin: 0;
   }
 
   .location {
-    font-size: 1rem;
+    background: #333;
     color: #888;
+    padding: 4px 8px;
+    border-radius: 6px;
+    font-size: 0.8rem;
+    font-weight: 500;
+    white-space: nowrap;
   }
 
   .current-price-display {
@@ -541,6 +646,16 @@
     background: #cc3333;
   }
 
+  .currency.positive,
+  .change.positive {
+    color: #00ff88;
+  }
+
+  .currency.negative,
+  .change.negative {
+    color: #ff4d4f;
+  }
+
   @media (max-width: 768px) {
     .container {
       padding: 15px;
@@ -570,4 +685,4 @@
       gap: 15px;
     }
   }
-</style> 
+</style>
