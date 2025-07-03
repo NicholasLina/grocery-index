@@ -37,10 +37,14 @@
     changePercent: number;
     // Geographic location
     geo: string;
-    // Full price history data
-    data: PriceData[];
+    // Full price history data (always an array)
+    data: any[];
     // Price from one year ago
     yearAgoPrice?: number;
+    // 1-year absolute change
+    yearAgoChange?: number;
+    // 1-year percent change
+    yearAgoPercent?: number;
   }
 
   // Reactive state variables
@@ -229,7 +233,10 @@
         `${API_BASE}/all-price-changes?geo=${encodeURIComponent(geo)}`,
       );
       const data = await response.json();
-      return data.products || [];
+      return (data.products || []).map((p: any) => ({
+        ...p,
+        data: p.data ?? [],
+      }));
     } catch (err) {
       console.error("❌ Error fetching all product changes:", err);
       return [];
@@ -304,12 +311,16 @@
 </script>
 
 <svelte:head>
-  <title>Canadian Grocery Index - Stock Market Style</title>
-  <meta name="description" content="Track grocery price changes in real-time" />
+  <title>Canadian Grocery Index</title>
+  <meta
+    name="description"
+    content="Track grocery price changes to inform your food purchases"
+  />
 </svelte:head>
 
 <header class="top-bar">
   <div class="top-bar-title">
+    <span class="maple-leaf" aria-label="Canada">🍁</span>
     <h1>Canadian Grocery Index</h1>
   </div>
   <div class="controls">
@@ -449,15 +460,18 @@
                 <td>
                   {#if product.yearAgoPrice !== null && product.yearAgoPrice !== undefined}
                     <span
-                      style="color: {product.yearAgoChange > 0
+                      style="color: {product.yearAgoChange !== undefined &&
+                      product.yearAgoChange > 0
                         ? '#ff4444'
-                        : product.yearAgoChange < 0
+                        : product.yearAgoChange !== undefined &&
+                            product.yearAgoChange < 0
                           ? '#00ff88'
                           : '#fff'}"
                     >
-                      {product.yearAgoChange >= 0
-                        ? "+"
-                        : ""}{product.yearAgoChange?.toFixed(2) ?? "-"}
+                      {product.yearAgoChange !== undefined
+                        ? (product.yearAgoChange >= 0 ? "+" : "") +
+                          product.yearAgoChange.toFixed(2)
+                        : "-"}
                       ({product.yearAgoPercent === null ||
                       product.yearAgoPercent === undefined
                         ? "-"
@@ -504,15 +518,20 @@
     bottom: 0;
     height: 2px;
     width: 100vw;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
+    background: white;
     pointer-events: none;
     z-index: 101;
+  }
+
+  .top-bar-title {
+    display: flex;
+    align-items: center;
   }
 
   .top-bar-title h1 {
     font-size: 2rem;
     margin: 0;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
+    background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
@@ -694,5 +713,13 @@
   }
   .all-products-table tr:hover {
     background: #222;
+  }
+
+  .maple-leaf {
+    font-size: 2rem;
+    margin-right: 10px;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1;
   }
 </style>

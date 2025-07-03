@@ -330,6 +330,7 @@
     <button class="back-btn" on:click={() => history.back()} aria-label="Back"
       >←</button
     >
+    <span class="maple-leaf" aria-label="Canada">🍁</span>
     <h1>Canadian Grocery Index</h1>
   </div>
   <div class="controls">
@@ -539,7 +540,7 @@
     bottom: 0;
     height: 2px;
     width: 100vw;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
+    background: white;
     pointer-events: none;
     z-index: 101;
   }
@@ -551,10 +552,11 @@
   .top-bar-title h1 {
     font-size: 2rem;
     margin: 0;
-    background: linear-gradient(45deg, #00ff88, #00ccff);
+    background: white;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     background-clip: text;
+    line-height: 1;
   }
   .controls {
     display: flex;
@@ -606,6 +608,7 @@
     font-size: 1rem;
     color: #888;
     margin: 0;
+    text-align: left;
   }
 
   .location {
@@ -804,17 +807,30 @@
 
   @media (max-width: 768px) {
     .container {
-      padding: 15px;
+      padding: 0px;
     }
 
     .product-header {
-      gap: 20px;
+      gap: 0px;
+      padding: 20px;
     }
 
     .product-info {
       flex-direction: column;
-      gap: 20px;
+      gap: 0px;
       text-align: center;
+    }
+
+    .price {
+      margin: 0;
+    }
+
+    .amount {
+      font-size: 2rem;
+    }
+
+    .location {
+      display: none;
     }
 
     .current-price-display {
@@ -845,6 +861,8 @@
     align-items: center;
     gap: 8px;
     margin-top: 18px;
+    flex-wrap: wrap;
+    row-gap: 8px;
   }
   .pagination button {
     background: #222;
@@ -886,5 +904,13 @@
   .back-btn:focus {
     color: #00ccff;
     outline: none;
+  }
+
+  .maple-leaf {
+    font-size: 2rem;
+    margin-right: 10px;
+    vertical-align: middle;
+    display: inline-block;
+    line-height: 1;
   }
 </style>
