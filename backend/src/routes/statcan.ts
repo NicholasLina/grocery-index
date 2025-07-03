@@ -491,13 +491,22 @@ router.get('/debug', async (req: Request, res: Response) => {
     const geoValues = await StatCan.distinct('GEO');
     const productValues = await StatCan.distinct('Products');
 
+    // Generate all product slugs (product|geo, URL-encoded)
+    const productSlugs: string[] = [];
+    for (const product of productValues) {
+      for (const geo of geoValues) {
+        productSlugs.push(encodeURIComponent(`${product}|${geo}`));
+      }
+    }
+
     res.json({
       totalRecords: totalCount,
       sampleRecords,
-      geoValues: geoValues.slice(0, 10), // First 10 geo values
-      productValues: productValues.slice(0, 10), // First 10 product values
+      geoValues, // all geo values
+      productValues, // all product values
       allGeoCount: geoValues.length,
-      allProductCount: productValues.length
+      allProductCount: productValues.length,
+      productSlugs // all combinations
     });
   } catch (err) {
     console.error('❌ Debug error:', err);

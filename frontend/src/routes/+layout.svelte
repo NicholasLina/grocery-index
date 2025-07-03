@@ -1,5 +1,5 @@
 <script>
-  import '../app.css';
+  // ... existing code ...
 </script>
 
-<slot /> 
+<slot />

@@ -32,13 +32,7 @@ app.use(morgan(process.env.NODE_ENV === 'production' ? 'combined' : 'dev'));
 const PORT = process.env.PORT || 3000;
 
 // Middleware configuration
-const allowedOrigins = [
-  'https://groceryindex.nicklina.com'
-];
-app.use(cors({
-  origin: allowedOrigins,
-  credentials: true
-}));
+app.use(cors());
 app.use(express.json()); // Parse JSON request bodies
 
 /**
