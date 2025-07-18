@@ -31,8 +31,8 @@ mongoose.connect('mongodb://localhost:27017/statcan', {
   useNewUrlParser: true,
   useUnifiedTopology: true,
 } as any)
-.then(() => console.log('✅ MongoDB connected successfully'))
-.catch(err => console.error('❌ MongoDB connection error:', err));
+  .then(() => console.log('✅ MongoDB connected successfully'))
+  .catch(err => console.error('❌ MongoDB connection error:', err));
 
 // API Routes
 app.use('/api/statcan', statcanRouter);
