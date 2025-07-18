@@ -96,12 +96,20 @@
         return { pathData, areaPathData, points, minValue, maxValue };
     }
     $: miniChart = createMiniChart(streak.data || []);
+
+    // Utility to generate slug from product name
+    function productToSlug(productName: string): string {
+        return productName
+            .toLowerCase()
+            .replace(/\s+/g, "-")
+            .replace(/[^a-z0-9\-]/g, "");
+    }
 </script>
 
 <a
     class="streak-card"
     style="--streak-color: {streakColor}"
-    href={`/product/${encodeURIComponent(streak.product + "|" + streak.geo)}`}
+    href={`/product/${productToSlug(streak.product)}`}
 >
     <div class="card-header">
         <div class="product-info">

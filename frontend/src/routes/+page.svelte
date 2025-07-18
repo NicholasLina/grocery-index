@@ -71,7 +71,7 @@
   let sortDirection: "asc" | "desc" = "asc";
 
   // Base URL for the API endpoints
-  const API_BASE = "http://localhost:3000/api/statcan";
+  const API_BASE = import.meta.env.VITE_API_BASE_URL;
 
   // Fetches all available product names from the API
   // Returns: Array of product names
@@ -156,7 +156,7 @@
 
     try {
       const response = await fetch(
-        `http://localhost:3000/api/statcan/price-changes?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
+        `${API_BASE}/price-changes?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
       );
 
       if (!response.ok) {
@@ -203,7 +203,7 @@
 
       // Fetch streaks
       const streaksRes = await fetch(
-        `http://localhost:3000/api/statcan/streaks?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
+        `${API_BASE}/streaks?geo=${encodeURIComponent(selectedGeo)}&limit=3`,
       );
       const streaksData = await streaksRes.json();
       streaks = streaksData.streaks || [];
@@ -267,6 +267,11 @@
       sortColumn = column;
       sortDirection = "asc";
     }
+  }
+
+  // Utility to generate slug from product name
+  function productToSlug(productName: string): string {
+    return productName.toLowerCase().replace(/\s+/g, "-");
   }
 
   // --- Reactive sorted products for the table ---
@@ -437,7 +442,11 @@
           <tbody>
             {#each sortedProducts as product}
               <tr>
-                <td>{product.product}</td>
+                <td
+                  ><a href={`/product/${productToSlug(product.product)}`}
+                    >{product.product}</a
+                  ></td
+                >
                 <td>{product.currentPrice?.toFixed(2) ?? "-"}</td>
                 <td
                   style="color: {product.change > 0
@@ -660,6 +669,10 @@
 
   .error-message button:hover {
     background: #cc3333;
+  }
+
+  tbody a {
+    color: white;
   }
 
   @media (max-width: 768px) {

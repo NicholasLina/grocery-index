@@ -68,34 +68,36 @@ try:
 
     records = df.to_dict(orient='records')
 
-    def batch_insert(collection, records, batch_size=1000):
-        total_inserted = 0
+    def batch_upsert(collection, records, batch_size=1000):
+        total_upserted = 0
         for i in range(0, len(records), batch_size):
             batch = records[i:i+batch_size]
-            filtered_batch = []
             for rec in batch:
                 try:
-                    if len(bson.BSON.encode(rec)) <= 16 * 1024 * 1024:
-                        filtered_batch.append(rec)
-                    else:
+                    if len(bson.BSON.encode(rec)) > 16 * 1024 * 1024:
                         print("Skipped oversized record")
+                        continue
                 except Exception as e:
                     print(f"Error encoding record: {e}")
-            if filtered_batch:
+                    continue
                 try:
-                    collection.insert_many(filtered_batch, ordered=False)
-                    total_inserted += len(filtered_batch)
-                except errors.BulkWriteError as bwe:
-                    inserted = bwe.details.get('nInserted', 0)
-                    total_inserted += inserted
-                    print(f"Batch insert error: {bwe.details.get('writeErrors', [])}")
-        return total_inserted
+                    # Use upsert: match on REF_DATE, GEO, Products
+                    result = collection.replace_one(
+                        {"REF_DATE": rec["REF_DATE"], "GEO": rec["GEO"], "Products": rec["Products"]},
+                        rec,
+                        upsert=True
+                    )
+                    if result.upserted_id is not None or result.modified_count > 0:
+                        total_upserted += 1
+                except Exception as e:
+                    print(f"Upsert error: {e}")
+        return total_upserted
 
     if records:
-        inserted_count = batch_insert(collection, records, batch_size=1000)
-        print(f"Inserted {inserted_count} records into {db_name}.{collection_name}")
+        upserted_count = batch_upsert(collection, records, batch_size=1000)
+        print(f"Upserted {upserted_count} records into {db_name}.{collection_name}")
     else:
-        print("No records to insert.")
+        print("No records to upsert.")
 
     client.close()
 

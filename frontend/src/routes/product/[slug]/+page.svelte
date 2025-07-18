@@ -18,7 +18,6 @@
 <script lang="ts">
   import { page } from "$app/stores";
   import { onMount } from "svelte";
-  import { format, parseISO } from "date-fns";
   import PriceChart from "$lib/components/PriceChart.svelte";
   import LoadingSpinner from "$lib/components/LoadingSpinner.svelte";
 
@@ -72,7 +71,7 @@
   // Product slug from URL parameters
   $: productSlug = $page.params.slug;
   // Decoded product name and geo from URL slug
-  $: [productName, geo] = decodeURIComponent(productSlug).split("|");
+  $: productName = slugToProduct(productSlug);
   // Formatted product title with main title and subtitle
   $: formattedTitle = formatProductTitle(productStats?.product || "");
   // Main product title (capitalized)
@@ -86,7 +85,7 @@
   // Product statistics and data
   let productStats: ProductStats | null = null;
   // Base URL for the API endpoints
-  const API_BASE = "http://localhost:3000/api/statcan";
+  const API_BASE = import.meta.env.VITE_API_BASE_URL;
 
   // --- REGION FILTER STATE (copied from home page, with persistence) ---
   let geoValues: string[] = [];
@@ -108,7 +107,6 @@
   async function handleGeoChange(event: Event): Promise<void> {
     const target = event.target as HTMLSelectElement;
     selectedGeo = target.value;
-    geo = selectedGeo;
     localStorage.setItem("selectedGeo", selectedGeo);
     await loadProductData();
   }
@@ -119,7 +117,6 @@
     // Try to load from localStorage, fallback to 'Canada'
     const storedGeo = localStorage.getItem("selectedGeo");
     selectedGeo = storedGeo || "Canada";
-    geo = selectedGeo;
     await loadProductData();
   });
 
@@ -152,13 +149,13 @@
   async function fetchProductData(): Promise<PriceData[]> {
     try {
       const response = await fetch(
-        `${API_BASE}?product=${encodeURIComponent(productName)}&geo=${encodeURIComponent(geo)}`,
+        `${API_BASE}?product=${encodeURIComponent(productName)}&geo=${encodeURIComponent(selectedGeo)}`,
       );
       const data = await response.json();
       return data;
     } catch (err) {
       console.error(
-        `❌ Error fetching data for ${productName} in ${geo}:`,
+        `❌ Error fetching data for ${productName} in ${selectedGeo}:`,
         err,
       );
       return [];
@@ -276,10 +273,12 @@
 
   // Helper function to format date
   function formatDate(dateString: string): string {
-    const date = new Date(dateString);
+    const [year, month] = dateString.split("-");
+    const date = new Date(Date.UTC(Number(year), Number(month) - 1, 1));
     return date.toLocaleDateString("en-CA", {
       year: "numeric",
       month: "short",
+      timeZone: "UTC",
     });
   }
 
@@ -312,6 +311,19 @@
     const changePercent =
       prevRow && prevRow.VALUE !== 0 ? (change / prevRow.VALUE) * 100 : 0;
     return { change, changePercent };
+  }
+
+  // Utility to generate slug from product name
+  function productToSlug(productName: string): string {
+    return productName
+      .toLowerCase()
+      .replace(/\s+/g, "-")
+      .replace(/[^a-z0-9\-]/g, "");
+  }
+  // Utility to reverse lookup product name from slug
+  function slugToProduct(slug: string): string {
+    // Converts a slug back to a product name: hyphens to spaces, capitalize first letter of each word
+    return slug.charAt(0).toUpperCase() + slug.slice(1).split("-").join(" ");
   }
 </script>
 
@@ -363,7 +375,7 @@
           <h1 class="product-name">{mainTitle}</h1>
           <p class="product-subtitle">{subtitle}</p>
         </div>
-        <span class="location">{geo}</span>
+        <span class="location">{selectedGeo}</span>
       </div>
 
       <div class="current-price-display">

@@ -226,10 +226,12 @@
   //   dateString - Date string in YYYY-MM format
   // Returns: Formatted date string
   function formatDate(dateString: string): string {
-    const date = new Date(dateString);
+    const [year, month] = dateString.split("-");
+    const date = new Date(Date.UTC(Number(year), Number(month) - 1, 1));
     return date.toLocaleDateString("en-CA", {
       year: "numeric",
       month: "short",
+      timeZone: "UTC",
     });
   }
 

@@ -138,6 +138,12 @@
     return { pathData, areaPathData, points, minValue, maxValue };
   }
 
+  // Utility to generate slug from product name
+  function productToSlug(productName: string): string {
+    return productName.toLowerCase().replace(/\s+/g, "-");
+    // .replace(/[^a-z0-9\-]/g, "");
+  }
+
   // Reactive statements for computed values
   // Whether the price change is positive (increase)
   $: isPositive = product?.changePercent > 0;
@@ -157,7 +163,7 @@
 
 <a
   class="price-card"
-  href={`/product/${encodeURIComponent(product.product + "|" + product.geo)}`}
+  href={`/product/${productToSlug(product.product)}`}
   tabindex="0"
   style="--change-color: {changeColor}"
 >

@@ -389,7 +389,7 @@ router.get('/calculate-all', async (req: Request, res: Response) => {
  * GET /api/statcan?date=2024-01&geo=Ontario&product=Bread
  */
 router.get('/', async (req: Request, res: Response) => {
-  const { date, geo, product, limit = 100 } = req.query;
+  const { date, geo, product, limit } = req.query;
 
   /** Query object for MongoDB */
   const query: any = {};
@@ -406,13 +406,21 @@ router.get('/', async (req: Request, res: Response) => {
     // If only geo and product are provided (no date), get all dates ordered by date
     if (geo && product && !date) {
       console.log('📅 Executing geo + product query with date sorting...');
-      results = await StatCan.find(query)
-        .sort({ REF_DATE: 1 }) // Sort by date in ascending order
-        .limit(Number(limit));
+      const mongoQuery = StatCan.find(query).sort({ REF_DATE: 1 });
+      if (limit) {
+        results = await mongoQuery.limit(Number(limit));
+      } else {
+        results = await mongoQuery; // No limit
+      }
     } else {
       // Original behavior for other cases
       console.log('🔍 Executing standard query...');
-      results = await StatCan.find(query).limit(Number(limit));
+      const mongoQuery = StatCan.find(query);
+      if (limit) {
+        results = await mongoQuery.limit(Number(limit));
+      } else {
+        results = await mongoQuery; // No limit
+      }
     }
 
     console.log(`✅ Found ${results.length} results`);
