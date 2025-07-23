@@ -14,6 +14,16 @@ import mongoose from 'mongoose';
 /** Express router instance for StatCan routes */
 const router = Router();
 
+// Cache middleware for API responses
+const cacheMiddleware = (duration: number = 86400) => {
+  return (req: Request, res: Response, next: Function) => {
+    // Set cache headers for 24 hours (86400 seconds)
+    res.set('Cache-Control', `public, max-age=${duration}, s-maxage=${duration}`);
+    res.set('Expires', new Date(Date.now() + duration * 1000).toUTCString());
+    next();
+  };
+};
+
 /**
  * MongoDB Schema for StatCan price data
  * 
@@ -236,7 +246,7 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
  * GET /api/statcan/price-changes?geo=Canada&limit=5
  * // Returns top 5 gainers and losers for Canada
  */
-router.get('/price-changes', async (req: Request, res: Response) => {
+router.get('/price-changes', cacheMiddleware(86400), async (req: Request, res: Response) => {
   const { geo, limit = 3 } = req.query;
 
   if (!geo) {
@@ -376,7 +386,7 @@ router.get('/calculate-all', async (req: Request, res: Response) => {
  * @param {string} [req.query.date] - Date filter in YYYY-MM format
  * @param {string} [req.query.geo] - Geographic location filter
  * @param {string} [req.query.product] - Product name filter
- * @param {number} [req.query.limit=100] - Maximum number of results to return
+ * @param {number} [req.query.limit=10000] - Maximum number of results to return
  * 
  * @returns {Array} Array of price data objects matching the query criteria
  * 
@@ -527,7 +537,7 @@ router.get('/debug', async (req: Request, res: Response) => {
  * @example
  * GET /api/statcan/streaks?geo=Canada&limit=3
  */
-router.get('/streaks', async (req: Request, res: Response) => {
+router.get('/streaks', cacheMiddleware(86400), async (req: Request, res: Response) => {
   const { geo, limit = 3 } = req.query;
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
@@ -554,7 +564,7 @@ router.get('/streaks', async (req: Request, res: Response) => {
  * @example
  * GET /api/statcan/all-price-changes?geo=Canada
  */
-router.get('/all-price-changes', async (req: Request, res: Response) => {
+router.get('/all-price-changes', cacheMiddleware(86400), async (req: Request, res: Response) => {
   const { geo } = req.query;
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });

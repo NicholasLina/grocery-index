@@ -16,6 +16,8 @@ const express_1 = __importDefault(require("express"));
 const mongoose_1 = __importDefault(require("mongoose"));
 const cors_1 = __importDefault(require("cors"));
 const statcan_1 = __importDefault(require("./routes/statcan"));
+const dotenv_1 = __importDefault(require("dotenv"));
+dotenv_1.default.config();
 /** Express application instance */
 const app = (0, express_1.default)();
 /** Port number for the server (defaults to 3000) */
@@ -25,13 +27,14 @@ app.use((0, cors_1.default)()); // Enable CORS for all routes
 app.use(express_1.default.json()); // Parse JSON request bodies
 /**
  * MongoDB connection configuration
- * Connects to the local MongoDB instance with the 'statcan' database
+ * Connects to MongoDB using the MONGODB_URI environment variable, or defaults to local instance
  */
-mongoose_1.default.connect('mongodb://localhost:27017/statcan', {
+const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/statcan';
+mongoose_1.default.connect(mongoUri, {
     useNewUrlParser: true,
     useUnifiedTopology: true,
 })
-    .then(() => console.log('✅ MongoDB connected successfully'))
+    .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
     .catch(err => console.error('❌ MongoDB connection error:', err));
 // API Routes
 app.use('/api/statcan', statcan_1.default);
