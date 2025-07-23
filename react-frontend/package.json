@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "next dev --port 5000 --turbopack",
     "build": "next build",
+    "export": "next build && next export",
     "start": "next start --port 5000",
     "lint": "next lint"
   },

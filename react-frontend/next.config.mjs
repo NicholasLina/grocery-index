@@ -1,4 +1,24 @@
 /** @type {import('next').NextConfig} */
-const nextConfig = {};
+const nextConfig = {
+    // Enable static export
+    output: 'export',
+
+    // Disable image optimization for static export
+    images: {
+        unoptimized: true,
+    },
+
+    // Disable trailing slash for cleaner URLs
+    trailingSlash: false,
+
+    // Set base path if needed (leave empty for root domain)
+    basePath: '',
+
+    // Asset prefix for static hosting
+    assetPrefix: '',
+
+    // Disable server-side features that don't work with static export
+    serverExternalPackages: [],
+};
 
 export default nextConfig;

@@ -4,15 +4,15 @@ import LoadingSpinner from '../components/LoadingSpinner';
 import PriceChart from '../components/PriceChart';
 import { useParams } from 'next/navigation';
 
-export default function ProductPage() {
+export default function ProductPage({ initialData = [] }) {
     const params = useParams();
     const slug = params?.slug;
     const decodedSlug = slug ? decodeURIComponent(slug) : '';
     // Split the decoded slug by the first comma
     const [mainTitle, ...subtitleParts] = decodedSlug.split(/,(.+)/); // split only on the first comma
     const subtitle = subtitleParts.length > 0 ? subtitleParts[0].trim() : null;
-    const [history, setHistory] = useState([]);
-    const [loading, setLoading] = useState(true);
+    const [history, setHistory] = useState(initialData);
+    const [loading, setLoading] = useState(initialData.length === 0);
     const [error, setError] = useState(null);
     const [region, setRegion] = useState('Canada');
     // Date range state
@@ -93,8 +93,11 @@ export default function ProductPage() {
                 setLoading(false);
             }
         }
-        if (slug) fetchData();
-    }, [slug, region, decodedSlug]);
+        // Only fetch if we don't have initial data or if region changed from Canada
+        if (slug && (initialData.length === 0 || region !== 'Canada')) {
+            fetchData();
+        }
+    }, [slug, region, decodedSlug, initialData.length]);
 
     return (
         <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">

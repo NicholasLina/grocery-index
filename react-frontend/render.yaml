@@ -1,10 +1,10 @@
 services:
   - type: web
     name: grocery-index-frontend
-    env: node
+    env: static
     plan: free
     buildCommand: npm install && npm run build
-    startCommand: npm start
+    staticPublishPath: ./out
     envVars:
       - key: NODE_ENV
         value: production
