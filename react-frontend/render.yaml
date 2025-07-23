@@ -9,4 +9,9 @@ services:
       - key: NODE_ENV
         value: production
       - key: NEXT_PUBLIC_API_BASE_URL
-        value: https://your-backend-service.onrender.com/api/statcan 
+        value: https://your-backend-service.onrender.com/api/statcan
+      - key: NODE_VERSION
+        value: 20.19.0
+    buildFilter:
+      paths:
+        - react-frontend/** 

@@ -19,6 +19,19 @@ const nextConfig = {
 
     // Disable server-side features that don't work with static export
     serverExternalPackages: [],
+
+    // Webpack configuration for better compatibility
+    webpack: (config, { isServer }) => {
+        if (!isServer) {
+            config.resolve.fallback = {
+                ...config.resolve.fallback,
+                fs: false,
+                net: false,
+                tls: false,
+            };
+        }
+        return config;
+    },
 };
 
 export default nextConfig;
