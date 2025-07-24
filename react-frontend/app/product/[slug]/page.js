@@ -5,17 +5,13 @@ export const metadata = {
 
 import ProductPage from '../../../components/ProductPage';
 import { FALLBACK_PRODUCTS } from '../../../lib/products';
+import { getApiBaseUrl } from '../../../lib/api';
 
 // Generate static paths for all products at build time
 export async function generateStaticParams() {
 
     try {
-        let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
-
-        // Ensure the URL has a protocol
-        if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
-            API_BASE = `https://${API_BASE}`;
-        }
+        const API_BASE = getApiBaseUrl();
 
         const res = await fetch(`${API_BASE}/products`);
 
@@ -54,12 +50,7 @@ export async function generateStaticParams() {
 async function getProductData(slug) {
     try {
         const decodedSlug = decodeURIComponent(slug);
-        let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
-
-        // Ensure the URL has a protocol
-        if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
-            API_BASE = `https://${API_BASE}`;
-        }
+        const API_BASE = getApiBaseUrl();
 
         const res = await fetch(`${API_BASE}?geo=Canada&product=${encodeURIComponent(decodedSlug)}`);
 

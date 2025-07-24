@@ -1,5 +1,5 @@
 "use client";
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import LoadingSpinner from '../components/LoadingSpinner';
 import PriceCard from '../components/PriceCard';
 import StreakCard from '../components/StreakCard';
@@ -10,6 +10,7 @@ import {
     TablePlaceholder
 } from '../components/LoadingPlaceholder';
 import ProgressiveLoading from '../components/ProgressiveLoading';
+import { getApiBaseUrl } from '../lib/api';
 
 // Cache duration in milliseconds (24 hours)
 const CACHE_DURATION = 24 * 60 * 60 * 1000;
@@ -174,12 +175,7 @@ export default function HomePage({ initialData = null }) {
             setLoading(true);
             setError(null);
             try {
-                let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
-
-                // Ensure the URL has a protocol
-                if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
-                    API_BASE = `https://${API_BASE}`;
-                }
+                const API_BASE = getApiBaseUrl();
 
                 const [priceRes, streakRes, allChangesRes] = await Promise.all([
                     fetch(`${API_BASE}/price-changes?geo=${encodeURIComponent(region)}&limit=3`),

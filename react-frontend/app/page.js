@@ -1,6 +1,7 @@
 import { Suspense } from 'react';
 import HomePage from '../components/HomePage';
 import HomePagePlaceholder from '../components/LoadingPlaceholder';
+import { getApiBaseUrl } from '../lib/api';
 
 export const metadata = {
   title: 'Canadian Grocery Index - Track Food Prices in Canada',
@@ -13,12 +14,7 @@ export const revalidate = 86400; // 24 hours in seconds
 // Pre-fetch data at build time and on revalidation
 async function getHomePageData() {
   try {
-    let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
-
-    // Ensure the URL has a protocol
-    if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
-      API_BASE = `https://${API_BASE}`;
-    }
+    const API_BASE = getApiBaseUrl();
 
     // Fetch all data in parallel
     const [priceRes, streakRes, allChangesRes] = await Promise.all([

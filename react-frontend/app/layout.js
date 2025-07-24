@@ -1,6 +1,5 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
-import Head from 'next/head';
 import Header from '../components/Header';
 import ServiceWorkerRegistration from '../components/ServiceWorkerRegistration';
 
@@ -14,26 +13,33 @@ const geistMono = Geist_Mono({
   subsets: ["latin"],
 });
 
+export const metadata = {
+  title: 'Canadian Grocery Index',
+  description: 'Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada.',
+  openGraph: {
+    title: 'Canadian Grocery Index',
+    description: 'Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada.',
+    type: 'website',
+    url: 'https://grocery-index.example.com/',
+    images: ['/file.svg'],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Canadian Grocery Index',
+    description: 'Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada.',
+    images: ['/file.svg'],
+  },
+};
+
 export default function RootLayout({ children }) {
   return (
     <html lang="en">
-      <Head>
-        <title>Canadian Grocery Index</title>
-        <meta name="description" content="Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada." />
-        <meta property="og:title" content="Canadian Grocery Index" />
-        <meta property="og:description" content="Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada." />
-        <meta property="og:type" content="website" />
-        <meta property="og:url" content="https://grocery-index.example.com/" />
-        <meta property="og:image" content="/file.svg" />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:title" content="Canadian Grocery Index" />
-        <meta name="twitter:description" content="Track Canadian grocery prices, trends, and streaks. Visualize price changes for food products across Canada." />
-        <meta name="twitter:image" content="/file.svg" />
+      <head>
         {/* Performance optimizations */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="dns-prefetch" href="//localhost:3000" />
-      </Head>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >

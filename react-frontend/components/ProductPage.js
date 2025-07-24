@@ -1,8 +1,9 @@
 "use client";
-import React, { useEffect, useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import LoadingSpinner from '../components/LoadingSpinner';
 import PriceChart from '../components/PriceChart';
 import { useParams } from 'next/navigation';
+import { getApiBaseUrl } from '../lib/api';
 
 export default function ProductPage({ initialData = [] }) {
     const params = useParams();
@@ -81,7 +82,8 @@ export default function ProductPage({ initialData = [] }) {
             setLoading(true);
             setError(null);
             try {
-                const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+                const API_BASE = getApiBaseUrl();
+
                 const res = await fetch(`${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(decodedSlug)}`);
                 if (!res.ok) throw new Error('Failed to fetch data');
                 const data = await res.json();

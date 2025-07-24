@@ -7,7 +7,6 @@ const API_CACHE_NAME = 'grocery-index-api-v1';
 // URLs to cache immediately
 const STATIC_ASSETS = [
     '/',
-    '/favicon.ico',
     '/next.svg',
     '/vercel.svg',
     '/file.svg',
@@ -15,14 +14,15 @@ const STATIC_ASSETS = [
     '/window.svg'
 ];
 
-// API endpoints to cache
+// API endpoints to cache - use the actual external API URL
+const API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';
 const API_ENDPOINTS = [
-    '/api/statcan/price-changes?geo=Canada&limit=3',
-    '/api/statcan/streaks?geo=Canada&limit=3',
-    '/api/statcan/all-price-changes?geo=Canada'
+    `${API_BASE_URL}/price-changes?geo=Canada&limit=3`,
+    `${API_BASE_URL}/streaks?geo=Canada&limit=3`,
+    `${API_BASE_URL}/all-price-changes?geo=Canada`
 ];
 
-// Install event - cache static assets
+// Install event - cache static assets only
 self.addEventListener('install', (event) => {
     console.log('Service Worker installing...');
     event.waitUntil(
@@ -33,6 +33,10 @@ self.addEventListener('install', (event) => {
             })
             .then(() => {
                 console.log('Service Worker installed');
+                return self.skipWaiting();
+            })
+            .catch((error) => {
+                console.error('Service Worker installation failed:', error);
                 return self.skipWaiting();
             })
     );
@@ -63,8 +67,8 @@ self.addEventListener('fetch', (event) => {
     const { request } = event;
     const url = new URL(request.url);
 
-    // Handle API requests
-    if (url.pathname.startsWith('/api/statcan/')) {
+    // Handle external API requests
+    if (url.hostname === 'grocery-index-api.nicklina.com' && url.pathname.startsWith('/api/statcan/')) {
         event.respondWith(handleApiRequest(request));
         return;
     }
@@ -156,6 +160,8 @@ async function updateCache() {
             if (response.ok) {
                 await cache.put(endpoint, response);
                 console.log('Updated cache for:', endpoint);
+            } else {
+                console.log('Failed to update cache for:', endpoint, 'Status:', response.status);
             }
         } catch (error) {
             console.log('Failed to update cache for:', endpoint, error);

@@ -1,6 +1,7 @@
 "use client";
-import React, { useEffect, useState, useRef } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import { useRouter } from 'next/navigation';
+import { getApiBaseUrl } from '../lib/api';
 import Link from 'next/link';
 
 export default function Header() {
@@ -50,12 +51,7 @@ export default function Header() {
     useEffect(() => {
         async function fetchProducts() {
             try {
-                let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
-
-                // Ensure the URL has a protocol
-                if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
-                    API_BASE = `https://${API_BASE}`;
-                }
+                const API_BASE = getApiBaseUrl();
 
                 const res = await fetch(`${API_BASE}/products`);
                 const data = await res.json();

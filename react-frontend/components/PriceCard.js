@@ -3,6 +3,7 @@ import React, { useEffect, useState } from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import PriceChart from './PriceChart';
 import { ChartPlaceholder } from './LoadingPlaceholder';
+import { getApiBaseUrl } from '../lib/api';
 
 export default function PriceCard({ product, changePercent, currentPrice, className = '' }) {
     const router = useRouter();
@@ -28,7 +29,8 @@ export default function PriceCard({ product, changePercent, currentPrice, classN
         async function fetchHistory() {
             setLoading(true);
             try {
-                const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+                const API_BASE = getApiBaseUrl();
+
                 const res = await fetch(`${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(product)}`);
                 if (!res.ok) throw new Error('Failed to fetch history');
                 const data = await res.json();
