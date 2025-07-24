@@ -174,7 +174,13 @@ export default function HomePage({ initialData = null }) {
             setLoading(true);
             setError(null);
             try {
-                const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+                let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+
+                // Ensure the URL has a protocol
+                if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
+                    API_BASE = `https://${API_BASE}`;
+                }
+
                 const [priceRes, streakRes, allChangesRes] = await Promise.all([
                     fetch(`${API_BASE}/price-changes?geo=${encodeURIComponent(region)}&limit=3`),
                     fetch(`${API_BASE}/streaks?geo=${encodeURIComponent(region)}&limit=3`),

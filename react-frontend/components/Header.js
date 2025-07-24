@@ -50,7 +50,13 @@ export default function Header() {
     useEffect(() => {
         async function fetchProducts() {
             try {
-                const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+                let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+
+                // Ensure the URL has a protocol
+                if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
+                    API_BASE = `https://${API_BASE}`;
+                }
+
                 const res = await fetch(`${API_BASE}/products`);
                 const data = await res.json();
                 setProducts(data.products || []);
