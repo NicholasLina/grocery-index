@@ -4,20 +4,38 @@ export const metadata = {
 };
 
 import ProductPage from '../../../components/ProductPage';
+import { FALLBACK_PRODUCTS } from '../../../lib/products';
 
 // Generate static paths for all products at build time
 export async function generateStaticParams() {
+
     try {
-        const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+        let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+
+        // Ensure the URL has a protocol
+        if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
+            API_BASE = `https://${API_BASE}`;
+        }
+
         const res = await fetch(`${API_BASE}/products`);
 
         if (!res.ok) {
             console.warn('Failed to fetch products for static generation, using fallback');
-            return [];
+            return FALLBACK_PRODUCTS.map((product) => ({
+                slug: encodeURIComponent(product),
+            }));
         }
 
         const data = await res.json();
         const products = data.products || [];
+
+        // If no products returned, use fallback
+        if (products.length === 0) {
+            console.warn('No products returned from API, using fallback');
+            return FALLBACK_PRODUCTS.map((product) => ({
+                slug: encodeURIComponent(product),
+            }));
+        }
 
         // Generate params for each product
         return products.map((product) => ({
@@ -25,7 +43,10 @@ export async function generateStaticParams() {
         }));
     } catch (error) {
         console.warn('Error generating static params for products:', error);
-        return [];
+        // Return fallback products instead of empty array
+        return FALLBACK_PRODUCTS.map((product) => ({
+            slug: encodeURIComponent(product),
+        }));
     }
 }
 
@@ -33,17 +54,24 @@ export async function generateStaticParams() {
 async function getProductData(slug) {
     try {
         const decodedSlug = decodeURIComponent(slug);
-        const API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+        let API_BASE = process.env.NEXT_PUBLIC_API_BASE_URL || 'http://localhost:3000/api/statcan';
+
+        // Ensure the URL has a protocol
+        if (API_BASE && !API_BASE.startsWith('http://') && !API_BASE.startsWith('https://')) {
+            API_BASE = `https://${API_BASE}`;
+        }
+
         const res = await fetch(`${API_BASE}?geo=Canada&product=${encodeURIComponent(decodedSlug)}`);
 
         if (!res.ok) {
-            throw new Error('Failed to fetch product data');
+            console.warn(`Failed to fetch data for ${decodedSlug}, will load client-side`);
+            return [];
         }
 
         const data = await res.json();
         return data || [];
     } catch (error) {
-        console.error('Error fetching product data for static generation:', error);
+        console.warn(`Error fetching data for ${decodedSlug} during build, will load client-side:`, error);
         return [];
     }
 }
