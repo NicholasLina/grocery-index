@@ -68,7 +68,7 @@ self.addEventListener('fetch', (event) => {
     const url = new URL(request.url);
 
     // Handle external API requests
-    if (url.hostname === 'grocery-index-api.nicklina.com' && url.pathname.startsWith('/api/statcan/')) {
+    if (url.hostname === 'https://grocery-index-api.nicklina.com' && url.pathname.startsWith('/api/statcan/')) {
         event.respondWith(handleApiRequest(request));
         return;
     }
