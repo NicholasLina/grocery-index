@@ -12,45 +12,6 @@ import {
 import ProgressiveLoading from '../components/ProgressiveLoading';
 import { getApiBaseUrl } from '../lib/api';
 
-// Cache duration in milliseconds (24 hours)
-const CACHE_DURATION = 24 * 60 * 60 * 1000;
-
-// Cache utility functions
-const cacheUtils = {
-    set: (key, data) => {
-        if (typeof window !== 'undefined') {
-            const cacheData = {
-                data,
-                timestamp: Date.now()
-            };
-            localStorage.setItem(key, JSON.stringify(cacheData));
-        }
-    },
-
-    get: (key) => {
-        if (typeof window !== 'undefined') {
-            const cached = localStorage.getItem(key);
-            if (cached) {
-                const { data, timestamp } = JSON.parse(cached);
-                if (Date.now() - timestamp < CACHE_DURATION) {
-                    return data;
-                }
-                // Cache expired, remove it
-                localStorage.removeItem(key);
-            }
-        }
-        return null;
-    },
-
-    clear: (key) => {
-        if (typeof window !== 'undefined') {
-            localStorage.removeItem(key);
-        }
-    }
-};
-
-
-
 export default function HomePage({ initialData = null }) {
     const [gainers, setGainers] = useState(initialData?.gainers || []);
     const [losers, setLosers] = useState(initialData?.losers || []);
@@ -68,6 +29,21 @@ export default function HomePage({ initialData = null }) {
     useEffect(() => {
         setIsClient(true);
     }, []);
+
+    // Clean up any existing cached data on mount
+    useEffect(() => {
+        if (!isClient) return;
+
+        // Remove any existing cached data keys
+        const keysToRemove = [];
+        for (let i = 0; i < localStorage.length; i++) {
+            const key = localStorage.key(i);
+            if (key && key.startsWith('homepage_data_')) {
+                keysToRemove.push(key);
+            }
+        }
+        keysToRemove.forEach(key => localStorage.removeItem(key));
+    }, [isClient]);
 
     // Load region from localStorage only on client
     useEffect(() => {
@@ -91,23 +67,6 @@ export default function HomePage({ initialData = null }) {
 
     useEffect(() => {
         async function fetchData() {
-            // Check cache first
-            const cacheKey = `homepage_data_${region}`;
-            const cachedData = cacheUtils.get(cacheKey);
-
-            if (cachedData) {
-                setGainers(cachedData.gainers || []);
-                setLosers(cachedData.losers || []);
-                setStreaks(cachedData.streaks || []);
-                setAllProductChanges(cachedData.allProductChanges || []);
-                setLoading(false);
-                setAllProductChangesLoading(false);
-                setError(null);
-                setAllProductChangesError(null);
-                setShowContent(true);
-                return;
-            }
-
             setLoading(true);
             setError(null);
             try {
@@ -133,9 +92,6 @@ export default function HomePage({ initialData = null }) {
                     streaks: streakData.streaks || [],
                     allProductChanges: allChangesData.products || []
                 };
-
-                // Cache the data
-                cacheUtils.set(cacheKey, data);
 
                 setGainers(data.gainers);
                 setLosers(data.losers);
