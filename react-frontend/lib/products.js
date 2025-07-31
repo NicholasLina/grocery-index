@@ -1,5 +1,7 @@
+const { createSlugMapping } = require('./slugUtils.js');
+
 // Static fallback products list for build-time generation
-export const FALLBACK_PRODUCTS = [
+const FALLBACK_PRODUCTS = [
     'Apples, per kilogram',
     'Bananas, per kilogram',
     'Bread, 675 grams',
@@ -144,4 +146,12 @@ export const FALLBACK_PRODUCTS = [
     'Plant-based plant mascarpone, 250 grams',
     'Plant-based plant halloumi, 250 grams',
     'Plant-based plant paneer, 500 grams'
-]; 
+];
+
+// Create slug mapping for fallback products
+const FALLBACK_SLUG_MAPPING = createSlugMapping(FALLBACK_PRODUCTS);
+
+module.exports = {
+    FALLBACK_PRODUCTS,
+    FALLBACK_SLUG_MAPPING
+}; 

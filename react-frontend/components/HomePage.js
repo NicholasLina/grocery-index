@@ -153,6 +153,18 @@ export default function HomePage({ initialData = null }) {
         }
     }, []);
 
+    // Listen for region changes from header
+    useEffect(() => {
+        function handleRegionChange(event) {
+            setRegion(event.detail.region);
+        }
+
+        if (typeof window !== 'undefined') {
+            window.addEventListener('regionChanged', handleRegionChange);
+            return () => window.removeEventListener('regionChanged', handleRegionChange);
+        }
+    }, []);
+
     useEffect(() => {
         async function fetchData() {
             // Check cache first

@@ -4,14 +4,21 @@ import LoadingSpinner from '../components/LoadingSpinner';
 import PriceChart from '../components/PriceChart';
 import { useParams } from 'next/navigation';
 import { getApiBaseUrl } from '../lib/api';
+import { getProductFromSlug, createSlugMapping } from '../lib/slugUtils';
+import { FALLBACK_SLUG_MAPPING } from '../lib/products';
 
 export default function ProductPage({ initialData = [] }) {
     const params = useParams();
     const slug = params?.slug;
-    const decodedSlug = slug ? decodeURIComponent(slug) : '';
-    // Split the decoded slug by the first comma
-    const [mainTitle, ...subtitleParts] = decodedSlug.split(/,(.+)/); // split only on the first comma
+
+    // Get product name from slug
+    const [productName, setProductName] = useState('');
+    const [slugMapping, setSlugMapping] = useState(FALLBACK_SLUG_MAPPING);
+
+    // Split the product name by the first comma
+    const [mainTitle, ...subtitleParts] = productName.split(/,(.+)/); // split only on the first comma
     const subtitle = subtitleParts.length > 0 ? subtitleParts[0].trim() : null;
+
     const [history, setHistory] = useState(initialData);
     const [loading, setLoading] = useState(initialData.length === 0);
     const [error, setError] = useState(null);
@@ -77,14 +84,64 @@ export default function ProductPage({ initialData = [] }) {
         }
     }, []);
 
+    // Listen for region changes from header
+    useEffect(() => {
+        function handleRegionChange(event) {
+            setRegion(event.detail.region);
+        }
+
+        if (typeof window !== 'undefined') {
+            window.addEventListener('regionChanged', handleRegionChange);
+            return () => window.removeEventListener('regionChanged', handleRegionChange);
+        }
+    }, []);
+
+    // Resolve product name from slug
+    useEffect(() => {
+        if (!slug) return;
+
+        // First try fallback mapping
+        let resolvedProduct = getProductFromSlug(slug, FALLBACK_SLUG_MAPPING);
+
+        if (resolvedProduct) {
+            setProductName(resolvedProduct);
+            return;
+        }
+
+        // If not found in fallback, try to fetch from API
+        async function fetchProductMapping() {
+            try {
+                const API_BASE = getApiBaseUrl();
+                const res = await fetch(`${API_BASE}/products`);
+                if (res.ok) {
+                    const data = await res.json();
+                    const products = data.products || [];
+                    const newSlugMapping = createSlugMapping(products);
+                    setSlugMapping(newSlugMapping);
+
+                    const product = getProductFromSlug(slug, newSlugMapping);
+                    if (product) {
+                        setProductName(product);
+                    }
+                }
+            } catch (error) {
+                console.warn('Failed to fetch product mapping:', error);
+            }
+        }
+
+        fetchProductMapping();
+    }, [slug]);
+
     useEffect(() => {
         async function fetchData() {
+            if (!productName) return;
+
             setLoading(true);
             setError(null);
             try {
                 const API_BASE = getApiBaseUrl();
 
-                const res = await fetch(`${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(decodedSlug)}`);
+                const res = await fetch(`${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(productName)}`);
                 if (!res.ok) throw new Error('Failed to fetch data');
                 const data = await res.json();
                 setHistory(data || []);
@@ -96,10 +153,10 @@ export default function ProductPage({ initialData = [] }) {
             }
         }
         // Only fetch if we don't have initial data or if region changed from Canada
-        if (slug && (initialData.length === 0 || region !== 'Canada')) {
+        if (productName && (initialData.length === 0 || region !== 'Canada')) {
             fetchData();
         }
-    }, [slug, region, decodedSlug, initialData.length]);
+    }, [productName, region, initialData.length]);
 
     return (
         <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">

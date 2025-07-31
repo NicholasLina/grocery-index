@@ -2,6 +2,7 @@ import React from 'react';
 import { useRouter, usePathname } from 'next/navigation';
 import PriceChart from './PriceChart';
 import { ChartPlaceholder } from './LoadingPlaceholder';
+import { productToSlug } from '../lib/slugUtils';
 
 export default function StreakCard({ product, streakLength, streakType, className = '', data }) {
     // Split product into main title and subtitle
@@ -10,7 +11,7 @@ export default function StreakCard({ product, streakLength, streakType, classNam
 
     const lineColor = streakType === 'increase' ? '#dc2626' : '#16a34a';
     const router = useRouter();
-    const slug = encodeURIComponent(product);
+    const slug = productToSlug(product);
     const pathname = usePathname();
     const isOnProductPage = pathname === `/product/${slug}`;
 
@@ -22,23 +23,36 @@ export default function StreakCard({ product, streakLength, streakType, classNam
 
     return (
         <div
-            className={`bg-white rounded shadow p-4 flex flex-col items-center cursor-pointer hover:bg-blue-50 hover:shadow-lg transition-all duration-200 ${className}`}
+            className={`bg-white rounded-lg shadow-md p-4 cursor-pointer transition-transform hover:scale-105 hover:shadow-lg ${className} ${isOnProductPage ? 'ring-2 ring-blue-500' : ''}`}
             onClick={handleClick}
-            tabIndex={0}
-            role="button"
-            aria-label={`View details for ${product}`}
-            onKeyDown={e => { if (e.key === 'Enter' || e.key === ' ') handleClick(); }}
         >
-            <div className="font-bold text-lg text-blue-900">{mainTitle}</div>
-            {subtitle && <div className="text-md font-medium text-blue-700">{subtitle}</div>}
-            <div className={streakType === 'increase' ? 'text-red-600' : 'text-green-600'}>
-                {streakType === 'increase' ? '\u25b2' : '\u25bc'} {streakLength} month streak
+            <div className="flex justify-between items-start mb-3">
+                <div className="flex-1">
+                    <h3 className="font-semibold text-gray-900 text-lg">{mainTitle}</h3>
+                    {subtitle && <p className="text-gray-600 text-sm">{subtitle}</p>}
+                </div>
+                <div className="text-right ml-4">
+                    <div className={`text-lg font-bold ${streakType === 'increase' ? 'text-red-600' : 'text-green-600'}`}>
+                        {streakLength} {streakLength === 1 ? 'month' : 'months'}
+                    </div>
+                    <div className={`text-sm font-medium ${streakType === 'increase' ? 'text-red-600' : 'text-green-600'}`}>
+                        {streakType === 'increase' ? 'Increasing' : 'Decreasing'}
+                    </div>
+                </div>
             </div>
-            <div className="w-full mt-2">
-                {Array.isArray(data) && data.length > 1 ? (
-                    <PriceChart data={data} interactive={false} showGrid={false} showAxes={false} height="96px" lineColor={lineColor} />
+
+            <div className="h-24">
+                {data && data.length > 0 ? (
+                    <PriceChart
+                        data={data.slice(-12)}
+                        showAxes={false}
+                        showGrid={false}
+                        interactive={false}
+                        height="96px"
+                        lineColor={lineColor}
+                    />
                 ) : (
-                    <ChartPlaceholder height="96px" />
+                    <ChartPlaceholder />
                 )}
             </div>
         </div>
