@@ -15,15 +15,16 @@ export default function StreakCard({ product, streakLength, streakType, classNam
     const pathname = usePathname();
     const isOnProductPage = pathname === `/product/${slug}`;
 
-    function handleClick() {
-        if (!isOnProductPage) {
-            router.push(`/product/${slug}`);
+    function handleClick(e) {
+        if (isOnProductPage) {
+            e.preventDefault();
         }
     }
 
     return (
-        <div
-            className={`bg-white rounded-lg shadow-md p-4 cursor-pointer transition-transform hover:scale-105 hover:shadow-lg ${className} ${isOnProductPage ? 'ring-2 ring-blue-500' : ''}`}
+        <a
+            href={`/product/${slug}`}
+            className={`bg-white rounded-lg shadow-md p-4 cursor-pointer transition-transform hover:scale-105 hover:shadow-lg block no-underline ${className} ${isOnProductPage ? 'ring-2 ring-blue-500' : ''}`}
             onClick={handleClick}
         >
             <div className="flex justify-between items-start mb-3">
@@ -55,6 +56,6 @@ export default function StreakCard({ product, streakLength, streakType, classNam
                     <ChartPlaceholder />
                 )}
             </div>
-        </div>
+        </a>
     );
 } 
