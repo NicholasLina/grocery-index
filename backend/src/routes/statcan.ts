@@ -28,7 +28,7 @@ const cacheMiddleware = (duration: number = 86400) => {
  * MongoDB Schema for StatCan price data
  * 
  * Represents the structure of grocery price data from Statistics Canada.
- * Maps to the 'statcan' collection in MongoDB.
+ * Maps to the 'table_18100245' collection in MongoDB.
  */
 const StatCanSchema = new mongoose.Schema({
   /** Reference date in YYYY-MM format */
@@ -41,7 +41,7 @@ const StatCanSchema = new mongoose.Schema({
   VECTOR: String,
   /** Price value (can be mixed type due to StatCan data format) */
   VALUE: mongoose.Schema.Types.Mixed,
-}, { collection: process.env.STATCAN_COLLECTION || 'statcan' });
+}, { collection: process.env.STATCAN_COLLECTION || 'table_18100245' });
 
 /**
  * MongoDB Schema for pre-calculated price changes
