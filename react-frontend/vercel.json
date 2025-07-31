@@ -4,11 +4,6 @@
     "devCommand": "npm run dev",
     "installCommand": "npm ci",
     "framework": "nextjs",
-    "functions": {
-        "app/**/*.js": {
-            "runtime": "nodejs20.x"
-        }
-    },
     "env": {
         "NEXT_PUBLIC_API_BASE_URL": "https://grocery-index-api.nicklina.com/api/statcan"
     },
