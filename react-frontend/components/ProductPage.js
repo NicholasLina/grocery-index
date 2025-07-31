@@ -107,13 +107,18 @@ export default function ProductPage({ initialData = [] }) {
     useEffect(() => {
         if (!slug) return;
 
+        console.log('🔍 Resolving product name from slug:', slug);
+
         // First try fallback mapping
         let resolvedProduct = getProductFromSlug(slug, FALLBACK_SLUG_MAPPING);
 
         if (resolvedProduct) {
+            console.log('✅ Found product in fallback mapping:', resolvedProduct);
             setProductName(resolvedProduct);
             return;
         }
+
+        console.log('⚠️ Product not found in fallback mapping, trying API...');
 
         // If not found in fallback, try to fetch from API
         async function fetchProductMapping() {
@@ -123,16 +128,22 @@ export default function ProductPage({ initialData = [] }) {
                 if (res.ok) {
                     const data = await res.json();
                     const products = data.products || [];
+                    console.log('📦 Available products from API:', products.length);
+
                     const newSlugMapping = createSlugMapping(products);
                     setSlugMapping(newSlugMapping);
 
                     const product = getProductFromSlug(slug, newSlugMapping);
                     if (product) {
+                        console.log('✅ Found product in API mapping:', product);
                         setProductName(product);
+                    } else {
+                        console.error('❌ Product not found in API mapping for slug:', slug);
+                        console.log('🔍 Available slugs:', Object.keys(newSlugMapping).slice(0, 10));
                     }
                 }
             } catch (error) {
-                console.warn('Failed to fetch product mapping:', error);
+                console.error('❌ Failed to fetch product mapping:', error);
             }
         }
 
@@ -147,13 +158,23 @@ export default function ProductPage({ initialData = [] }) {
             setError(null);
             try {
                 const API_BASE = getApiBaseUrl();
+                const url = `${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(productName)}`;
 
-                const res = await fetch(`${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(productName)}`);
-                if (!res.ok) throw new Error('Failed to fetch data');
+                console.log('🔍 Fetching data from:', url);
+                console.log('📦 Product name:', productName);
+                console.log('🌍 Region:', region);
+
+                const res = await fetch(url);
+                if (!res.ok) throw new Error(`Failed to fetch data: ${res.status} ${res.statusText}`);
                 const data = await res.json();
+
+                console.log('📊 Received data:', data);
+                console.log('📈 Data length:', data ? data.length : 0);
+
                 setHistory(data || []);
             } catch (err) {
-                setError('Failed to load product data. Please try again later.');
+                console.error('❌ Error fetching data:', err);
+                setError(`Failed to load product data: ${err.message}`);
                 setHistory([]);
             } finally {
                 setLoading(false);
@@ -197,7 +218,18 @@ export default function ProductPage({ initialData = [] }) {
                 </div>
             </div>
             {/* Error message */}
-            {error && <div className="mb-4 p-3 bg-red-100 text-red-700 rounded">{error}</div>}
+            {error && (
+                <div className="mb-4 p-3 bg-red-100 text-red-700 rounded">
+                    <div className="font-semibold mb-2">Error loading product data</div>
+                    <div className="text-sm">{error}</div>
+                    {history.length === 0 && productName && (
+                        <div className="mt-2 text-sm">
+                            <div>Product: <code className="bg-gray-200 px-1 rounded">{productName}</code></div>
+                            <div>Region: <code className="bg-gray-200 px-1 rounded">{region}</code></div>
+                        </div>
+                    )}
+                </div>
+            )}
             {loading ? <LoadingSpinner /> : (
                 <>
                     {/* Summary Card */}
@@ -270,7 +302,23 @@ export default function ProductPage({ initialData = [] }) {
                     {/* Paginated Table Section */}
                     <section className="mb-8">
                         <h2 className="text-lg font-semibold mb-2 text-blue-800">Historical Data Table</h2>
-                        <PaginatedHistoryTable history={history} />
+                        {history.length === 0 ? (
+                            <div className="p-4 bg-yellow-50 border border-yellow-200 rounded">
+                                <div className="text-yellow-800 font-semibold mb-2">No data found</div>
+                                <div className="text-sm text-yellow-700">
+                                    <div>Product: <code className="bg-yellow-100 px-1 rounded">{productName}</code></div>
+                                    <div>Region: <code className="bg-yellow-100 px-1 rounded">{region}</code></div>
+                                    <div className="mt-2">This could mean:</div>
+                                    <ul className="list-disc list-inside mt-1 space-y-1">
+                                        <li>The product name doesn't match the database exactly</li>
+                                        <li>No data is available for this product/region combination</li>
+                                        <li>There's an issue with the API connection</li>
+                                    </ul>
+                                </div>
+                            </div>
+                        ) : (
+                            <PaginatedHistoryTable history={history} />
+                        )}
                     </section>
                 </>
             )}

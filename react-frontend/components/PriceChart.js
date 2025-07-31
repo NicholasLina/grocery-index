@@ -38,7 +38,14 @@ export default function PriceChart({ data, interactive = true, showGrid = true, 
     }
 
     if (!Array.isArray(data) || data.length === 0) {
-        return showPlaceholder ? <ChartPlaceholder height={height} /> : null;
+        return showPlaceholder ? (
+            <div className="flex items-center justify-center" style={{ height }}>
+                <div className="text-center text-gray-500">
+                    <div className="text-sm font-medium">No data available</div>
+                    <div className="text-xs">Price history not found</div>
+                </div>
+            </div>
+        ) : null;
     }
     // Defensive: ensure VALUE is a number
     const chartData = data.map(row => ({
