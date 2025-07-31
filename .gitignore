@@ -105,3 +105,7 @@ Thumbs.db
 # TypeScript
 *.tsbuildinfo
 next-env.d.ts 
+
+# StatCan
+statcan_18100245_extracted/
+statcan_18100245.csv
