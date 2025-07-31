@@ -11,7 +11,8 @@
     "build": "next build",
     "build:static": "npm ci && next build",
     "start": "next start --port 5000",
-    "lint": "next lint"
+    "lint": "next lint",
+    "vercel-build": "next build"
   },
   "dependencies": {
     "next": "15.4.2",

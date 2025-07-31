@@ -1,11 +1,14 @@
 /** @type {import('next').NextConfig} */
 const nextConfig = {
-    // Enable static export
-    output: 'export',
+    // Vercel optimizations
+    // Remove static export for full Next.js features
+    // output: 'export', // Keep commented out for Vercel
 
-    // Disable image optimization for static export
+    // Enable image optimization for better performance
     images: {
-        unoptimized: true,
+        unoptimized: false, // Enable image optimization
+        domains: [], // Add your image domains here
+        formats: ['image/webp', 'image/avif'], // Modern image formats
     },
 
     // Disable trailing slash for cleaner URLs
@@ -17,7 +20,7 @@ const nextConfig = {
     // Asset prefix for static hosting
     assetPrefix: '',
 
-    // Disable server-side features that don't work with static export
+    // Enable server-side features
     serverExternalPackages: [],
 
     // Webpack configuration for better compatibility
@@ -32,6 +35,19 @@ const nextConfig = {
         }
         return config;
     },
+
+    // Enable experimental features for better performance
+    experimental: {
+        // Enable server actions if needed
+        serverActions: true,
+        // Optimize bundle size
+        optimizePackageImports: ['recharts'],
+    },
+
+    // Vercel-specific optimizations
+    compress: true,
+    poweredByHeader: false,
+    generateEtags: false,
 };
 
 export default nextConfig;
