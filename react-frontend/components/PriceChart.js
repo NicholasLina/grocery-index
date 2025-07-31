@@ -47,13 +47,28 @@ export default function PriceChart({ data, interactive = true, showGrid = true, 
             </div>
         ) : null;
     }
-    // Defensive: ensure VALUE is a number
-    const chartData = data.map(row => ({
-        ...row,
-        VALUE: Number(row.VALUE),
-    }));
+    // Defensive: ensure VALUE is a number and filter out rows without REF_DATE
+    const chartData = data
+        .filter(row => row.REF_DATE) // Only include rows with dates
+        .map(row => ({
+            ...row,
+            VALUE: Number(row.VALUE),
+        }));
     // Calculate min and max for Y axis
     const values = chartData.map(d => d.VALUE).filter(v => !isNaN(v));
+
+    // If no valid data after filtering, show placeholder
+    if (values.length === 0) {
+        return showPlaceholder ? (
+            <div className="flex items-center justify-center" style={{ height }}>
+                <div className="text-center text-gray-500">
+                    <div className="text-sm font-medium">No date data available</div>
+                    <div className="text-xs">Price history missing date information</div>
+                </div>
+            </div>
+        ) : null;
+    }
+
     const minY = Math.min(...values);
     const maxY = Math.max(...values);
     // Add a small padding if min==max

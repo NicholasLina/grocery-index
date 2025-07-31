@@ -16,7 +16,7 @@ export default function ProductPage({ initialData = [] }) {
     const [slugMapping, setSlugMapping] = useState(FALLBACK_SLUG_MAPPING);
 
     // Split the product name by the first comma
-    const [mainTitle, ...subtitleParts] = productName.split(/,(.+)/); // split only on the first comma
+    const [mainTitle, ...subtitleParts] = (productName || '').split(/,(.+)/); // split only on the first comma
     const subtitle = subtitleParts.length > 0 ? subtitleParts[0].trim() : null;
 
     const [history, setHistory] = useState(initialData);
@@ -31,14 +31,38 @@ export default function ProductPage({ initialData = [] }) {
 
     // --- Extracted summary values for top display ---
     const values = history.map(row => Number(row.VALUE)).filter(v => !isNaN(v));
-    const dates = history.map(row => row.REF_DATE);
+    const dates = history.map(row => row.REF_DATE).filter(date => date); // Filter out undefined/null dates
     // Find min/max date in data for default range
     const minDate = dates.length ? dates[0] : '';
     const maxDate = dates.length ? dates[dates.length - 1] : '';
 
+    console.log('📊 History data summary:', {
+        historyLength: history.length,
+        valuesLength: values.length,
+        datesLength: dates.length,
+        minDate,
+        maxDate
+    });
+
     // Helper to subtract months from YYYY-MM string
     function subtractMonths(ym, n) {
-        const [year, month] = ym.split('-').map(Number);
+        if (!ym || typeof ym !== 'string') {
+            console.error('❌ Invalid date format for subtractMonths:', ym);
+            return '';
+        }
+
+        const parts = ym.split('-');
+        if (parts.length !== 2) {
+            console.error('❌ Invalid date format for subtractMonths:', ym);
+            return '';
+        }
+
+        const [year, month] = parts.map(Number);
+        if (isNaN(year) || isNaN(month)) {
+            console.error('❌ Invalid year or month for subtractMonths:', ym);
+            return '';
+        }
+
         const date = new Date(year, month - 1, 1);
         date.setMonth(date.getMonth() - n);
         const y = date.getFullYear();
@@ -48,9 +72,15 @@ export default function ProductPage({ initialData = [] }) {
 
     // Set default range when data loads or preset changes
     React.useEffect(() => {
-        if (!dates.length) return;
+        if (!dates.length || !minDate || !maxDate) {
+            console.log('⚠️ No valid dates found, skipping date range setup');
+            return;
+        }
         let newStart = minDate;
         let newEnd = maxDate;
+
+        console.log('📅 Setting date range:', { rangePreset, minDate, maxDate, datesLength: dates.length });
+
         if (rangePreset === '1y') {
             newStart = subtractMonths(maxDate, 12);
             if (newStart < minDate) newStart = minDate;
@@ -63,6 +93,8 @@ export default function ProductPage({ initialData = [] }) {
         } else if (rangePreset === 'all') {
             newStart = minDate;
         }
+
+        console.log('📅 New date range:', { newStart, newEnd });
         setStartDate(newStart);
         setEndDate(newEnd);
     }, [history, rangePreset, dates.length, maxDate, minDate]);
@@ -70,12 +102,25 @@ export default function ProductPage({ initialData = [] }) {
     // Filtered history for chart
     const filteredHistory = React.useMemo(() => {
         if (!startDate || !endDate) return history;
-        return history.filter(row => row.REF_DATE >= startDate && row.REF_DATE <= endDate);
+
+        console.log('🔍 Filtering history:', { startDate, endDate, historyLength: history.length });
+
+        const filtered = history.filter(row => {
+            // Skip rows without REF_DATE
+            if (!row.REF_DATE) return false;
+            return row.REF_DATE >= startDate && row.REF_DATE <= endDate;
+        });
+
+        console.log('📊 Filtered history length:', filtered.length);
+
+        return filtered;
     }, [history, startDate, endDate]);
     const last = values.length ? values[values.length - 1] : null;
     const lastDate = dates.length ? dates[dates.length - 1] : null;
     const first = values.length ? values[0] : null;
-    const percentChange = (first && last) ? ((last - first) / first) * 100 : null;
+    const percentChange = (first && last && first !== 0) ? ((last - first) / first) * 100 : null;
+
+    console.log('📈 Summary calculations:', { last, lastDate, first, percentChange });
     // --- End extracted summary values ---
 
     // Mark as client-side after hydration
@@ -111,6 +156,9 @@ export default function ProductPage({ initialData = [] }) {
 
         // First try fallback mapping
         let resolvedProduct = getProductFromSlug(slug, FALLBACK_SLUG_MAPPING);
+
+        console.log('🔍 Looking for slug:', slug);
+        console.log('📦 Available fallback slugs:', Object.keys(FALLBACK_SLUG_MAPPING).slice(0, 10));
 
         if (resolvedProduct) {
             console.log('✅ Found product in fallback mapping:', resolvedProduct);
@@ -181,7 +229,7 @@ export default function ProductPage({ initialData = [] }) {
             }
         }
         // Only fetch if we don't have initial data or if region changed from Canada
-        if (productName && (initialData.length === 0 || region !== 'Canada')) {
+        if (productName && productName.trim() && (initialData.length === 0 || region !== 'Canada')) {
             fetchData();
         }
     }, [productName, region, initialData.length]);
@@ -195,12 +243,24 @@ export default function ProductPage({ initialData = [] }) {
         );
     }
 
+    // Show loading state while product name is being resolved
+    if (!productName) {
+        return (
+            <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
+                <div className="text-center py-8">
+                    <LoadingSpinner />
+                    <div className="mt-4 text-gray-600">Loading product information...</div>
+                </div>
+            </main>
+        );
+    }
+
     return (
         <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
             {/* Top section: Product name and summary */}
             <div className="flex flex-col sm:flex-row sm:justify-between text-center sm:text-left mb-2 gap-2">
                 <div>
-                    <h1 className="text-2xl font-bold text-blue-900">{mainTitle}</h1>
+                    <h1 className="text-2xl font-bold text-blue-900">{mainTitle || 'Loading...'}</h1>
                     {subtitle && <h2 className="text-md font-medium text-blue-700">{subtitle}</h2>}
                 </div>
                 {/* Most Recent Price and % Change */}
@@ -314,6 +374,16 @@ export default function ProductPage({ initialData = [] }) {
                                         <li>No data is available for this product/region combination</li>
                                         <li>There's an issue with the API connection</li>
                                     </ul>
+                                </div>
+                            </div>
+                        ) : dates.length === 0 ? (
+                            <div className="p-4 bg-orange-50 border border-orange-200 rounded">
+                                <div className="text-orange-800 font-semibold mb-2">Data found but missing date information</div>
+                                <div className="text-sm text-orange-700">
+                                    <div>Product: <code className="bg-orange-100 px-1 rounded">{productName}</code></div>
+                                    <div>Region: <code className="bg-orange-100 px-1 rounded">{region}</code></div>
+                                    <div>Records found: <code className="bg-orange-100 px-1 rounded">{history.length}</code></div>
+                                    <div className="mt-2">The data exists but is missing date fields. This is likely a database issue in production.</div>
                                 </div>
                             </div>
                         ) : (
