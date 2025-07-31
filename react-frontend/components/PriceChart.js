@@ -1,4 +1,5 @@
-import React, { useId } from 'react';
+"use client";
+import React, { useId, useState, useEffect } from 'react';
 import {
     LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer, CartesianGrid, Area
 } from 'recharts';
@@ -22,8 +23,19 @@ function CustomTooltip({ active, payload, label }) {
 }
 
 export default function PriceChart({ data, interactive = true, showGrid = true, showAxes = true, height = '18rem', lineColor = '#2563eb', debugAreaSolid = false, showPlaceholder = true }) {
+    const [isClient, setIsClient] = useState(false);
+
     // Unique gradient id per chart instance - always call useId first
     const gradientId = useId();
+
+    // Mark as client-side after hydration
+    useEffect(() => {
+        setIsClient(true);
+    }, []);
+
+    if (!isClient) {
+        return showPlaceholder ? <ChartPlaceholder height={height} /> : null;
+    }
 
     if (!Array.isArray(data) || data.length === 0) {
         return showPlaceholder ? <ChartPlaceholder height={height} /> : null;

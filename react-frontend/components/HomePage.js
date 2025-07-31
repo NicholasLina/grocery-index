@@ -145,25 +145,32 @@ export default function HomePage({ initialData = null }) {
     const [allProductChangesLoading, setAllProductChangesLoading] = useState(!initialData);
     const [showContent, setShowContent] = useState(!!initialData);
     const [allProductChangesError, setAllProductChangesError] = useState(null);
+    const [isClient, setIsClient] = useState(false);
 
+    // Mark as client-side after hydration
     useEffect(() => {
-        if (typeof window !== 'undefined') {
-            const stored = localStorage.getItem('region');
-            if (stored) setRegion(stored);
-        }
+        setIsClient(true);
     }, []);
+
+    // Load region from localStorage only on client
+    useEffect(() => {
+        if (!isClient) return;
+
+        const stored = localStorage.getItem('region');
+        if (stored) setRegion(stored);
+    }, [isClient]);
 
     // Listen for region changes from header
     useEffect(() => {
+        if (!isClient) return;
+
         function handleRegionChange(event) {
             setRegion(event.detail.region);
         }
 
-        if (typeof window !== 'undefined') {
-            window.addEventListener('regionChanged', handleRegionChange);
-            return () => window.removeEventListener('regionChanged', handleRegionChange);
-        }
-    }, []);
+        window.addEventListener('regionChanged', handleRegionChange);
+        return () => window.removeEventListener('regionChanged', handleRegionChange);
+    }, [isClient]);
 
     useEffect(() => {
         async function fetchData() {
@@ -235,6 +242,15 @@ export default function HomePage({ initialData = null }) {
             fetchData();
         }
     }, [region, initialData]);
+
+    // Don't render until client-side hydration is complete
+    if (!isClient) {
+        return (
+            <main className="max-w-4xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
+                <LoadingSpinner />
+            </main>
+        );
+    }
 
     return (
         <main className="max-w-4xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">

@@ -27,6 +27,7 @@ export default function ProductPage({ initialData = [] }) {
     const [rangePreset, setRangePreset] = useState('all'); // '1y', '3y', '5y', 'all'
     const [startDate, setStartDate] = useState('');
     const [endDate, setEndDate] = useState('');
+    const [isClient, setIsClient] = useState(false);
 
     // --- Extracted summary values for top display ---
     const values = history.map(row => Number(row.VALUE)).filter(v => !isNaN(v));
@@ -77,24 +78,30 @@ export default function ProductPage({ initialData = [] }) {
     const percentChange = (first && last) ? ((last - first) / first) * 100 : null;
     // --- End extracted summary values ---
 
+    // Mark as client-side after hydration
     useEffect(() => {
-        if (typeof window !== 'undefined') {
-            const stored = localStorage.getItem('region');
-            if (stored) setRegion(stored);
-        }
+        setIsClient(true);
     }, []);
+
+    // Load region from localStorage only on client
+    useEffect(() => {
+        if (!isClient) return;
+
+        const stored = localStorage.getItem('region');
+        if (stored) setRegion(stored);
+    }, [isClient]);
 
     // Listen for region changes from header
     useEffect(() => {
+        if (!isClient) return;
+
         function handleRegionChange(event) {
             setRegion(event.detail.region);
         }
 
-        if (typeof window !== 'undefined') {
-            window.addEventListener('regionChanged', handleRegionChange);
-            return () => window.removeEventListener('regionChanged', handleRegionChange);
-        }
-    }, []);
+        window.addEventListener('regionChanged', handleRegionChange);
+        return () => window.removeEventListener('regionChanged', handleRegionChange);
+    }, [isClient]);
 
     // Resolve product name from slug
     useEffect(() => {
@@ -157,6 +164,15 @@ export default function ProductPage({ initialData = [] }) {
             fetchData();
         }
     }, [productName, region, initialData.length]);
+
+    // Don't render until client-side hydration is complete
+    if (!isClient) {
+        return (
+            <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
+                <LoadingSpinner />
+            </main>
+        );
+    }
 
     return (
         <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">

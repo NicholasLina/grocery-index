@@ -1,9 +1,18 @@
 "use client";
-import { useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
 export default function ServiceWorkerRegistration() {
+    const [isClient, setIsClient] = useState(false);
+
+    // Mark as client-side after hydration
     useEffect(() => {
-        if (typeof window !== 'undefined' && 'serviceWorker' in navigator) {
+        setIsClient(true);
+    }, []);
+
+    useEffect(() => {
+        if (!isClient) return;
+
+        if ('serviceWorker' in navigator) {
             // Register service worker
             navigator.serviceWorker
                 .register('/sw.js')
@@ -32,7 +41,7 @@ export default function ServiceWorkerRegistration() {
                 // window.location.reload();
             });
         }
-    }, []);
+    }, [isClient]);
 
     return null; // This component doesn't render anything
 } 
