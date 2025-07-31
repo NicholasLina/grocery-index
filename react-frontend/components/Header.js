@@ -1,19 +1,15 @@
 "use client";
-import React, { useState, useEffect, useRef } from 'react';
+import React, { useState, useEffect } from 'react';
 import { useRouter } from 'next/navigation';
 import Link from 'next/link';
 import { getApiBaseUrl } from '../lib/api';
-import { productToSlug } from '../lib/slugUtils';
+import SearchModal from './SearchModal';
 
 export default function Header() {
     const [products, setProducts] = useState([]);
-    const [query, setQuery] = useState('');
-    const [filtered, setFiltered] = useState([]);
-    const [dropdownOpen, setDropdownOpen] = useState(false);
     const [region, setRegion] = useState('Canada');
-    const [searchExpanded, setSearchExpanded] = useState(false);
     const [isClient, setIsClient] = useState(false);
-    const searchRef = useRef();
+    const [isSearchModalOpen, setIsSearchModalOpen] = useState(false);
     const router = useRouter();
 
     // Mark as client-side after hydration
@@ -37,10 +33,7 @@ export default function Header() {
         fetchProducts();
     }, []);
 
-    useEffect(() => {
-        if (!query) setFiltered([]);
-        else setFiltered(products.filter(p => p.toLowerCase().includes(query.toLowerCase())).slice(0, 8));
-    }, [query, products]);
+
 
     // Load region from localStorage only on client
     useEffect(() => {
@@ -59,33 +52,7 @@ export default function Header() {
         window.dispatchEvent(new CustomEvent('regionChanged', { detail: { region } }));
     }, [region, isClient]);
 
-    // Close dropdown on outside click
-    useEffect(() => {
-        if (!isClient) return;
 
-        function handleClickOutside(event) {
-            if (searchRef.current && !searchRef.current.contains(event.target)) {
-                setDropdownOpen(false);
-                setSearchExpanded(false);
-                setQuery('');
-                setFiltered([]);
-            }
-        }
-        if (dropdownOpen || searchExpanded) {
-            document.addEventListener('mousedown', handleClickOutside);
-        } else {
-            document.removeEventListener('mousedown', handleClickOutside);
-        }
-        return () => document.removeEventListener('mousedown', handleClickOutside);
-    }, [dropdownOpen, searchExpanded, isClient]);
-
-    function handleSelect(product) {
-        const slug = productToSlug(product);
-        setQuery('');
-        setFiltered([]);
-        setSearchExpanded(false);
-        router.push(`/product/${slug}`);
-    }
 
     const regions = [
         { value: 'Canada', label: 'Canada' },
@@ -177,67 +144,26 @@ export default function Header() {
                             </select>
                         </div>
 
-                        {/* Search Bar */}
-                        <div className="relative" ref={searchRef}>
-                            {searchExpanded ? (
-                                <div className="relative w-80">
-                                    <input
-                                        type="text"
-                                        placeholder="Search for a product..."
-                                        value={query}
-                                        onChange={(e) => {
-                                            setQuery(e.target.value);
-                                            setDropdownOpen(e.target.value.length > 0);
-                                        }}
-                                        onFocus={() => setDropdownOpen(query.length > 0)}
-                                        className="w-full px-4 py-2 pl-10 text-gray-900 bg-white rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500"
-                                        autoFocus
-                                    />
-                                    <div className="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
-                                        <svg className="h-5 w-5 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                                        </svg>
-                                    </div>
-                                </div>
-                            ) : (
-                                <button
-                                    onClick={() => setSearchExpanded(true)}
-                                    className="p-2 text-white hover:bg-blue-800 rounded-lg transition-colors"
-                                    aria-label="Search for products"
-                                >
-                                    <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                        <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
-                                    </svg>
-                                </button>
-                            )}
-
-                            {/* Dropdown Results */}
-                            {dropdownOpen && filtered.length > 0 && (
-                                <div className="absolute z-50 w-full mt-1 bg-white rounded-lg shadow-lg border border-gray-200 max-h-60 overflow-y-auto">
-                                    {filtered.map((product, index) => (
-                                        <button
-                                            key={index}
-                                            onClick={() => handleSelect(product)}
-                                            className="w-full px-4 py-2 text-left text-gray-900 hover:bg-blue-50 focus:bg-blue-50 focus:outline-none"
-                                        >
-                                            {product}
-                                        </button>
-                                    ))}
-                                </div>
-                            )}
-
-                            {/* No Results */}
-                            {dropdownOpen && query && filtered.length === 0 && (
-                                <div className="absolute z-50 w-full mt-1 bg-white rounded-lg shadow-lg border border-gray-200">
-                                    <div className="px-4 py-2 text-gray-500">
-                                        No products found for &quot;{query}&quot;
-                                    </div>
-                                </div>
-                            )}
-                        </div>
+                        {/* Search Button */}
+                        <button
+                            onClick={() => setIsSearchModalOpen(true)}
+                            className="p-2 text-white hover:bg-blue-800 rounded-lg transition-colors"
+                            aria-label="Search for products"
+                        >
+                            <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+                            </svg>
+                        </button>
                     </div>
                 </div>
             </div>
+
+            {/* Search Modal */}
+            <SearchModal
+                isOpen={isSearchModalOpen}
+                onClose={() => setIsSearchModalOpen(false)}
+                products={products}
+            />
         </header>
     );
 } 
