@@ -90,7 +90,7 @@ export default function PriceChart({ data, interactive = true, showGrid = true, 
                     {showAxes && <YAxis tick={{ fontSize: 12 }} domain={yDomain} />}
                     {!showAxes && <YAxis hide domain={yDomain} />}
                     {interactive && <Tooltip content={<CustomTooltip />} />}
-                    <Line type="monotone" dataKey="VALUE" stroke={lineColor} dot={false} isAnimationActive={interactive} activeDot={interactive} />
+                    <Line dataKey="VALUE" stroke={lineColor} dot={false} isAnimationActive={interactive} activeDot={interactive} />
                 </LineChart>
             </ResponsiveContainer>
         </div>
