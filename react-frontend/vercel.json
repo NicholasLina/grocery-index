@@ -24,6 +24,23 @@
                     "value": "1; mode=block"
                 }
             ]
+        },
+        {
+            "source": "/:path*\\.(css|js|mjs|ts|tsx|jsx)",
+            "headers": [
+                {
+                    "key": "Cache-Control",
+                    "value": "no-cache, no-store, must-revalidate"
+                },
+                {
+                    "key": "Pragma",
+                    "value": "no-cache"
+                },
+                {
+                    "key": "Expires",
+                    "value": "0"
+                }
+            ]
         }
     ],
     "rewrites": [

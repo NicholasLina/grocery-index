@@ -1,10 +1,10 @@
 // Service Worker for Canadian Grocery Index
 // Caches API responses and static assets for better performance
 
-const CACHE_NAME = 'grocery-index-v1';
-const API_CACHE_NAME = 'grocery-index-api-v1';
+const CACHE_NAME = 'grocery-index-v2';
+const API_CACHE_NAME = 'grocery-index-api-v2';
 
-// URLs to cache immediately
+// URLs to cache immediately (excluding CSS and JS files to prevent styling issues)
 const STATIC_ASSETS = [
     '/',
     '/next.svg',
@@ -13,6 +13,9 @@ const STATIC_ASSETS = [
     '/globe.svg',
     '/window.svg'
 ];
+
+// File extensions that should NOT be cached to prevent styling issues
+const NO_CACHE_EXTENSIONS = ['.css', '.js', '.mjs', '.ts', '.tsx', '.jsx'];
 
 // API endpoints to cache - use the actual external API URL
 const API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';
@@ -118,9 +121,27 @@ async function handleApiRequest(request) {
 
 // Handle static asset requests
 async function handleStaticRequest(request) {
+    const url = new URL(request.url);
+
+    // Check if this is a file that should not be cached (CSS, JS, etc.)
+    const shouldNotCache = NO_CACHE_EXTENSIONS.some(ext =>
+        url.pathname.toLowerCase().includes(ext)
+    );
+
+    // For CSS, JS, and other development files, always fetch from network
+    if (shouldNotCache) {
+        try {
+            const networkResponse = await fetch(request);
+            return networkResponse;
+        } catch (error) {
+            console.error('Failed to fetch uncached resource:', request.url, error);
+            throw error;
+        }
+    }
+
     const cache = await caches.open(CACHE_NAME);
 
-    // Try cache first for static assets
+    // Try cache first for static assets (only for non-CSS/JS files)
     const cachedResponse = await cache.match(request);
     if (cachedResponse) {
         return cachedResponse;
