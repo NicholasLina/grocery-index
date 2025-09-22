@@ -127,7 +127,7 @@ export default function HomePage({ initialData = null }) {
 
     return (
         <main className="max-w-4xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
-            <h2 className="text-black mb-10">Welcome to the <b>Canadian Grocery Index!</b> This tool uses data from <a href="https://www.statcan.gc.ca/en/topics-start/food-price" className="text-blue-800 underline hover:bg-amber-200">Statistics Canada</a> to help you understand and visualise changes in grocery prices in order to make informed decisions on your food purchases.</h2>
+            <h2 className="text-black mb-10">Welcome to the <b>Canadian Grocery Index!</b> This tool uses data from <a href="https://www.statcan.gc.ca/en/topics-start/food-price" className="text-gray-800 underline hover:bg-amber-200">Statistics Canada</a> to help you understand and visualise changes in grocery prices in order to make informed decisions on your food purchases.</h2>
             {error && <div className="mb-4 p-3 bg-red-100 text-red-700 rounded">{error}</div>}
             <ProgressiveLoading
                 gainers={gainers}

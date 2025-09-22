@@ -58,14 +58,14 @@ function SortableProductTable({ data, loading, error }) {
 
     return (
         <div className="overflow-x-auto mt-12">
-            <h2 className="text-xl font-semibold mb-2 text-blue-800">All Products: Monthly & Yearly Price Changes</h2>
+            <h2 className="text-xl font-semibold mb-2 text-gray-800">All Products: Monthly & Yearly Price Changes</h2>
             <table className="min-w-full bg-white rounded shadow overflow-hidden">
                 <thead>
-                    <tr className="bg-blue-100">
+                    <tr className="bg-gray-100">
                         {columns.map(col => (
                             <th
                                 key={col.key}
-                                className="px-4 py-2 text-left text-gray-900 cursor-pointer select-none hover:bg-blue-200"
+                                className="px-4 py-2 text-left text-gray-900 cursor-pointer select-none hover:bg-gray-200"
                                 onClick={() => handleSort(col.key)}
                             >
                                 {col.label}
@@ -109,7 +109,7 @@ export const ProgressiveLoading = ({
             <div className="space-y-8">
                 {/* Biggest Price Increases section */}
                 <section className="mb-8">
-                    <h2 className="text-xl font-semibold mb-2 text-blue-800">Biggest Price Increases</h2>
+                    <h2 className="text-xl font-semibold mb-2 text-gray-800">Biggest Price Increases</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         {Array.from({ length: 3 }).map((_, index) => (
                             <PriceCardPlaceholder key={index} />
@@ -119,7 +119,7 @@ export const ProgressiveLoading = ({
 
                 {/* Biggest Discounts section */}
                 <section className="mb-8">
-                    <h2 className="text-xl font-semibold mb-2 text-blue-800">Biggest Discounts</h2>
+                    <h2 className="text-xl font-semibold mb-2 text-gray-800">Biggest Discounts</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         {Array.from({ length: 3 }).map((_, index) => (
                             <PriceCardPlaceholder key={index} />
@@ -129,7 +129,7 @@ export const ProgressiveLoading = ({
 
                 {/* Longest Price Streaks section */}
                 <section>
-                    <h2 className="text-xl font-semibold mb-2 text-blue-800">Longest Price Streaks</h2>
+                    <h2 className="text-xl font-semibold mb-2 text-gray-800">Longest Price Streaks</h2>
                     <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                         {Array.from({ length: 3 }).map((_, index) => (
                             <StreakCardPlaceholder key={index} />
@@ -147,7 +147,7 @@ export const ProgressiveLoading = ({
         <div className="space-y-8">
             {/* Biggest Price Increases section */}
             <section className="mb-8">
-                <h2 className="text-xl font-semibold mb-2 text-blue-800">Biggest Price Increases</h2>
+                <h2 className="text-xl font-semibold mb-2 text-gray-800">Biggest Price Increases</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {gainers.length > 0 ? (
                         gainers.map((item) => (
@@ -163,7 +163,7 @@ export const ProgressiveLoading = ({
 
             {/* Biggest Discounts section */}
             <section className="mb-8">
-                <h2 className="text-xl font-semibold mb-2 text-blue-800">Biggest Discounts</h2>
+                <h2 className="text-xl font-semibold mb-2 text-gray-800">Biggest Discounts</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {losers.length > 0 ? (
                         losers.map((item) => (
@@ -179,7 +179,7 @@ export const ProgressiveLoading = ({
 
             {/* Longest Price Streaks section */}
             <section>
-                <h2 className="text-xl font-semibold mb-2 text-blue-800">Longest Price Streaks</h2>
+                <h2 className="text-xl font-semibold mb-2 text-gray-800">Longest Price Streaks</h2>
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {streaks.length > 0 ? (
                         streaks.map((item) => (

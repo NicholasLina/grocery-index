@@ -1,9 +1,31 @@
+"""
+StatCan Data Import and Price Analysis Script
+
+This script downloads the latest grocery price data from Statistics Canada,
+imports it into MongoDB, and automatically recalculates price changes and streaks.
+
+Features:
+- Downloads latest StatCan data (Table 18100245)
+- Imports data into MongoDB with proper indexing
+- Calculates month-over-month price changes
+- Calculates consecutive price increase/decrease streaks
+- Updates price_changes and price_streaks collections
+
+Usage:
+    python download-table-1810024502.py
+
+Configuration:
+    Set RECALCULATE_PRICE_CHANGES = False to skip calculations
+    Set MONGODB_URI environment variable for database connection
+"""
+
 import requests
 import zipfile
 import pandas as pd
 import os
 from pymongo import MongoClient, errors
 import bson
+from datetime import datetime
 
 # Load environment variables from .env file if it exists
 try:
@@ -16,6 +38,174 @@ except ImportError:
 TABLE_ID = "18100245"
 LANG = "en"
 api_url = f"https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/{TABLE_ID}/{LANG}"
+
+# Configuration options
+RECALCULATE_PRICE_CHANGES = True  # Set to False to skip price change calculations
+
+def calculate_and_store_price_changes(client, db_name, collection_name, geo):
+    """
+    Calculate and store price changes and streaks for all products in a geographic location.
+    This function replicates the logic from the backend TypeScript code.
+    """
+    print(f"🔄 Calculating price changes and streaks for {geo}...")
+    
+    db = client[db_name]
+    statcan_collection = db[collection_name]
+    price_changes_collection = db['price_changes']
+    price_streaks_collection = db['price_streaks']
+    
+    try:
+        # Get all products for this geographic location
+        products = statcan_collection.distinct('Products', {'GEO': geo})
+        print(f"📦 Found {len(products)} products for {geo}")
+        
+        processed_count = 0
+        
+        # Process each product
+        for product in products:
+            try:
+                # Get all price data for this product in this region, sorted by date
+                price_data = list(statcan_collection.find({
+                    'GEO': geo,
+                    'Products': product
+                }).sort('REF_DATE', 1))
+                
+                # Need at least 2 data points to calculate a change
+                if len(price_data) < 2:
+                    print(f"⚠️ Insufficient data for {product} in {geo} ({len(price_data)} points)")
+                    continue
+                
+                # Get the two most recent data points
+                current = price_data[-1]
+                previous = price_data[-2]
+                
+                # Ensure we have valid numeric values
+                current_price = float(current['VALUE']) if current['VALUE'] is not None else None
+                previous_price = float(previous['VALUE']) if previous['VALUE'] is not None else None
+                
+                if current_price is None or previous_price is None or previous_price == 0:
+                    print(f"⚠️ Invalid price data for {product} in {geo}")
+                    continue
+                
+                # Calculate changes
+                change = current_price - previous_price
+                change_percent = (change / previous_price) * 100
+                
+                # Create or update the price change record
+                price_change_doc = {
+                    'product': product,
+                    'geo': geo,
+                    'currentPrice': current_price,
+                    'previousPrice': previous_price,
+                    'change': change,
+                    'changePercent': change_percent,
+                    'currentDate': current['REF_DATE'],
+                    'previousDate': previous['REF_DATE'],
+                    'lastUpdated': datetime.now()
+                }
+                
+                price_changes_collection.replace_one(
+                    {'product': product, 'geo': geo},
+                    price_change_doc,
+                    upsert=True
+                )
+                
+                # --- Streak Calculation ---
+                current_streak = 1
+                streak_type = None
+                streak_start_idx = len(price_data) - 1
+                
+                for i in range(len(price_data) - 1, 0, -1):
+                    current_val = float(price_data[i]['VALUE']) if price_data[i]['VALUE'] is not None else None
+                    previous_val = float(price_data[i-1]['VALUE']) if price_data[i-1]['VALUE'] is not None else None
+                    
+                    if current_val is None or previous_val is None:
+                        break
+                    
+                    diff = current_val - previous_val
+                    
+                    if diff > 0:
+                        if streak_type == 'increase' or streak_type is None:
+                            current_streak += 1
+                            streak_type = 'increase'
+                            streak_start_idx = i - 1
+                        else:
+                            break
+                    elif diff < 0:
+                        if streak_type == 'decrease' or streak_type is None:
+                            current_streak += 1
+                            streak_type = 'decrease'
+                            streak_start_idx = i - 1
+                        else:
+                            break
+                    else:
+                        break
+                
+                if current_streak > 1 and streak_type:
+                    # Store streak data
+                    streak_data = []
+                    for i in range(streak_start_idx, len(price_data)):
+                        streak_data.append({
+                            'REF_DATE': price_data[i]['REF_DATE'],
+                            'VALUE': price_data[i]['VALUE']
+                        })
+                    
+                    streak_doc = {
+                        'product': product,
+                        'geo': geo,
+                        'streakLength': current_streak,
+                        'streakType': streak_type,
+                        'data': streak_data,
+                        'lastUpdated': datetime.now()
+                    }
+                    
+                    price_streaks_collection.replace_one(
+                        {'product': product, 'geo': geo},
+                        streak_doc,
+                        upsert=True
+                    )
+                else:
+                    # Remove streak if no current streak
+                    price_streaks_collection.delete_one({'product': product, 'geo': geo})
+                
+                processed_count += 1
+                
+                if processed_count % 10 == 0:
+                    print(f"✅ Processed {processed_count}/{len(products)} products for {geo}")
+                
+            except Exception as err:
+                print(f"❌ Error processing {product} in {geo}: {err}")
+        
+        print(f"✅ Completed price change calculation for {geo}: {processed_count} products processed")
+        return processed_count
+        
+    except Exception as err:
+        print(f"❌ Error calculating price changes for {geo}: {err}")
+        raise err
+
+def recalculate_all_price_changes(client, db_name, collection_name):
+    """
+    Recalculate price changes and streaks for all geographic locations.
+    """
+    print("🔄 Starting recalculation of price changes and streaks...")
+    
+    db = client[db_name]
+    statcan_collection = db[collection_name]
+    
+    # Get all unique geographic locations
+    geos = statcan_collection.distinct('GEO')
+    print(f"🌍 Found {len(geos)} geographic locations: {geos}")
+    
+    total_processed = 0
+    for geo in geos:
+        try:
+            processed = calculate_and_store_price_changes(client, db_name, collection_name, geo)
+            total_processed += processed
+        except Exception as err:
+            print(f"❌ Failed to process {geo}: {err}")
+    
+    print(f"🎉 Recalculation completed! Total products processed: {total_processed}")
+    return total_processed
 
 try:
     print("🚀 Starting StatCan data import process...")
@@ -174,6 +364,32 @@ try:
         print(f"✅ Database: {db_name}.{collection_name}")
         print(f"⏱️ Duration: {duration}")
         print(f"📊 Records per second: {upserted_count / duration.total_seconds():.1f}")
+        
+        # Step 7: Recalculate price changes and streaks (if enabled)
+        if RECALCULATE_PRICE_CHANGES:
+            print("\n" + "=" * 50)
+            print("🔄 Step 7: Recalculating price changes and streaks...")
+            print("=" * 50)
+            
+            try:
+                calculation_start_time = pd.Timestamp.now()
+                total_calculated = recalculate_all_price_changes(client, db_name, collection_name)
+                calculation_end_time = pd.Timestamp.now()
+                calculation_duration = calculation_end_time - calculation_start_time
+                
+                print("-" * 50)
+                print("🎉 CALCULATIONS COMPLETED!")
+                print(f"✅ Total products processed: {total_calculated:,}")
+                print(f"⏱️ Calculation duration: {calculation_duration}")
+                print(f"📊 Products per second: {total_calculated / calculation_duration.total_seconds():.1f}")
+            except Exception as calc_err:
+                print(f"❌ Error during price change calculations: {calc_err}")
+                print("⚠️ Data import was successful, but calculations failed. You may need to run calculations separately.")
+        else:
+            print("\n" + "=" * 50)
+            print("⏭️ Step 7: Skipping price change calculations (RECALCULATE_PRICE_CHANGES=False)")
+            print("=" * 50)
+        
     else:
         print("❌ No records to upsert.")
 

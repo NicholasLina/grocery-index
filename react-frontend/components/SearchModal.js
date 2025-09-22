@@ -92,7 +92,7 @@ export default function SearchModal({ isOpen, onClose, products }) {
                                 value={query}
                                 onChange={(e) => setQuery(e.target.value)}
                                 onKeyDown={handleKeyDown}
-                                className="w-full px-4 py-3 pl-12 text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-lg"
+                                className="w-full px-4 py-3 pl-12 text-gray-900 bg-gray-50 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-500 focus:border-transparent text-lg"
                             />
                             <div className="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none">
                                 <svg className="h-6 w-6 text-gray-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
@@ -111,7 +111,7 @@ export default function SearchModal({ isOpen, onClose, products }) {
                                         <button
                                             key={index}
                                             onClick={() => handleSelect(product)}
-                                            className="w-full px-4 py-3 text-left text-gray-900 hover:bg-blue-50 focus:bg-blue-50 focus:outline-none rounded-lg transition-colors"
+                                            className="w-full px-4 py-3 text-left text-gray-900 hover:bg-gray-50 focus:bg-gray-50 focus:outline-none rounded-lg transition-colors"
                                         >
                                             <div className="font-medium">{product}</div>
                                         </button>

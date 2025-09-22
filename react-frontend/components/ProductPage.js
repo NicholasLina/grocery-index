@@ -370,9 +370,9 @@ export default function ProductPage({ initialData = [] }) {
                                     <div>Region: <code className="bg-yellow-100 px-1 rounded">{region}</code></div>
                                     <div className="mt-2">This could mean:</div>
                                     <ul className="list-disc list-inside mt-1 space-y-1">
-                                        <li>The product name doesn't match the database exactly</li>
+                                        <li>The product name doesn&apos;t match the database exactly</li>
                                         <li>No data is available for this product/region combination</li>
-                                        <li>There's an issue with the API connection</li>
+                                        <li>There&apos;s an issue with the API connection</li>
                                     </ul>
                                 </div>
                             </div>

@@ -74,15 +74,24 @@ export default function Header() {
     // Don't render interactive elements until client-side hydration is complete
     if (!isClient) {
         return (
-            <header className="bg-blue-900 text-white py-4 mb-8 shadow">
+            <header className="bg-black text-white py-4 mb-8 shadow">
                 <div className="container mx-auto px-4">
                     <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                         {/* Logo and Title */}
                         <div className="flex items-center">
                             <Link href="/" className="hover:opacity-80 transition-opacity">
-                                <div>
-                                    <h1 className="text-xl font-bold">Canadian Grocery Index</h1>
-                                    <p className="text-blue-200 text-sm">Track food prices across Canada</p>
+                                <div className="flex items-center gap-3">
+                                    <img
+                                        src="/logo/CGI-Logo.png"
+                                        alt="Canadian Grocery Index"
+                                        width={48}
+                                        height={48}
+                                        className="w-12 h-12 object-contain"
+                                    />
+                                    <div>
+                                        <h1 className="text-xl font-bold">Canadian Grocery Index</h1>
+                                        <p className="text-gray-300 text-sm">Track food prices across Canada</p>
+                                    </div>
                                 </div>
                             </Link>
                         </div>
@@ -110,15 +119,24 @@ export default function Header() {
     }
 
     return (
-        <header className="bg-blue-900 text-white py-4 mb-8 shadow">
+        <header className="bg-black text-white py-4 mb-8 shadow">
             <div className="container mx-auto px-4">
                 <div className="flex flex-col md:flex-row md:items-center md:justify-between gap-4">
                     {/* Logo and Title */}
                     <div className="flex items-center">
                         <Link href="/" className="hover:opacity-80 transition-opacity">
-                            <div>
-                                <h1 className="text-xl font-bold">Canadian Grocery Index</h1>
-                                <p className="text-blue-200 text-sm">Track food prices across Canada</p>
+                            <div className="flex items-center gap-3">
+                                <img
+                                    src="/logo/CGI-Logo.png"
+                                    alt="Canadian Grocery Index"
+                                    width={48}
+                                    height={48}
+                                    className="w-12 h-12 object-contain"
+                                />
+                                <div>
+                                    <h1 className="text-xl font-bold">Canadian Grocery Index</h1>
+                                    <p className="text-gray-300 text-sm">Track food prices across Canada</p>
+                                </div>
                             </div>
                         </Link>
                     </div>
@@ -134,7 +152,7 @@ export default function Header() {
                                 id="region-select"
                                 value={region}
                                 onChange={(e) => setRegion(e.target.value)}
-                                className="px-3 py-1 bg-white text-gray-900 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm"
+                                className="px-3 py-1 bg-white text-gray-900 rounded border border-gray-300 focus:outline-none focus:ring-2 focus:ring-gray-500 text-sm"
                             >
                                 {regions.map((r) => (
                                     <option key={r.value} value={r.value}>
@@ -147,7 +165,7 @@ export default function Header() {
                         {/* Search Button */}
                         <button
                             onClick={() => setIsSearchModalOpen(true)}
-                            className="p-2 text-white hover:bg-blue-800 rounded-lg transition-colors"
+                            className="p-2 text-white hover:bg-gray-800 rounded-lg transition-colors"
                             aria-label="Search for products"
                         >
                             <svg className="h-6 w-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">

@@ -54,7 +54,7 @@ export const ChartPlaceholder = ({ height = "96px" }) => (
     <div className="w-full mt-2" style={{ height }}>
         <div className="w-full h-full bg-gray-50 rounded relative overflow-hidden skeleton-loading">
             {/* Chart area background */}
-            <div className="absolute inset-0 bg-gradient-to-b from-blue-50 to-transparent opacity-30"></div>
+            <div className="absolute inset-0 bg-gradient-to-b from-gray-50 to-transparent opacity-30"></div>
 
             {/* Chart line skeleton - curved path */}
             <div className="absolute inset-0 flex items-center justify-center">
@@ -112,7 +112,7 @@ export const TablePlaceholder = () => (
         <div className="min-w-full bg-white rounded shadow overflow-hidden">
             <table className="min-w-full">
                 <thead>
-                    <tr className="bg-blue-100">
+                    <tr className="bg-gray-100">
                         <th className="px-4 py-2 text-left">
                             <Skeleton className="h-4 w-16" />
                         </th>

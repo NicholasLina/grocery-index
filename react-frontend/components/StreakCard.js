@@ -24,7 +24,7 @@ export default function StreakCard({ product, streakLength, streakType, classNam
     return (
         <a
             href={`/product/${slug}`}
-            className={`bg-white rounded-lg shadow-md p-4 cursor-pointer transition-transform hover:scale-105 hover:shadow-lg block no-underline ${className} ${isOnProductPage ? 'ring-2 ring-blue-500' : ''}`}
+            className={`bg-white rounded-lg shadow-md p-4 cursor-pointer transition-transform hover:scale-105 hover:shadow-lg block no-underline ${className} ${isOnProductPage ? 'ring-2 ring-gray-500' : ''}`}
             onClick={handleClick}
         >
             <div className="flex justify-between items-start mb-3">

@@ -39,7 +39,7 @@ const nextConfig = {
     // Enable experimental features for better performance
     experimental: {
         // Enable server actions if needed
-        serverActions: true,
+        serverActions: {},
         // Optimize bundle size
         optimizePackageImports: ['recharts'],
     },
