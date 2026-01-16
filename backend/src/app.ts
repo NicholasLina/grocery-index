@@ -31,12 +31,35 @@ app.use(express.json()); // Parse JSON request bodies
  */
 const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/statcan';
 
-mongoose.connect(mongoUri, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-} as any)
-  .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
-  .catch(err => console.error('❌ MongoDB connection error:', err));
+// Fail fast when MongoDB is unavailable to avoid hanging requests.
+mongoose.set('bufferCommands', false);
+mongoose.set('bufferTimeoutMS', 5000);
+
+if (shouldConnectMongo) {
+  mongoose.connect(mongoUri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+    serverSelectionTimeoutMS: 5000,
+    connectTimeoutMS: 5000,
+  } as any)
+    .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
+    .catch(err => console.error('❌ MongoDB connection error:', err));
+}
+
+// Return a clear error instead of hanging when the DB is unavailable.
+app.use((req, res, next) => {
+  if (!shouldConnectMongo) {
+    return next();
+  }
+  const readyState = mongoose.connection.readyState;
+  if (readyState === 1) {
+    return next();
+  }
+  if (readyState === 2) {
+    return res.status(503).json({ error: 'Database connection in progress' });
+  }
+  return res.status(503).json({ error: 'Database not connected' });
+});
 
 // API Routes
 app.use('/api/statcan', statcanRouter);
