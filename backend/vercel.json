@@ -1,7 +1,15 @@
 {
   "version": 2,
-  "buildCommand": "npm ci && npm run build",
-  "installCommand": "npm ci",
-  "outputDirectory": "dist",
-  "framework": null
+  "builds": [
+    {
+      "src": "api/index.ts",
+      "use": "@vercel/node"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/(.*)",
+      "dest": "api/index.ts"
+    }
+  ]
 }
