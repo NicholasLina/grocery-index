@@ -99,30 +99,55 @@ app.get('/', (_req, res) => {
 const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/statcan';
 const shouldConnectMongo =
   process.env.NODE_ENV !== 'test' && process.env.SKIP_MONGO_CONNECT !== 'true';
+const mongoConnectOptions = {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  serverSelectionTimeoutMS: 5000,
+  connectTimeoutMS: 5000,
+} as any;
+let mongoConnectPromise: Promise<typeof mongoose> | null = null;
 
 // Fail fast when MongoDB is unavailable to avoid hanging requests.
 mongoose.set('bufferCommands', false);
 mongoose.set('bufferTimeoutMS', 5000);
 
+const ensureMongoConnected = async () => {
+  if (!shouldConnectMongo) {
+    return;
+  }
+  const readyState = mongoose.connection.readyState;
+  if (readyState === 1) {
+    return;
+  }
+  if (!mongoConnectPromise) {
+    mongoConnectPromise = mongoose.connect(mongoUri, mongoConnectOptions);
+    mongoConnectPromise
+      .then(() => logger.info(`✅ MongoDB connected successfully to ${mongoUri}`))
+      .catch((err: unknown) => {
+        logger.error({ err }, '❌ MongoDB connection error');
+        mongoConnectPromise = null;
+      });
+  }
+  try {
+    await mongoConnectPromise;
+  } catch {
+    // Errors are already logged above; allow middleware to return a 503.
+  }
+};
+
 if (shouldConnectMongo) {
-  mongoose.connect(mongoUri, {
-    useNewUrlParser: true,
-    useUnifiedTopology: true,
-    serverSelectionTimeoutMS: 5000,
-    connectTimeoutMS: 5000,
-  } as any)
-    .then(() => logger.info(`✅ MongoDB connected successfully to ${mongoUri}`))
-    .catch((err: unknown) => logger.error({ err }, '❌ MongoDB connection error'));
+  void ensureMongoConnected();
 }
 
 // Return a clear error instead of hanging when the DB is unavailable.
-app.use((req, res, next) => {
+app.use(async (req, res, next) => {
   if (!shouldConnectMongo) {
     return next();
   }
   if (req.path === '/') {
     return next();
   }
+  await ensureMongoConnected();
   const readyState = mongoose.connection.readyState;
   if (readyState === 1) {
     return next();
