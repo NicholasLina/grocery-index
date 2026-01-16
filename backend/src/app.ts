@@ -18,9 +18,6 @@ dotenv.config();
 /** Express application instance */
 const app = express();
 
-/** Port number for the server (defaults to 3000) */
-const PORT = process.env.PORT || 3000;
-
 // Middleware configuration
 app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Parse JSON request bodies
@@ -41,11 +38,4 @@ mongoose.connect(mongoUri, {
 // API Routes
 app.use('/api/statcan', statcanRouter);
 
-/**
- * Start the Express server
- * Logs the port number when the server starts successfully
- */
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
-  console.log(`📊 API available at http://localhost:${PORT}/api/statcan`);
-}); 
+export default app;
