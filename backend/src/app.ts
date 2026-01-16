@@ -58,6 +58,9 @@ const httpLogger = pinoHttp({
   },
   serializers: {
     req(req: Request) {
+      const socket = req.socket;
+      const connection = (req as Request & { connection?: { remoteAddress?: string; remotePort?: number } })
+        .connection;
       return {
         id: req.id,
         method: req.method,
@@ -66,8 +69,9 @@ const httpLogger = pinoHttp({
           'x-request-id': req.headers['x-request-id'],
           'user-agent': req.headers['user-agent'],
         },
-        remoteAddress: req.socket.remoteAddress,
-        remotePort: req.socket.remotePort,
+        remoteAddress:
+          socket?.remoteAddress ?? connection?.remoteAddress ?? req.ip,
+        remotePort: socket?.remotePort ?? connection?.remotePort,
       };
     },
   },
