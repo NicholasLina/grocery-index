@@ -18,9 +18,6 @@ dotenv.config();
 /** Express application instance */
 const app = express();
 
-/** Port number for the server (defaults to 3000) */
-const PORT = process.env.PORT || 3000;
-
 // Middleware configuration
 app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Parse JSON request bodies
@@ -30,22 +27,19 @@ app.use(express.json()); // Parse JSON request bodies
  * Connects to MongoDB using the MONGODB_URI environment variable, or defaults to local instance
  */
 const mongoUri = process.env.MONGODB_URI || 'mongodb://localhost:27017/statcan';
+const shouldConnectMongo =
+  process.env.NODE_ENV !== 'test' && process.env.SKIP_MONGO_CONNECT !== 'true';
 
-mongoose.connect(mongoUri, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
-} as any)
-  .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
-  .catch(err => console.error('❌ MongoDB connection error:', err));
+if (shouldConnectMongo) {
+  mongoose.connect(mongoUri, {
+    useNewUrlParser: true,
+    useUnifiedTopology: true,
+  } as any)
+    .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
+    .catch(err => console.error('❌ MongoDB connection error:', err));
+}
 
 // API Routes
 app.use('/api/statcan', statcanRouter);
 
-/**
- * Start the Express server
- * Logs the port number when the server starts successfully
- */
-app.listen(PORT, () => {
-  console.log(`🚀 Server running on port ${PORT}`);
-  console.log(`📊 API available at http://localhost:${PORT}/api/statcan`);
-}); 
+export default app;
