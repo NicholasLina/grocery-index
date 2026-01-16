@@ -14,6 +14,29 @@ import mongoose from 'mongoose';
 /** Express router instance for StatCan routes */
 const router = Router();
 
+/**
+ * GET /api/statcan/health - Basic health check
+ *
+ * Returns MongoDB connection state and a simple status.
+ */
+router.get('/health', (req: Request, res: Response) => {
+  const readyState = mongoose.connection.readyState;
+  const states: Record<number, string> = {
+    0: 'disconnected',
+    1: 'connected',
+    2: 'connecting',
+    3: 'disconnecting',
+  };
+
+  res.json({
+    status: readyState === 1 ? 'ok' : 'degraded',
+    mongo: {
+      readyState,
+      state: states[readyState] ?? 'unknown',
+    },
+  });
+});
+
 // Cache middleware for API responses
 const cacheMiddleware = (duration: number = 86400) => {
   return (req: Request, res: Response, next: Function) => {

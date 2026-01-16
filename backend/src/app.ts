@@ -9,18 +9,79 @@
  */
 
 import express from 'express';
+import type { Request, Response, RequestHandler } from 'express';
 import mongoose from 'mongoose';
 import cors from 'cors';
 import statcanRouter from './routes/statcan';
 import dotenv from 'dotenv';
+import { randomUUID } from 'crypto';
+import pino from 'pino';
+import pinoHttp from 'pino-http';
 dotenv.config();
+
+declare module 'express-serve-static-core' {
+  interface Request {
+    id?: string;
+  }
+}
 
 /** Express application instance */
 const app = express();
 
 // Middleware configuration
-app.use(cors()); // Enable CORS for all routes
-app.use(express.json()); // Parse JSON request bodies
+app.use(cors() as RequestHandler); // Enable CORS for all routes
+app.use(express.json() as RequestHandler); // Parse JSON request bodies
+
+// Structured logger
+const logger = pino({
+  level: process.env.LOG_LEVEL || 'info',
+  redact: {
+    paths: ['req.headers.authorization', 'req.headers.cookie'],
+    remove: true,
+  },
+});
+
+// Structured request logging with correlation IDs
+const httpLogger = pinoHttp({
+  logger,
+  genReqId: (req: Request) => {
+    const existing = req.headers['x-request-id'];
+    if (typeof existing === 'string' && existing.length > 0) {
+      return existing;
+    }
+    return randomUUID();
+  },
+  customLogLevel: (_req: Request, res: Response, err?: Error) => {
+    if (err || res.statusCode >= 500) return 'error';
+    if (res.statusCode >= 400) return 'warn';
+    return 'info';
+  },
+  serializers: {
+    req(req: Request) {
+      return {
+        id: req.id,
+        method: req.method,
+        url: req.url,
+        headers: {
+          'x-request-id': req.headers['x-request-id'],
+          'user-agent': req.headers['user-agent'],
+        },
+        remoteAddress: req.socket.remoteAddress,
+        remotePort: req.socket.remotePort,
+      };
+    },
+  },
+}) as unknown as RequestHandler;
+
+app.use(httpLogger);
+
+// Echo correlation ID back to the client
+app.use((req, res, next) => {
+  if (req.id) {
+    res.setHeader('x-request-id', req.id);
+  }
+  next();
+});
 
 /**
  * MongoDB connection configuration
@@ -41,8 +102,8 @@ if (shouldConnectMongo) {
     serverSelectionTimeoutMS: 5000,
     connectTimeoutMS: 5000,
   } as any)
-    .then(() => console.log(`✅ MongoDB connected successfully to ${mongoUri}`))
-    .catch(err => console.error('❌ MongoDB connection error:', err));
+    .then(() => logger.info(`✅ MongoDB connected successfully to ${mongoUri}`))
+    .catch((err: unknown) => logger.error({ err }, '❌ MongoDB connection error'));
 }
 
 // Return a clear error instead of hanging when the DB is unavailable.
