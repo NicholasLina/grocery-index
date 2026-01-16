@@ -1,11 +1,11 @@
 {
   "name": "statcan-api",
   "version": "1.0.0",
-  "main": "dist/app.js",
+  "main": "dist/server.js",
   "license": "MIT",
   "scripts": {
-    "start": "node dist/app.js",
-    "dev": "nodemon --watch src --exec ts-node src/app.ts",
+    "start": "node dist/server.js",
+    "dev": "nodemon --watch src --exec ts-node src/server.ts",
     "build": "tsc",
     "warmup": "node scripts/cache-warmup.js"
   },
