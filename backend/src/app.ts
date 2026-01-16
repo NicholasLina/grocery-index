@@ -87,6 +87,11 @@ app.use((req, res, next) => {
   next();
 });
 
+// Healthcheck endpoint (no DB dependency)
+app.get('/', (_req, res) => {
+  res.json({ status: 'ok' });
+});
+
 /**
  * MongoDB connection configuration
  * Connects to MongoDB using the MONGODB_URI environment variable, or defaults to local instance
@@ -113,6 +118,9 @@ if (shouldConnectMongo) {
 // Return a clear error instead of hanging when the DB is unavailable.
 app.use((req, res, next) => {
   if (!shouldConnectMongo) {
+    return next();
+  }
+  if (req.path === '/') {
     return next();
   }
   const readyState = mongoose.connection.readyState;
