@@ -206,6 +206,35 @@ npm start        # Start production server
 npm run warmup   # Warm up cache
 ```
 
+### Local Backend Test Process
+
+Use this checklist before deploying the backend to ensure the build is verified locally.
+
+1. **Install dependencies (first time or after updates)**
+   ```bash
+   cd backend
+   npm install
+   ```
+
+2. **Run unit tests**
+   ```bash
+   npm test
+   ```
+
+   **Note**: Tests run without a MongoDB connection by default. If you want to exercise a real
+   database locally, set `SKIP_MONGO_CONNECT=false` and provide `MONGODB_URI`.
+
+3. **Build the server**
+   ```bash
+   npm run build
+   ```
+
+4. **Optional smoke test**
+   ```bash
+   npm start
+   ```
+   Then verify key endpoints locally, for example: `GET /api/statcan/products`
+
 ### Frontend Scripts
 
 ```bash
