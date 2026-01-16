@@ -22,6 +22,16 @@ const app = express();
 app.use(cors()); // Enable CORS for all routes
 app.use(express.json()); // Parse JSON request bodies
 
+// Basic request logging for diagnostics
+app.use((req, res, next) => {
+  const start = Date.now();
+  res.on('finish', () => {
+    const durationMs = Date.now() - start;
+    console.log(`${req.method} ${req.originalUrl} -> ${res.statusCode} (${durationMs}ms)`);
+  });
+  next();
+});
+
 /**
  * MongoDB connection configuration
  * Connects to MongoDB using the MONGODB_URI environment variable, or defaults to local instance
