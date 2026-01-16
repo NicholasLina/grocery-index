@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node dist/server.js",
     "dev": "nodemon --watch src --exec ts-node src/server.ts",
-    "build": "tsc",
+    "build": "tsc -p tsconfig.build.json",
     "warmup": "node scripts/cache-warmup.js",
     "test": "jest --runInBand",
     "test:watch": "jest --watch"
