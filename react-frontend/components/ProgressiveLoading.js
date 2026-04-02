@@ -98,6 +98,7 @@ export const ProgressiveLoading = ({
     gainers = [],
     losers = [],
     streaks = [],
+    trendData = {},
     allProductChanges = [],
     loading = true,
     allProductChangesLoading = true,
@@ -151,7 +152,12 @@ export const ProgressiveLoading = ({
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {gainers.length > 0 ? (
                         gainers.map((item) => (
-                            <PriceCard key={item.product} {...item} className="hover:shadow-lg transition-shadow duration-200" />
+                            <PriceCard
+                                key={item.product}
+                                {...item}
+                                trendData={trendData[item.product] || []}
+                                className="hover:shadow-lg transition-shadow duration-200"
+                            />
                         ))
                     ) : (
                         Array.from({ length: 3 }).map((_, index) => (
@@ -167,7 +173,12 @@ export const ProgressiveLoading = ({
                 <div className="grid grid-cols-1 md:grid-cols-3 gap-4">
                     {losers.length > 0 ? (
                         losers.map((item) => (
-                            <PriceCard key={item.product} {...item} className="hover:shadow-lg transition-shadow duration-200" />
+                            <PriceCard
+                                key={item.product}
+                                {...item}
+                                trendData={trendData[item.product] || []}
+                                className="hover:shadow-lg transition-shadow duration-200"
+                            />
                         ))
                     ) : (
                         Array.from({ length: 3 }).map((_, index) => (

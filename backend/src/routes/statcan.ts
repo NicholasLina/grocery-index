@@ -125,6 +125,49 @@ const parsePositiveInt = (value: unknown, fallback: number): number => {
   return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
 };
 
+type PriceTrendPoint = {
+  REF_DATE: string;
+  VALUE: number;
+};
+
+const getRecentPriceHistoryByProduct = async (
+  geo: string,
+  products: string[],
+  points: number
+): Promise<Map<string, PriceTrendPoint[]>> => {
+  if (products.length === 0 || points <= 0) {
+    return new Map();
+  }
+
+  const rows = await StatCan.find({
+    GEO: geo,
+    Products: { $in: products },
+  })
+    .select({ Products: 1, REF_DATE: 1, VALUE: 1 })
+    .sort({ Products: 1, REF_DATE: 1 })
+    .lean<{ Products: string; REF_DATE: string; VALUE: unknown }[]>();
+
+  const grouped = new Map<string, PriceTrendPoint[]>();
+  rows.forEach((row) => {
+    const numericValue = Number(row.VALUE);
+    if (!row.Products || !row.REF_DATE || !Number.isFinite(numericValue)) {
+      return;
+    }
+    const existing = grouped.get(row.Products) ?? [];
+    existing.push({
+      REF_DATE: row.REF_DATE,
+      VALUE: numericValue,
+    });
+    grouped.set(row.Products, existing);
+  });
+
+  const trimmed = new Map<string, PriceTrendPoint[]>();
+  grouped.forEach((history, product) => {
+    trimmed.set(product, history.slice(-points));
+  });
+  return trimmed;
+};
+
 /**
  * Service function to calculate and store price changes for all products in a region
  * 
@@ -278,6 +321,7 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
 router.get('/price-changes', cacheMiddleware(86400), async (req: Request, res: Response) => {
   const { geo } = req.query;
   const limit = parsePositiveInt(req.query.limit, 3);
+  const trendPoints = parsePositiveInt(req.query.trendPoints, 12);
 
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
@@ -300,19 +344,105 @@ router.get('/price-changes', cacheMiddleware(86400), async (req: Request, res: R
       .limit(limit)
       .lean();
 
+    const products = [
+      ...new Set(
+        [...gainers, ...losers]
+          .map((item) => item.product)
+          .filter((product): product is string => Boolean(product))
+      ),
+    ];
+    const historyByProduct = await getRecentPriceHistoryByProduct(String(geo), products, trendPoints);
+    const withHistory = (item: any) => ({
+      ...item,
+      history: historyByProduct.get(item.product) ?? [],
+    });
+
     console.log(`✅ Found ${gainers.length} gainers and ${losers.length} losers for ${geo}`);
 
     res.json({
       geo,
-      gainers,
-      losers,
+      gainers: gainers.map(withHistory),
+      losers: losers.map(withHistory),
       totalGainers: gainers.length,
-      totalLosers: losers.length
+      totalLosers: losers.length,
+      trendPoints,
     });
 
   } catch (err) {
     console.error('❌ Price changes endpoint error:', err);
     res.status(500).json({ error: 'Failed to fetch price changes', details: err });
+  }
+});
+
+router.get('/product-trends', cacheMiddleware(86400), async (req: Request, res: Response) => {
+  const { geo } = req.query;
+  const limit = parsePositiveInt(req.query.limit, 6);
+  const months = parsePositiveInt(req.query.months ?? req.query.points, 12);
+
+  if (!geo) {
+    return res.status(400).json({ error: 'Geographic location (geo) is required' });
+  }
+
+  try {
+    const topGainers = await PriceChange.find({ geo })
+      .where('changePercent')
+      .gt(0)
+      .sort({ changePercent: -1 })
+      .limit(limit)
+      .select({ product: 1, _id: 0 })
+      .lean<{ product: string }[]>();
+
+    const topLosers = await PriceChange.find({ geo })
+      .where('changePercent')
+      .lt(0)
+      .sort({ changePercent: 1 })
+      .limit(limit)
+      .select({ product: 1, _id: 0 })
+      .lean<{ product: string }[]>();
+
+    const products = [...new Set([...topGainers, ...topLosers].map((item) => item.product).filter(Boolean))];
+
+    if (products.length === 0) {
+      return res.json({ geo, trends: {}, count: 0 });
+    }
+
+    const rows = await StatCan.find({
+      GEO: geo,
+      Products: { $in: products },
+    })
+      .select({ Products: 1, REF_DATE: 1, VALUE: 1, _id: 0 })
+      .sort({ REF_DATE: 1 })
+      .lean<{ Products: string; REF_DATE: string; VALUE: unknown }[]>();
+
+    const trendsByProduct = new Map<string, Array<{ REF_DATE: string; VALUE: number }>>();
+
+    rows.forEach((row) => {
+      if (!row.REF_DATE || !row.Products) {
+        return;
+      }
+      const numericValue = Number(row.VALUE);
+      if (!Number.isFinite(numericValue)) {
+        return;
+      }
+
+      const existing = trendsByProduct.get(row.Products) ?? [];
+      existing.push({ REF_DATE: row.REF_DATE, VALUE: numericValue });
+      trendsByProduct.set(row.Products, existing);
+    });
+
+    const trends = Object.fromEntries(
+      Array.from(trendsByProduct.entries()).map(([product, series]) => [product, series.slice(-months)])
+    );
+
+    return res.json({
+      geo,
+      trends,
+      count: Object.keys(trends).length,
+      months,
+    });
+  } catch (err) {
+    console.error('❌ Product trends endpoint error:', err);
+    return res.status(500).json({ error: 'Failed to fetch product trends', details: err });
   }
 });
 
