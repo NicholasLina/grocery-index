@@ -139,6 +139,16 @@ grocery-index/
    - Frontend: http://localhost:5000
    - Backend API: http://localhost:3000/api/statcan
 
+## 📘 Workflows and Data Schema
+
+- Workflow documentation: [`docs/WORKFLOWS.md`](docs/WORKFLOWS.md)
+- Data schema documentation: [`docs/DATA_SCHEMA.md`](docs/DATA_SCHEMA.md)
+
+These documents describe:
+- how data moves from StatCan into MongoDB and API responses,
+- how to run local ingestion + cache refresh steps,
+- and how to run scheduled scraping automatically via GitHub Actions.
+
 ## 📚 API Documentation
 
 ### Endpoints

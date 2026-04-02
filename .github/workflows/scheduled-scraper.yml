@@ -1,0 +1,45 @@
+name: Scheduled StatCan Scraper
+
+on:
+  schedule:
+    # Runs every day at 05:00 UTC
+    - cron: '0 5 * * *'
+  workflow_dispatch:
+
+jobs:
+  import-data:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+      API_BASE_URL: ${{ secrets.API_BASE_URL }}
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: python -m pip install --upgrade pip pandas pymongo python-dotenv requests
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+          cache-dependency-path: backend/package-lock.json
+
+      - name: Install backend dependencies
+        run: npm ci
+        working-directory: backend
+
+      - name: Import latest StatCan data
+        run: python import-statcan-data.py
+
+      - name: Warm up API-calculated collections
+        run: npm run warmup
+        working-directory: backend
