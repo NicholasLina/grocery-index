@@ -47,13 +47,22 @@ export default function PriceChart({ data, interactive = true, showGrid = true, 
             </div>
         ) : null;
     }
-    // Defensive: ensure VALUE is a number and filter out rows without REF_DATE
+    // Defensive normalization so charts render even if API keys vary by environment.
     const chartData = data
-        .filter(row => row.REF_DATE) // Only include rows with dates
-        .map(row => ({
-            ...row,
-            VALUE: Number(row.VALUE),
-        }));
+        .map((row) => {
+            const date = row?.REF_DATE ?? row?.refDate ?? row?.date ?? row?.x ?? null;
+            const rawValue = row?.VALUE ?? row?.value ?? row?.price ?? row?.y;
+            const value = Number(rawValue);
+            if (!date || !Number.isFinite(value)) {
+                return null;
+            }
+            return {
+                ...row,
+                REF_DATE: String(date),
+                VALUE: value,
+            };
+        })
+        .filter(Boolean);
     // Calculate min and max for Y axis
     const values = chartData.map(d => d.VALUE).filter(v => !isNaN(v));
 

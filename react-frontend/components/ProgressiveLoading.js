@@ -98,12 +98,14 @@ export const ProgressiveLoading = ({
     gainers = [],
     losers = [],
     streaks = [],
-    trendData = {},
+    trendMap = {},
+    trendData = null,
     allProductChanges = [],
     loading = true,
     allProductChangesLoading = true,
     error = null
 }) => {
+    const trendLookup = trendData || trendMap;
     // Show full placeholder if everything is loading or if we have no data at all
     if (loading || (gainers.length === 0 && losers.length === 0 && streaks.length === 0 && allProductChanges.length === 0)) {
         return (
@@ -155,7 +157,7 @@ export const ProgressiveLoading = ({
                             <PriceCard
                                 key={item.product}
                                 {...item}
-                                trendData={trendData[item.product] || []}
+                                trendData={trendLookup[item.product] || item.history || []}
                                 className="hover:shadow-lg transition-shadow duration-200"
                             />
                         ))
@@ -176,7 +178,7 @@ export const ProgressiveLoading = ({
                             <PriceCard
                                 key={item.product}
                                 {...item}
-                                trendData={trendData[item.product] || []}
+                                trendData={trendLookup[item.product] || item.history || []}
                                 className="hover:shadow-lg transition-shadow duration-200"
                             />
                         ))
