@@ -1,7 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from '../components/Header';
-import ServiceWorkerRegistration from '../components/ServiceWorkerRegistration';
+import { RegionProvider } from '../components/RegionProvider';
 
 const geistSans = Geist({
   variable: "--font-geist-sans",
@@ -35,17 +35,16 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <head>
-        {/* Performance optimizations */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
-        <link rel="dns-prefetch" href="//localhost:3000" />
       </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        <Header />
-        {children}
-        <ServiceWorkerRegistration />
+        <RegionProvider>
+          <Header />
+          {children}
+        </RegionProvider>
       </body>
     </html>
   );

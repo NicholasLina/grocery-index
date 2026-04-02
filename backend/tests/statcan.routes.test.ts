@@ -5,6 +5,10 @@ import app from '../src/app';
 describe('StatCan API routes', () => {
     const StatCan = mongoose.model('StatCan') as any;
 
+    afterEach(() => {
+        jest.restoreAllMocks();
+    });
+
     test('GET /api/statcan/price-changes requires geo', async () => {
         const response = await request(app).get('/api/statcan/price-changes');
 
@@ -22,6 +26,15 @@ describe('StatCan API routes', () => {
             products: ['Apples', 'Bananas'],
             count: 2
         });
+    });
+
+    test('GET /api/statcan/regions returns configured regions with count', async () => {
+        const response = await request(app).get('/api/statcan/regions');
+
+        expect(response.status).toBe(200);
+        expect(Array.isArray(response.body.regions)).toBe(true);
+        expect(response.body.count).toBe(response.body.regions.length);
+        expect(response.body.regions).toContain('Canada');
     });
 
     test('GET /api/statcan returns results for geo+product with limit', async () => {

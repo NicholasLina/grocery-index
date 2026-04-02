@@ -47,10 +47,13 @@ const nextConfig = {
     // Vercel-specific optimizations
     compress: true,
     poweredByHeader: false,
-    generateEtags: false,
 
-    // Disable caching for CSS/JS files during development
+    // Disable browser caching for hot-reloaded assets in development only.
     async headers() {
+        if (process.env.NODE_ENV !== 'development') {
+            return [];
+        }
+
         return [
             {
                 source: '/:path*\\.(css|js|mjs|ts|tsx|jsx)',

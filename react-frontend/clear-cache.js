@@ -1,28 +1,19 @@
-// Script to clear service worker cache
-// Run this in the browser console if you need to force clear the cache
+// Legacy helper kept for users that previously registered /sw.js manually.
+// Run this in the browser console once, then refresh.
 
-if ('serviceWorker' in navigator) {
-    // Unregister the current service worker
-    navigator.serviceWorker.getRegistrations().then(function (registrations) {
-        for (let registration of registrations) {
-            registration.unregister();
-            console.log('Service worker unregistered');
-        }
+if ('serviceWorker' in navigator && window.caches) {
+  navigator.serviceWorker.getRegistrations().then((registrations) => {
+    registrations.forEach((registration) => {
+      registration.unregister();
+      console.log('Service worker unregistered');
     });
+  });
 
-    // Clear all caches
-    caches.keys().then(function (cacheNames) {
-        return Promise.all(
-            cacheNames.map(function (cacheName) {
-                console.log('Deleting cache:', cacheName);
-                return caches.delete(cacheName);
-            })
-        );
-    }).then(function () {
-        console.log('All caches cleared');
-        // Reload the page to get fresh content
-        window.location.reload();
+  caches
+    .keys()
+    .then((cacheNames) => Promise.all(cacheNames.map((cacheName) => caches.delete(cacheName))))
+    .then(() => {
+      console.log('All caches cleared');
+      window.location.reload();
     });
-} else {
-    console.log('Service workers not supported');
 }

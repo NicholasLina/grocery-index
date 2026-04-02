@@ -8,45 +8,35 @@ import { FALLBACK_PRODUCTS, FALLBACK_SLUG_MAPPING } from '../../../lib/products'
 import { getApiBaseUrl } from '../../../lib/api';
 import { productToSlug, getProductFromSlug, createSlugMapping } from '../../../lib/slugUtils';
 
-// Generate static paths for all products at build time
-export async function generateStaticParams() {
+const STATIC_PRODUCT_LIMIT = 20;
+
+async function fetchProductsList() {
     try {
         const API_BASE = getApiBaseUrl();
-
         const res = await fetch(`${API_BASE}/products`, {
-            next: { revalidate: 3600 }, // Cache for 1 hour
-            signal: AbortSignal.timeout(10000) // 10 second timeout
+            next: { revalidate: 3600 },
+            signal: AbortSignal.timeout(10000)
         });
 
         if (!res.ok) {
-            console.warn('Failed to fetch products for static generation, using fallback');
-            return FALLBACK_PRODUCTS.slice(0, 20).map((product) => ({
-                slug: productToSlug(product),
-            }));
+            return [];
         }
 
         const data = await res.json();
-        const products = data.products || [];
-
-        // If no products returned, use fallback
-        if (products.length === 0) {
-            console.warn('No products returned from API, using fallback');
-            return FALLBACK_PRODUCTS.slice(0, 20).map((product) => ({
-                slug: productToSlug(product),
-            }));
-        }
-
-        // Generate params for first 20 products to avoid build timeouts
-        return products.slice(0, 20).map((product) => ({
-            slug: productToSlug(product),
-        }));
-    } catch (error) {
-        console.warn('Error generating static params for products:', error);
-        // Return first 20 fallback products instead of empty array
-        return FALLBACK_PRODUCTS.slice(0, 20).map((product) => ({
-            slug: productToSlug(product),
-        }));
+        return data.products || [];
+    } catch (_error) {
+        return [];
     }
+}
+
+// Generate static paths for all products at build time
+export async function generateStaticParams() {
+    const products = await fetchProductsList();
+    const sourceProducts = products.length > 0 ? products : FALLBACK_PRODUCTS;
+
+    return sourceProducts.slice(0, STATIC_PRODUCT_LIMIT).map((product) => ({
+        slug: productToSlug(product),
+    }));
 }
 
 // Fetch data at build time for static generation
@@ -55,24 +45,17 @@ async function getProductData(slug) {
         // Try to get product name from fallback mapping first
         let productName = getProductFromSlug(slug, FALLBACK_SLUG_MAPPING);
 
-        // If not found in fallback, try to fetch from API
+        // If not found in fallback, try to resolve from the API product list
         if (!productName) {
-            const API_BASE = getApiBaseUrl();
-            const res = await fetch(`${API_BASE}/products`, {
-                next: { revalidate: 3600 },
-                signal: AbortSignal.timeout(5000)
-            });
-            if (res.ok) {
-                const data = await res.json();
-                const products = data.products || [];
+            const products = await fetchProductsList();
+            if (products.length > 0) {
                 const slugMapping = createSlugMapping(products);
                 productName = getProductFromSlug(slug, slugMapping);
             }
         }
 
         if (!productName) {
-            console.warn(`Product not found for slug: ${slug}`);
-            return [];
+            return { initialData: [], initialProductName: '' };
         }
 
         const API_BASE = getApiBaseUrl();
@@ -82,21 +65,19 @@ async function getProductData(slug) {
         });
 
         if (!res.ok) {
-            console.warn(`Failed to fetch data for ${productName}, will load client-side`);
-            return [];
+            return { initialData: [], initialProductName: productName };
         }
 
         const data = await res.json();
-        return data || [];
-    } catch (error) {
-        console.warn(`Error fetching data for ${slug} during build, will load client-side:`, error);
-        return [];
+        return { initialData: data || [], initialProductName: productName };
+    } catch (_error) {
+        return { initialData: [], initialProductName: '' };
     }
 }
 
 export default async function Page({ params }) {
     const { slug } = await params;
-    const initialData = await getProductData(slug);
+    const { initialData, initialProductName } = await getProductData(slug);
 
-    return <ProductPage initialData={initialData} />;
+    return <ProductPage initialData={initialData} initialProductName={initialProductName} />;
 } 

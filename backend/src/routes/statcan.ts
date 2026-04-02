@@ -10,6 +10,7 @@
 
 import { Router, Request, Response } from 'express';
 import mongoose from 'mongoose';
+import { REGIONS } from '../constants/regions';
 
 /** Express router instance for StatCan routes */
 const router = Router();
@@ -118,6 +119,11 @@ const PriceChange = mongoose.model('PriceChange', PriceChangeSchema);
 
 /** Mongoose model for pre-calculated price streaks */
 const PriceStreak = mongoose.model('PriceStreak', PriceStreakSchema);
+
+const parsePositiveInt = (value: unknown, fallback: number): number => {
+  const parsed = Number.parseInt(String(value), 10);
+  return Number.isFinite(parsed) && parsed > 0 ? parsed : fallback;
+};
 
 /**
  * Service function to calculate and store price changes for all products in a region
@@ -270,7 +276,8 @@ async function calculateAndStorePriceChanges(geo: string): Promise<number> {
  * // Returns top 5 gainers and losers for Canada
  */
 router.get('/price-changes', cacheMiddleware(86400), async (req: Request, res: Response) => {
-  const { geo, limit = 3 } = req.query;
+  const { geo } = req.query;
+  const limit = parsePositiveInt(req.query.limit, 3);
 
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
@@ -283,13 +290,15 @@ router.get('/price-changes', cacheMiddleware(86400), async (req: Request, res: R
     const gainers = await PriceChange.find({ geo })
       .where('changePercent').gt(0)
       .sort({ changePercent: -1 })
-      .limit(Number(limit));
+      .limit(limit)
+      .lean();
 
     // Get top losers (negative percentage changes)
     const losers = await PriceChange.find({ geo })
       .where('changePercent').lt(0)
       .sort({ changePercent: 1 })
-      .limit(Number(limit));
+      .limit(limit)
+      .lean();
 
     console.log(`✅ Found ${gainers.length} gainers and ${losers.length} losers for ${geo}`);
 
@@ -400,6 +409,13 @@ router.get('/calculate-all', async (req: Request, res: Response) => {
   }
 });
 
+router.get('/regions', cacheMiddleware(86400), (_req: Request, res: Response) => {
+  res.json({
+    regions: [...REGIONS],
+    count: REGIONS.length,
+  });
+});
+
 /**
  * GET /api/statcan - Query price data with optional filters
  * 
@@ -425,7 +441,7 @@ router.get('/', async (req: Request, res: Response) => {
   const { date, geo, product, limit } = req.query;
 
   /** Query object for MongoDB */
-  const query: any = {};
+  const query: Record<string, unknown> = {};
   if (date) query.REF_DATE = date;
   if (geo) query.GEO = geo;
   if (product) query.Products = product;
@@ -489,7 +505,7 @@ router.get('/', async (req: Request, res: Response) => {
  * GET /api/statcan/products
  * // Returns: { products: ["Apples", "Bread", "Milk"], count: 3 }
  */
-router.get('/products', async (req: Request, res: Response) => {
+router.get('/products', cacheMiddleware(86400), async (req: Request, res: Response) => {
   try {
     const products = await StatCan.distinct('Products');
     res.json({
@@ -561,12 +577,13 @@ router.get('/debug', async (req: Request, res: Response) => {
  * GET /api/statcan/streaks?geo=Canada&limit=3
  */
 router.get('/streaks', cacheMiddleware(86400), async (req: Request, res: Response) => {
-  const { geo, limit = 3 } = req.query;
+  const { geo } = req.query;
+  const limit = parsePositiveInt(req.query.limit, 3);
   if (!geo) {
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
   }
   try {
-    const streaks = await PriceStreak.find({ geo }).sort({ streakLength: -1 }).limit(Number(limit));
+    const streaks = await PriceStreak.find({ geo }).sort({ streakLength: -1 }).limit(limit).lean();
     res.json({ geo, streaks });
   } catch (err) {
     console.error('❌ Streaks endpoint error:', err);
@@ -593,43 +610,63 @@ router.get('/all-price-changes', cacheMiddleware(86400), async (req: Request, re
     return res.status(400).json({ error: 'Geographic location (geo) is required' });
   }
   try {
-    // Get all price changes for the region
-    const allChanges = await PriceChange.find({ geo });
-    // For each product, fetch the price from 1 year ago
-    const results = await Promise.all(
-      allChanges.map(async (item) => {
-        // Find the price from 1 year ago
-        const currentDate = item.currentDate;
-        let yearAgoPrice = null;
-        let yearAgoPercent = null;
-        if (currentDate) {
-          // Find the StatCan record for this product/geo at year-ago date
-          const yearAgoDate = (() => {
-            const d = new Date(currentDate + '-01');
-            d.setMonth(d.getMonth() - 12);
-            return d.toISOString().slice(0, 7);
-          })();
-          const yearAgo = await StatCan.findOne({ GEO: geo, Products: item.product, REF_DATE: yearAgoDate });
-          if (yearAgo && typeof yearAgo.VALUE === 'number') {
-            yearAgoPrice = yearAgo.VALUE;
-            yearAgoPercent = yearAgoPrice === 0 ? null : (((item.currentPrice ?? 0) - yearAgoPrice) / yearAgoPrice) * 100;
-          }
+    const allChanges = await PriceChange.find({ geo }).lean();
+    const yearAgoKeys = allChanges
+      .filter((item) => item.currentDate && item.product)
+      .map((item) => {
+        const d = new Date(`${item.currentDate}-01`);
+        d.setMonth(d.getMonth() - 12);
+        const yearAgoDate = d.toISOString().slice(0, 7);
+        return { product: item.product, yearAgoDate };
+      });
+
+    const products = [...new Set(yearAgoKeys.map((key) => key.product))];
+    const dates = [...new Set(yearAgoKeys.map((key) => key.yearAgoDate))];
+    const yearAgoRecords = await StatCan.find({
+      GEO: geo,
+      Products: { $in: products },
+      REF_DATE: { $in: dates },
+    })
+      .select({ Products: 1, REF_DATE: 1, VALUE: 1 })
+      .lean<{ Products: string; REF_DATE: string; VALUE: unknown }[]>();
+
+    const yearAgoMap = new Map<string, number>();
+    yearAgoRecords.forEach((record) => {
+      const numericValue = Number(record.VALUE);
+      if (Number.isFinite(numericValue)) {
+        yearAgoMap.set(`${record.Products}::${record.REF_DATE}`, numericValue);
+      }
+    });
+
+    const results = allChanges.map((item) => {
+      let yearAgoPrice: number | null = null;
+      let yearAgoPercent: number | null = null;
+      if (item.currentDate && item.product) {
+        const d = new Date(`${item.currentDate}-01`);
+        d.setMonth(d.getMonth() - 12);
+        const yearAgoDate = d.toISOString().slice(0, 7);
+        const found = yearAgoMap.get(`${item.product}::${yearAgoDate}`);
+        if (typeof found === 'number') {
+          yearAgoPrice = found;
+          yearAgoPercent =
+            yearAgoPrice === 0 ? null : (((item.currentPrice ?? 0) - yearAgoPrice) / yearAgoPrice) * 100;
         }
-        return {
-          product: item.product,
-          geo: item.geo,
-          currentPrice: item.currentPrice ?? 0,
-          previousPrice: item.previousPrice,
-          change: item.change,
-          changePercent: item.changePercent,
-          currentDate: item.currentDate,
-          previousDate: item.previousDate,
-          yearAgoPrice,
-          yearAgoChange: yearAgoPrice !== null ? ((item.currentPrice ?? 0) - yearAgoPrice) : null,
-          yearAgoPercent,
-        };
-      })
-    );
+      }
+
+      return {
+        product: item.product,
+        geo: item.geo,
+        currentPrice: item.currentPrice ?? 0,
+        previousPrice: item.previousPrice,
+        change: item.change,
+        changePercent: item.changePercent,
+        currentDate: item.currentDate,
+        previousDate: item.previousDate,
+        yearAgoPrice,
+        yearAgoChange: yearAgoPrice !== null ? (item.currentPrice ?? 0) - yearAgoPrice : null,
+        yearAgoPercent,
+      };
+    });
     res.json({ geo, products: results });
   } catch (err) {
     console.error('❌ all-price-changes endpoint error:', err);
