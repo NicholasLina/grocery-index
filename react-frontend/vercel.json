@@ -5,6 +5,7 @@
     "installCommand": "npm ci",
     "framework": "nextjs",
     "env": {
+        "NEXT_PUBLIC_API_URL": "https://grocery-index-api.nicklina.com/api/statcan",
         "NEXT_PUBLIC_API_BASE_URL": "https://grocery-index-api.nicklina.com/api/statcan"
     },
     "headers": [
