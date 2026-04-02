@@ -90,11 +90,15 @@ Default trigger:
 
 - Daily at `05:00 UTC`
 - Manual trigger (`workflow_dispatch`)
+- Runs in GitHub Actions environment: `Scraper`
 
-Secrets needed in repository settings:
+Required GitHub Actions settings:
 
 - `MONGODB_URI`
-- `API_BASE_URL` (for backend warmup endpoint)
+- `API_BASE_URL` (as an **Actions variable**; for backend warmup endpoint)
+
+> If these are environment-scoped settings, they must be configured under the
+> `Scraper` environment because the workflow job targets `environment: Scraper`.
 
 Execution order:
 
@@ -110,9 +114,12 @@ Failure handling:
 - If `SLACK_WEBHOOK_URL` is configured in repository secrets, a Slack alert is sent with
   a direct link to the failed run logs.
 
-Required GitHub secrets:
+Required GitHub secret:
 
 - `MONGODB_URI`
+
+Required GitHub Actions variable:
+
 - `API_BASE_URL`
 
 Optional notification secret:

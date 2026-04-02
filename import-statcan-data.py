@@ -24,9 +24,12 @@ import zipfile
 import pandas as pd
 import os
 import shutil
+import time
 from pymongo import MongoClient, errors
 import bson
 from datetime import datetime
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 # Load environment variables from .env file if it exists
 try:
@@ -40,8 +43,81 @@ TABLE_ID = "18100245"
 LANG = "en"
 api_url = f"https://www150.statcan.gc.ca/t1/wds/rest/getFullTableDownloadCSV/{TABLE_ID}/{LANG}"
 
+# HTTP resiliency settings (configurable via environment variables)
+HTTP_CONNECT_TIMEOUT_SECONDS = int(os.getenv('STATCAN_HTTP_CONNECT_TIMEOUT_SECONDS', '15'))
+HTTP_READ_TIMEOUT_SECONDS = int(os.getenv('STATCAN_HTTP_READ_TIMEOUT_SECONDS', '120'))
+HTTP_MAX_RETRIES = int(os.getenv('STATCAN_HTTP_MAX_RETRIES', '5'))
+HTTP_BACKOFF_SECONDS = int(os.getenv('STATCAN_HTTP_BACKOFF_SECONDS', '2'))
+DOWNLOAD_CHUNK_SIZE = int(os.getenv('STATCAN_DOWNLOAD_CHUNK_SIZE', '8192'))
+
 # Configuration options
 RECALCULATE_PRICE_CHANGES = True  # Set to False to skip price change calculations
+
+
+def build_http_session(max_retries):
+    """
+    Build a requests session with retry support for transient network/server errors.
+    """
+    retry = Retry(
+        total=max_retries,
+        connect=max_retries,
+        read=max_retries,
+        status=max_retries,
+        backoff_factor=1,
+        status_forcelist=[429, 500, 502, 503, 504],
+        allowed_methods=frozenset(["GET"]),
+        raise_on_status=False,
+    )
+    adapter = HTTPAdapter(max_retries=retry)
+    session = requests.Session()
+    session.mount('https://', adapter)
+    session.mount('http://', adapter)
+    session.headers.update({
+        'User-Agent': 'grocery-index-statcan-importer/1.0 (+https://github.com/NicholasLina/grocery-index)'
+    })
+    return session
+
+
+def download_with_retries(session, url, destination_path):
+    """
+    Download a file with retry/backoff handling for read/connect timeouts.
+    """
+    timeout = (HTTP_CONNECT_TIMEOUT_SECONDS, HTTP_READ_TIMEOUT_SECONDS)
+    max_attempts = max(1, HTTP_MAX_RETRIES)
+
+    for attempt in range(1, max_attempts + 1):
+        try:
+            with session.get(url, stream=True, timeout=timeout) as response:
+                response.raise_for_status()
+                total_size = int(response.headers.get('content-length', 0))
+                downloaded = 0
+                with open(destination_path, 'wb') as file_handle:
+                    for chunk in response.iter_content(chunk_size=DOWNLOAD_CHUNK_SIZE):
+                        if not chunk:
+                            continue
+                        file_handle.write(chunk)
+                        downloaded += len(chunk)
+                        if total_size > 0:
+                            percent = (downloaded / total_size) * 100
+                            print(
+                                f"\r📥 Downloading: {percent:.1f}% ({downloaded:,} / {total_size:,} bytes)",
+                                end='',
+                                flush=True
+                            )
+            if os.path.getsize(destination_path) == 0:
+                raise ValueError("Downloaded file is empty")
+            if total_size > 0:
+                print()
+            return
+        except Exception as err:
+            if os.path.exists(destination_path):
+                os.remove(destination_path)
+            if attempt >= max_attempts:
+                raise err
+            sleep_seconds = HTTP_BACKOFF_SECONDS * (2 ** (attempt - 1))
+            print(f"\n⚠️ Download attempt {attempt}/{max_attempts} failed: {err}")
+            print(f"🔁 Retrying in {sleep_seconds}s...")
+            time.sleep(sleep_seconds)
 
 def calculate_and_store_price_changes(client, db_name, collection_name, geo):
     """
@@ -212,11 +288,20 @@ try:
     print("🚀 Starting StatCan data import process...")
     print(f"📊 Table ID: {TABLE_ID}")
     print(f"🌐 API URL: {api_url}")
+    print(
+        f"🛡️ HTTP settings: retries={HTTP_MAX_RETRIES}, "
+        f"timeouts(connect/read)={HTTP_CONNECT_TIMEOUT_SECONDS}s/{HTTP_READ_TIMEOUT_SECONDS}s"
+    )
     print("-" * 50)
+
+    http_session = build_http_session(HTTP_MAX_RETRIES)
     
     # Step 1: Get the download link
     print("📡 Step 1: Fetching download link from StatCan API...")
-    response = requests.get(api_url)
+    response = http_session.get(
+        api_url,
+        timeout=(HTTP_CONNECT_TIMEOUT_SECONDS, HTTP_READ_TIMEOUT_SECONDS)
+    )
     response.raise_for_status()
     data = response.json()
     if 'object' not in data or not data['object']:
@@ -228,18 +313,8 @@ try:
     # Step 2: Download the ZIP file
     print("📥 Step 2: Downloading ZIP file from StatCan...")
     zip_filename = f"statcan_{TABLE_ID}.csv"  # Actually a ZIP file
-    with requests.get(download_url, stream=True) as r:
-        r.raise_for_status()
-        total_size = int(r.headers.get('content-length', 0))
-        downloaded = 0
-        with open(zip_filename, 'wb') as f:
-            for chunk in r.iter_content(chunk_size=8192):
-                f.write(chunk)
-                downloaded += len(chunk)
-                if total_size > 0:
-                    percent = (downloaded / total_size) * 100
-                    print(f"\r📥 Downloading: {percent:.1f}% ({downloaded:,} / {total_size:,} bytes)", end='', flush=True)
-    print(f"\n✅ Table {TABLE_ID} downloaded as {zip_filename}")
+    download_with_retries(http_session, download_url, zip_filename)
+    print(f"✅ Table {TABLE_ID} downloaded as {zip_filename}")
 
     # Step 3: Extract the ZIP file
     print("📂 Step 3: Extracting ZIP file...")
