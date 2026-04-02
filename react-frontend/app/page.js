@@ -17,7 +17,7 @@ async function getHomePageData() {
     const API_BASE = getApiBaseUrl();
 
     // Fetch all data in parallel
-    const [priceRes, streakRes, allChangesRes] = await Promise.all([
+    const [priceRes, streakRes, allChangesRes, trendsRes] = await Promise.all([
       fetch(`${API_BASE}/price-changes?geo=Canada&limit=3`, {
         next: { revalidate: 86400 } // Cache for 24 hours
       }),
@@ -26,17 +26,21 @@ async function getHomePageData() {
       }),
       fetch(`${API_BASE}/all-price-changes?geo=Canada`, {
         next: { revalidate: 86400 } // Cache for 24 hours
+      }),
+      fetch(`${API_BASE}/product-trends?geo=Canada&limit=3&months=12`, {
+        next: { revalidate: 86400 } // Cache for 24 hours
       })
     ]);
 
-    if (!priceRes.ok || !streakRes.ok || !allChangesRes.ok) {
+    if (!priceRes.ok || !streakRes.ok || !allChangesRes.ok || !trendsRes.ok) {
       throw new Error('Failed to fetch data');
     }
 
-    const [priceData, streakData, allChangesData] = await Promise.all([
+    const [priceData, streakData, allChangesData, trendsData] = await Promise.all([
       priceRes.json(),
       streakRes.json(),
-      allChangesRes.json()
+      allChangesRes.json(),
+      trendsRes.json()
     ]);
 
     return {
@@ -44,6 +48,7 @@ async function getHomePageData() {
       losers: priceData.losers || [],
       streaks: streakData.streaks || [],
       allProductChanges: allChangesData.products || [],
+      productTrendLookup: trendsData.trends || {},
       error: null
     };
   } catch (error) {
@@ -53,6 +58,7 @@ async function getHomePageData() {
       losers: [],
       streaks: [],
       allProductChanges: [],
+      productTrendLookup: {},
       error: 'Failed to load data. Please try again later.'
     };
   }
