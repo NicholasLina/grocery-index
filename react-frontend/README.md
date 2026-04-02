@@ -40,6 +40,8 @@ This is a Next.js application that provides an interactive interface for explori
 2. Create a `.env.local` file:
    ```env
    NEXT_PUBLIC_API_URL=http://localhost:3000/api/statcan
+   # Optional legacy alias (both are supported)
+   NEXT_PUBLIC_API_BASE_URL=http://localhost:3000/api/statcan
    ```
 
 3. Run the development server:
@@ -83,7 +85,12 @@ react-frontend/
 
 ## Environment Variables
 
-- `NEXT_PUBLIC_API_URL` - Base URL for the backend API (default: `http://localhost:3000/api/statcan`)
+- `NEXT_PUBLIC_API_URL` - Primary base URL for backend API calls
+- `NEXT_PUBLIC_API_BASE_URL` - Legacy alias for the same value (still supported)
+
+Production safety behavior:
+- if neither variable is provided in production, the app falls back to
+  `https://grocery-index-api.nicklina.com/api/statcan` (never localhost)
 
 ## Deployment
 

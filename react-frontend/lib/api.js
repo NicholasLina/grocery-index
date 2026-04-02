@@ -3,6 +3,7 @@
  */
 
 const DEFAULT_API_BASE_URL = 'http://localhost:3000/api/statcan';
+const DEFAULT_PRODUCTION_API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';
 
 function normalizeBaseUrl(url) {
   const withProtocol =
@@ -12,9 +13,26 @@ function normalizeBaseUrl(url) {
 
 export function getApiBaseUrl() {
   const configuredBaseUrl =
-    process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_API_BASE_URL || DEFAULT_API_BASE_URL;
+    process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_API_BASE_URL || process.env.API_BASE_URL;
 
-  return normalizeBaseUrl(configuredBaseUrl);
+  if (configuredBaseUrl) {
+    return normalizeBaseUrl(configuredBaseUrl);
+  }
+
+  // Never use localhost as an implicit fallback in production-like environments.
+  if (process.env.NODE_ENV === 'production') {
+    return DEFAULT_PRODUCTION_API_BASE_URL;
+  }
+
+  if (typeof window !== 'undefined') {
+    const host = window.location.hostname;
+    const isLocalHost = host === 'localhost' || host === '127.0.0.1';
+    if (!isLocalHost) {
+      return DEFAULT_PRODUCTION_API_BASE_URL;
+    }
+  }
+
+  return normalizeBaseUrl(DEFAULT_API_BASE_URL);
 }
 
 export function buildApiUrl(endpoint, params = {}) {
