@@ -2,8 +2,9 @@
 import React from 'react';
 import { usePathname } from 'next/navigation';
 import { productToSlug } from '../lib/slugUtils';
+import PriceChart from './PriceChart';
 
-export default function PriceCard({ product, changePercent, currentPrice, className = '' }) {
+export default function PriceCard({ product, changePercent, currentPrice, trendData = [], className = '' }) {
     const pathname = usePathname();
     const slug = productToSlug(product);
     const isOnProductPage = pathname === `/product/${slug}`;
@@ -17,6 +18,8 @@ export default function PriceCard({ product, changePercent, currentPrice, classN
             e.preventDefault();
         }
     }
+
+    const lineColor = changePercent > 0 ? '#dc2626' : '#16a34a';
 
     return (
         <a
@@ -37,11 +40,14 @@ export default function PriceCard({ product, changePercent, currentPrice, classN
                 </div>
             </div>
 
-            <div className="h-24 rounded-md bg-gray-50 border border-gray-100 flex items-center justify-center">
-                <div className="text-center text-gray-500 text-sm">
-                    Open product for full trend
-                </div>
-            </div>
+            <PriceChart
+                data={trendData}
+                showAxes={false}
+                showGrid={false}
+                interactive={false}
+                height="96px"
+                lineColor={lineColor}
+            />
         </a>
     );
 } 

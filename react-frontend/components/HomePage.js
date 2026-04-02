@@ -10,6 +10,7 @@ export default function HomePage({ initialData = null }) {
     const [gainers, setGainers] = useState(initialData?.gainers || []);
     const [losers, setLosers] = useState(initialData?.losers || []);
     const [streaks, setStreaks] = useState(initialData?.streaks || []);
+    const [trendData, setTrendData] = useState(initialData?.productTrendLookup || {});
     const [loading, setLoading] = useState(!initialData);
     const [error, setError] = useState(initialData?.error || null);
     const [allProductChanges, setAllProductChanges] = useState(initialData?.allProductChanges || []);
@@ -24,31 +25,37 @@ export default function HomePage({ initialData = null }) {
             try {
                 const API_BASE = getApiBaseUrl();
 
-                const [priceRes, streakRes, allChangesRes] = await Promise.all([
+                const [priceRes, streakRes, allChangesRes, trendRes] = await Promise.all([
                     fetch(`${API_BASE}/price-changes?geo=${encodeURIComponent(region)}&limit=3`),
                     fetch(`${API_BASE}/streaks?geo=${encodeURIComponent(region)}&limit=3`),
-                    fetch(`${API_BASE}/all-price-changes?geo=${encodeURIComponent(region)}`)
+                    fetch(`${API_BASE}/all-price-changes?geo=${encodeURIComponent(region)}`),
+                    fetch(`${API_BASE}/product-trends?geo=${encodeURIComponent(region)}&limit=6&points=12`)
                 ]);
 
-                if (!priceRes.ok || !streakRes.ok || !allChangesRes.ok) throw new Error('Failed to fetch data');
+                if (!priceRes.ok || !streakRes.ok || !allChangesRes.ok || !trendRes.ok) {
+                    throw new Error('Failed to fetch data');
+                }
 
-                const [priceData, streakData, allChangesData] = await Promise.all([
+                const [priceData, streakData, allChangesData, trendResponse] = await Promise.all([
                     priceRes.json(),
                     streakRes.json(),
-                    allChangesRes.json()
+                    allChangesRes.json(),
+                    trendRes.json()
                 ]);
 
                 const data = {
                     gainers: priceData.gainers || [],
                     losers: priceData.losers || [],
                     streaks: streakData.streaks || [],
-                    allProductChanges: allChangesData.products || []
+                    allProductChanges: allChangesData.products || [],
+                    trendData: trendResponse.trends || {}
                 };
 
                 setGainers(data.gainers);
                 setLosers(data.losers);
                 setStreaks(data.streaks);
                 setAllProductChanges(data.allProductChanges);
+                setTrendData(data.trendData);
                 setShowContent(true);
             } catch (err) {
                 setError('Failed to load data. Please try again later.');
@@ -56,6 +63,7 @@ export default function HomePage({ initialData = null }) {
                 setLosers([]);
                 setStreaks([]);
                 setAllProductChanges([]);
+                setTrendData({});
             } finally {
                 setLoading(false);
                 setAllProductChangesLoading(false);
@@ -76,6 +84,7 @@ export default function HomePage({ initialData = null }) {
                 gainers={gainers}
                 losers={losers}
                 streaks={streaks}
+                trendMap={trendData}
                 allProductChanges={allProductChanges}
                 loading={loading || !showContent}
                 allProductChangesLoading={allProductChangesLoading}
