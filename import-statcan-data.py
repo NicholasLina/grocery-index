@@ -6,6 +6,7 @@ imports it into MongoDB, and automatically recalculates price changes and streak
 
 Features:
 - Downloads latest StatCan data (Table 18100245)
+- Optimized incremental import: only uploads new records after the most recent database entry
 - Imports data into MongoDB with proper indexing
 - Calculates month-over-month price changes
 - Calculates consecutive price increase/decrease streaks
@@ -260,6 +261,29 @@ def calculate_and_store_price_changes(client, db_name, collection_name, geo):
         print(f"❌ Error calculating price changes for {geo}: {err}")
         raise err
 
+def get_most_recent_date(collection):
+    """
+    Get the most recent REF_DATE from the database.
+    Returns None if the collection is empty.
+    """
+    try:
+        # Find the document with the maximum REF_DATE
+        result = collection.find_one(
+            sort=[("REF_DATE", -1)],
+            projection={"REF_DATE": 1, "_id": 0}
+        )
+        
+        if result and 'REF_DATE' in result:
+            most_recent_date = result['REF_DATE']
+            print(f"📅 Most recent date in database: {most_recent_date}")
+            return most_recent_date
+        else:
+            print("📅 Database is empty - no existing records found")
+            return None
+    except Exception as err:
+        print(f"⚠️ Error getting most recent date: {err}")
+        return None
+
 def recalculate_all_price_changes(client, db_name, collection_name):
     """
     Recalculate price changes and streaks for all geographic locations.
@@ -385,6 +409,24 @@ try:
     records = df.to_dict(orient='records')
     print(f"✅ Converted {len(records):,} records")
 
+    # Get the most recent date from the database
+    print("🔍 Checking for existing data in database...")
+    most_recent_date = get_most_recent_date(collection)
+    
+    # Filter records to only include new data
+    original_count = len(records)
+    if most_recent_date:
+        print(f"🔄 Filtering records to only include data after {most_recent_date}...")
+        records = [rec for rec in records if rec.get('REF_DATE', '') > most_recent_date]
+        filtered_count = original_count - len(records)
+        print(f"✅ Filtered out {filtered_count:,} existing records")
+        print(f"📊 Remaining records to upsert: {len(records):,}")
+        
+        if len(records) == 0:
+            print("✨ No new records to import - database is already up to date!")
+    else:
+        print("📊 No existing data found - will import all records")
+
     def batch_upsert(collection, records, batch_size=1000):
         total_upserted = 0
         total_batches = (len(records) + batch_size - 1) // batch_size
@@ -424,7 +466,7 @@ try:
         
         return total_upserted
 
-    if records:
+    if records and len(records) > 0:
         print("🚀 Starting database import...")
         print("-" * 50)
         start_time = pd.Timestamp.now()
@@ -439,10 +481,11 @@ try:
         print(f"✅ Total records upserted: {upserted_count:,}")
         print(f"✅ Database: {db_name}.{collection_name}")
         print(f"⏱️ Duration: {duration}")
-        print(f"📊 Records per second: {upserted_count / duration.total_seconds():.1f}")
+        if duration.total_seconds() > 0:
+            print(f"📊 Records per second: {upserted_count / duration.total_seconds():.1f}")
         
-        # Step 7: Recalculate price changes and streaks (if enabled)
-        if RECALCULATE_PRICE_CHANGES:
+        # Step 7: Recalculate price changes and streaks (if enabled and new data was added)
+        if RECALCULATE_PRICE_CHANGES and upserted_count > 0:
             print("\n" + "=" * 50)
             print("🔄 Step 7: Recalculating price changes and streaks...")
             print("=" * 50)
@@ -457,17 +500,31 @@ try:
                 print("🎉 CALCULATIONS COMPLETED!")
                 print(f"✅ Total products processed: {total_calculated:,}")
                 print(f"⏱️ Calculation duration: {calculation_duration}")
-                print(f"📊 Products per second: {total_calculated / calculation_duration.total_seconds():.1f}")
+                if calculation_duration.total_seconds() > 0:
+                    print(f"📊 Products per second: {total_calculated / calculation_duration.total_seconds():.1f}")
             except Exception as calc_err:
                 print(f"❌ Error during price change calculations: {calc_err}")
                 print("⚠️ Data import was successful, but calculations failed. You may need to run calculations separately.")
+        elif RECALCULATE_PRICE_CHANGES and upserted_count == 0:
+            print("\n" + "=" * 50)
+            print("⏭️ Step 7: Skipping price change calculations (no new data was added)")
+            print("=" * 50)
         else:
             print("\n" + "=" * 50)
             print("⏭️ Step 7: Skipping price change calculations (RECALCULATE_PRICE_CHANGES=False)")
             print("=" * 50)
         
     else:
-        print("❌ No records to upsert.")
+        print("=" * 50)
+        print("✅ DATABASE IS UP TO DATE!")
+        print("=" * 50)
+        print("📊 No new records to import - skipping database operations")
+        print("💡 The database already contains the latest data from StatCan")
+        
+        # Skip price change calculations if no new data
+        print("\n" + "=" * 50)
+        print("⏭️ Step 7: Skipping price change calculations (no new data)")
+        print("=" * 50)
 
     print("🔌 Closing database connection...")
     client.close()
