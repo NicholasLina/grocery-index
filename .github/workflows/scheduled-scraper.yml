@@ -43,3 +43,40 @@ jobs:
       - name: Warm up API-calculated collections
         run: npm run warmup
         working-directory: backend
+
+      - name: Upload scraper logs on failure
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scheduled-scraper-logs
+          path: |
+            ${{ github.workspace }}/**/*.log
+            ${{ github.workspace }}/**/npm-debug.log*
+            ${{ github.workspace }}/**/.npm/_logs/**
+          if-no-files-found: ignore
+
+      - name: Notify Slack on failure
+        if: failure() && secrets.SLACK_WEBHOOK_URL != ''
+        env:
+          SLACK_WEBHOOK_URL: ${{ secrets.SLACK_WEBHOOK_URL }}
+          REPO: ${{ github.repository }}
+          RUN_ID: ${{ github.run_id }}
+          RUN_NUMBER: ${{ github.run_number }}
+          BRANCH: ${{ github.ref_name }}
+        run: |
+          payload=$(cat <<EOF
+          {
+            "text": ":rotating_light: Scheduled StatCan scraper failed",
+            "blocks": [
+              {
+                "type": "section",
+                "text": {
+                  "type": "mrkdwn",
+                  "text": "*Scheduled StatCan scraper failed*\\n• Repository: ${REPO}\\n• Branch: ${BRANCH}\\n• Run: #${RUN_NUMBER}\\n• Logs: https://github.com/${REPO}/actions/runs/${RUN_ID}"
+                }
+              }
+            ]
+          }
+          EOF
+          )
+          curl -sS -X POST -H "Content-type: application/json" --data "$payload" "$SLACK_WEBHOOK_URL"
