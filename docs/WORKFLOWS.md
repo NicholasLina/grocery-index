@@ -90,11 +90,15 @@ Default trigger:
 
 - Daily at `05:00 UTC`
 - Manual trigger (`workflow_dispatch`)
+- Runs in GitHub Actions environment: `Scraper`
 
 Required GitHub Actions settings:
 
 - `MONGODB_URI`
 - `API_BASE_URL` (as an **Actions variable**; for backend warmup endpoint)
+
+> If these are environment-scoped settings, they must be configured under the
+> `Scraper` environment because the workflow job targets `environment: Scraper`.
 
 Execution order:
 
