@@ -1,20 +1,43 @@
 "use client";
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useMemo } from 'react';
 import LoadingSpinner from '../components/LoadingSpinner';
 import PriceChart from '../components/PriceChart';
 import { useParams } from 'next/navigation';
 import { getApiBaseUrl } from '../lib/api';
 import { getProductFromSlug, createSlugMapping } from '../lib/slugUtils';
 import { FALLBACK_SLUG_MAPPING } from '../lib/products';
+import { DEFAULT_REGION } from '../lib/constants';
+import { useRegion } from './RegionProvider';
 
-export default function ProductPage({ initialData = [] }) {
+function subtractMonths(ym, n) {
+    if (!ym || typeof ym !== 'string') {
+        return '';
+    }
+
+    const parts = ym.split('-');
+    if (parts.length !== 2) {
+        return '';
+    }
+
+    const [year, month] = parts.map(Number);
+    if (isNaN(year) || isNaN(month)) {
+        return '';
+    }
+
+    const date = new Date(year, month - 1, 1);
+    date.setMonth(date.getMonth() - n);
+    const y = date.getFullYear();
+    const m = (date.getMonth() + 1).toString().padStart(2, '0');
+    return `${y}-${m}`;
+}
+
+export default function ProductPage({ initialData = [], initialProductName = '' }) {
     const params = useParams();
     const slug = params?.slug;
+    const { region } = useRegion();
 
     // Get product name from slug
-    const [productName, setProductName] = useState('');
-    const [slugMapping, setSlugMapping] = useState(FALLBACK_SLUG_MAPPING);
-
+    const [productName, setProductName] = useState(initialProductName);
     // Split the product name by the first comma
     const [mainTitle, ...subtitleParts] = (productName || '').split(/,(.+)/); // split only on the first comma
     const subtitle = subtitleParts.length > 0 ? subtitleParts[0].trim() : null;
@@ -22,12 +45,10 @@ export default function ProductPage({ initialData = [] }) {
     const [history, setHistory] = useState(initialData);
     const [loading, setLoading] = useState(initialData.length === 0);
     const [error, setError] = useState(null);
-    const [region, setRegion] = useState('Canada');
     // Date range state
     const [rangePreset, setRangePreset] = useState('all'); // '1y', '3y', '5y', 'all'
     const [startDate, setStartDate] = useState('');
     const [endDate, setEndDate] = useState('');
-    const [isClient, setIsClient] = useState(false);
 
     // --- Extracted summary values for top display ---
     const values = history.map(row => Number(row.VALUE)).filter(v => !isNaN(v));
@@ -36,50 +57,13 @@ export default function ProductPage({ initialData = [] }) {
     const minDate = dates.length ? dates[0] : '';
     const maxDate = dates.length ? dates[dates.length - 1] : '';
 
-    console.log('📊 History data summary:', {
-        historyLength: history.length,
-        valuesLength: values.length,
-        datesLength: dates.length,
-        minDate,
-        maxDate
-    });
-
-    // Helper to subtract months from YYYY-MM string
-    function subtractMonths(ym, n) {
-        if (!ym || typeof ym !== 'string') {
-            console.error('❌ Invalid date format for subtractMonths:', ym);
-            return '';
-        }
-
-        const parts = ym.split('-');
-        if (parts.length !== 2) {
-            console.error('❌ Invalid date format for subtractMonths:', ym);
-            return '';
-        }
-
-        const [year, month] = parts.map(Number);
-        if (isNaN(year) || isNaN(month)) {
-            console.error('❌ Invalid year or month for subtractMonths:', ym);
-            return '';
-        }
-
-        const date = new Date(year, month - 1, 1);
-        date.setMonth(date.getMonth() - n);
-        const y = date.getFullYear();
-        const m = (date.getMonth() + 1).toString().padStart(2, '0');
-        return `${y}-${m}`;
-    }
-
     // Set default range when data loads or preset changes
-    React.useEffect(() => {
+    useEffect(() => {
         if (!dates.length || !minDate || !maxDate) {
-            console.log('⚠️ No valid dates found, skipping date range setup');
             return;
         }
         let newStart = minDate;
         let newEnd = maxDate;
-
-        console.log('📅 Setting date range:', { rangePreset, minDate, maxDate, datesLength: dates.length });
 
         if (rangePreset === '1y') {
             newStart = subtractMonths(maxDate, 12);
@@ -93,25 +77,19 @@ export default function ProductPage({ initialData = [] }) {
         } else if (rangePreset === 'all') {
             newStart = minDate;
         }
-
-        console.log('📅 New date range:', { newStart, newEnd });
         setStartDate(newStart);
         setEndDate(newEnd);
     }, [history, rangePreset, dates.length, maxDate, minDate]);
 
     // Filtered history for chart
-    const filteredHistory = React.useMemo(() => {
+    const filteredHistory = useMemo(() => {
         if (!startDate || !endDate) return history;
-
-        console.log('🔍 Filtering history:', { startDate, endDate, historyLength: history.length });
 
         const filtered = history.filter(row => {
             // Skip rows without REF_DATE
             if (!row.REF_DATE) return false;
             return row.REF_DATE >= startDate && row.REF_DATE <= endDate;
         });
-
-        console.log('📊 Filtered history length:', filtered.length);
 
         return filtered;
     }, [history, startDate, endDate]);
@@ -120,53 +98,19 @@ export default function ProductPage({ initialData = [] }) {
     const first = values.length ? values[0] : null;
     const percentChange = (first && last && first !== 0) ? ((last - first) / first) * 100 : null;
 
-    console.log('📈 Summary calculations:', { last, lastDate, first, percentChange });
     // --- End extracted summary values ---
-
-    // Mark as client-side after hydration
-    useEffect(() => {
-        setIsClient(true);
-    }, []);
-
-    // Load region from localStorage only on client
-    useEffect(() => {
-        if (!isClient) return;
-
-        const stored = localStorage.getItem('region');
-        if (stored) setRegion(stored);
-    }, [isClient]);
-
-    // Listen for region changes from header
-    useEffect(() => {
-        if (!isClient) return;
-
-        function handleRegionChange(event) {
-            setRegion(event.detail.region);
-        }
-
-        window.addEventListener('regionChanged', handleRegionChange);
-        return () => window.removeEventListener('regionChanged', handleRegionChange);
-    }, [isClient]);
 
     // Resolve product name from slug
     useEffect(() => {
         if (!slug) return;
 
-        console.log('🔍 Resolving product name from slug:', slug);
-
         // First try fallback mapping
         let resolvedProduct = getProductFromSlug(slug, FALLBACK_SLUG_MAPPING);
 
-        console.log('🔍 Looking for slug:', slug);
-        console.log('📦 Available fallback slugs:', Object.keys(FALLBACK_SLUG_MAPPING).slice(0, 10));
-
         if (resolvedProduct) {
-            console.log('✅ Found product in fallback mapping:', resolvedProduct);
             setProductName(resolvedProduct);
             return;
         }
-
-        console.log('⚠️ Product not found in fallback mapping, trying API...');
 
         // If not found in fallback, try to fetch from API
         async function fetchProductMapping() {
@@ -176,22 +120,15 @@ export default function ProductPage({ initialData = [] }) {
                 if (res.ok) {
                     const data = await res.json();
                     const products = data.products || [];
-                    console.log('📦 Available products from API:', products.length);
 
                     const newSlugMapping = createSlugMapping(products);
-                    setSlugMapping(newSlugMapping);
-
                     const product = getProductFromSlug(slug, newSlugMapping);
                     if (product) {
-                        console.log('✅ Found product in API mapping:', product);
                         setProductName(product);
-                    } else {
-                        console.error('❌ Product not found in API mapping for slug:', slug);
-                        console.log('🔍 Available slugs:', Object.keys(newSlugMapping).slice(0, 10));
                     }
                 }
-            } catch (error) {
-                console.error('❌ Failed to fetch product mapping:', error);
+            } catch (_error) {
+                // Keep fallback behavior for unknown products.
             }
         }
 
@@ -208,40 +145,23 @@ export default function ProductPage({ initialData = [] }) {
                 const API_BASE = getApiBaseUrl();
                 const url = `${API_BASE}?geo=${encodeURIComponent(region)}&product=${encodeURIComponent(productName)}`;
 
-                console.log('🔍 Fetching data from:', url);
-                console.log('📦 Product name:', productName);
-                console.log('🌍 Region:', region);
-
                 const res = await fetch(url);
                 if (!res.ok) throw new Error(`Failed to fetch data: ${res.status} ${res.statusText}`);
                 const data = await res.json();
 
-                console.log('📊 Received data:', data);
-                console.log('📈 Data length:', data ? data.length : 0);
-
                 setHistory(data || []);
             } catch (err) {
-                console.error('❌ Error fetching data:', err);
                 setError(`Failed to load product data: ${err.message}`);
                 setHistory([]);
             } finally {
                 setLoading(false);
             }
         }
-        // Only fetch if we don't have initial data or if region changed from Canada
-        if (productName && productName.trim() && (initialData.length === 0 || region !== 'Canada')) {
+        // Only fetch if we don't have initial data or if region changed from default.
+        if (productName && productName.trim() && (initialData.length === 0 || region !== DEFAULT_REGION)) {
             fetchData();
         }
     }, [productName, region, initialData.length]);
-
-    // Don't render until client-side hydration is complete
-    if (!isClient) {
-        return (
-            <main className="max-w-2xl mx-auto p-4 bg-gray-50 min-h-[80vh] rounded-lg shadow-md">
-                <LoadingSpinner />
-            </main>
-        );
-    }
 
     // Show loading state while product name is being resolved
     if (!productName) {
@@ -398,27 +318,22 @@ export default function ProductPage({ initialData = [] }) {
 
 function PaginatedHistoryTable({ history }) {
     const PAGE_SIZE = 12;
-    const [page, setPage] = React.useState(1);
-    const [displayed, setDisplayed] = React.useState([]);
-    const [loading, setLoading] = React.useState(false);
+    const [page, setPage] = useState(1);
 
     // Sort history from most to least recent
-    const sorted = React.useMemo(() => {
+    const sorted = useMemo(() => {
         return [...history].sort((a, b) => (b.REF_DATE > a.REF_DATE ? 1 : b.REF_DATE < a.REF_DATE ? -1 : 0));
     }, [history]);
 
-    React.useEffect(() => {
-        setDisplayed(sorted.slice(0, PAGE_SIZE));
+    useEffect(() => {
         setPage(1);
     }, [sorted]);
 
+    const displayed = sorted.slice(0, page * PAGE_SIZE);
+    const hasMore = displayed.length < sorted.length;
+
     const handleLoadMore = () => {
-        setLoading(true);
-        setTimeout(() => { // Simulate lazy loading
-            setDisplayed(prev => sorted.slice(0, (page + 1) * PAGE_SIZE));
-            setPage(prev => prev + 1);
-            setLoading(false);
-        }, 400);
+        setPage((prev) => prev + 1);
     };
 
     return (
@@ -439,14 +354,13 @@ function PaginatedHistoryTable({ history }) {
                     ))}
                 </tbody>
             </table>
-            {displayed.length < sorted.length && (
+            {hasMore && (
                 <div className="flex justify-center mt-4">
                     <button
                         className="px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 disabled:opacity-50"
                         onClick={handleLoadMore}
-                        disabled={loading}
                     >
-                        {loading ? 'Loading...' : 'Load More'}
+                        Load More
                     </button>
                 </div>
             )}
