@@ -103,3 +103,25 @@ Execution order:
 3. Run `python import-statcan-data.py`
 4. Run `npm run warmup` in `backend`
 
+Failure handling:
+
+- On failure, the workflow uploads any discovered log files as an artifact named
+  `scheduled-scraper-logs`.
+- If `SLACK_WEBHOOK_URL` is configured in repository secrets, a Slack alert is sent with
+  a direct link to the failed run logs.
+
+Required GitHub secrets:
+
+- `MONGODB_URI`
+- `API_BASE_URL`
+
+Optional notification secret:
+
+- `SLACK_WEBHOOK_URL` (for failure notifications)
+
+How to set up notifications:
+
+1. In GitHub repository settings, add `SLACK_WEBHOOK_URL` under **Settings → Secrets and variables → Actions**.
+2. Use a Slack incoming webhook URL for the channel you want alerts in.
+3. Trigger the workflow once via **Actions → Scheduled StatCan Scraper → Run workflow** to verify alerts.
+
