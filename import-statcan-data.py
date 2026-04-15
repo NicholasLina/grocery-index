@@ -120,6 +120,30 @@ def download_with_retries(session, url, destination_path):
             print(f"🔁 Retrying in {sleep_seconds}s...")
             time.sleep(sleep_seconds)
 
+
+def find_statcan_data_csv(extract_dir, table_id):
+    """
+    Return path to the main StatCan table CSV inside extract_dir.
+
+    The published ZIP also includes a *_MetaData.csv* companion file without
+    REF_DATE/GEO/Products columns; iterating os.listdir() order is not
+    portable, so we must not pick that file by mistake.
+    """
+    csv_names = [
+        f for f in os.listdir(extract_dir)
+        if f.lower().endswith('.csv') and 'metadata' not in f.lower()
+    ]
+    if not csv_names:
+        return None
+    preferred = f"{table_id}.csv"
+    if preferred in csv_names:
+        return os.path.join(extract_dir, preferred)
+    for name in sorted(csv_names):
+        if table_id in name:
+            return os.path.join(extract_dir, name)
+    return os.path.join(extract_dir, sorted(csv_names)[0])
+
+
 def calculate_and_store_price_changes(client, db_name, collection_name, geo):
     """
     Calculate and store price changes and streaks for all products in a geographic location.
@@ -353,14 +377,11 @@ try:
 
     # Step 4: Find the CSV file in the extracted folder
     print("🔍 Step 4: Locating CSV file...")
-    csv_file = None
     files_in_dir = os.listdir(extract_dir)
     print(f"📁 Files in extracted directory: {files_in_dir}")
-    for fname in files_in_dir:
-        if fname.endswith('.csv'):
-            csv_file = os.path.join(extract_dir, fname)
-            print(f"✅ Found CSV file: {fname}")
-            break
+    csv_file = find_statcan_data_csv(extract_dir, TABLE_ID)
+    if csv_file:
+        print(f"✅ Using data CSV file: {os.path.basename(csv_file)}")
     if not csv_file:
         raise FileNotFoundError("❌ No CSV file found in the extracted ZIP.")
 
@@ -369,7 +390,7 @@ try:
     usecols = ['REF_DATE', 'GEO', 'Products', 'VECTOR', 'VALUE']
     print(f"📋 Reading columns: {usecols}")
     try:
-        df = pd.read_csv(csv_file, usecols=usecols, encoding='utf-8', low_memory=False)
+        df = pd.read_csv(csv_file, usecols=usecols, encoding='utf-8-sig', low_memory=False)
         print(f"✅ CSV loaded successfully")
         print(f"📊 Total rows: {len(df):,}")
         print(f"📊 Total columns: {len(df.columns)}")
