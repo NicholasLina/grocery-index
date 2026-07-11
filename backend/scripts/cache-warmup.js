@@ -1,14 +1,10 @@
 /**
- * Cache warmup script.
- *
- * This script recalculates derived metrics and triggers key reads so API-level
- * response caches and query paths are primed.
+ * Cache warmup script for SQLite-backed API.
  */
 
 const axios = require('axios');
 
 const API_BASE_URL = process.env.API_BASE_URL || 'http://localhost:3000/api/statcan';
-const MONGODB_URI = process.env.MONGODB_URI || '';
 const REQUEST_TIMEOUT_MS = 30000;
 
 const FALLBACK_REGIONS = [
@@ -42,9 +38,6 @@ async function getRegions() {
 
 async function warmupCache() {
   console.log('🔥 Starting cache warmup...');
-  if (!MONGODB_URI) {
-    throw new Error('MONGODB_URI is required to run cache warmup safely.');
-  }
   const regions = await getRegions();
   const results = [];
 

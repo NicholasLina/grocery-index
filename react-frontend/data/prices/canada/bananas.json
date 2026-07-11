@@ -1,0 +1,5 @@
+[
+  { "REF_DATE": "2024-01", "GEO": "Canada", "Products": "Bananas", "VECTOR": "v2", "VALUE": 80 },
+  { "REF_DATE": "2024-02", "GEO": "Canada", "Products": "Bananas", "VECTOR": "v2", "VALUE": 75 },
+  { "REF_DATE": "2024-03", "GEO": "Canada", "Products": "Bananas", "VECTOR": "v2", "VALUE": 70 }
+]

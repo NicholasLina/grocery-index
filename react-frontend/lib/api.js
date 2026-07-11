@@ -2,6 +2,8 @@
  * API URL helpers used by both server and client components.
  */
 
+import { usesStaticData } from './dataSource';
+
 const DEFAULT_API_BASE_URL = 'http://localhost:3000/api/statcan';
 const DEFAULT_PRODUCTION_API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';
 
@@ -11,7 +13,24 @@ function normalizeBaseUrl(url) {
   return withProtocol.replace(/\/+$/, '');
 }
 
+function getServerBaseUrl() {
+  if (process.env.NEXT_PUBLIC_SITE_URL) {
+    return normalizeBaseUrl(process.env.NEXT_PUBLIC_SITE_URL);
+  }
+  if (process.env.VERCEL_URL) {
+    return normalizeBaseUrl(process.env.VERCEL_URL);
+  }
+  return 'http://localhost:5000';
+}
+
 export function getApiBaseUrl() {
+  if (usesStaticData()) {
+    if (typeof window === 'undefined') {
+      return `${getServerBaseUrl()}/api/statcan`;
+    }
+    return '/api/statcan';
+  }
+
   const configuredBaseUrl =
     process.env.NEXT_PUBLIC_API_URL || process.env.NEXT_PUBLIC_API_BASE_URL || process.env.API_BASE_URL;
 

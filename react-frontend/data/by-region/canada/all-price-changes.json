@@ -1,0 +1,31 @@
+{
+  "geo": "Canada",
+  "products": [
+    {
+      "product": "Apples",
+      "geo": "Canada",
+      "currentPrice": 120,
+      "previousPrice": 110,
+      "change": 10,
+      "changePercent": 9.090909090909092,
+      "currentDate": "2024-03",
+      "previousDate": "2024-02",
+      "yearAgoPrice": null,
+      "yearAgoChange": null,
+      "yearAgoPercent": null
+    },
+    {
+      "product": "Bananas",
+      "geo": "Canada",
+      "currentPrice": 70,
+      "previousPrice": 75,
+      "change": -5,
+      "changePercent": -6.666666666666667,
+      "currentDate": "2024-03",
+      "previousDate": "2024-02",
+      "yearAgoPrice": null,
+      "yearAgoChange": null,
+      "yearAgoPercent": null
+    }
+  ]
+}

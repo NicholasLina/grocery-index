@@ -1,0 +1,42 @@
+{
+  "geo": "Canada",
+  "gainers": [
+    {
+      "product": "Apples",
+      "geo": "Canada",
+      "currentPrice": 120,
+      "previousPrice": 110,
+      "change": 10,
+      "changePercent": 9.090909090909092,
+      "currentDate": "2024-03",
+      "previousDate": "2024-02",
+      "lastUpdated": "2026-07-11T00:00:00",
+      "history": [
+        { "REF_DATE": "2024-01", "VALUE": 100 },
+        { "REF_DATE": "2024-02", "VALUE": 110 },
+        { "REF_DATE": "2024-03", "VALUE": 120 }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Bananas",
+      "geo": "Canada",
+      "currentPrice": 70,
+      "previousPrice": 75,
+      "change": -5,
+      "changePercent": -6.666666666666667,
+      "currentDate": "2024-03",
+      "previousDate": "2024-02",
+      "lastUpdated": "2026-07-11T00:00:00",
+      "history": [
+        { "REF_DATE": "2024-01", "VALUE": 80 },
+        { "REF_DATE": "2024-02", "VALUE": 75 },
+        { "REF_DATE": "2024-03", "VALUE": 70 }
+      ]
+    }
+  ],
+  "totalGainers": 1,
+  "totalLosers": 1,
+  "trendPoints": 12
+}
