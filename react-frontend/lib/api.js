@@ -2,7 +2,7 @@
  * API URL helpers used by both server and client components.
  */
 
-import { usesStaticData } from './dataSource';
+import { usesStaticData } from './staticMode';
 
 const DEFAULT_API_BASE_URL = 'http://localhost:3000/api/statcan';
 const DEFAULT_PRODUCTION_API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';

@@ -1,14 +1,16 @@
-import { getApiBaseUrl as getRemoteApiBaseUrl } from './api';
-import * as staticData from './staticData';
+/**
+ * Server-side data fetching helpers for static JSON mode.
+ * Do not import this module from client components.
+ */
 
-export function usesStaticData() {
-  if (process.env.NEXT_PUBLIC_DATA_SOURCE === 'static') {
-    return true;
+import { usesStaticData } from './staticMode';
+import { getApiBaseUrl as getRemoteApiBaseUrl } from './api';
+
+async function loadStaticData() {
+  if (typeof window !== 'undefined') {
+    throw new Error('staticData access is server-only');
   }
-  if (process.env.NEXT_PUBLIC_DATA_SOURCE === 'api') {
-    return false;
-  }
-  return staticData.isStaticDataAvailable() && !process.env.NEXT_PUBLIC_API_URL;
+  return import('./staticData');
 }
 
 export function getDataApiBaseUrl() {
@@ -19,7 +21,7 @@ export function getDataApiBaseUrl() {
 }
 
 export async function fetchDataEndpoint(endpoint, params = {}, init = {}) {
-  if (usesStaticData()) {
+  if (usesStaticData() && typeof window === 'undefined') {
     return fetchStaticEndpoint(endpoint, params);
   }
 
@@ -38,14 +40,15 @@ export async function fetchDataEndpoint(endpoint, params = {}, init = {}) {
   return response.json();
 }
 
-function fetchStaticEndpoint(endpoint, params = {}) {
+async function fetchStaticEndpoint(endpoint, params = {}) {
+  const staticData = await loadStaticData();
   const normalized = endpoint.replace(/^\//, '');
 
   if (normalized === 'products') {
-    return Promise.resolve(staticData.getProducts());
+    return staticData.getProducts();
   }
   if (normalized === 'regions') {
-    return Promise.resolve(staticData.getRegions());
+    return staticData.getRegions();
   }
   if (normalized === 'price-changes') {
     const payload = staticData.getPriceChanges(
@@ -54,23 +57,23 @@ function fetchStaticEndpoint(endpoint, params = {}) {
       Number(params.trendPoints ?? 12)
     );
     if (!payload) {
-      return Promise.reject(new Error('Region not found'));
+      throw new Error('Region not found');
     }
-    return Promise.resolve(payload);
+    return payload;
   }
   if (normalized === 'streaks') {
     const payload = staticData.getStreaks(params.geo, Number(params.limit ?? 3));
     if (!payload) {
-      return Promise.reject(new Error('Region not found'));
+      throw new Error('Region not found');
     }
-    return Promise.resolve(payload);
+    return payload;
   }
   if (normalized === 'all-price-changes') {
     const payload = staticData.getAllPriceChanges(params.geo);
     if (!payload) {
-      return Promise.reject(new Error('Region not found'));
+      throw new Error('Region not found');
     }
-    return Promise.resolve(payload);
+    return payload;
   }
   if (normalized === 'product-trends') {
     const payload = staticData.getProductTrends(
@@ -79,21 +82,20 @@ function fetchStaticEndpoint(endpoint, params = {}) {
       Number(params.months ?? params.points ?? 12)
     );
     if (!payload) {
-      return Promise.reject(new Error('Region not found'));
+      throw new Error('Region not found');
     }
-    return Promise.resolve(payload);
+    return payload;
   }
   if (normalized === '' || normalized === 'index') {
-    const rows = staticData.querySourcePrices({
+    return staticData.querySourcePrices({
       date: params.date,
       geo: params.geo,
       product: params.product,
       limit: params.limit ? Number(params.limit) : undefined,
     });
-    return Promise.resolve(rows);
   }
 
-  return Promise.reject(new Error(`Unsupported static endpoint: ${endpoint}`));
+  throw new Error(`Unsupported static endpoint: ${endpoint}`);
 }
 
 export function buildDataUrl(endpoint, params = {}) {
