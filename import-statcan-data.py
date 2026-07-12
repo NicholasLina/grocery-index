@@ -2,22 +2,26 @@
 StatCan Data Import and Price Analysis Script
 
 This script downloads the latest grocery price data from Statistics Canada,
-imports it into MongoDB, and automatically recalculates price changes and streaks.
+imports it into SQLite (default) or MongoDB (legacy), and recalculates
+price changes and streaks.
 
 Features:
 - Downloads latest StatCan data (Table 18100245)
 - Optimized incremental import: only uploads new records after the most recent database entry
-- Imports data into MongoDB with proper indexing
-- Calculates month-over-month price changes
-- Calculates consecutive price increase/decrease streaks
-- Updates price_changes and price_streaks collections
+- SQLite storage with optional static JSON export for Vercel
+- Legacy MongoDB support via STORAGE_BACKEND=mongodb
+- Calculates month-over-month price changes and streaks
 
 Usage:
     python import-statcan-data.py
 
 Configuration:
-    Set RECALCULATE_PRICE_CHANGES = False to skip calculations
-    Set MONGODB_URI environment variable for database connection
+    STORAGE_BACKEND=sqlite|mongodb (default: sqlite)
+    SQLITE_PATH=backend/data/grocery-index.db
+    STATIC_JSON_OUTPUT_DIR=react-frontend/data
+    EXPORT_STATIC_JSON=true|false (default: true)
+    RECALCULATE_PRICE_CHANGES=true|false (default: true)
+    MONGODB_URI=... (only when STORAGE_BACKEND=mongodb)
 """
 
 import requests
@@ -332,261 +336,286 @@ def recalculate_all_price_changes(client, db_name, collection_name):
     print(f"🎉 Recalculation completed! Total products processed: {total_processed}")
     return total_processed
 
-try:
-    print("🚀 Starting StatCan data import process...")
-    print(f"📊 Table ID: {TABLE_ID}")
-    print(f"🌐 API URL: {api_url}")
-    print(
-        f"🛡️ HTTP settings: retries={HTTP_MAX_RETRIES}, "
-        f"timeouts(connect/read)={HTTP_CONNECT_TIMEOUT_SECONDS}s/{HTTP_READ_TIMEOUT_SECONDS}s"
-    )
-    print("-" * 50)
+STORAGE_BACKEND = os.getenv('STORAGE_BACKEND', 'sqlite').lower()
 
-    http_session = build_http_session(HTTP_MAX_RETRIES)
-    
-    # Step 1: Get the download link
-    print("📡 Step 1: Fetching download link from StatCan API...")
-    response = http_session.get(
-        api_url,
-        timeout=(HTTP_CONNECT_TIMEOUT_SECONDS, HTTP_READ_TIMEOUT_SECONDS)
-    )
-    response.raise_for_status()
-    data = response.json()
-    if 'object' not in data or not data['object']:
-        print("❌ No download link found in response.")
-        exit(1)
-    download_url = data['object']
-    print(f"✅ Download URL obtained: {download_url}")
 
-    # Step 2: Download the ZIP file
-    print("📥 Step 2: Downloading ZIP file from StatCan...")
-    zip_filename = f"statcan_{TABLE_ID}.csv"  # Actually a ZIP file
-    download_with_retries(http_session, download_url, zip_filename)
-    print(f"✅ Table {TABLE_ID} downloaded as {zip_filename}")
-
-    # Step 3: Extract the ZIP file
-    print("📂 Step 3: Extracting ZIP file...")
-    extract_dir = f"statcan_{TABLE_ID}_extracted"
-    with zipfile.ZipFile(zip_filename, 'r') as zip_ref:
-        file_list = zip_ref.namelist()
-        print(f"📁 Found {len(file_list)} files in ZIP archive")
-        for file in file_list:
-            print(f"   📄 {file}")
-        zip_ref.extractall(extract_dir)
-    print(f"✅ Files extracted to: {extract_dir}")
-
-    # Step 4: Find the CSV file in the extracted folder
-    print("🔍 Step 4: Locating CSV file...")
-    files_in_dir = os.listdir(extract_dir)
-    print(f"📁 Files in extracted directory: {files_in_dir}")
-    csv_file = find_statcan_data_csv(extract_dir, TABLE_ID)
-    if csv_file:
-        print(f"✅ Using data CSV file: {os.path.basename(csv_file)}")
-    if not csv_file:
-        raise FileNotFoundError("❌ No CSV file found in the extracted ZIP.")
-
-    # Step 5: Read only the required columns
-    print("📖 Step 5: Reading CSV file...")
-    usecols = ['REF_DATE', 'GEO', 'Products', 'VECTOR', 'VALUE']
-    print(f"📋 Reading columns: {usecols}")
+def run_mongodb_import() -> None:
     try:
-        df = pd.read_csv(csv_file, usecols=usecols, encoding='utf-8-sig', low_memory=False)
-        print(f"✅ CSV loaded successfully")
-        print(f"📊 Total rows: {len(df):,}")
-        print(f"📊 Total columns: {len(df.columns)}")
-        print(f"📊 Memory usage: {df.memory_usage(deep=True).sum() / 1024 / 1024:.2f} MB")
-        
-        # Show sample data
-        print(f"📋 Sample data (first 3 rows):")
-        print(df.head(3).to_string())
-        
-    except Exception as e:
-        print(f"❌ Error reading CSV: {e}")
-        exit(1)
+        print("🚀 Starting StatCan data import process...")
+        print(f"📊 Table ID: {TABLE_ID}")
+        print(f"🌐 API URL: {api_url}")
+        print(
+            f"🛡️ HTTP settings: retries={HTTP_MAX_RETRIES}, "
+            f"timeouts(connect/read)={HTTP_CONNECT_TIMEOUT_SECONDS}s/{HTTP_READ_TIMEOUT_SECONDS}s"
+        )
+        print("-" * 50)
 
-    # Step 6: Insert into MongoDB with unique index and batch insert
-    print("🗄️ Step 6: Connecting to MongoDB...")
-    # Use environment variable for MongoDB connection string, fallback to localhost
-    mongo_uri = os.getenv('MONGODB_URI', "mongodb://localhost:27017/")
-    db_name = "statcan"
-    collection_name = f"table_{TABLE_ID}"
-
-    print(f"🔗 Connecting to MongoDB: {mongo_uri.split('@')[1] if '@' in mongo_uri else mongo_uri}")
-    client = MongoClient(mongo_uri)
-    db = client[db_name]
-    collection = db[collection_name]
-    print(f"✅ Connected to database: {db_name}")
-    print(f"✅ Using collection: {collection_name}")
-
-    # Create a unique index on REF_DATE, GEO, and Products
-    print("🔧 Creating database index...")
-    collection.create_index(
-        [("REF_DATE", 1), ("GEO", 1), ("Products", 1)],
-        unique=True
-    )
-    print("✅ Unique index created on (REF_DATE, GEO, Products)")
-
-    print("🔄 Converting DataFrame to records...")
-    records = df.to_dict(orient='records')
-    print(f"✅ Converted {len(records):,} records")
-
-    # Get the most recent date from the database
-    print("🔍 Checking for existing data in database...")
-    most_recent_date = get_most_recent_date(collection)
+        http_session = build_http_session(HTTP_MAX_RETRIES)
     
-    # Filter records to only include new data
-    original_count = len(records)
-    if most_recent_date:
-        print(f"🔄 Filtering records to only include data after {most_recent_date}...")
-        records = [rec for rec in records if rec.get('REF_DATE', '') > most_recent_date]
-        filtered_count = original_count - len(records)
-        print(f"✅ Filtered out {filtered_count:,} existing records")
-        print(f"📊 Remaining records to upsert: {len(records):,}")
-        
-        if len(records) == 0:
-            print("✨ No new records to import - database is already up to date!")
-    else:
-        print("📊 No existing data found - will import all records")
+        # Step 1: Get the download link
+        print("📡 Step 1: Fetching download link from StatCan API...")
+        response = http_session.get(
+            api_url,
+            timeout=(HTTP_CONNECT_TIMEOUT_SECONDS, HTTP_READ_TIMEOUT_SECONDS)
+        )
+        response.raise_for_status()
+        data = response.json()
+        if 'object' not in data or not data['object']:
+            print("❌ No download link found in response.")
+            exit(1)
+        download_url = data['object']
+        print(f"✅ Download URL obtained: {download_url}")
 
-    def batch_upsert(collection, records, batch_size=1000):
-        total_upserted = 0
-        total_batches = (len(records) + batch_size - 1) // batch_size
-        print(f"📦 Starting batch upsert: {total_batches} batches of {batch_size} records each")
-        
-        for i in range(0, len(records), batch_size):
-            batch_num = (i // batch_size) + 1
-            batch = records[i:i+batch_size]
-            batch_upserted = 0
-            
-            print(f"📦 Processing batch {batch_num}/{total_batches} ({len(batch)} records)...")
-            
-            for j, rec in enumerate(batch):
-                try:
-                    if len(bson.BSON.encode(rec)) > 16 * 1024 * 1024:
-                        print(f"⚠️ Skipped oversized record in batch {batch_num}")
-                        continue
-                except Exception as e:
-                    print(f"❌ Error encoding record in batch {batch_num}: {e}")
-                    continue
-                try:
-                    # Use upsert: match on REF_DATE, GEO, Products
-                    result = collection.replace_one(
-                        {"REF_DATE": rec["REF_DATE"], "GEO": rec["GEO"], "Products": rec["Products"]},
-                        rec,
-                        upsert=True
-                    )
-                    if result.upserted_id is not None or result.modified_count > 0:
-                        total_upserted += 1
-                        batch_upserted += 1
-                except Exception as e:
-                    print(f"❌ Upsert error in batch {batch_num}: {e}")
-            
-            # Progress update for each batch
-            progress = (batch_num / total_batches) * 100
-            print(f"✅ Batch {batch_num}/{total_batches} completed: {batch_upserted} records upserted ({progress:.1f}%)")
-        
-        return total_upserted
+        # Step 2: Download the ZIP file
+        print("📥 Step 2: Downloading ZIP file from StatCan...")
+        zip_filename = f"statcan_{TABLE_ID}.csv"  # Actually a ZIP file
+        download_with_retries(http_session, download_url, zip_filename)
+        print(f"✅ Table {TABLE_ID} downloaded as {zip_filename}")
 
-    if records and len(records) > 0:
-        print("🚀 Starting database import...")
-        print("-" * 50)
-        start_time = pd.Timestamp.now()
+        # Step 3: Extract the ZIP file
+        print("📂 Step 3: Extracting ZIP file...")
+        extract_dir = f"statcan_{TABLE_ID}_extracted"
+        with zipfile.ZipFile(zip_filename, 'r') as zip_ref:
+            file_list = zip_ref.namelist()
+            print(f"📁 Found {len(file_list)} files in ZIP archive")
+            for file in file_list:
+                print(f"   📄 {file}")
+            zip_ref.extractall(extract_dir)
+        print(f"✅ Files extracted to: {extract_dir}")
+
+        # Step 4: Find the CSV file in the extracted folder
+        print("🔍 Step 4: Locating CSV file...")
+        files_in_dir = os.listdir(extract_dir)
+        print(f"📁 Files in extracted directory: {files_in_dir}")
+        csv_file = find_statcan_data_csv(extract_dir, TABLE_ID)
+        if csv_file:
+            print(f"✅ Using data CSV file: {os.path.basename(csv_file)}")
+        if not csv_file:
+            raise FileNotFoundError("❌ No CSV file found in the extracted ZIP.")
+
+        # Step 5: Read only the required columns
+        print("📖 Step 5: Reading CSV file...")
+        usecols = ['REF_DATE', 'GEO', 'Products', 'VECTOR', 'VALUE']
+        print(f"📋 Reading columns: {usecols}")
+        try:
+            df = pd.read_csv(csv_file, usecols=usecols, encoding='utf-8-sig', low_memory=False)
+            print(f"✅ CSV loaded successfully")
+            print(f"📊 Total rows: {len(df):,}")
+            print(f"📊 Total columns: {len(df.columns)}")
+            print(f"📊 Memory usage: {df.memory_usage(deep=True).sum() / 1024 / 1024:.2f} MB")
         
-        upserted_count = batch_upsert(collection, records, batch_size=1000)
+            # Show sample data
+            print(f"📋 Sample data (first 3 rows):")
+            print(df.head(3).to_string())
         
-        end_time = pd.Timestamp.now()
-        duration = end_time - start_time
+        except Exception as e:
+            print(f"❌ Error reading CSV: {e}")
+            exit(1)
+
+        # Step 6: Insert into MongoDB with unique index and batch insert
+        print("🗄️ Step 6: Connecting to MongoDB...")
+        # Use environment variable for MongoDB connection string, fallback to localhost
+        mongo_uri = os.getenv('MONGODB_URI', "mongodb://localhost:27017/")
+        db_name = "statcan"
+        collection_name = f"table_{TABLE_ID}"
+
+        print(f"🔗 Connecting to MongoDB: {mongo_uri.split('@')[1] if '@' in mongo_uri else mongo_uri}")
+        client = MongoClient(mongo_uri)
+        db = client[db_name]
+        collection = db[collection_name]
+        print(f"✅ Connected to database: {db_name}")
+        print(f"✅ Using collection: {collection_name}")
+
+        # Create a unique index on REF_DATE, GEO, and Products
+        print("🔧 Creating database index...")
+        collection.create_index(
+            [("REF_DATE", 1), ("GEO", 1), ("Products", 1)],
+            unique=True
+        )
+        print("✅ Unique index created on (REF_DATE, GEO, Products)")
+
+        print("🔄 Converting DataFrame to records...")
+        records = df.to_dict(orient='records')
+        print(f"✅ Converted {len(records):,} records")
+
+        # Get the most recent date from the database
+        print("🔍 Checking for existing data in database...")
+        most_recent_date = get_most_recent_date(collection)
+    
+        # Filter records to only include new data
+        original_count = len(records)
+        if most_recent_date:
+            print(f"🔄 Filtering records to only include data after {most_recent_date}...")
+            records = [rec for rec in records if rec.get('REF_DATE', '') > most_recent_date]
+            filtered_count = original_count - len(records)
+            print(f"✅ Filtered out {filtered_count:,} existing records")
+            print(f"📊 Remaining records to upsert: {len(records):,}")
         
-        print("-" * 50)
-        print("🎉 IMPORT COMPLETED!")
-        print(f"✅ Total records upserted: {upserted_count:,}")
-        print(f"✅ Database: {db_name}.{collection_name}")
-        print(f"⏱️ Duration: {duration}")
-        if duration.total_seconds() > 0:
-            print(f"📊 Records per second: {upserted_count / duration.total_seconds():.1f}")
-        
-        # Step 7: Recalculate price changes and streaks (if enabled and new data was added)
-        if RECALCULATE_PRICE_CHANGES and upserted_count > 0:
-            print("\n" + "=" * 50)
-            print("🔄 Step 7: Recalculating price changes and streaks...")
-            print("=" * 50)
-            
-            try:
-                calculation_start_time = pd.Timestamp.now()
-                total_calculated = recalculate_all_price_changes(client, db_name, collection_name)
-                calculation_end_time = pd.Timestamp.now()
-                calculation_duration = calculation_end_time - calculation_start_time
-                
-                print("-" * 50)
-                print("🎉 CALCULATIONS COMPLETED!")
-                print(f"✅ Total products processed: {total_calculated:,}")
-                print(f"⏱️ Calculation duration: {calculation_duration}")
-                if calculation_duration.total_seconds() > 0:
-                    print(f"📊 Products per second: {total_calculated / calculation_duration.total_seconds():.1f}")
-            except Exception as calc_err:
-                print(f"❌ Error during price change calculations: {calc_err}")
-                print("⚠️ Data import was successful, but calculations failed. You may need to run calculations separately.")
-        elif RECALCULATE_PRICE_CHANGES and upserted_count == 0:
-            print("\n" + "=" * 50)
-            print("⏭️ Step 7: Skipping price change calculations (no new data was added)")
-            print("=" * 50)
+            if len(records) == 0:
+                print("✨ No new records to import - database is already up to date!")
         else:
-            print("\n" + "=" * 50)
-            print("⏭️ Step 7: Skipping price change calculations (RECALCULATE_PRICE_CHANGES=False)")
+            print("📊 No existing data found - will import all records")
+
+        def batch_upsert(collection, records, batch_size=1000):
+            total_upserted = 0
+            total_batches = (len(records) + batch_size - 1) // batch_size
+            print(f"📦 Starting batch upsert: {total_batches} batches of {batch_size} records each")
+        
+            for i in range(0, len(records), batch_size):
+                batch_num = (i // batch_size) + 1
+                batch = records[i:i+batch_size]
+                batch_upserted = 0
+            
+                print(f"📦 Processing batch {batch_num}/{total_batches} ({len(batch)} records)...")
+            
+                for j, rec in enumerate(batch):
+                    try:
+                        if len(bson.BSON.encode(rec)) > 16 * 1024 * 1024:
+                            print(f"⚠️ Skipped oversized record in batch {batch_num}")
+                            continue
+                    except Exception as e:
+                        print(f"❌ Error encoding record in batch {batch_num}: {e}")
+                        continue
+                    try:
+                        # Use upsert: match on REF_DATE, GEO, Products
+                        result = collection.replace_one(
+                            {"REF_DATE": rec["REF_DATE"], "GEO": rec["GEO"], "Products": rec["Products"]},
+                            rec,
+                            upsert=True
+                        )
+                        if result.upserted_id is not None or result.modified_count > 0:
+                            total_upserted += 1
+                            batch_upserted += 1
+                    except Exception as e:
+                        print(f"❌ Upsert error in batch {batch_num}: {e}")
+            
+                # Progress update for each batch
+                progress = (batch_num / total_batches) * 100
+                print(f"✅ Batch {batch_num}/{total_batches} completed: {batch_upserted} records upserted ({progress:.1f}%)")
+        
+            return total_upserted
+
+        if records and len(records) > 0:
+            print("🚀 Starting database import...")
+            print("-" * 50)
+            start_time = pd.Timestamp.now()
+        
+            upserted_count = batch_upsert(collection, records, batch_size=1000)
+        
+            end_time = pd.Timestamp.now()
+            duration = end_time - start_time
+        
+            print("-" * 50)
+            print("🎉 IMPORT COMPLETED!")
+            print(f"✅ Total records upserted: {upserted_count:,}")
+            print(f"✅ Database: {db_name}.{collection_name}")
+            print(f"⏱️ Duration: {duration}")
+            if duration.total_seconds() > 0:
+                print(f"📊 Records per second: {upserted_count / duration.total_seconds():.1f}")
+        
+            # Step 7: Recalculate price changes and streaks (if enabled and new data was added)
+            if RECALCULATE_PRICE_CHANGES and upserted_count > 0:
+                print("\n" + "=" * 50)
+                print("🔄 Step 7: Recalculating price changes and streaks...")
+                print("=" * 50)
+            
+                try:
+                    calculation_start_time = pd.Timestamp.now()
+                    total_calculated = recalculate_all_price_changes(client, db_name, collection_name)
+                    calculation_end_time = pd.Timestamp.now()
+                    calculation_duration = calculation_end_time - calculation_start_time
+                
+                    print("-" * 50)
+                    print("🎉 CALCULATIONS COMPLETED!")
+                    print(f"✅ Total products processed: {total_calculated:,}")
+                    print(f"⏱️ Calculation duration: {calculation_duration}")
+                    if calculation_duration.total_seconds() > 0:
+                        print(f"📊 Products per second: {total_calculated / calculation_duration.total_seconds():.1f}")
+                except Exception as calc_err:
+                    print(f"❌ Error during price change calculations: {calc_err}")
+                    print("⚠️ Data import was successful, but calculations failed. You may need to run calculations separately.")
+            elif RECALCULATE_PRICE_CHANGES and upserted_count == 0:
+                print("\n" + "=" * 50)
+                print("⏭️ Step 7: Skipping price change calculations (no new data was added)")
+                print("=" * 50)
+            else:
+                print("\n" + "=" * 50)
+                print("⏭️ Step 7: Skipping price change calculations (RECALCULATE_PRICE_CHANGES=False)")
+                print("=" * 50)
+        
+        else:
             print("=" * 50)
+            print("✅ DATABASE IS UP TO DATE!")
+            print("=" * 50)
+            print("📊 No new records to import - skipping database operations")
+            print("💡 The database already contains the latest data from StatCan")
         
-    else:
-        print("=" * 50)
-        print("✅ DATABASE IS UP TO DATE!")
-        print("=" * 50)
-        print("📊 No new records to import - skipping database operations")
-        print("💡 The database already contains the latest data from StatCan")
-        
-        # Skip price change calculations if no new data
+            # Skip price change calculations if no new data
+            print("\n" + "=" * 50)
+            print("⏭️ Step 7: Skipping price change calculations (no new data)")
+            print("=" * 50)
+
+        print("🔌 Closing database connection...")
+        client.close()
+        print("✅ Database connection closed")
+
+        # Step 8: Clean up temporary files
         print("\n" + "=" * 50)
-        print("⏭️ Step 7: Skipping price change calculations (no new data)")
+        print("🧹 Step 8: Cleaning up temporary files...")
         print("=" * 50)
-
-    print("🔌 Closing database connection...")
-    client.close()
-    print("✅ Database connection closed")
-
-    # Step 8: Clean up temporary files
-    print("\n" + "=" * 50)
-    print("🧹 Step 8: Cleaning up temporary files...")
-    print("=" * 50)
     
-    try:
-        # Remove extracted directory
-        if os.path.exists(extract_dir):
-            shutil.rmtree(extract_dir)
-            print(f"✅ Removed extracted directory: {extract_dir}")
+        try:
+            # Remove extracted directory
+            if os.path.exists(extract_dir):
+                shutil.rmtree(extract_dir)
+                print(f"✅ Removed extracted directory: {extract_dir}")
         
-        # Remove downloaded ZIP file
-        if os.path.exists(zip_filename):
-            os.remove(zip_filename)
-            print(f"✅ Removed downloaded file: {zip_filename}")
+            # Remove downloaded ZIP file
+            if os.path.exists(zip_filename):
+                os.remove(zip_filename)
+                print(f"✅ Removed downloaded file: {zip_filename}")
         
-        print("✅ Cleanup completed successfully")
-    except Exception as cleanup_err:
-        print(f"⚠️ Warning: Could not clean up temporary files: {cleanup_err}")
-        print("💡 You may need to manually remove:")
-        print(f"   - {extract_dir}")
-        print(f"   - {zip_filename}")
+            print("✅ Cleanup completed successfully")
+        except Exception as cleanup_err:
+            print(f"⚠️ Warning: Could not clean up temporary files: {cleanup_err}")
+            print("💡 You may need to manually remove:")
+            print(f"   - {extract_dir}")
+            print(f"   - {zip_filename}")
 
-except Exception as e:
-    print(f"❌ Fatal error: {e}")
-    print("💡 Check your internet connection and MongoDB credentials")
+    except Exception as e:
+        print(f"❌ Fatal error: {e}")
+        print("💡 Check your internet connection and MongoDB credentials")
     
-    # Clean up on error too (optional - comment out if you want to keep files for debugging)
-    try:
-        if 'extract_dir' in locals() and os.path.exists(extract_dir):
-            print(f"\n🧹 Cleaning up extracted directory: {extract_dir}")
-            shutil.rmtree(extract_dir)
-        if 'zip_filename' in locals() and os.path.exists(zip_filename):
-            print(f"🧹 Cleaning up downloaded file: {zip_filename}")
-            os.remove(zip_filename)
-    except:
-        pass  # Ignore cleanup errors on fatal errors
+        # Clean up on error too (optional - comment out if you want to keep files for debugging)
+        try:
+            if 'extract_dir' in locals() and os.path.exists(extract_dir):
+                print(f"\n🧹 Cleaning up extracted directory: {extract_dir}")
+                shutil.rmtree(extract_dir)
+            if 'zip_filename' in locals() and os.path.exists(zip_filename):
+                print(f"🧹 Cleaning up downloaded file: {zip_filename}")
+                os.remove(zip_filename)
+        except:
+            pass  # Ignore cleanup errors on fatal errors
     
-    exit(1) 
+            exit(1)
+
+
+if __name__ == '__main__':
+    if STORAGE_BACKEND == 'sqlite':
+        from pathlib import Path
+        import sys
+
+        ROOT = Path(__file__).resolve().parent
+        if str(ROOT) not in sys.path:
+            sys.path.insert(0, str(ROOT))
+
+        from storage.pipeline import run_sqlite_import
+
+        raise SystemExit(run_sqlite_import())
+
+    if STORAGE_BACKEND != 'mongodb':
+        print(f"❌ Unsupported STORAGE_BACKEND: {STORAGE_BACKEND}")
+        print("💡 Use STORAGE_BACKEND=sqlite or STORAGE_BACKEND=mongodb")
+        raise SystemExit(1)
+
+    run_mongodb_import()

@@ -10,16 +10,18 @@ This project has three operational workflows:
 
 Entry point:
 
-- `import-statcan-data.py`
+- `import-statcan-data.py` (default: SQLite + static JSON export)
+- `import-statcan-sqlite.py` (thin wrapper around the same SQLite pipeline)
 
 What it does:
 
 1. Fetches latest StatCan table download URL
 2. Downloads and extracts CSV
 3. Reads required columns (`REF_DATE`, `GEO`, `Products`, `VECTOR`, `VALUE`)
-4. Upserts into `table_18100245`
-5. Recalculates derived collections (`price_changes`, `price_streaks`)
-6. Cleans temporary files
+4. Upserts into SQLite (`source_prices` table)
+5. Recalculates derived tables (`price_changes`, `price_streaks`)
+6. Exports static JSON to `react-frontend/data/` for Vercel
+7. Cleans temporary files
 
 Run manually:
 
@@ -27,13 +29,14 @@ Run manually:
 python import-statcan-data.py
 ```
 
-Required environment variable:
+Environment variables:
 
-- `MONGODB_URI`
-
-Optional behavior:
-
-- `RECALCULATE_PRICE_CHANGES` in script (currently enabled by default)
+- `STORAGE_BACKEND` — `sqlite` (default) or `mongodb` (legacy)
+- `SQLITE_PATH` — SQLite database file (default: `backend/data/grocery-index.db`)
+- `STATIC_JSON_OUTPUT_DIR` — JSON export directory (default: `react-frontend/data`)
+- `EXPORT_STATIC_JSON` — `true`/`false` (default: `true`)
+- `RECALCULATE_PRICE_CHANGES` — `true`/`false` (default: `true`)
+- `MONGODB_URI` — only required when `STORAGE_BACKEND=mongodb`
 
 ## 2) Derived metrics refresh workflow
 
@@ -55,7 +58,6 @@ npm run warmup
 
 Required environment variables:
 
-- `MONGODB_URI`
 - `API_BASE_URL` (defaults to `http://localhost:3000/api/statcan`)
 
 ## 3) Frontend data delivery workflow
@@ -92,20 +94,22 @@ Default trigger:
 - Manual trigger (`workflow_dispatch`)
 - Runs in GitHub Actions environment: `Scraper`
 
-Required GitHub Actions settings:
-
-- `MONGODB_URI`
-- `API_BASE_URL` (as an **Actions variable**; for backend warmup endpoint)
-
-> If these are environment-scoped settings, they must be configured under the
-> `Scraper` environment because the workflow job targets `environment: Scraper`.
-
 Execution order:
 
 1. Setup Python + dependencies
 2. Setup Node + backend dependencies
-3. Run `python import-statcan-data.py`
-4. Run `npm run warmup` in `backend`
+3. Run `python import-statcan-data.py` (SQLite + static JSON export)
+4. Run Python storage unit tests
+5. Run `npm run warmup` in `backend` (optional, when `API_BASE_URL` is set)
+6. Upload SQLite DB and static JSON artifacts
+
+Required GitHub Actions variable:
+
+- `API_BASE_URL` (optional; for backend warmup against a deployed API)
+
+Optional notification secret:
+
+- `SLACK_WEBHOOK_URL` (for failure notifications)
 
 Failure handling:
 
@@ -114,21 +118,8 @@ Failure handling:
 - If `SLACK_WEBHOOK_URL` is configured in repository secrets, a Slack alert is sent with
   a direct link to the failed run logs.
 
-Required GitHub secret:
-
-- `MONGODB_URI`
-
-Required GitHub Actions variable:
-
-- `API_BASE_URL`
-
-Optional notification secret:
-
-- `SLACK_WEBHOOK_URL` (for failure notifications)
-
 How to set up notifications:
 
 1. In GitHub repository settings, add `SLACK_WEBHOOK_URL` under **Settings → Secrets and variables → Actions**.
 2. Use a Slack incoming webhook URL for the channel you want alerts in.
 3. Trigger the workflow once via **Actions → Scheduled StatCan Scraper → Run workflow** to verify alerts.
-
