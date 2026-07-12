@@ -1,5 +1,5 @@
 import { NextResponse } from 'next/server';
-import * as staticData from '../../../lib/staticData';
+import * as staticData from '../../../../lib/staticData';
 
 export const dynamic = 'force-static';
 
