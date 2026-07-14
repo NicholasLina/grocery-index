@@ -1,0 +1,13 @@
+{
+  "generatedAt": "2026-07-11T00:00:00",
+  "regions": ["Canada", "Ontario"],
+  "products": ["Apples", "Bananas"],
+  "regionSlugs": {
+    "Canada": "canada",
+    "Ontario": "ontario"
+  },
+  "productSlugs": {
+    "Apples": "apples",
+    "Bananas": "bananas"
+  }
+}

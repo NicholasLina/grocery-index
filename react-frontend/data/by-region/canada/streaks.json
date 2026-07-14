@@ -1,0 +1,29 @@
+{
+  "geo": "Canada",
+  "streaks": [
+    {
+      "product": "Apples",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        { "REF_DATE": "2024-01", "VALUE": 100 },
+        { "REF_DATE": "2024-02", "VALUE": 110 },
+        { "REF_DATE": "2024-03", "VALUE": 120 }
+      ],
+      "lastUpdated": "2026-07-11T00:00:00"
+    },
+    {
+      "product": "Bananas",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        { "REF_DATE": "2024-01", "VALUE": 80 },
+        { "REF_DATE": "2024-02", "VALUE": 75 },
+        { "REF_DATE": "2024-03", "VALUE": 70 }
+      ],
+      "lastUpdated": "2026-07-11T00:00:00"
+    }
+  ]
+}

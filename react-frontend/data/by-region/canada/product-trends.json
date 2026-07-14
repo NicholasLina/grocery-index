@@ -1,0 +1,17 @@
+{
+  "geo": "Canada",
+  "trends": {
+    "Apples": [
+      { "REF_DATE": "2024-01", "VALUE": 100 },
+      { "REF_DATE": "2024-02", "VALUE": 110 },
+      { "REF_DATE": "2024-03", "VALUE": 120 }
+    ],
+    "Bananas": [
+      { "REF_DATE": "2024-01", "VALUE": 80 },
+      { "REF_DATE": "2024-02", "VALUE": 75 },
+      { "REF_DATE": "2024-03", "VALUE": 70 }
+    ]
+  },
+  "count": 2,
+  "months": 12
+}

@@ -108,4 +108,4 @@ next-env.d.ts
 
 # StatCan
 statcan_18100245_extracted/
-statcan_18100245.csv
+statcan_18100245.csv__pycache__/

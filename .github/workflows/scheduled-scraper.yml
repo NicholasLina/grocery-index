@@ -13,7 +13,10 @@ jobs:
     environment: Scraper
     env:
       FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: 'true'
-      MONGODB_URI: ${{ secrets.MONGODB_URI }}
+      STORAGE_BACKEND: sqlite
+      SQLITE_PATH: backend/data/grocery-index.db
+      STATIC_JSON_OUTPUT_DIR: react-frontend/data
+      EXPORT_STATIC_JSON: 'true'
       API_BASE_URL: ${{ vars.API_BASE_URL }}
     steps:
       - name: Checkout repository
@@ -40,12 +43,30 @@ jobs:
         run: npm ci
         working-directory: backend
 
-      - name: Import latest StatCan data
+      - name: Import latest StatCan data into SQLite and static JSON
         run: python import-statcan-data.py
 
-      - name: Warm up API-calculated collections
+      - name: Run storage unit tests
+        run: python -m unittest tests/test_storage.py
+
+      - name: Warm up SQLite API (optional)
+        if: env.API_BASE_URL != ''
         run: npm run warmup
         working-directory: backend
+
+      - name: Upload SQLite database artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: grocery-index-sqlite-db
+          path: backend/data/grocery-index.db
+          if-no-files-found: ignore
+
+      - name: Upload static JSON artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: grocery-index-static-json
+          path: react-frontend/data/**
+          if-no-files-found: ignore
 
       - name: Upload scraper logs on failure
         if: failure()
