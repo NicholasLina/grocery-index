@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.18
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.83
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.39
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.89
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.35
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.77
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 2.77
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.17
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.48
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.31
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.72
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.82
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.79
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.87
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.33
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.0
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.45
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.68
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.24
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.72
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.38
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.9
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.4
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.46
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.02
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.04
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.45
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.46
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.31
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.57
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.15
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.11
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.14
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.01
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.4
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.5
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.32
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.05
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.61
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.47
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.39
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.76
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.16
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.34
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.19
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.25
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.1
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.12
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.16
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.8
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.23
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.76
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.12
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.41
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.11
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.89
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.31
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.77
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.64
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.5
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.7
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.94
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.85
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.42
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.27
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.19
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.59
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.71
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.8
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.43
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.0
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.48
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.77
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.21
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.12
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.74
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.66
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.65
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.52
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.92
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.03
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.09
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.73
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.02
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.54
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.42
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.5
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.0
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.19
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.87
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.71
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.7
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.98
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.46
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.87
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.19
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.44
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.94
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 3.79
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.23
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.4
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.32
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 4.49
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Alberta",
+    "Products": "Squash, per kilogram",
+    "VECTOR": "v1458870230",
+    "VALUE": 5.14
+  }
+]

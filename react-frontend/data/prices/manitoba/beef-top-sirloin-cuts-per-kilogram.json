@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.68
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.18
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.72
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.92
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.96
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.39
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.78
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.59
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.62
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.26
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.47
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.06
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.43
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.95
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.3
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.94
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.16
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.93
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.54
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 11.35
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 11.9
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.58
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.84
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.23
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.67
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.94
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.92
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.99
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 20.64
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.04
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 12.94
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 13.36
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.24
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.71
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.22
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.36
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.62
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.73
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.6
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.9
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 24.18
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 20.18
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.08
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.0
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 20.86
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.64
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.58
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.47
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.85
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.16
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.15
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.7
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 14.22
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 15.54
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.68
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.02
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.6
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.86
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 20.48
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.53
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.97
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.34
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.78
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 22.81
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.23
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.46
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.99
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.15
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 24.16
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.51
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.52
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.01
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 17.72
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.36
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.46
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.92
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.5
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.31
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.83
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 24.43
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 27.07
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.56
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.63
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 25.82
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 18.16
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.24
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 16.1
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 24.32
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 25.43
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 24.62
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 25.6
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.77
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 26.22
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.37
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.12
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 19.98
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 21.98
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 26.49
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 22.98
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.73
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 26.45
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 23.55
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 27.33
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 25.73
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 30.46
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 26.78
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 31.57
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 30.42
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 30.57
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 25.08
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 33.79
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 27.37
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Manitoba",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447217",
+    "VALUE": 29.16
+  }
+]

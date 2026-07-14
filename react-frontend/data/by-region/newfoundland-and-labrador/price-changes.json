@@ -1,0 +1,4951 @@
+{
+  "geo": "Newfoundland and Labrador",
+  "gainers": [
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 32.4,
+      "previousPrice": 25.13,
+      "change": 7.27,
+      "changePercent": 28.929566255471546,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 29.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 34.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 36.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 45.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 27.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 29.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 26.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 32.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 45.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 45.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.4
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.17,
+      "previousPrice": 3.29,
+      "change": 0.8799999999999999,
+      "changePercent": 26.74772036474164,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.6,
+      "previousPrice": 1.34,
+      "change": 0.26,
+      "changePercent": 19.402985074626866,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.31
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.6
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.41,
+      "previousPrice": 3.74,
+      "change": 0.6699999999999999,
+      "changePercent": 17.914438502673793,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.41
+        }
+      ]
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 11.37,
+      "previousPrice": 9.67,
+      "change": 1.6999999999999993,
+      "changePercent": 17.580144777662866,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.37
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 8.46,
+      "previousPrice": 7.29,
+      "change": 1.1700000000000008,
+      "changePercent": 16.049382716049394,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.46
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.18,
+      "previousPrice": 2.77,
+      "change": 0.41000000000000014,
+      "changePercent": 14.801444043321304,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.18
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.93,
+      "previousPrice": 4.4,
+      "change": 0.5299999999999994,
+      "changePercent": 12.04545454545453,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.93
+        }
+      ]
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.26,
+      "previousPrice": 2.92,
+      "change": 0.33999999999999986,
+      "changePercent": 11.643835616438352,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.26
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.99,
+      "previousPrice": 4.48,
+      "change": 0.5099999999999998,
+      "changePercent": 11.383928571428566,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.84,
+      "previousPrice": 4.39,
+      "change": 0.4500000000000002,
+      "changePercent": 10.25056947608201,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 2.39,
+      "previousPrice": 2.17,
+      "change": 0.2200000000000002,
+      "changePercent": 10.138248847926276,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.39
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.99,
+      "previousPrice": 3.63,
+      "change": 0.3600000000000003,
+      "changePercent": 9.917355371900834,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.99
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.77,
+      "previousPrice": 3.44,
+      "change": 0.33000000000000007,
+      "changePercent": 9.593023255813955,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.77
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.92,
+      "previousPrice": 4.51,
+      "change": 0.41000000000000014,
+      "changePercent": 9.090909090909093,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.75
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.99
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.92
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.49,
+      "previousPrice": 4.12,
+      "change": 0.3700000000000001,
+      "changePercent": 8.980582524271847,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.14,
+      "previousPrice": 4.73,
+      "change": 0.40999999999999925,
+      "changePercent": 8.668076109936559,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 11.51,
+      "previousPrice": 10.62,
+      "change": 0.8900000000000006,
+      "changePercent": 8.380414312617708,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.49
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.55
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.51
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.44,
+      "previousPrice": 4.1,
+      "change": 0.34000000000000075,
+      "changePercent": 8.292682926829286,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.81,
+      "previousPrice": 3.54,
+      "change": 0.27,
+      "changePercent": 7.627118644067797,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.71,
+      "previousPrice": 4.39,
+      "change": 0.3200000000000003,
+      "changePercent": 7.289293849658321,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.71
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 16.43,
+      "previousPrice": 15.33,
+      "change": 1.0999999999999996,
+      "changePercent": 7.175472928897585,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.62
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.52
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 15.1
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.39
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.43
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.79,
+      "previousPrice": 7.27,
+      "change": 0.5200000000000005,
+      "changePercent": 7.152682255845949,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.55
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.79
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.43,
+      "previousPrice": 4.14,
+      "change": 0.29000000000000004,
+      "changePercent": 7.004830917874398,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.43
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.84,
+      "previousPrice": 4.54,
+      "change": 0.2999999999999998,
+      "changePercent": 6.607929515418498,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.74,
+      "previousPrice": 4.45,
+      "change": 0.29000000000000004,
+      "changePercent": 6.51685393258427,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ]
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.51,
+      "previousPrice": 5.18,
+      "change": 0.33000000000000007,
+      "changePercent": 6.370656370656372,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.51
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 27.25,
+      "previousPrice": 25.69,
+      "change": 1.5599999999999987,
+      "changePercent": 6.072401712728683,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 26.83
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 26.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 25.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 25.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 24.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 24.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 23.3
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 25.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 25.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.25
+        }
+      ]
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 2.31,
+      "previousPrice": 2.18,
+      "change": 0.1299999999999999,
+      "changePercent": 5.963302752293573,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.31
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.13,
+      "previousPrice": 6.74,
+      "change": 0.3899999999999997,
+      "changePercent": 5.786350148367948,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.13
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.52,
+      "previousPrice": 7.12,
+      "change": 0.39999999999999947,
+      "changePercent": 5.61797752808988,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.52
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.65,
+      "previousPrice": 5.35,
+      "change": 0.3000000000000007,
+      "changePercent": 5.607476635514033,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.65
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.76,
+      "previousPrice": 1.67,
+      "change": 0.09000000000000008,
+      "changePercent": 5.389221556886232,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.76
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.1,
+      "previousPrice": 6.75,
+      "change": 0.34999999999999964,
+      "changePercent": 5.18518518518518,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.7
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.1
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 6.25,
+      "previousPrice": 5.96,
+      "change": 0.29000000000000004,
+      "changePercent": 4.8657718120805376,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.49
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.55
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.25
+        }
+      ]
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.77,
+      "previousPrice": 4.55,
+      "change": 0.21999999999999975,
+      "changePercent": 4.8351648351648295,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ]
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.68,
+      "previousPrice": 4.47,
+      "change": 0.20999999999999996,
+      "changePercent": 4.697986577181208,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.76,
+      "previousPrice": 3.6,
+      "change": 0.1599999999999997,
+      "changePercent": 4.444444444444437,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.76
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.72,
+      "previousPrice": 4.52,
+      "change": 0.20000000000000018,
+      "changePercent": 4.424778761061951,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 25.22,
+      "previousPrice": 24.19,
+      "change": 1.0299999999999976,
+      "changePercent": 4.257957833815616,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 24.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 23.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 24.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 24.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 23.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 23.06
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 27.17
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 22.3
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 24.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 24.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.22
+        }
+      ]
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.75,
+      "previousPrice": 7.47,
+      "change": 0.28000000000000025,
+      "changePercent": 3.7483266398929085,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.83
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.75
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.96,
+      "previousPrice": 1.89,
+      "change": 0.07000000000000006,
+      "changePercent": 3.703703703703707,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.1
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.96
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 2.53,
+      "previousPrice": 2.44,
+      "change": 0.08999999999999986,
+      "changePercent": 3.688524590163929,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.53
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.99,
+      "previousPrice": 5.78,
+      "change": 0.20999999999999996,
+      "changePercent": 3.633217993079584,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.99
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.33,
+      "previousPrice": 5.15,
+      "change": 0.17999999999999972,
+      "changePercent": 3.4951456310679556,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.33
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 9.88,
+      "previousPrice": 9.55,
+      "change": 0.33000000000000007,
+      "changePercent": 3.4554973821989536,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.9
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.88
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.81,
+      "previousPrice": 5.62,
+      "change": 0.1899999999999995,
+      "changePercent": 3.3807829181494573,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.2,
+      "previousPrice": 5.03,
+      "change": 0.16999999999999993,
+      "changePercent": 3.379721669980118,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.39,
+      "previousPrice": 7.16,
+      "change": 0.22999999999999954,
+      "changePercent": 3.212290502793289,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.08
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.39
+        }
+      ]
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 9.81,
+      "previousPrice": 9.52,
+      "change": 0.2900000000000009,
+      "changePercent": 3.046218487394968,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.9
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.54
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.04
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.81
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 36.98,
+      "previousPrice": 47.99,
+      "change": -11.010000000000005,
+      "changePercent": -22.94227964159201,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 28.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 28.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 30.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 29.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 32.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 43.41
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 32.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 42.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 36.26
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 44.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 47.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 36.98
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.75,
+      "previousPrice": 5.61,
+      "change": -0.8600000000000003,
+      "changePercent": -15.329768270944747,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.75
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 9.91,
+      "previousPrice": 11.39,
+      "change": -1.4800000000000004,
+      "changePercent": -12.993854258121162,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.54
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.21
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.91
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.83,
+      "previousPrice": 6.5,
+      "change": -0.6699999999999999,
+      "changePercent": -10.307692307692307,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.83
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 9.44,
+      "previousPrice": 10.31,
+      "change": -0.870000000000001,
+      "changePercent": -8.438409311348215,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.18
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.92
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.0
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.44
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 25.42,
+      "previousPrice": 27.44,
+      "change": -2.0199999999999996,
+      "changePercent": -7.361516034985422,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 22.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 29.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 28.42
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 28.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 30.44
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 30.14
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 27.94
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 32.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 29.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.42
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.26,
+      "previousPrice": 7.83,
+      "change": -0.5700000000000003,
+      "changePercent": -7.279693486590041,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.92
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.26
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.87,
+      "previousPrice": 2.0,
+      "change": -0.1299999999999999,
+      "changePercent": -6.499999999999995,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.87
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 2.98,
+      "previousPrice": 3.18,
+      "change": -0.20000000000000018,
+      "changePercent": -6.289308176100635,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.98
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.57,
+      "previousPrice": 1.66,
+      "change": -0.08999999999999986,
+      "changePercent": -5.421686746987944,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.57
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 8.96,
+      "previousPrice": 9.45,
+      "change": -0.48999999999999844,
+      "changePercent": -5.185185185185169,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.34
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.96
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.12,
+      "previousPrice": 4.32,
+      "change": -0.20000000000000018,
+      "changePercent": -4.629629629629633,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.52,
+      "previousPrice": 4.71,
+      "change": -0.1900000000000004,
+      "changePercent": -4.0339702760085006,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 9.68,
+      "previousPrice": 10.08,
+      "change": -0.40000000000000036,
+      "changePercent": -3.9682539682539715,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.27
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.02
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.68
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.38,
+      "previousPrice": 5.58,
+      "change": -0.20000000000000018,
+      "changePercent": -3.5842293906810068,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 13.92,
+      "previousPrice": 14.42,
+      "change": -0.5,
+      "changePercent": -3.467406380027739,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.89
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.92
+        }
+      ]
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 4.41,
+      "previousPrice": 4.55,
+      "change": -0.13999999999999968,
+      "changePercent": -3.07692307692307,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.41
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.9,
+      "previousPrice": 4.02,
+      "change": -0.11999999999999966,
+      "changePercent": -2.9850746268656634,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.9
+        }
+      ]
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.2,
+      "previousPrice": 5.33,
+      "change": -0.1299999999999999,
+      "changePercent": -2.4390243902439006,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.62,
+      "previousPrice": 3.71,
+      "change": -0.08999999999999986,
+      "changePercent": -2.4258760107816673,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.62
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 6.79,
+      "previousPrice": 6.95,
+      "change": -0.16000000000000014,
+      "changePercent": -2.302158273381297,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.95
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.79
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 6.21,
+      "previousPrice": 6.35,
+      "change": -0.13999999999999968,
+      "changePercent": -2.204724409448814,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.21
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 1.05,
+      "previousPrice": 1.07,
+      "change": -0.020000000000000018,
+      "changePercent": -1.8691588785046744,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.05
+        }
+      ]
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 2.92,
+      "previousPrice": 2.97,
+      "change": -0.050000000000000266,
+      "changePercent": -1.6835016835016925,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 5.32,
+      "previousPrice": 5.41,
+      "change": -0.08999999999999986,
+      "changePercent": -1.6635859519408478,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.32
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.61,
+      "previousPrice": 3.67,
+      "change": -0.06000000000000005,
+      "changePercent": -1.6348773841961868,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.61
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.77,
+      "previousPrice": 3.82,
+      "change": -0.04999999999999982,
+      "changePercent": -1.308900523560205,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.77
+        }
+      ]
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 6.19,
+      "previousPrice": 6.27,
+      "change": -0.07999999999999918,
+      "changePercent": -1.2759170653907366,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.41
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.19
+        }
+      ]
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 7.96,
+      "previousPrice": 8.06,
+      "change": -0.10000000000000053,
+      "changePercent": -1.2406947890818925,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.97
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.96
+        }
+      ]
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 3.48,
+      "previousPrice": 3.52,
+      "change": -0.040000000000000036,
+      "changePercent": -1.1363636363636374,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.48
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Newfoundland and Labrador",
+      "currentPrice": 11.74,
+      "previousPrice": 11.85,
+      "change": -0.10999999999999943,
+      "changePercent": -0.9282700421940882,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.248654",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.2
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 13.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.74
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 31,
+  "trendPoints": 12
+}

@@ -1,0 +1,607 @@
+{
+  "geo": "British Columbia",
+  "trends": {
+    "Grapes, per kilogram": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 8.59
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 7.99
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 6.92
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 7.28
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 6.84
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 7.19
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 8.34
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 8.91
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 8.78
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 8.53
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 8.87
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 11.29
+      }
+    ],
+    "Iceberg lettuce, unit": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 3.02
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 3.08
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 3.29
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 3.16
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 3.43
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 4.07
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 3.78
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 3.63
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 3.92
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 3.68
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 3.62
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 4.33
+      }
+    ],
+    "Chicken drumsticks, per kilogram": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 8.37
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 8.53
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 6.92
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 8.1
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 7.4
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 7.9
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 8.05
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 7.8
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 7.52
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 7.27
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 7.35
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 8.62
+      }
+    ],
+    "Whole chicken, per kilogram": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 6.32
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 8.09
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 8.9
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 8.95
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 8.02
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 8.03
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 9.7
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 9.58
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 8.6
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 9.33
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 8.67
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 10.06
+      }
+    ],
+    "Limes, unit": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 0.88
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 0.9
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 0.87
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 0.92
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 0.82
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 0.82
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 0.75
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 0.8
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 0.77
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 0.86
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 0.94
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 1.09
+      }
+    ],
+    "Frozen broccoli, 500 grams": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 3.81
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 3.91
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 3.91
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 3.64
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 3.61
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 3.83
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 3.5
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 3.79
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 4.04
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 3.61
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 3.63
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 4.16
+      }
+    ],
+    "Beef striploin cuts, per kilogram": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 30.1
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 32.6
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 35.11
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 31.44
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 36.54
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 45.94
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 36.46
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 45.12
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 41.66
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 43.69
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 45.4
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 40.88
+      }
+    ],
+    "Margarine, 907 grams": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 7.23
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 6.7
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 7.35
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 7.28
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 7.61
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 7.38
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 7.68
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 7.5
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 7.41
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 7.48
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 7.49
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 6.83
+      }
+    ],
+    "Butter, 454 grams": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 6.3
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 5.97
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 6.08
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 5.68
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 5.95
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 5.85
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 5.83
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 6.34
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 5.96
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 5.62
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 6.34
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 5.8
+      }
+    ],
+    "Beef rib cuts, per kilogram": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 35.45
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 38.18
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 36.4
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 42.52
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 32.04
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 42.69
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 34.28
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 39.08
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 33.44
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 43.08
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 33.7
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 30.97
+      }
+    ],
+    "Mayonnaise, 890 millilitres ": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 6.28
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 6.32
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 6.44
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 6.59
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 6.6
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 6.32
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 6.4
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 6.45
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 6.51
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 6.48
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 6.46
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 6.0
+      }
+    ],
+    "Cucumber, unit": [
+      {
+        "REF_DATE": "2025-06",
+        "VALUE": 1.33
+      },
+      {
+        "REF_DATE": "2025-07",
+        "VALUE": 1.25
+      },
+      {
+        "REF_DATE": "2025-08",
+        "VALUE": 1.38
+      },
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 1.39
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 1.68
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 1.86
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 1.79
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 2.06
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 2.27
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 2.06
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 1.63
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 1.52
+      }
+    ]
+  },
+  "count": 12,
+  "months": 12
+}

@@ -5,7 +5,6 @@
 import { usesStaticData } from './staticMode';
 
 const DEFAULT_API_BASE_URL = 'http://localhost:3000/api/statcan';
-const DEFAULT_PRODUCTION_API_BASE_URL = 'https://grocery-index-api.nicklina.com/api/statcan';
 
 function normalizeBaseUrl(url) {
   const withProtocol =
@@ -23,12 +22,16 @@ function getServerBaseUrl() {
   return 'http://localhost:5000';
 }
 
+function getSameOriginApiBaseUrl() {
+  if (typeof window === 'undefined') {
+    return `${getServerBaseUrl()}/api/statcan`;
+  }
+  return '/api/statcan';
+}
+
 export function getApiBaseUrl() {
   if (usesStaticData()) {
-    if (typeof window === 'undefined') {
-      return `${getServerBaseUrl()}/api/statcan`;
-    }
-    return '/api/statcan';
+    return getSameOriginApiBaseUrl();
   }
 
   const configuredBaseUrl =
@@ -38,16 +41,17 @@ export function getApiBaseUrl() {
     return normalizeBaseUrl(configuredBaseUrl);
   }
 
-  // Never use localhost as an implicit fallback in production-like environments.
+  // Prefer same-origin Next.js API routes over a hard-coded remote host.
+  // Remote APIs must be opted into via NEXT_PUBLIC_API_URL (+ DATA_SOURCE=api).
   if (process.env.NODE_ENV === 'production') {
-    return DEFAULT_PRODUCTION_API_BASE_URL;
+    return getSameOriginApiBaseUrl();
   }
 
   if (typeof window !== 'undefined') {
     const host = window.location.hostname;
     const isLocalHost = host === 'localhost' || host === '127.0.0.1';
     if (!isLocalHost) {
-      return DEFAULT_PRODUCTION_API_BASE_URL;
+      return getSameOriginApiBaseUrl();
     }
   }
 

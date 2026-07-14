@@ -1,0 +1,65 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 3.04
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 3.04
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 3.05
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 3.07
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 3.09
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 2.92
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 2.9
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1793770432",
+    "VALUE": 2.91
+  }
+]

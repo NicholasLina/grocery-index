@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.78
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.8
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.8
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.79
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.79
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.79
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.81
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.83
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.83
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.83
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.75
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.75
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.79
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.94
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.95
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.96
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.95
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.94
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.94
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.85
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.85
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.87
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.77
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.8
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.8
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.81
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.82
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.87
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.86
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.94
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.99
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.96
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.96
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.92
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.86
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.86
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.88
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.86
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.84
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.84
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.03
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.01
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.03
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.02
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.02
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.01
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.03
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 4.99
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.04
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.07
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.05
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.02
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.56
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.59
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.57
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.56
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.56
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.52
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.53
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.82
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.82
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.85
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.84
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.99
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.99
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.99
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.98
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.93
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.82
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.79
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.79
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.79
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.79
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.73
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.74
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.75
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.78
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.88
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.89
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.89
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.89
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.04
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.08
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.06
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.08
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.08
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.09
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.1
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.08
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.1
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.23
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.21
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.23
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "British Columbia",
+    "Products": "Milk, 4 litres",
+    "VECTOR": "v1159447349",
+    "VALUE": 6.27
+  }
+]

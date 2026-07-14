@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.33
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.37
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.39
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.38
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.29
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.21
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.24
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.31
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.39
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.27
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.3
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.34
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.43
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.46
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.34
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.3
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.22
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.29
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.33
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.32
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.36
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.17
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.47
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.37
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.5
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.59
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.55
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.5
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.45
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.33
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.32
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.48
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.53
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.32
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.47
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.33
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.48
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.61
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.6
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.58
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.38
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.61
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.55
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.56
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.59
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.56
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.73
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.6
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.64
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.56
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.56
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.63
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.48
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.61
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.73
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.74
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.92
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.88
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 2.99
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.05
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.3
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.43
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.41
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.21
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.17
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.23
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.36
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.48
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.4
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.4
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.33
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.32
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.39
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.46
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.36
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.37
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.32
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.43
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.45
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.2
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.32
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.25
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.25
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.3
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.26
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.29
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.37
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.29
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.17
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.72
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.89
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.78
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.5
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.36
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.48
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.51
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.42
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Ontario",
+    "Products": "Salad dressing, 475 millilitres",
+    "VECTOR": "v1458870125",
+    "VALUE": 3.56
+  }
+]

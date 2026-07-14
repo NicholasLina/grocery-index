@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.21
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.17
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.79
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.45
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.33
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.71
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.42
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.59
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.94
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.58
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.17
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.27
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.95
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.25
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.0
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.4
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.74
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.33
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.8
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.86
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.93
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.62
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.57
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.49
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.86
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.14
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.35
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.77
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.3
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 11.96
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.04
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.49
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 11.85
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.38
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.67
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.06
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.98
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.55
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 11.99
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.53
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.01
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.06
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.17
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.58
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.21
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.46
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.79
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.42
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.81
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.41
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.61
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.66
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.69
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.97
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.13
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.09
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.51
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.25
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.75
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.54
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.52
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.38
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.41
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.49
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.98
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.04
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.09
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.41
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.47
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.19
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.44
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.12
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.21
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.75
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.71
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.22
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.81
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.48
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.31
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.94
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 16.04
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 17.4
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.42
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 15.45
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.67
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.61
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.86
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.66
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.8
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.6
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.82
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.15
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.0
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.19
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.62
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.13
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.34
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.01
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.15
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.87
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.74
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.66
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.01
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.4
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.25
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 12.38
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 14.02
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "British Columbia",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870250",
+    "VALUE": 13.7
+  }
+]

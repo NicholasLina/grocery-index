@@ -1,0 +1,2118 @@
+{
+  "geo": "Prince Edward Island",
+  "streaks": [
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 6,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 50.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 50.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 50.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 48.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 48.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 47.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Prince Edward Island",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 14.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 21.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 23.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 17.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.36
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 33.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 45.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 41.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 18.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.7
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.34
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.55
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.84
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Prince Edward Island",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.282012"
+    }
+  ]
+}

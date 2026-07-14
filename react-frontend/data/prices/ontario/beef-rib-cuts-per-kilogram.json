@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.63
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.67
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.36
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 16.27
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.08
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.39
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.78
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.97
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 18.42
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 14.51
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.88
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 14.53
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.22
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.35
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 15.81
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.25
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.28
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.73
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 24.5
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.16
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.68
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 15.24
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 24.46
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 16.8
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.69
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.44
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.12
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 16.48
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.76
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.14
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.05
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.98
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.19
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 14.76
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.71
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 13.9
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.49
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 26.44
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.5
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 17.35
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.21
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.54
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.95
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.74
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.42
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 15.6
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.76
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 16.53
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 24.79
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.71
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 18.58
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 22.25
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 29.57
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 28.29
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 26.14
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.68
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.09
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 19.5
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.13
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.03
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 29.18
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.55
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 24.94
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.27
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.97
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.76
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.99
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 28.33
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.52
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 18.44
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.69
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 18.69
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.59
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 34.62
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 27.62
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.46
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 35.2
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 32.0
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.2
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 32.3
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 28.49
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 20.26
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 34.95
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 24.88
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 33.03
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.66
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 21.16
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.09
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 28.76
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 29.05
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.36
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 27.9
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 32.88
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.29
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 32.28
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 23.2
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.5
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 29.29
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 37.56
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.37
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.53
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 34.41
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.3
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 30.24
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 31.38
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 25.89
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 38.12
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 26.64
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 38.18
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 35.76
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 32.24
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 27.48
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Ontario",
+    "Products": "Beef rib cuts, per kilogram",
+    "VECTOR": "v1353834532",
+    "VALUE": 28.57
+  }
+]

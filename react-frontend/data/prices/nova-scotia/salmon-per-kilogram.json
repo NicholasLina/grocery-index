@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.6
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.31
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.8
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.41
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.33
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.44
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.96
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.14
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.31
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.2
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.26
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.2
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.37
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.31
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.67
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.64
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.94
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.91
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.74
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.01
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.47
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.7
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.79
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.1
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.92
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.54
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.02
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.14
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.47
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.41
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.12
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.79
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.84
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.56
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.47
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.8
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.41
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.03
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.51
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.92
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.95
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.57
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.09
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.84
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 20.36
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 19.45
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.17
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 18.99
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.46
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.24
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.68
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.35
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.6
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.22
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.17
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.26
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.49
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.28
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.84
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 21.45
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.71
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.99
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.12
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.06
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.6
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.44
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 28.5
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 28.14
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.9
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.99
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.76
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 22.44
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.02
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.64
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.19
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.26
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.64
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.72
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.9
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.55
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.61
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.52
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.74
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 23.87
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.06
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.92
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.62
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.22
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.52
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.66
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 28.06
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.94
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.37
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 25.18
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.76
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.14
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.52
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.17
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.54
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.63
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.53
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.84
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.5
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.96
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.18
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.89
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.32
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 24.61
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.72
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 26.56
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.7
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.26
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Nova Scotia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870028",
+    "VALUE": 27.06
+  }
+]

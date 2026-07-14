@@ -1,0 +1,5561 @@
+{
+  "geo": "Alberta",
+  "gainers": [
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 9.44,
+      "previousPrice": 6.14,
+      "change": 3.3,
+      "changePercent": 53.74592833876222,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.44
+        }
+      ]
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 11.2,
+      "previousPrice": 8.81,
+      "change": 2.389999999999999,
+      "changePercent": 27.1282633371169,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.2
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 8.86,
+      "previousPrice": 7.33,
+      "change": 1.5299999999999994,
+      "changePercent": 20.87312414733969,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.65
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.67
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.86
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Alberta",
+      "currentPrice": 4.38,
+      "previousPrice": 3.65,
+      "change": 0.73,
+      "changePercent": 20.0,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.15,
+      "previousPrice": 3.61,
+      "change": 0.5400000000000005,
+      "changePercent": 14.958448753462616,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 5.14,
+      "previousPrice": 4.49,
+      "change": 0.6499999999999995,
+      "changePercent": 14.476614699331837,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Alberta",
+      "currentPrice": 1.06,
+      "previousPrice": 0.93,
+      "change": 0.13,
+      "changePercent": 13.978494623655912,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.06
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Alberta",
+      "currentPrice": 4.12,
+      "previousPrice": 3.66,
+      "change": 0.45999999999999996,
+      "changePercent": 12.568306010928959,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 1.62,
+      "previousPrice": 1.44,
+      "change": 0.18000000000000016,
+      "changePercent": 12.50000000000001,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 5.37,
+      "previousPrice": 4.79,
+      "change": 0.5800000000000001,
+      "changePercent": 12.10855949895616,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.37
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Alberta",
+      "currentPrice": 3.8,
+      "previousPrice": 3.41,
+      "change": 0.3899999999999997,
+      "changePercent": 11.436950146627556,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.8
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.75,
+      "previousPrice": 3.38,
+      "change": 0.3700000000000001,
+      "changePercent": 10.94674556213018,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.75
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 6.5,
+      "previousPrice": 5.88,
+      "change": 0.6200000000000001,
+      "changePercent": 10.544217687074832,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.5
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 3.31,
+      "previousPrice": 3.01,
+      "change": 0.30000000000000027,
+      "changePercent": 9.966777408637883,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 30.91,
+      "previousPrice": 28.22,
+      "change": 2.6900000000000013,
+      "changePercent": 9.532246633593202,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 24.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 26.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 33.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 27.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 32.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 31.4
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 34.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.91
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.78,
+      "previousPrice": 4.37,
+      "change": 0.41000000000000014,
+      "changePercent": 9.382151029748286,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.78
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.45,
+      "previousPrice": 4.08,
+      "change": 0.3700000000000001,
+      "changePercent": 9.068627450980395,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.45
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Alberta",
+      "currentPrice": 2.92,
+      "previousPrice": 2.68,
+      "change": 0.23999999999999977,
+      "changePercent": 8.955223880597005,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Alberta",
+      "currentPrice": 3.64,
+      "previousPrice": 3.36,
+      "change": 0.28000000000000025,
+      "changePercent": 8.333333333333341,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.64
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 4.77,
+      "previousPrice": 4.42,
+      "change": 0.34999999999999964,
+      "changePercent": 7.918552036199087,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Alberta",
+      "currentPrice": 7.86,
+      "previousPrice": 7.3,
+      "change": 0.5600000000000005,
+      "changePercent": 7.671232876712336,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.86
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.79,
+      "previousPrice": 4.48,
+      "change": 0.3099999999999996,
+      "changePercent": 6.919642857142848,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.79
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Alberta",
+      "currentPrice": 4.07,
+      "previousPrice": 3.81,
+      "change": 0.26000000000000023,
+      "changePercent": 6.824146981627302,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 4.87,
+      "previousPrice": 4.58,
+      "change": 0.29000000000000004,
+      "changePercent": 6.331877729257643,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Alberta",
+      "currentPrice": 6.86,
+      "previousPrice": 6.48,
+      "change": 0.3799999999999999,
+      "changePercent": 5.864197530864196,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.63
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.86
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Alberta",
+      "currentPrice": 3.94,
+      "previousPrice": 3.73,
+      "change": 0.20999999999999996,
+      "changePercent": 5.630026809651474,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.94
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 6.83,
+      "previousPrice": 6.48,
+      "change": 0.34999999999999964,
+      "changePercent": 5.401234567901229,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.83
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Alberta",
+      "currentPrice": 4.72,
+      "previousPrice": 4.48,
+      "change": 0.23999999999999932,
+      "changePercent": 5.357142857142842,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Alberta",
+      "currentPrice": 5.02,
+      "previousPrice": 4.78,
+      "change": 0.23999999999999932,
+      "changePercent": 5.020920502092036,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Alberta",
+      "currentPrice": 1.1,
+      "previousPrice": 1.05,
+      "change": 0.050000000000000044,
+      "changePercent": 4.761904761904765,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.1
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 3.53,
+      "previousPrice": 3.37,
+      "change": 0.1599999999999997,
+      "changePercent": 4.747774480712157,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.53
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Alberta",
+      "currentPrice": 5.21,
+      "previousPrice": 5.01,
+      "change": 0.20000000000000018,
+      "changePercent": 3.9920159680638756,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.21
+        }
+      ]
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Alberta",
+      "currentPrice": 4.62,
+      "previousPrice": 4.45,
+      "change": 0.16999999999999993,
+      "changePercent": 3.8202247191011214,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.62
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Alberta",
+      "currentPrice": 5.58,
+      "previousPrice": 5.38,
+      "change": 0.20000000000000018,
+      "changePercent": 3.7174721189591113,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ]
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Alberta",
+      "currentPrice": 4.49,
+      "previousPrice": 4.33,
+      "change": 0.16000000000000014,
+      "changePercent": 3.6951501154734445,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 1.69,
+      "previousPrice": 1.63,
+      "change": 0.06000000000000005,
+      "changePercent": 3.680981595092028,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.69
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 2.28,
+      "previousPrice": 2.2,
+      "change": 0.07999999999999963,
+      "changePercent": 3.636363636363619,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.28
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 2.91,
+      "previousPrice": 2.82,
+      "change": 0.0900000000000003,
+      "changePercent": 3.1914893617021387,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.91
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Alberta",
+      "currentPrice": 10.51,
+      "previousPrice": 10.22,
+      "change": 0.28999999999999915,
+      "changePercent": 2.8375733855185823,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.9
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.37
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.7
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.95
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.51
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 30.66,
+      "previousPrice": 29.83,
+      "change": 0.8300000000000018,
+      "changePercent": 2.7824337914850883,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 28.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 26.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 24.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 28.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 28.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 30.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 28.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 29.88
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 30.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 29.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.66
+        }
+      ]
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Alberta",
+      "currentPrice": 9.32,
+      "previousPrice": 9.08,
+      "change": 0.2400000000000002,
+      "changePercent": 2.643171806167403,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.32
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Alberta",
+      "currentPrice": 12.14,
+      "previousPrice": 11.83,
+      "change": 0.3100000000000005,
+      "changePercent": 2.620456466610317,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.44
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.14
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 2.59,
+      "previousPrice": 2.53,
+      "change": 0.06000000000000005,
+      "changePercent": 2.371541501976287,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.36
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.61
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.59
+        }
+      ]
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Alberta",
+      "currentPrice": 5.19,
+      "previousPrice": 5.07,
+      "change": 0.1200000000000001,
+      "changePercent": 2.3668639053254457,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.19
+        }
+      ]
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Alberta",
+      "currentPrice": 4.79,
+      "previousPrice": 4.68,
+      "change": 0.11000000000000032,
+      "changePercent": 2.350427350427357,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.79
+        }
+      ]
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Alberta",
+      "currentPrice": 3.11,
+      "previousPrice": 3.04,
+      "change": 0.06999999999999984,
+      "changePercent": 2.3026315789473633,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.11
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.72,
+      "previousPrice": 3.64,
+      "change": 0.08000000000000007,
+      "changePercent": 2.1978021978021998,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ]
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.92,
+      "previousPrice": 3.84,
+      "change": 0.08000000000000007,
+      "changePercent": 2.0833333333333353,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ]
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 1.49,
+      "previousPrice": 1.46,
+      "change": 0.030000000000000027,
+      "changePercent": 2.054794520547947,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.49
+        }
+      ]
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Alberta",
+      "currentPrice": 1.68,
+      "previousPrice": 1.65,
+      "change": 0.030000000000000027,
+      "changePercent": 1.81818181818182,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 35.49,
+      "previousPrice": 42.06,
+      "change": -6.57,
+      "changePercent": -15.620542082738945,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 27.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 33.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 31.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 31.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 42.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 34.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 45.61
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 33.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 40.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 42.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 35.49
+        }
+      ]
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Alberta",
+      "currentPrice": 1.86,
+      "previousPrice": 2.12,
+      "change": -0.26,
+      "changePercent": -12.264150943396226,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.86
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Alberta",
+      "currentPrice": 6.81,
+      "previousPrice": 7.54,
+      "change": -0.7300000000000004,
+      "changePercent": -9.681697612732101,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.81
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Alberta",
+      "currentPrice": 5.82,
+      "previousPrice": 6.36,
+      "change": -0.54,
+      "changePercent": -8.49056603773585,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.82
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Alberta",
+      "currentPrice": 5.92,
+      "previousPrice": 6.46,
+      "change": -0.54,
+      "changePercent": -8.359133126934985,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.92
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 16.69,
+      "previousPrice": 17.7,
+      "change": -1.009999999999998,
+      "changePercent": -5.706214689265526,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 16.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 17.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 16.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 16.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 17.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 17.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 17.76
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 18.58
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 17.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.69
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 8.87,
+      "previousPrice": 9.39,
+      "change": -0.5200000000000014,
+      "changePercent": -5.5378061767838265,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.65
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.3
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.87
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 31.78,
+      "previousPrice": 33.52,
+      "change": -1.740000000000002,
+      "changePercent": -5.1909307875895045,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 35.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 37.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 33.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 42.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 32.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 42.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 38.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 41.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 37.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 31.78
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Alberta",
+      "currentPrice": 1.52,
+      "previousPrice": 1.6,
+      "change": -0.08000000000000007,
+      "changePercent": -5.000000000000004,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.22
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.37
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Alberta",
+      "currentPrice": 2.81,
+      "previousPrice": 2.95,
+      "change": -0.14000000000000012,
+      "changePercent": -4.74576271186441,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.81
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 5.38,
+      "previousPrice": 5.62,
+      "change": -0.2400000000000002,
+      "changePercent": -4.270462633451961,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.59,
+      "previousPrice": 3.75,
+      "change": -0.16000000000000014,
+      "changePercent": -4.266666666666671,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.59
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 1.61,
+      "previousPrice": 1.68,
+      "change": -0.06999999999999984,
+      "changePercent": -4.166666666666657,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.61
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Alberta",
+      "currentPrice": 4.17,
+      "previousPrice": 4.33,
+      "change": -0.16000000000000014,
+      "changePercent": -3.6951501154734445,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Alberta",
+      "currentPrice": 9.86,
+      "previousPrice": 10.19,
+      "change": -0.33000000000000007,
+      "changePercent": -3.2384690873405306,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.86
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 10.06,
+      "previousPrice": 10.36,
+      "change": -0.29999999999999893,
+      "changePercent": -2.8957528957528855,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.62
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.76
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.9
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.06
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Alberta",
+      "currentPrice": 5.53,
+      "previousPrice": 5.69,
+      "change": -0.16000000000000014,
+      "changePercent": -2.8119507908611623,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.53
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 7.36,
+      "previousPrice": 7.57,
+      "change": -0.20999999999999996,
+      "changePercent": -2.7741083223249663,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.36
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Alberta",
+      "currentPrice": 3.36,
+      "previousPrice": 3.44,
+      "change": -0.08000000000000007,
+      "changePercent": -2.325581395348839,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.36
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Alberta",
+      "currentPrice": 13.77,
+      "previousPrice": 14.06,
+      "change": -0.2900000000000009,
+      "changePercent": -2.0625889046941746,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.12
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 13.39
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.67
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.77
+        }
+      ]
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.82,
+      "previousPrice": 3.9,
+      "change": -0.08000000000000007,
+      "changePercent": -2.051282051282053,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 6.22,
+      "previousPrice": 6.35,
+      "change": -0.1299999999999999,
+      "changePercent": -2.0472440944881876,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.22
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 24.56,
+      "previousPrice": 25.04,
+      "change": -0.4800000000000004,
+      "changePercent": -1.9169329073482444,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 23.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 24.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 23.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 22.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 23.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 22.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.8
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 22.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 23.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.56
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 13.8,
+      "previousPrice": 14.06,
+      "change": -0.2599999999999998,
+      "changePercent": -1.8492176386913213,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 12.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.8
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.8
+        }
+      ]
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 9.43,
+      "previousPrice": 9.59,
+      "change": -0.16000000000000014,
+      "changePercent": -1.6684045881126188,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.43
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Alberta",
+      "currentPrice": 1.88,
+      "previousPrice": 1.91,
+      "change": -0.030000000000000027,
+      "changePercent": -1.5706806282722525,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ]
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.68,
+      "previousPrice": 4.75,
+      "change": -0.07000000000000028,
+      "changePercent": -1.473684210526322,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ]
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Alberta",
+      "currentPrice": 6.16,
+      "previousPrice": 6.25,
+      "change": -0.08999999999999986,
+      "changePercent": -1.4399999999999977,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.16
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Alberta",
+      "currentPrice": 3.5,
+      "previousPrice": 3.55,
+      "change": -0.04999999999999982,
+      "changePercent": -1.4084507042253471,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.5
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 5.12,
+      "previousPrice": 5.19,
+      "change": -0.07000000000000028,
+      "changePercent": -1.3487475915221634,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ]
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Alberta",
+      "currentPrice": 5.86,
+      "previousPrice": 5.94,
+      "change": -0.08000000000000007,
+      "changePercent": -1.346801346801348,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.86
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 1.99,
+      "previousPrice": 2.01,
+      "change": -0.019999999999999796,
+      "changePercent": -0.9950248756218805,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.99
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Alberta",
+      "currentPrice": 4.1,
+      "previousPrice": 4.14,
+      "change": -0.040000000000000036,
+      "changePercent": -0.966183574879228,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.1
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Alberta",
+      "currentPrice": 17.27,
+      "previousPrice": 17.43,
+      "change": -0.16000000000000014,
+      "changePercent": -0.9179575444635694,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 15.89
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 15.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 16.37
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 16.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 16.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 16.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 16.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 16.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.27
+        }
+      ]
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Alberta",
+      "currentPrice": 3.47,
+      "previousPrice": 3.5,
+      "change": -0.029999999999999805,
+      "changePercent": -0.8571428571428517,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.47
+        }
+      ]
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Alberta",
+      "currentPrice": 3.22,
+      "previousPrice": 3.24,
+      "change": -0.020000000000000018,
+      "changePercent": -0.6172839506172845,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.22
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Alberta",
+      "currentPrice": 4.48,
+      "previousPrice": 4.49,
+      "change": -0.009999999999999787,
+      "changePercent": -0.22271714922048524,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.48
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Alberta",
+      "currentPrice": 5.12,
+      "previousPrice": 5.13,
+      "change": -0.009999999999999787,
+      "changePercent": -0.19493177387913815,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ]
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Alberta",
+      "currentPrice": 7.28,
+      "previousPrice": 7.29,
+      "change": -0.009999999999999787,
+      "changePercent": -0.1371742112482824,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.28
+        }
+      ]
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Alberta",
+      "currentPrice": 8.56,
+      "previousPrice": 8.57,
+      "change": -0.009999999999999787,
+      "changePercent": -0.11668611435238958,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.72
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.24
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.56
+        }
+      ]
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Alberta",
+      "currentPrice": 9.04,
+      "previousPrice": 9.05,
+      "change": -0.010000000000001563,
+      "changePercent": -0.11049723756907805,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.193155",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.02
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.88
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.29
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.04
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 41,
+  "trendPoints": 12
+}

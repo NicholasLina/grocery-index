@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.35
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.02
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.09
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 26.98
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 26.31
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.58
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.07
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.13
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.77
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.99
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.18
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.0
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.28
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 26.67
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.07
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 26.87
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.71
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 28.1
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 27.88
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 28.61
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 28.64
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.1
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.17
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.89
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.23
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.08
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.06
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.73
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.33
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.16
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 28.73
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.23
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.48
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.19
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.15
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.34
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.57
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.88
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.0
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.06
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.0
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.38
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.69
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.69
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.18
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.59
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.21
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.11
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.07
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.27
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.29
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.24
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.21
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.97
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.99
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.33
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.14
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.95
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.9
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.34
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.94
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 29.86
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 28.18
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 30.64
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 33.53
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.63
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.95
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 31.84
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 32.28
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 34.8
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 34.8
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 34.75
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 37.12
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 33.23
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 37.74
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 37.22
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 37.9
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 41.05
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 37.94
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 39.81
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 39.4
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 40.92
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 41.76
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 41.92
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 40.1
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 42.99
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 43.42
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 44.71
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 44.83
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 45.65
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 46.3
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 47.52
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 46.94
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 46.24
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 46.1
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 44.84
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 46.63
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 48.35
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 49.68
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 48.94
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 50.38
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 49.3
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 50.62
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 49.13
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 51.06
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 49.67
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 52.0
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 51.47
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 52.64
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 50.97
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 50.91
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 50.39
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Ontario",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870117",
+    "VALUE": 51.01
+  }
+]

@@ -1,5 +1,0 @@
-[
-  { "REF_DATE": "2024-01", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 100 },
-  { "REF_DATE": "2024-02", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 110 },
-  { "REF_DATE": "2024-03", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 120 }
-]

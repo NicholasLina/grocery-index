@@ -1,0 +1,65 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.03
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.11
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.21
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.29
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.26
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.14
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.1
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.11
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Frozen pizza, 390 grams",
+    "VECTOR": "v1793770469",
+    "VALUE": 5.15
+  }
+]

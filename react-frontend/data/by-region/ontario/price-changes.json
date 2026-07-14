@@ -1,0 +1,5256 @@
+{
+  "geo": "Ontario",
+  "gainers": [
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.27,
+      "previousPrice": 2.74,
+      "change": 1.5299999999999994,
+      "changePercent": 55.83941605839413,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.27
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Ontario",
+      "currentPrice": 3.21,
+      "previousPrice": 2.38,
+      "change": 0.8300000000000001,
+      "changePercent": 34.87394957983194,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.4
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.21
+        }
+      ]
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 9.81,
+      "previousPrice": 7.5,
+      "change": 2.3100000000000005,
+      "changePercent": 30.800000000000004,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.81
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 4.84,
+      "previousPrice": 3.76,
+      "change": 1.08,
+      "changePercent": 28.723404255319153,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 13.82,
+      "previousPrice": 10.86,
+      "change": 2.960000000000001,
+      "changePercent": 27.255985267034998,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.29
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.43
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.82
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 7.86,
+      "previousPrice": 6.23,
+      "change": 1.63,
+      "changePercent": 26.1637239165329,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.86
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 26.1,
+      "previousPrice": 21.69,
+      "change": 4.41,
+      "changePercent": 20.33195020746888,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 23.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 23.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 24.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 23.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 21.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 22.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 24.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 22.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 24.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 21.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 26.1
+        }
+      ]
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 3.18,
+      "previousPrice": 2.67,
+      "change": 0.5100000000000002,
+      "changePercent": 19.101123595505626,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.74
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.18
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 32.99,
+      "previousPrice": 27.82,
+      "change": 5.170000000000002,
+      "changePercent": 18.583752695902234,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 29.45
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 28.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 28.59
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 30.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 29.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 27.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 25.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 24.59
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 30.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.99
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Ontario",
+      "currentPrice": 9.48,
+      "previousPrice": 8.0,
+      "change": 1.4800000000000004,
+      "changePercent": 18.500000000000007,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.48
+        }
+      ]
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 7.63,
+      "previousPrice": 6.53,
+      "change": 1.0999999999999996,
+      "changePercent": 16.845329249617144,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.94
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.63
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 6.8,
+      "previousPrice": 5.83,
+      "change": 0.9699999999999998,
+      "changePercent": 16.638078902229843,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.8
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 4.52,
+      "previousPrice": 3.9,
+      "change": 0.6199999999999997,
+      "changePercent": 15.897435897435889,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 4.72,
+      "previousPrice": 4.1,
+      "change": 0.6200000000000001,
+      "changePercent": 15.1219512195122,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 5.6,
+      "previousPrice": 4.89,
+      "change": 0.71,
+      "changePercent": 14.519427402862986,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.6
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 4.55,
+      "previousPrice": 4.05,
+      "change": 0.5,
+      "changePercent": 12.34567901234568,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.55
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.03,
+      "previousPrice": 3.63,
+      "change": 0.40000000000000036,
+      "changePercent": 11.019283746556484,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.03
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 4.89,
+      "previousPrice": 4.43,
+      "change": 0.45999999999999996,
+      "changePercent": 10.383747178329571,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.89
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 5.98,
+      "previousPrice": 5.44,
+      "change": 0.54,
+      "changePercent": 9.926470588235293,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.98
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Ontario",
+      "currentPrice": 3.82,
+      "previousPrice": 3.48,
+      "change": 0.33999999999999986,
+      "changePercent": 9.770114942528732,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Ontario",
+      "currentPrice": 3.73,
+      "previousPrice": 3.45,
+      "change": 0.2799999999999998,
+      "changePercent": 8.1159420289855,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 5.25,
+      "previousPrice": 4.86,
+      "change": 0.3899999999999997,
+      "changePercent": 8.024691358024684,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.25
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Ontario",
+      "currentPrice": 3.69,
+      "previousPrice": 3.42,
+      "change": 0.27,
+      "changePercent": 7.894736842105264,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.69
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 10.11,
+      "previousPrice": 9.4,
+      "change": 0.7099999999999991,
+      "changePercent": 7.5531914893616925,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.02
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.11
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Ontario",
+      "currentPrice": 3.61,
+      "previousPrice": 3.36,
+      "change": 0.25,
+      "changePercent": 7.440476190476191,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.61
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 1.5,
+      "previousPrice": 1.4,
+      "change": 0.10000000000000009,
+      "changePercent": 7.1428571428571495,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.41
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.36
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.32
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.5
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.52,
+      "previousPrice": 4.27,
+      "change": 0.25,
+      "changePercent": 5.85480093676815,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 5.38,
+      "previousPrice": 5.11,
+      "change": 0.2699999999999996,
+      "changePercent": 5.28375733855185,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Ontario",
+      "currentPrice": 0.82,
+      "previousPrice": 0.78,
+      "change": 0.039999999999999925,
+      "changePercent": 5.128205128205118,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.82
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 14.01,
+      "previousPrice": 13.33,
+      "change": 0.6799999999999997,
+      "changePercent": 5.101275318829705,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.62
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.83
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 14.82
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 13.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 14.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.01
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 16.15,
+      "previousPrice": 15.39,
+      "change": 0.759999999999998,
+      "changePercent": 4.938271604938259,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 15.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.41
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 16.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 15.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.15
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Ontario",
+      "currentPrice": 2.85,
+      "previousPrice": 2.72,
+      "change": 0.1299999999999999,
+      "changePercent": 4.779411764705878,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.85
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 2.89,
+      "previousPrice": 2.77,
+      "change": 0.1200000000000001,
+      "changePercent": 4.332129963898921,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.89
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.6,
+      "previousPrice": 4.41,
+      "change": 0.1899999999999995,
+      "changePercent": 4.3083900226757255,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 3.56,
+      "previousPrice": 3.42,
+      "change": 0.14000000000000012,
+      "changePercent": 4.093567251461992,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.56
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 28.57,
+      "previousPrice": 27.48,
+      "change": 1.0899999999999999,
+      "changePercent": 3.9665211062590973,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 34.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 30.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 31.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.89
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 38.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 26.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 38.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 35.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 32.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 28.57
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Ontario",
+      "currentPrice": 4.39,
+      "previousPrice": 4.24,
+      "change": 0.14999999999999947,
+      "changePercent": 3.5377358490565913,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.39
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 4.98,
+      "previousPrice": 4.81,
+      "change": 0.17000000000000082,
+      "changePercent": 3.534303534303552,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.98
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Ontario",
+      "currentPrice": 4.12,
+      "previousPrice": 3.98,
+      "change": 0.14000000000000012,
+      "changePercent": 3.5175879396984957,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 9.0,
+      "previousPrice": 8.71,
+      "change": 0.28999999999999915,
+      "changePercent": 3.3295063145809314,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.99
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.35
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.48
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.0
+        }
+      ]
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Ontario",
+      "currentPrice": 4.08,
+      "previousPrice": 3.95,
+      "change": 0.1299999999999999,
+      "changePercent": 3.2911392405063267,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.08
+        }
+      ]
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Ontario",
+      "currentPrice": 4.58,
+      "previousPrice": 4.45,
+      "change": 0.1299999999999999,
+      "changePercent": 2.921348314606739,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.58
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 2.57,
+      "previousPrice": 2.5,
+      "change": 0.06999999999999984,
+      "changePercent": 2.7999999999999936,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.57
+        }
+      ]
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Ontario",
+      "currentPrice": 4.38,
+      "previousPrice": 4.28,
+      "change": 0.09999999999999964,
+      "changePercent": 2.3364485981308327,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Ontario",
+      "currentPrice": 5.43,
+      "previousPrice": 5.31,
+      "change": 0.1200000000000001,
+      "changePercent": 2.25988700564972,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ]
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Ontario",
+      "currentPrice": 9.36,
+      "previousPrice": 9.16,
+      "change": 0.1999999999999993,
+      "changePercent": 2.18340611353711,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.94
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.36
+        }
+      ]
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Ontario",
+      "currentPrice": 4.74,
+      "previousPrice": 4.64,
+      "change": 0.10000000000000053,
+      "changePercent": 2.155172413793115,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ]
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Ontario",
+      "currentPrice": 2.98,
+      "previousPrice": 2.92,
+      "change": 0.06000000000000005,
+      "changePercent": 2.054794520547947,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.98
+        }
+      ]
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 1.54,
+      "previousPrice": 1.51,
+      "change": 0.030000000000000027,
+      "changePercent": 1.986754966887419,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.54
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Ontario",
+      "currentPrice": 1.17,
+      "previousPrice": 1.15,
+      "change": 0.020000000000000018,
+      "changePercent": 1.7391304347826104,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.17
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Ontario",
+      "currentPrice": 6.25,
+      "previousPrice": 7.36,
+      "change": -1.1100000000000003,
+      "changePercent": -15.081521739130437,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.25
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Ontario",
+      "currentPrice": 2.83,
+      "previousPrice": 3.22,
+      "change": -0.3900000000000001,
+      "changePercent": -12.111801242236028,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.83
+        }
+      ]
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.49,
+      "previousPrice": 4.98,
+      "change": -0.4900000000000002,
+      "changePercent": -9.839357429718879,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Ontario",
+      "currentPrice": 5.69,
+      "previousPrice": 6.31,
+      "change": -0.6199999999999992,
+      "changePercent": -9.82567353407289,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.58
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Ontario",
+      "currentPrice": 10.74,
+      "previousPrice": 11.8,
+      "change": -1.0600000000000005,
+      "changePercent": -8.983050847457632,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 12.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.74
+        }
+      ]
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 38.63,
+      "previousPrice": 42.0,
+      "change": -3.3699999999999974,
+      "changePercent": -8.023809523809518,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 25.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 34.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 31.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 37.05
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 35.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 29.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 37.63
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 44.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 39.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 42.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 38.63
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 2.36,
+      "previousPrice": 2.55,
+      "change": -0.18999999999999995,
+      "changePercent": -7.450980392156861,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.36
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Ontario",
+      "currentPrice": 2.26,
+      "previousPrice": 2.44,
+      "change": -0.18000000000000016,
+      "changePercent": -7.377049180327876,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.26
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Ontario",
+      "currentPrice": 1.26,
+      "previousPrice": 1.35,
+      "change": -0.09000000000000008,
+      "changePercent": -6.666666666666672,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.26
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Ontario",
+      "currentPrice": 5.54,
+      "previousPrice": 5.93,
+      "change": -0.3899999999999997,
+      "changePercent": -6.576728499156824,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.54
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Ontario",
+      "currentPrice": 9.32,
+      "previousPrice": 9.89,
+      "change": -0.5700000000000003,
+      "changePercent": -5.763397371081903,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.12
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.36
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.59
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.32
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 1.8,
+      "previousPrice": 1.91,
+      "change": -0.10999999999999988,
+      "changePercent": -5.759162303664915,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.47
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.8
+        }
+      ]
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Ontario",
+      "currentPrice": 5.44,
+      "previousPrice": 5.7,
+      "change": -0.2599999999999998,
+      "changePercent": -4.561403508771926,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.44
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 5.45,
+      "previousPrice": 5.7,
+      "change": -0.25,
+      "changePercent": -4.385964912280701,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.45
+        }
+      ]
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 9.6,
+      "previousPrice": 10.01,
+      "change": -0.41000000000000014,
+      "changePercent": -4.095904095904097,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.6
+        }
+      ]
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Ontario",
+      "currentPrice": 6.6,
+      "previousPrice": 6.86,
+      "change": -0.2600000000000007,
+      "changePercent": -3.790087463556861,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.98
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.6
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Ontario",
+      "currentPrice": 6.77,
+      "previousPrice": 7.01,
+      "change": -0.2400000000000002,
+      "changePercent": -3.4236804564907306,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.77
+        }
+      ]
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Ontario",
+      "currentPrice": 3.67,
+      "previousPrice": 3.78,
+      "change": -0.10999999999999988,
+      "changePercent": -2.9100529100529067,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.67
+        }
+      ]
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Ontario",
+      "currentPrice": 2.1,
+      "previousPrice": 2.16,
+      "change": -0.06000000000000005,
+      "changePercent": -2.77777777777778,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.1
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 3.92,
+      "previousPrice": 4.03,
+      "change": -0.11000000000000032,
+      "changePercent": -2.7295285359801564,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 7.2,
+      "previousPrice": 7.39,
+      "change": -0.1899999999999995,
+      "changePercent": -2.5710419485791545,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.2
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 2.15,
+      "previousPrice": 2.2,
+      "change": -0.050000000000000266,
+      "changePercent": -2.2727272727272845,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.15
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Ontario",
+      "currentPrice": 13.49,
+      "previousPrice": 13.79,
+      "change": -0.29999999999999893,
+      "changePercent": -2.1754894851341477,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.44
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.49
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Ontario",
+      "currentPrice": 3.49,
+      "previousPrice": 3.56,
+      "change": -0.06999999999999984,
+      "changePercent": -1.9662921348314562,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.49
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.07,
+      "previousPrice": 4.15,
+      "change": -0.08000000000000007,
+      "changePercent": -1.9277108433734955,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ]
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Ontario",
+      "currentPrice": 5.63,
+      "previousPrice": 5.74,
+      "change": -0.11000000000000032,
+      "changePercent": -1.9163763066202144,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.63
+        }
+      ]
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.15,
+      "previousPrice": 4.23,
+      "change": -0.08000000000000007,
+      "changePercent": -1.8912529550827437,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Ontario",
+      "currentPrice": 3.12,
+      "previousPrice": 3.18,
+      "change": -0.06000000000000005,
+      "changePercent": -1.8867924528301903,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.12
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Ontario",
+      "currentPrice": 1.6,
+      "previousPrice": 1.63,
+      "change": -0.029999999999999805,
+      "changePercent": -1.8404907975460003,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.6
+        }
+      ]
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Ontario",
+      "currentPrice": 8.11,
+      "previousPrice": 8.24,
+      "change": -0.13000000000000078,
+      "changePercent": -1.5776699029126307,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.98
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.11
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Ontario",
+      "currentPrice": 3.33,
+      "previousPrice": 3.37,
+      "change": -0.040000000000000036,
+      "changePercent": -1.1869436201780426,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.33
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 7.71,
+      "previousPrice": 7.78,
+      "change": -0.07000000000000028,
+      "changePercent": -0.8997429305912633,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.71
+        }
+      ]
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Ontario",
+      "currentPrice": 6.01,
+      "previousPrice": 6.06,
+      "change": -0.04999999999999982,
+      "changePercent": -0.8250825082508222,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.9
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.01
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Ontario",
+      "currentPrice": 3.31,
+      "previousPrice": 3.33,
+      "change": -0.020000000000000018,
+      "changePercent": -0.6006006006006012,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Ontario",
+      "currentPrice": 4.29,
+      "previousPrice": 4.3,
+      "change": -0.009999999999999787,
+      "changePercent": -0.23255813953487878,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.29
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Ontario",
+      "currentPrice": 28.47,
+      "previousPrice": 28.5,
+      "change": -0.030000000000001137,
+      "changePercent": -0.10526315789474083,
+      "currentDate": "2026-07-14",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.270992",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 26.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 26.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 27.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 27.77
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 28.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 28.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 29.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 28.47
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 36,
+  "trendPoints": 12
+}

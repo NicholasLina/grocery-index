@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.58
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.22
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.6
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.36
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.05
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.63
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.66
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.83
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.04
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.65
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.5
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.89
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.04
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.4
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.64
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.36
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.2
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.02
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.93
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.81
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.6
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.47
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.35
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.93
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.22
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.59
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.36
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.81
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.79
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.47
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.02
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.14
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.31
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.28
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.61
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.38
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.25
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.4
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.11
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.81
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.39
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.42
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.06
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.95
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.35
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.15
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.6
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.22
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 6.5
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.23
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.04
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.13
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.15
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.07
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.94
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.9
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.85
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.0
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.78
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.46
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.67
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.13
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.38
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.16
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.91
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 11.12
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.8
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.54
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.7
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.76
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.75
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.99
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.52
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.2
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.45
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.66
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.18
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 12.0
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.4
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 7.55
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.9
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.97
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.72
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.07
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.41
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.02
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 12.19
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.66
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 12.38
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.71
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.61
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 11.06
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.27
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.7
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.76
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.48
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.61
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.64
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 12.15
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.95
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.41
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.07
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 10.14
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "New Brunswick",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447103",
+    "VALUE": 12.29
+  }
+]

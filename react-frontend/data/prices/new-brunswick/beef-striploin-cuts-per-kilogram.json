@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.2
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.85
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.49
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.17
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.88
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.87
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.19
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 19.58
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.7
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 14.37
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 13.88
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 13.79
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.59
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 17.31
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.96
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.62
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.45
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 19.18
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.68
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.86
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.21
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.57
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.42
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.39
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.14
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.85
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 17.76
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.46
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.11
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.84
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.73
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.61
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.29
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.67
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.87
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 14.28
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 17.41
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.62
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 16.07
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.24
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.02
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.36
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 22.9
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.51
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.49
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.23
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 19.8
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 15.88
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.16
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.54
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.24
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.12
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 19.75
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 22.94
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.35
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.55
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.05
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 25.22
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.58
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.2
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.71
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.65
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 31.1
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.78
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 22.44
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.18
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.0
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.72
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.98
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.58
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.99
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 18.35
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 28.35
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 22.37
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.32
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.07
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.75
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.92
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 36.9
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 39.7
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.56
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.76
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 25.16
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 20.37
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 29.15
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 21.95
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 25.09
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 22.55
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.35
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.42
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.67
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 28.32
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.18
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 24.61
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 25.0
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.66
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.48
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 23.36
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 28.79
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 34.35
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.55
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.26
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 27.17
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 25.72
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 26.76
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 28.85
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 36.08
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 32.01
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 37.81
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 33.96
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 39.3
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 46.14
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "New Brunswick",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447096",
+    "VALUE": 37.4
+  }
+]

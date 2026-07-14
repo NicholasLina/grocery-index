@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.48
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 20.66
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.65
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.91
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.07
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.54
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.43
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.51
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.21
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.85
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.02
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.3
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 21.34
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 20.74
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.04
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.04
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.48
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.94
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 22.68
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 23.53
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.86
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 23.42
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.08
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.13
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.35
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.74
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.98
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.72
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.75
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 24.88
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.4
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.1
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.87
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.09
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.58
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.93
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.99
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.59
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.85
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.26
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.78
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.14
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.09
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.63
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.63
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.5
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 25.21
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.23
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.83
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.56
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 28.53
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.96
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 28.8
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 30.34
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.96
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.88
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.06
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.46
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 27.81
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.46
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 30.12
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.46
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 26.29
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 28.09
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.65
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.18
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 29.37
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 31.05
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 30.32
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 30.93
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 34.64
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 33.94
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 36.7
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 37.02
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 35.02
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 40.23
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 41.24
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 41.36
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 38.94
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 40.0
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 40.16
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 38.21
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 39.84
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 41.33
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 38.13
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 41.46
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 42.4
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 43.82
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 42.55
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 45.09
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 45.97
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 46.54
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 45.27
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 44.9
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 45.7
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 44.15
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 44.56
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 44.68
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 47.05
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 45.9
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 47.22
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 47.64
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 49.55
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 47.98
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 49.31
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 46.99
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 50.1
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 50.27
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 50.17
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 50.15
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 48.66
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 48.31
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869985",
+    "VALUE": 47.95
+  }
+]

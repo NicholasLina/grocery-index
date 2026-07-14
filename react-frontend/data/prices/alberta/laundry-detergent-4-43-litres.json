@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.23
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.52
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.17
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.55
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.92
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.97
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.88
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.84
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.21
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.58
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.64
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.4
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.31
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.52
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.34
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.97
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.2
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.45
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.01
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.14
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.24
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.5
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.02
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.7
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.24
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.51
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.91
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.04
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.28
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.75
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.49
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.09
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.38
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.89
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.96
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.98
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.58
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.05
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.48
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.73
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.21
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.58
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.1
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.17
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.7
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.97
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.08
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.41
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.26
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.84
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.51
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.52
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.07
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.51
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.35
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.47
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.11
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.68
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.43
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.04
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.34
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.85
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.75
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.88
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.36
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.88
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.45
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.92
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.79
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.68
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.53
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.46
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.47
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.97
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.9
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.73
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.04
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.25
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.29
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 17.08
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 16.21
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 17.44
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.65
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 15.6
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.81
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.75
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.06
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.84
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.91
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.45
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.02
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.24
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.1
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.22
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.81
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.16
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.43
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.12
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.39
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.05
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.77
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.67
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.9
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.24
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.56
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.41
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 12.66
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 14.06
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Alberta",
+    "Products": "Laundry detergent, 4.43 litres",
+    "VECTOR": "v1458870217",
+    "VALUE": 13.77
+  }
+]

@@ -1,4 +1,18 @@
 {
-  "regions": ["Canada", "Ontario"],
-  "count": 2
+  "regions": [
+    "Alberta",
+    "British Columbia",
+    "Canada",
+    "Manitoba",
+    "New Brunswick",
+    "Newfoundland and Labrador",
+    "Nova Scotia",
+    "Ontario",
+    "Prince Edward Island",
+    "Quebec",
+    "Saskatchewan",
+    "Whitehorse, Yukon",
+    "Yellowknife, Northwest Territories"
+  ],
+  "count": 13
 }

@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.29
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.34
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.05
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.37
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.08
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.3
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.46
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.28
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.0
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.44
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.59
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.44
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.43
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.39
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.89
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.64
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.92
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.13
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.49
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 5.99
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.17
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.15
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.2
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.72
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.17
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.82
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.97
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.8
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.93
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.25
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 5.96
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 5.52
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 5.95
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.25
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.15
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.81
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.08
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.21
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.66
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.97
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.66
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.35
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.6
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.03
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.75
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.15
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.04
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.85
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.52
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.75
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.67
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.6
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.71
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.13
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.82
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.26
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.36
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.93
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.36
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.11
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.93
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.36
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.15
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.1
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.92
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.74
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.68
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.04
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.2
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.23
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.88
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.42
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 11.46
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.56
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.92
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.43
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.82
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.63
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 10.23
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 10.55
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.33
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.78
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.0
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 10.76
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 10.57
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.07
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.2
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.91
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.13
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.74
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.3
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.59
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.0
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.4
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.86
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 9.57
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.59
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.99
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.92
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.28
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 6.84
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 7.19
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.34
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.91
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.78
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.53
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 8.87
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "British Columbia",
+    "Products": "Grapes, per kilogram",
+    "VECTOR": "v1159447361",
+    "VALUE": 11.29
+  }
+]

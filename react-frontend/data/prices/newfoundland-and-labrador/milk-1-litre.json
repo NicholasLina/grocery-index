@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.79
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.81
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.81
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.8
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.8
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.81
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.81
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.8
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.8
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.79
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.81
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.82
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.84
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.94
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.98
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.96
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.96
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.98
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.98
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.98
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.97
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.96
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.94
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.97
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 2.97
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.0
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.0
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.06
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.02
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.01
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.0
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.01
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.01
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.04
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.05
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.04
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.05
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.08
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.15
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.15
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.15
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.15
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.13
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.14
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.17
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.31
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.47
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.45
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.46
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.46
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.45
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.59
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.59
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.5
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.5
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.52
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.66
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.61
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.65
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.66
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.67
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.63
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.66
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.62
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.6
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.63
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.65
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.64
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.68
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.71
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.71
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.74
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.73
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.68
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.65
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.69
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.72
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.79
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.81
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.8
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Milk, 1 litre",
+    "VECTOR": "v1159446988",
+    "VALUE": 3.83
+  }
+]

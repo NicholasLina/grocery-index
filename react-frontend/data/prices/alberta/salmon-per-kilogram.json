@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.85
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.06
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.4
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.16
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.92
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.78
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 18.87
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 18.13
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.92
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 20.28
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.36
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.29
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 20.78
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 20.8
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.58
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.3
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.31
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.39
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.5
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.14
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.5
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.47
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.63
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.64
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.16
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.33
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.69
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.72
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.19
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.63
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.23
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.31
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.46
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.67
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.22
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.55
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.36
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.24
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.43
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.89
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.99
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.21
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.44
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 19.08
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.88
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.69
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.08
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.96
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.15
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 20.3
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 20.63
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.52
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 21.13
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.49
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.85
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 22.06
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.28
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.87
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.04
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.51
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.45
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.92
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.0
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.55
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.93
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.84
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.84
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.63
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.03
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.31
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.0
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.91
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.16
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.77
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.32
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.79
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.75
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.21
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.72
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 19.97
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.34
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.59
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.66
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.8
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.1
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.03
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.04
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.79
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.73
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.83
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 25.59
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 23.44
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.11
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.08
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.33
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.16
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.12
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.97
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.09
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 27.9
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.94
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.35
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 26.89
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 24.06
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.4
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.9
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 30.9
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 28.7
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.88
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 30.73
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.37
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 29.83
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Alberta",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870226",
+    "VALUE": 30.66
+  }
+]

@@ -1,0 +1,2158 @@
+{
+  "geo": "New Brunswick",
+  "streaks": [
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "New Brunswick",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 14.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 15.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.28
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "New Brunswick",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 22.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 23.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.55
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 17.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.85
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "New Brunswick",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 46.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 37.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.01
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.21
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 48.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 49.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 26.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.8
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "New Brunswick",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.237423"
+    }
+  ]
+}

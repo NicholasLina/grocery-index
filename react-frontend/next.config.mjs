@@ -1,5 +1,16 @@
 /** @type {import('next').NextConfig} */
+const inferredDataSource =
+    process.env.NEXT_PUBLIC_DATA_SOURCE
+    || (process.env.VERCEL ? 'static' : undefined);
+
 const nextConfig = {
+    // Bake a Vercel-safe default into the client bundle so previews do not
+    // silently fall back to a remote API host.
+    env: {
+        ...(inferredDataSource ? { NEXT_PUBLIC_DATA_SOURCE: inferredDataSource } : {}),
+        ...(process.env.VERCEL_ENV ? { NEXT_PUBLIC_VERCEL_ENV: process.env.VERCEL_ENV } : {}),
+    },
+
     // Vercel optimizations
     // Remove static export for full Next.js features
     // output: 'export', // Keep commented out for Vercel

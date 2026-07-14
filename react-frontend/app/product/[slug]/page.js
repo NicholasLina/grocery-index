@@ -5,24 +5,14 @@ export const metadata = {
 
 import ProductPage from '../../../components/ProductPage';
 import { FALLBACK_PRODUCTS, FALLBACK_SLUG_MAPPING } from '../../../lib/products';
-import { getApiBaseUrl } from '../../../lib/api';
+import { fetchDataEndpoint } from '../../../lib/dataSource';
 import { productToSlug, getProductFromSlug, createSlugMapping } from '../../../lib/slugUtils';
 
 const STATIC_PRODUCT_LIMIT = 20;
 
 async function fetchProductsList() {
     try {
-        const API_BASE = getApiBaseUrl();
-        const res = await fetch(`${API_BASE}/products`, {
-            next: { revalidate: 3600 },
-            signal: AbortSignal.timeout(10000)
-        });
-
-        if (!res.ok) {
-            return [];
-        }
-
-        const data = await res.json();
+        const data = await fetchDataEndpoint('products');
         return data.products || [];
     } catch (_error) {
         return [];
@@ -58,17 +48,11 @@ async function getProductData(slug) {
             return { initialData: [], initialProductName: '' };
         }
 
-        const API_BASE = getApiBaseUrl();
-        const res = await fetch(`${API_BASE}?geo=Canada&product=${encodeURIComponent(productName)}`, {
-            next: { revalidate: 3600 },
-            signal: AbortSignal.timeout(5000)
+        const data = await fetchDataEndpoint('', {
+            geo: 'Canada',
+            product: productName,
         });
 
-        if (!res.ok) {
-            return { initialData: [], initialProductName: productName };
-        }
-
-        const data = await res.json();
         return { initialData: data || [], initialProductName: productName };
     } catch (_error) {
         return { initialData: [], initialProductName: '' };
@@ -80,4 +64,4 @@ export default async function Page({ params }) {
     const { initialData, initialProductName } = await getProductData(slug);
 
     return <ProductPage initialData={initialData} initialProductName={initialProductName} />;
-} 
+}

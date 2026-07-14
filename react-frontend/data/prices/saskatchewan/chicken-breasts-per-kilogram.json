@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.73
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.74
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.52
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.74
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.08
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.14
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.59
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.03
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.4
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.46
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.2
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.53
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.15
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.12
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.71
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.17
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.34
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.94
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.99
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.65
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.81
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.08
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.23
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.98
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.11
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.93
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.21
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.78
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.34
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.5
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.96
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.02
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.72
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.97
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.53
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.26
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.04
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.34
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.51
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.17
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 11.25
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.21
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.16
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.28
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.15
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.34
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.15
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.02
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.45
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 12.6
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.09
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.5
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.85
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.92
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.45
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.67
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.86
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.17
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.95
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.54
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.53
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.16
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.14
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.06
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.19
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.11
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.84
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.4
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.27
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.81
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.99
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.11
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.65
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.86
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.61
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.41
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.23
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.24
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.3
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.39
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 13.92
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.53
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.58
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 17.72
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.29
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.98
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.76
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.58
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.84
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.89
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.69
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.63
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.7
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.17
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 14.9
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.0
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.64
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.13
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.82
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.52
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.21
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.68
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.96
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 17.17
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 17.5
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 18.0
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 16.46
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 18.16
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 17.13
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Saskatchewan",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447262",
+    "VALUE": 15.9
+  }
+]
