@@ -2,6 +2,7 @@
 import React, { useState, useEffect, useMemo } from 'react';
 import LoadingSpinner from '../components/LoadingSpinner';
 import PriceChart from '../components/PriceChart';
+import ProductInsights from '../components/ProductInsights';
 import { useParams } from 'next/navigation';
 import { getApiBaseUrl } from '../lib/api';
 import { getProductFromSlug, createSlugMapping } from '../lib/slugUtils';
@@ -243,6 +244,9 @@ export default function ProductPage({ initialData = [], initialProductName = '' 
                             </section>
                         );
                     })()}
+                    {history.length > 0 && (
+                        <ProductInsights history={history} productName={productName} />
+                    )}
                     {/* Price History Section with Preset Range Buttons */}
                     <section className="mb-8">
                         <h2 className="text-lg font-semibold mb-2 text-blue-800">Price History</h2>
