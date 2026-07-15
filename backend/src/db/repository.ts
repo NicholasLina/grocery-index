@@ -124,7 +124,7 @@ export function getPriceChangesByGeo(geo: string): PriceChangeRow[] {
               previous_price AS previousPrice,
               change,
               change_percent AS changePercent,
-              current_date AS currentDate,
+              "current_date" AS currentDate,
               previous_date AS previousDate,
               last_updated AS lastUpdated
        FROM price_changes
@@ -141,7 +141,7 @@ export function getTopGainers(geo: string, limit: number): PriceChangeRow[] {
               previous_price AS previousPrice,
               change,
               change_percent AS changePercent,
-              current_date AS currentDate,
+              "current_date" AS currentDate,
               previous_date AS previousDate,
               last_updated AS lastUpdated
        FROM price_changes
@@ -160,7 +160,7 @@ export function getTopLosers(geo: string, limit: number): PriceChangeRow[] {
               previous_price AS previousPrice,
               change,
               change_percent AS changePercent,
-              current_date AS currentDate,
+              "current_date" AS currentDate,
               previous_date AS previousDate,
               last_updated AS lastUpdated
        FROM price_changes

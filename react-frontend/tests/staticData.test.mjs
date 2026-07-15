@@ -58,3 +58,11 @@ test('Ontario region payloads are available', () => {
   assert.ok(payload);
   assert.ok((payload.products || []).length > 0);
 });
+
+test('all-price-changes include year-over-year fields', () => {
+  const payload = staticData.getAllPriceChanges('Canada');
+  assert.ok(payload?.products?.length > 0);
+  const withYoy = payload.products.filter((row) => row.yearAgoPercent != null);
+  assert.ok(withYoy.length > 0, 'expected YoY values for Canada products');
+  assert.match(String(payload.products[0].currentDate), /^\d{4}-\d{2}$/);
+});

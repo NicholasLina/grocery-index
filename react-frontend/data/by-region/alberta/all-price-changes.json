@@ -8,11 +8,11 @@
       "previousPrice": 5.69,
       "change": -0.16000000000000014,
       "changePercent": -2.8119507908611623,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.19,
+      "yearAgoChange": 0.33999999999999986,
+      "yearAgoPercent": 6.551059730250479
     },
     {
       "product": "Apple juice, 2 litres",
@@ -21,11 +21,11 @@
       "previousPrice": 4.45,
       "change": 0.16999999999999993,
       "changePercent": 3.8202247191011214,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.21,
+      "yearAgoChange": 0.41000000000000014,
+      "yearAgoPercent": 9.738717339667462
     },
     {
       "product": "Apples, per kilogram",
@@ -34,11 +34,11 @@
       "previousPrice": 6.48,
       "change": 0.34999999999999964,
       "changePercent": 5.401234567901229,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.33,
+      "yearAgoChange": 0.5,
+      "yearAgoPercent": 7.898894154818326
     },
     {
       "product": "Avocado, unit",
@@ -47,11 +47,11 @@
       "previousPrice": 2.12,
       "change": -0.26,
       "changePercent": -12.264150943396226,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.49,
+      "yearAgoChange": -0.6300000000000001,
+      "yearAgoPercent": -25.30120481927711
     },
     {
       "product": "Baby food, 128 millilitres",
@@ -60,11 +60,11 @@
       "previousPrice": 1.46,
       "change": 0.030000000000000027,
       "changePercent": 2.054794520547947,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.56,
+      "yearAgoChange": -0.07000000000000006,
+      "yearAgoPercent": -4.487179487179491
     },
     {
       "product": "Bacon, 500 grams",
@@ -73,11 +73,11 @@
       "previousPrice": 7.3,
       "change": 0.5600000000000005,
       "changePercent": 7.671232876712336,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.91,
+      "yearAgoChange": -0.04999999999999982,
+      "yearAgoPercent": -0.6321112515802758
     },
     {
       "product": "Bananas, per kilogram",
@@ -86,11 +86,11 @@
       "previousPrice": 2.05,
       "change": 0.020000000000000018,
       "changePercent": 0.9756097560975618,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.79,
+      "yearAgoChange": 0.2799999999999998,
+      "yearAgoPercent": 15.642458100558649
     },
     {
       "product": "Beef rib cuts, per kilogram",
@@ -99,11 +99,11 @@
       "previousPrice": 33.52,
       "change": -1.740000000000002,
       "changePercent": -5.1909307875895045,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 33.3,
+      "yearAgoChange": -1.519999999999996,
+      "yearAgoPercent": -4.564564564564553
     },
     {
       "product": "Beef stewing cuts, per kilogram",
@@ -112,11 +112,11 @@
       "previousPrice": 25.04,
       "change": -0.4800000000000004,
       "changePercent": -1.9169329073482444,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 21.46,
+      "yearAgoChange": 3.099999999999998,
+      "yearAgoPercent": 14.44547996272133
     },
     {
       "product": "Beef striploin cuts, per kilogram",
@@ -125,11 +125,11 @@
       "previousPrice": 42.06,
       "change": -6.57,
       "changePercent": -15.620542082738945,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 34.18,
+      "yearAgoChange": 1.3100000000000023,
+      "yearAgoPercent": 3.8326506729081404
     },
     {
       "product": "Beef top sirloin cuts, per kilogram",
@@ -138,11 +138,11 @@
       "previousPrice": 28.22,
       "change": 2.6900000000000013,
       "changePercent": 9.532246633593202,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 27.58,
+      "yearAgoChange": 3.330000000000002,
+      "yearAgoPercent": 12.073966642494568
     },
     {
       "product": "Block cheese, 500 grams",
@@ -151,11 +151,11 @@
       "previousPrice": 7.13,
       "change": 0.1200000000000001,
       "changePercent": 1.6830294530154295,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.13,
+      "yearAgoChange": 0.1200000000000001,
+      "yearAgoPercent": 1.6830294530154295
     },
     {
       "product": "Broccoli, unit",
@@ -164,11 +164,11 @@
       "previousPrice": 3.73,
       "change": 0.20999999999999996,
       "changePercent": 5.630026809651474,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.93,
+      "yearAgoChange": 0.009999999999999787,
+      "yearAgoPercent": 0.25445292620864596
     },
     {
       "product": "Brown rice, 900 grams ",
@@ -177,11 +177,11 @@
       "previousPrice": 5.94,
       "change": -0.08000000000000007,
       "changePercent": -1.346801346801348,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.14,
+      "yearAgoChange": -0.27999999999999936,
+      "yearAgoPercent": -4.560260586319208
     },
     {
       "product": "Butter, 454 grams",
@@ -190,11 +190,11 @@
       "previousPrice": 6.36,
       "change": -0.54,
       "changePercent": -8.49056603773585,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.9,
+      "yearAgoChange": -0.08000000000000007,
+      "yearAgoPercent": -1.3559322033898318
     },
     {
       "product": "Cabbage, per kilogram",
@@ -203,11 +203,11 @@
       "previousPrice": 3.01,
       "change": 0.30000000000000027,
       "changePercent": 9.966777408637883,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.0,
+      "yearAgoChange": 0.31000000000000005,
+      "yearAgoPercent": 10.333333333333334
     },
     {
       "product": "Canned baked beans, 398 millilitres",
@@ -216,11 +216,11 @@
       "previousPrice": 2.01,
       "change": -0.019999999999999796,
       "changePercent": -0.9950248756218805,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.95,
+      "yearAgoChange": 0.040000000000000036,
+      "yearAgoPercent": 2.051282051282053
     },
     {
       "product": "Canned beans and lentils, 540 millilitres",
@@ -229,11 +229,11 @@
       "previousPrice": 1.63,
       "change": 0.06000000000000005,
       "changePercent": 3.680981595092028,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.7,
+      "yearAgoChange": -0.010000000000000009,
+      "yearAgoPercent": -0.5882352941176475
     },
     {
       "product": "Canned corn, 341 millilitres",
@@ -242,11 +242,11 @@
       "previousPrice": 1.68,
       "change": -0.06999999999999984,
       "changePercent": -4.166666666666657,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.73,
+      "yearAgoChange": -0.11999999999999988,
+      "yearAgoPercent": -6.936416184971092
     },
     {
       "product": "Canned peach, 398 millilitres",
@@ -255,11 +255,11 @@
       "previousPrice": 2.53,
       "change": 0.06000000000000005,
       "changePercent": 2.371541501976287,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.43,
+      "yearAgoChange": 0.1599999999999997,
+      "yearAgoPercent": 6.584362139917682
     },
     {
       "product": "Canned pear, 398 millilitres",
@@ -268,11 +268,11 @@
       "previousPrice": 2.82,
       "change": 0.0900000000000003,
       "changePercent": 3.1914893617021387,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.82,
+      "yearAgoChange": 0.0900000000000003,
+      "yearAgoPercent": 3.1914893617021387
     },
     {
       "product": "Canned salmon, 213 grams",
@@ -281,11 +281,11 @@
       "previousPrice": 5.7,
       "change": 0.03000000000000025,
       "changePercent": 0.5263157894736885,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.93,
+      "yearAgoChange": 0.8000000000000007,
+      "yearAgoPercent": 16.227180527383382
     },
     {
       "product": "Canned soup, 284 millilitres",
@@ -294,11 +294,11 @@
       "previousPrice": 1.44,
       "change": 0.18000000000000016,
       "changePercent": 12.50000000000001,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.44,
+      "yearAgoChange": 0.18000000000000016,
+      "yearAgoPercent": 12.50000000000001
     },
     {
       "product": "Canned tomatoes, 796 millilitres",
@@ -307,11 +307,11 @@
       "previousPrice": 2.2,
       "change": 0.07999999999999963,
       "changePercent": 3.636363636363619,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.22,
+      "yearAgoChange": 0.05999999999999961,
+      "yearAgoPercent": 2.702702702702685
     },
     {
       "product": "Canned tuna, 170 grams",
@@ -320,11 +320,11 @@
       "previousPrice": 1.65,
       "change": 0.030000000000000027,
       "changePercent": 1.81818181818182,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.69,
+      "yearAgoChange": -0.010000000000000009,
+      "yearAgoPercent": -0.5917159763313614
     },
     {
       "product": "Canola oil, 3 litres",
@@ -333,11 +333,11 @@
       "previousPrice": 10.19,
       "change": -0.33000000000000007,
       "changePercent": -3.2384690873405306,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 10.05,
+      "yearAgoChange": -0.19000000000000128,
+      "yearAgoPercent": -1.8905472636816048
     },
     {
       "product": "Cantaloupe, unit",
@@ -346,11 +346,11 @@
       "previousPrice": 4.33,
       "change": -0.16000000000000014,
       "changePercent": -3.6951501154734445,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.53,
+      "yearAgoChange": -0.3600000000000003,
+      "yearAgoPercent": -7.947019867549676
     },
     {
       "product": "Carrots, 1.36 kilograms",
@@ -359,11 +359,11 @@
       "previousPrice": 4.91,
       "change": 0.07000000000000028,
       "changePercent": 1.425661914460291,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.85,
+      "yearAgoChange": 0.13000000000000078,
+      "yearAgoPercent": 2.680412371134037
     },
     {
       "product": "Celery, unit",
@@ -372,11 +372,11 @@
       "previousPrice": 3.66,
       "change": 0.45999999999999996,
       "changePercent": 12.568306010928959,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.33,
+      "yearAgoChange": 0.79,
+      "yearAgoPercent": 23.723723723723726
     },
     {
       "product": "Cereal, 400 grams",
@@ -385,11 +385,11 @@
       "previousPrice": 4.14,
       "change": -0.040000000000000036,
       "changePercent": -0.966183574879228,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.15,
+      "yearAgoChange": -0.05000000000000071,
+      "yearAgoPercent": -1.2048192771084507
     },
     {
       "product": "Chicken breasts, per kilogram",
@@ -398,11 +398,11 @@
       "previousPrice": 17.7,
       "change": -1.009999999999998,
       "changePercent": -5.706214689265526,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 16.76,
+      "yearAgoChange": -0.07000000000000028,
+      "yearAgoPercent": -0.41766109785203026
     },
     {
       "product": "Chicken drumsticks, per kilogram",
@@ -411,11 +411,11 @@
       "previousPrice": 7.33,
       "change": 1.5299999999999994,
       "changePercent": 20.87312414733969,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.32,
+      "yearAgoChange": 0.5399999999999991,
+      "yearAgoPercent": 6.490384615384605
     },
     {
       "product": "Chicken thigh, per kilogram",
@@ -424,11 +424,11 @@
       "previousPrice": 14.06,
       "change": -0.2599999999999998,
       "changePercent": -1.8492176386913213,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 12.55,
+      "yearAgoChange": 1.25,
+      "yearAgoPercent": 9.9601593625498
     },
     {
       "product": "Cookies and sweet biscuits, 300 grams ",
@@ -437,11 +437,11 @@
       "previousPrice": 3.44,
       "change": -0.08000000000000007,
       "changePercent": -2.325581395348839,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.38,
+      "yearAgoChange": -0.020000000000000018,
+      "yearAgoPercent": -0.5917159763313614
     },
     {
       "product": "Crackers and crisp breads, 200 grams ",
@@ -450,11 +450,11 @@
       "previousPrice": 2.68,
       "change": 0.23999999999999977,
       "changePercent": 8.955223880597005,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.97,
+      "yearAgoChange": -0.050000000000000266,
+      "yearAgoPercent": -1.6835016835016925
     },
     {
       "product": "Cream, 1 litre",
@@ -463,11 +463,11 @@
       "previousPrice": 5.07,
       "change": 0.1200000000000001,
       "changePercent": 2.3668639053254457,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.04,
+      "yearAgoChange": 0.15000000000000036,
+      "yearAgoPercent": 2.9761904761904834
     },
     {
       "product": "Cucumber, unit",
@@ -476,11 +476,11 @@
       "previousPrice": 1.6,
       "change": -0.08000000000000007,
       "changePercent": -5.000000000000004,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.43,
+      "yearAgoChange": 0.09000000000000008,
+      "yearAgoPercent": 6.2937062937062995
     },
     {
       "product": "Deodorant, 85 grams",
@@ -489,11 +489,11 @@
       "previousPrice": 8.57,
       "change": -0.009999999999999787,
       "changePercent": -0.11668611435238958,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.1,
+      "yearAgoChange": 0.46000000000000085,
+      "yearAgoPercent": 5.6790123456790225
     },
     {
       "product": "Dried lentils, 900 grams",
@@ -502,11 +502,11 @@
       "previousPrice": 3.75,
       "change": -0.16000000000000014,
       "changePercent": -4.266666666666671,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.66,
+      "yearAgoChange": -0.07000000000000028,
+      "yearAgoPercent": -1.9125683060109366
     },
     {
       "product": "Dry beans and legumes, 900 grams ",
@@ -515,11 +515,11 @@
       "previousPrice": 3.55,
       "change": -0.04999999999999982,
       "changePercent": -1.4084507042253471,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.46,
+      "yearAgoChange": 0.040000000000000036,
+      "yearAgoPercent": 1.1560693641618507
     },
     {
       "product": "Dry or fresh pasta, 500 grams",
@@ -528,11 +528,11 @@
       "previousPrice": 3.64,
       "change": 0.08000000000000007,
       "changePercent": 2.1978021978021998,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.48,
+      "yearAgoChange": 0.2400000000000002,
+      "yearAgoPercent": 6.896551724137938
     },
     {
       "product": "Eggs, 1 dozen",
@@ -541,11 +541,11 @@
       "previousPrice": 5.14,
       "change": 0.040000000000000036,
       "changePercent": 0.7782101167315182,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.12,
+      "yearAgoChange": 0.05999999999999961,
+      "yearAgoPercent": 1.1718749999999925
     },
     {
       "product": "Flatbread and pita, 500 grams ",
@@ -554,11 +554,11 @@
       "previousPrice": 3.36,
       "change": 0.28000000000000025,
       "changePercent": 8.333333333333341,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.96,
+      "yearAgoChange": -0.31999999999999984,
+      "yearAgoPercent": -8.080808080808078
     },
     {
       "product": "Frozen broccoli, 500 grams",
@@ -567,11 +567,11 @@
       "previousPrice": 3.61,
       "change": 0.5400000000000005,
       "changePercent": 14.958448753462616,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.89,
+      "yearAgoChange": 0.26000000000000023,
+      "yearAgoPercent": 6.683804627249364
     },
     {
       "product": "Frozen corn, 750 grams ",
@@ -580,11 +580,11 @@
       "previousPrice": 3.41,
       "change": 0.3899999999999997,
       "changePercent": 11.436950146627556,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.75,
+      "yearAgoChange": 0.04999999999999982,
+      "yearAgoPercent": 1.3333333333333286
     },
     {
       "product": "Frozen french fried potatoes, 750 grams",
@@ -593,11 +593,11 @@
       "previousPrice": 3.39,
       "change": 0.020000000000000018,
       "changePercent": 0.5899705014749268,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.63,
+      "yearAgoChange": -0.21999999999999975,
+      "yearAgoPercent": -6.0606060606060534
     },
     {
       "product": "Frozen green beans, 750 grams",
@@ -606,11 +606,11 @@
       "previousPrice": 4.08,
       "change": 0.3700000000000001,
       "changePercent": 9.068627450980395,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.2,
+      "yearAgoChange": 0.25,
+      "yearAgoPercent": 5.952380952380952
     },
     {
       "product": "Frozen mixed vegetables, 750 grams ",
@@ -619,11 +619,11 @@
       "previousPrice": 3.81,
       "change": 0.26000000000000023,
       "changePercent": 6.824146981627302,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.82,
+      "yearAgoChange": 0.25000000000000044,
+      "yearAgoPercent": 6.54450261780106
     },
     {
       "product": "Frozen peas, 750 grams",
@@ -632,11 +632,11 @@
       "previousPrice": 3.38,
       "change": 0.3700000000000001,
       "changePercent": 10.94674556213018,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.69,
+      "yearAgoChange": 0.06000000000000005,
+      "yearAgoPercent": 1.6260162601626031
     },
     {
       "product": "Frozen pizza, 390 grams",
@@ -645,11 +645,11 @@
       "previousPrice": 4.48,
       "change": 0.3099999999999996,
       "changePercent": 6.919642857142848,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.01,
+      "yearAgoChange": -0.21999999999999975,
+      "yearAgoPercent": -4.391217564870255
     },
     {
       "product": "Frozen spinach, 300 grams",
@@ -658,11 +658,11 @@
       "previousPrice": 1.91,
       "change": -0.030000000000000027,
       "changePercent": -1.5706806282722525,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.89,
+      "yearAgoChange": -0.010000000000000009,
+      "yearAgoPercent": -0.5291005291005296
     },
     {
       "product": "Frozen strawberries, 600 grams",
@@ -671,11 +671,11 @@
       "previousPrice": 5.36,
       "change": 0.08000000000000007,
       "changePercent": 1.492537313432837,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.13,
+      "yearAgoChange": 0.3100000000000005,
+      "yearAgoPercent": 6.042884990253421
     },
     {
       "product": "Grapes, per kilogram",
@@ -684,11 +684,11 @@
       "previousPrice": 8.81,
       "change": 2.389999999999999,
       "changePercent": 27.1282633371169,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.91,
+      "yearAgoChange": 2.289999999999999,
+      "yearAgoPercent": 25.701459034792357
     },
     {
       "product": "Ground beef, per kilogram",
@@ -697,11 +697,11 @@
       "previousPrice": 17.43,
       "change": -0.16000000000000014,
       "changePercent": -0.9179575444635694,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 16.12,
+      "yearAgoChange": 1.1499999999999986,
+      "yearAgoPercent": 7.133995037220835
     },
     {
       "product": "Hummus, 227 grams",
@@ -710,11 +710,11 @@
       "previousPrice": 3.9,
       "change": -0.08000000000000007,
       "changePercent": -2.051282051282053,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.4,
+      "yearAgoChange": 0.41999999999999993,
+      "yearAgoPercent": 12.352941176470585
     },
     {
       "product": "Iceberg lettuce, unit",
@@ -723,11 +723,11 @@
       "previousPrice": 3.65,
       "change": 0.73,
       "changePercent": 20.0,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.41,
+      "yearAgoChange": 0.9699999999999998,
+      "yearAgoPercent": 28.445747800586503
     },
     {
       "product": "Infant formula, 900 grams ",
@@ -736,11 +736,11 @@
       "previousPrice": 49.75,
       "change": 0.4399999999999977,
       "changePercent": 0.8844221105527593,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 49.45,
+      "yearAgoChange": 0.7399999999999949,
+      "yearAgoPercent": 1.496461071789676
     },
     {
       "product": "Ketchup, 1 litre",
@@ -749,11 +749,11 @@
       "previousPrice": 4.68,
       "change": 0.11000000000000032,
       "changePercent": 2.350427350427357,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.85,
+      "yearAgoChange": -0.05999999999999961,
+      "yearAgoPercent": -1.2371134020618477
     },
     {
       "product": "Laundry detergent, 4.43 litres",
@@ -762,11 +762,11 @@
       "previousPrice": 14.06,
       "change": -0.2900000000000009,
       "changePercent": -2.0625889046941746,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 13.43,
+      "yearAgoChange": 0.33999999999999986,
+      "yearAgoPercent": 2.531645569620252
     },
     {
       "product": "Lemons, unit",
@@ -775,11 +775,11 @@
       "previousPrice": 1.05,
       "change": 0.050000000000000044,
       "changePercent": 4.761904761904765,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 1.01,
+      "yearAgoChange": 0.09000000000000008,
+      "yearAgoPercent": 8.910891089108919
     },
     {
       "product": "Limes, unit",
@@ -788,11 +788,11 @@
       "previousPrice": 0.93,
       "change": 0.13,
       "changePercent": 13.978494623655912,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 0.88,
+      "yearAgoChange": 0.18000000000000005,
+      "yearAgoPercent": 20.45454545454546
     },
     {
       "product": "Margarine, 907 grams",
@@ -801,11 +801,11 @@
       "previousPrice": 7.54,
       "change": -0.7300000000000004,
       "changePercent": -9.681697612732101,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.08,
+      "yearAgoChange": -0.27000000000000046,
+      "yearAgoPercent": -3.813559322033905
     },
     {
       "product": "Mayonnaise, 890 millilitres ",
@@ -814,11 +814,11 @@
       "previousPrice": 6.46,
       "change": -0.54,
       "changePercent": -8.359133126934985,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.4,
+      "yearAgoChange": -0.4800000000000004,
+      "yearAgoPercent": -7.500000000000007
     },
     {
       "product": "Meatless burgers, 226 grams",
@@ -827,11 +827,11 @@
       "previousPrice": 7.43,
       "change": 0.0600000000000005,
       "changePercent": 0.807537012113062,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.86,
+      "yearAgoChange": 0.6299999999999999,
+      "yearAgoPercent": 9.183673469387752
     },
     {
       "product": "Milk, 1 litre",
@@ -840,11 +840,11 @@
       "previousPrice": 3.24,
       "change": -0.020000000000000018,
       "changePercent": -0.6172839506172845,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.0,
+      "yearAgoChange": 0.2200000000000002,
+      "yearAgoPercent": 7.33333333333334
     },
     {
       "product": "Milk, 2 litres",
@@ -853,11 +853,11 @@
       "previousPrice": 5.59,
       "change": 0.040000000000000036,
       "changePercent": 0.7155635062611813,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.32,
+      "yearAgoChange": 0.3099999999999996,
+      "yearAgoPercent": 5.827067669172925
     },
     {
       "product": "Milk, 4 litres",
@@ -866,11 +866,11 @@
       "previousPrice": 6.61,
       "change": 0.0,
       "changePercent": 0.0,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.17,
+      "yearAgoChange": 0.4400000000000004,
+      "yearAgoPercent": 7.1312803889789365
     },
     {
       "product": "Mushrooms, 227 grams",
@@ -879,11 +879,11 @@
       "previousPrice": 2.95,
       "change": -0.14000000000000012,
       "changePercent": -4.74576271186441,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.0,
+      "yearAgoChange": -0.18999999999999995,
+      "yearAgoPercent": -6.333333333333331
     },
     {
       "product": "Nut milk, 1.89 litres",
@@ -892,11 +892,11 @@
       "previousPrice": 4.49,
       "change": -0.009999999999999787,
       "changePercent": -0.22271714922048524,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.13,
+      "yearAgoChange": 0.35000000000000053,
+      "yearAgoPercent": 8.474576271186454
     },
     {
       "product": "Olive oil, 1 litre",
@@ -905,11 +905,11 @@
       "previousPrice": 11.83,
       "change": 0.3100000000000005,
       "changePercent": 2.620456466610317,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 13.56,
+      "yearAgoChange": -1.42,
+      "yearAgoPercent": -10.47197640117994
     },
     {
       "product": "Onions, 1.36 kilograms",
@@ -918,11 +918,11 @@
       "previousPrice": 4.78,
       "change": 0.23999999999999932,
       "changePercent": 5.020920502092036,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.18,
+      "yearAgoChange": -0.16000000000000014,
+      "yearAgoPercent": -3.0888030888030915
     },
     {
       "product": "Onions, per kilogram",
@@ -931,11 +931,11 @@
       "previousPrice": 5.62,
       "change": -0.2400000000000002,
       "changePercent": -4.270462633451961,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.33,
+      "yearAgoChange": 0.04999999999999982,
+      "yearAgoPercent": 0.9380863039399591
     },
     {
       "product": "Orange juice, 2 litres",
@@ -944,11 +944,11 @@
       "previousPrice": 6.25,
       "change": -0.08999999999999986,
       "changePercent": -1.4399999999999977,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.2,
+      "yearAgoChange": -0.040000000000000036,
+      "yearAgoPercent": -0.6451612903225812
     },
     {
       "product": "Oranges, 1.36 kilograms",
@@ -957,11 +957,11 @@
       "previousPrice": 6.48,
       "change": 0.3799999999999999,
       "changePercent": 5.864197530864196,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.34,
+      "yearAgoChange": -0.47999999999999954,
+      "yearAgoPercent": -6.539509536784735
     },
     {
       "product": "Oranges, per kilogram",
@@ -970,11 +970,11 @@
       "previousPrice": 4.58,
       "change": 0.29000000000000004,
       "changePercent": 6.331877729257643,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.37,
+      "yearAgoChange": -0.5,
+      "yearAgoPercent": -9.31098696461825
     },
     {
       "product": "Pasta sauce, 650 millilitres",
@@ -983,11 +983,11 @@
       "previousPrice": 3.13,
       "change": 0.040000000000000036,
       "changePercent": 1.2779552715654963,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.94,
+      "yearAgoChange": 0.22999999999999998,
+      "yearAgoPercent": 7.82312925170068
     },
     {
       "product": "Peanut butter, 1 kilogram",
@@ -996,11 +996,11 @@
       "previousPrice": 6.12,
       "change": 0.08000000000000007,
       "changePercent": 1.3071895424836613,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 6.17,
+      "yearAgoChange": 0.03000000000000025,
+      "yearAgoPercent": 0.4862236628849311
     },
     {
       "product": "Peanuts, 450 grams",
@@ -1009,11 +1009,11 @@
       "previousPrice": 4.75,
       "change": -0.07000000000000028,
       "changePercent": -1.473684210526322,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.46,
+      "yearAgoChange": 0.21999999999999975,
+      "yearAgoPercent": 4.932735426008963
     },
     {
       "product": "Pears, per kilogram",
@@ -1022,11 +1022,11 @@
       "previousPrice": 6.35,
       "change": -0.1299999999999999,
       "changePercent": -2.0472440944881876,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.87,
+      "yearAgoChange": 0.34999999999999964,
+      "yearAgoPercent": 5.962521294718903
     },
     {
       "product": "Peppers, per kilogram",
@@ -1035,11 +1035,11 @@
       "previousPrice": 9.39,
       "change": -0.5200000000000014,
       "changePercent": -5.5378061767838265,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.86,
+      "yearAgoChange": 0.009999999999999787,
+      "yearAgoPercent": 0.1128668171557538
     },
     {
       "product": "Pork loin cuts, per kilogram",
@@ -1048,11 +1048,11 @@
       "previousPrice": 10.36,
       "change": -0.29999999999999893,
       "changePercent": -2.8957528957528855,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 9.56,
+      "yearAgoChange": 0.5,
+      "yearAgoPercent": 5.230125523012552
     },
     {
       "product": "Pork rib cuts, per kilogram",
@@ -1061,11 +1061,11 @@
       "previousPrice": 9.77,
       "change": 0.009999999999999787,
       "changePercent": 0.1023541453428842,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 9.86,
+      "yearAgoChange": -0.08000000000000007,
+      "yearAgoPercent": -0.811359026369169
     },
     {
       "product": "Pork shoulder cuts, per kilogram",
@@ -1074,11 +1074,11 @@
       "previousPrice": 9.59,
       "change": -0.16000000000000014,
       "changePercent": -1.6684045881126188,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 10.0,
+      "yearAgoChange": -0.5700000000000003,
+      "yearAgoPercent": -5.700000000000003
     },
     {
       "product": "Potatoes, 4.54 kilograms",
@@ -1087,11 +1087,11 @@
       "previousPrice": 7.9,
       "change": 0.0699999999999994,
       "changePercent": 0.8860759493670809,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.02,
+      "yearAgoChange": -0.04999999999999982,
+      "yearAgoPercent": -0.623441396508726
     },
     {
       "product": "Potatoes, per kilogram",
@@ -1100,11 +1100,11 @@
       "previousPrice": 5.19,
       "change": -0.07000000000000028,
       "changePercent": -1.3487475915221634,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.05,
+      "yearAgoChange": 0.07000000000000028,
+      "yearAgoPercent": 1.3861386138613918
     },
     {
       "product": "Roasted or ground coffee, 340 grams",
@@ -1113,11 +1113,11 @@
       "previousPrice": 9.08,
       "change": 0.2400000000000002,
       "changePercent": 2.643171806167403,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 8.25,
+      "yearAgoChange": 1.0700000000000003,
+      "yearAgoPercent": 12.969696969696972
     },
     {
       "product": "Romaine lettuce, unit",
@@ -1126,11 +1126,11 @@
       "previousPrice": 4.48,
       "change": 0.23999999999999932,
       "changePercent": 5.357142857142842,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.94,
+      "yearAgoChange": 0.7799999999999998,
+      "yearAgoPercent": 19.796954314720807
     },
     {
       "product": "Salad dressing, 475 millilitres",
@@ -1139,11 +1139,11 @@
       "previousPrice": 3.37,
       "change": 0.1599999999999997,
       "changePercent": 4.747774480712157,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.42,
+      "yearAgoChange": 0.10999999999999988,
+      "yearAgoPercent": 3.2163742690058443
     },
     {
       "product": "Salad greens, 142 grams",
@@ -1152,11 +1152,11 @@
       "previousPrice": 4.87,
       "change": 0.07000000000000028,
       "changePercent": 1.437371663244359,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.11,
+      "yearAgoChange": -0.16999999999999993,
+      "yearAgoPercent": -3.326810176125243
     },
     {
       "product": "Salmon, per kilogram",
@@ -1165,11 +1165,11 @@
       "previousPrice": 29.83,
       "change": 0.8300000000000018,
       "changePercent": 2.7824337914850883,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 29.94,
+      "yearAgoChange": 0.7199999999999989,
+      "yearAgoPercent": 2.404809619238473
     },
     {
       "product": "Salsa, 418 millilitres",
@@ -1178,11 +1178,11 @@
       "previousPrice": 5.13,
       "change": -0.009999999999999787,
       "changePercent": -0.19493177387913815,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.97,
+      "yearAgoChange": 0.15000000000000036,
+      "yearAgoPercent": 3.018108651911476
     },
     {
       "product": "Shampoo, 400 millilitres",
@@ -1191,11 +1191,11 @@
       "previousPrice": 7.57,
       "change": -0.20999999999999996,
       "changePercent": -2.7741083223249663,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.38,
+      "yearAgoChange": -0.019999999999999574,
+      "yearAgoPercent": -0.27100271002709453
     },
     {
       "product": "Shrimp, 300 grams",
@@ -1204,11 +1204,11 @@
       "previousPrice": 7.29,
       "change": -0.009999999999999787,
       "changePercent": -0.1371742112482824,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.67,
+      "yearAgoChange": -0.3899999999999997,
+      "yearAgoPercent": -5.084745762711861
     },
     {
       "product": "Soy milk, 1.89 litres",
@@ -1217,11 +1217,11 @@
       "previousPrice": 4.56,
       "change": 0.08000000000000007,
       "changePercent": 1.7543859649122824,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.08,
+      "yearAgoChange": 0.5599999999999996,
+      "yearAgoPercent": 13.725490196078422
     },
     {
       "product": "Squash, per kilogram",
@@ -1230,11 +1230,11 @@
       "previousPrice": 4.49,
       "change": 0.6499999999999995,
       "changePercent": 14.476614699331837,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.7,
+      "yearAgoChange": -0.5600000000000005,
+      "yearAgoPercent": -9.824561403508781
     },
     {
       "product": "Strawberries, 454 grams",
@@ -1243,11 +1243,11 @@
       "previousPrice": 4.37,
       "change": 0.41000000000000014,
       "changePercent": 9.382151029748286,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.53,
+      "yearAgoChange": 1.2500000000000004,
+      "yearAgoPercent": 35.41076487252126
     },
     {
       "product": "Sunflower seeds, 400 grams ",
@@ -1256,11 +1256,11 @@
       "previousPrice": 5.01,
       "change": 0.20000000000000018,
       "changePercent": 3.9920159680638756,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.0,
+      "yearAgoChange": 0.20999999999999996,
+      "yearAgoPercent": 4.199999999999999
     },
     {
       "product": "Sweet potatoes, per kilogram",
@@ -1269,11 +1269,11 @@
       "previousPrice": 4.79,
       "change": 0.5800000000000001,
       "changePercent": 12.10855949895616,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.25,
+      "yearAgoChange": 0.1200000000000001,
+      "yearAgoPercent": 2.285714285714288
     },
     {
       "product": "Tea (20 bags)",
@@ -1282,11 +1282,11 @@
       "previousPrice": 4.33,
       "change": 0.16000000000000014,
       "changePercent": 3.6951501154734445,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.32,
+      "yearAgoChange": 0.16999999999999993,
+      "yearAgoPercent": 3.9351851851851833
     },
     {
       "product": "Tofu, 350 grams ",
@@ -1295,11 +1295,11 @@
       "previousPrice": 3.04,
       "change": 0.06999999999999984,
       "changePercent": 2.3026315789473633,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 2.6,
+      "yearAgoChange": 0.5099999999999998,
+      "yearAgoPercent": 19.615384615384606
     },
     {
       "product": "Tomatoes, per kilogram",
@@ -1308,11 +1308,11 @@
       "previousPrice": 5.88,
       "change": 0.6200000000000001,
       "changePercent": 10.544217687074832,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.71,
+      "yearAgoChange": 1.79,
+      "yearAgoPercent": 38.004246284501065
     },
     {
       "product": "Toothpaste, 100 millilitres",
@@ -1321,11 +1321,11 @@
       "previousPrice": 4.42,
       "change": 0.34999999999999964,
       "changePercent": 7.918552036199087,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.22,
+      "yearAgoChange": 0.5499999999999998,
+      "yearAgoPercent": 13.033175355450233
     },
     {
       "product": "Vegetable oil, 3 litres",
@@ -1334,11 +1334,11 @@
       "previousPrice": 10.22,
       "change": 0.28999999999999915,
       "changePercent": 2.8375733855185823,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 10.12,
+      "yearAgoChange": 0.39000000000000057,
+      "yearAgoPercent": 3.8537549407114686
     },
     {
       "product": "Wheat flour, 2.5 kilograms",
@@ -1347,11 +1347,11 @@
       "previousPrice": 5.38,
       "change": 0.20000000000000018,
       "changePercent": 3.7174721189591113,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 5.52,
+      "yearAgoChange": 0.0600000000000005,
+      "yearAgoPercent": 1.0869565217391397
     },
     {
       "product": "White bread, 675 grams",
@@ -1360,11 +1360,11 @@
       "previousPrice": 3.5,
       "change": -0.029999999999999805,
       "changePercent": -0.8571428571428517,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.39,
+      "yearAgoChange": 0.08000000000000007,
+      "yearAgoPercent": 2.359882005899707
     },
     {
       "product": "White rice, 2 kilograms",
@@ -1373,11 +1373,11 @@
       "previousPrice": 9.05,
       "change": -0.010000000000001563,
       "changePercent": -0.11049723756907805,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 9.47,
+      "yearAgoChange": -0.4300000000000015,
+      "yearAgoPercent": -4.540654699049647
     },
     {
       "product": "White sugar, 2 kilograms",
@@ -1386,11 +1386,11 @@
       "previousPrice": 3.14,
       "change": 0.029999999999999805,
       "changePercent": 0.9554140127388472,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.22,
+      "yearAgoChange": -0.050000000000000266,
+      "yearAgoPercent": -1.5527950310559087
     },
     {
       "product": "Whole chicken, per kilogram",
@@ -1399,11 +1399,11 @@
       "previousPrice": 6.14,
       "change": 3.3,
       "changePercent": 53.74592833876222,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 7.67,
+      "yearAgoChange": 1.7699999999999996,
+      "yearAgoPercent": 23.076923076923073
     },
     {
       "product": "Wieners, 400 grams",
@@ -1412,11 +1412,11 @@
       "previousPrice": 4.94,
       "change": 0.04999999999999982,
       "changePercent": 1.0121457489878507,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 4.59,
+      "yearAgoChange": 0.40000000000000036,
+      "yearAgoPercent": 8.714596949891074
     },
     {
       "product": "Yogurt, 500 grams",
@@ -1425,11 +1425,11 @@
       "previousPrice": 3.84,
       "change": 0.08000000000000007,
       "changePercent": 2.0833333333333353,
-      "currentDate": "2026-07-14",
+      "currentDate": "2026-05",
       "previousDate": "2026-04",
-      "yearAgoPrice": null,
-      "yearAgoChange": null,
-      "yearAgoPercent": null
+      "yearAgoPrice": 3.69,
+      "yearAgoChange": 0.22999999999999998,
+      "yearAgoPercent": 6.233062330623306
     }
   ]
 }
