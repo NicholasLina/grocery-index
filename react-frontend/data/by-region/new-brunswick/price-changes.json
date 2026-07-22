@@ -1,0 +1,4951 @@
+{
+  "geo": "New Brunswick",
+  "gainers": [
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 10.48,
+      "previousPrice": 8.36,
+      "change": 2.120000000000001,
+      "changePercent": 25.358851674641166,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.28
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.48
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 3.88,
+      "previousPrice": 3.18,
+      "change": 0.6999999999999997,
+      "changePercent": 22.01257861635219,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 12.29,
+      "previousPrice": 10.14,
+      "change": 2.1499999999999986,
+      "changePercent": 21.20315581854042,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.61
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.29
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 5.02,
+      "previousPrice": 4.18,
+      "change": 0.8399999999999999,
+      "changePercent": 20.095693779904302,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 6.04,
+      "previousPrice": 5.09,
+      "change": 0.9500000000000002,
+      "changePercent": 18.664047151277018,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.04
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 7.96,
+      "previousPrice": 6.86,
+      "change": 1.0999999999999996,
+      "changePercent": 16.03498542274052,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.96
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.35,
+      "previousPrice": 3.75,
+      "change": 0.5999999999999996,
+      "changePercent": 15.99999999999999,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.35
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 32.23,
+      "previousPrice": 28.01,
+      "change": 4.219999999999995,
+      "changePercent": 15.066047840057104,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 32.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 31.52
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 36.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 45.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.75
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 30.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 36.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 43.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 42.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.23
+        }
+      ]
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 8.46,
+      "previousPrice": 7.37,
+      "change": 1.0900000000000007,
+      "changePercent": 14.789687924016292,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.99
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.22
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.46
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 5.05,
+      "previousPrice": 4.44,
+      "change": 0.6099999999999994,
+      "changePercent": 13.738738738738727,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 4.47,
+      "previousPrice": 3.96,
+      "change": 0.5099999999999998,
+      "changePercent": 12.878787878787874,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.47
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 4.65,
+      "previousPrice": 4.16,
+      "change": 0.4900000000000002,
+      "changePercent": 11.778846153846159,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.65
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 3.24,
+      "previousPrice": 2.9,
+      "change": 0.3400000000000003,
+      "changePercent": 11.724137931034493,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.24
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.47,
+      "previousPrice": 4.01,
+      "change": 0.45999999999999996,
+      "changePercent": 11.471321695760599,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.47
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 2.42,
+      "previousPrice": 2.18,
+      "change": 0.23999999999999977,
+      "changePercent": 11.009174311926593,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.42
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 7.88,
+      "previousPrice": 7.11,
+      "change": 0.7699999999999996,
+      "changePercent": 10.829817158931077,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.88
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 6.59,
+      "previousPrice": 5.98,
+      "change": 0.6099999999999994,
+      "changePercent": 10.20066889632106,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.34
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.59
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 3.81,
+      "previousPrice": 3.46,
+      "change": 0.3500000000000001,
+      "changePercent": 10.115606936416189,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 4.69,
+      "previousPrice": 4.27,
+      "change": 0.4200000000000008,
+      "changePercent": 9.836065573770512,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 17.13,
+      "previousPrice": 15.68,
+      "change": 1.4499999999999993,
+      "changePercent": 9.247448979591832,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 14.93
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 15.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.62
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 14.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 15.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.13
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 4.16,
+      "previousPrice": 3.83,
+      "change": 0.33000000000000007,
+      "changePercent": 8.616187989556137,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 5.0,
+      "previousPrice": 4.61,
+      "change": 0.3899999999999997,
+      "changePercent": 8.459869848156174,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.0
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 3.74,
+      "previousPrice": 3.46,
+      "change": 0.28000000000000025,
+      "changePercent": 8.092485549132956,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.74
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 4.12,
+      "previousPrice": 3.83,
+      "change": 0.29000000000000004,
+      "changePercent": 7.5718015665796345,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ]
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 3.3,
+      "previousPrice": 3.07,
+      "change": 0.22999999999999998,
+      "changePercent": 7.491856677524429,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.3
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 1.75,
+      "previousPrice": 1.63,
+      "change": 0.1200000000000001,
+      "changePercent": 7.361963190184056,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.75
+        }
+      ]
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 5.57,
+      "previousPrice": 5.19,
+      "change": 0.3799999999999999,
+      "changePercent": 7.321772639691712,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.57
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.84,
+      "previousPrice": 4.52,
+      "change": 0.3200000000000003,
+      "changePercent": 7.079646017699122,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 2.11,
+      "previousPrice": 1.98,
+      "change": 0.1299999999999999,
+      "changePercent": 6.56565656565656,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.11
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 25.32,
+      "previousPrice": 23.76,
+      "change": 1.5599999999999987,
+      "changePercent": 6.5656565656565595,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 23.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 22.52
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 24.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 24.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 22.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 23.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 27.06
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 22.21
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 22.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 23.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.32
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 4.24,
+      "previousPrice": 4.0,
+      "change": 0.2400000000000002,
+      "changePercent": 6.000000000000005,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.24
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 6.91,
+      "previousPrice": 6.54,
+      "change": 0.3700000000000001,
+      "changePercent": 5.6574923547400635,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.91
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 1.02,
+      "previousPrice": 0.97,
+      "change": 0.050000000000000044,
+      "changePercent": 5.154639175257737,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.02
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 5.58,
+      "previousPrice": 5.31,
+      "change": 0.27000000000000046,
+      "changePercent": 5.084745762711874,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 5.74,
+      "previousPrice": 5.47,
+      "change": 0.27000000000000046,
+      "changePercent": 4.936014625228528,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.74
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "New Brunswick",
+      "currentPrice": 4.64,
+      "previousPrice": 4.43,
+      "change": 0.20999999999999996,
+      "changePercent": 4.74040632054176,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.64
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.86,
+      "previousPrice": 4.65,
+      "change": 0.20999999999999996,
+      "changePercent": 4.516129032258063,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.86
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 7.52,
+      "previousPrice": 7.21,
+      "change": 0.3099999999999996,
+      "changePercent": 4.299583911234391,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.52
+        }
+      ]
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 8.13,
+      "previousPrice": 7.81,
+      "change": 0.3200000000000012,
+      "changePercent": 4.097311139564676,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.02
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.13
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 1.55,
+      "previousPrice": 1.49,
+      "change": 0.06000000000000005,
+      "changePercent": 4.026845637583897,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.33
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.29
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.55
+        }
+      ]
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 1.86,
+      "previousPrice": 1.79,
+      "change": 0.07000000000000006,
+      "changePercent": 3.9106145251396685,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.86
+        }
+      ]
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "New Brunswick",
+      "currentPrice": 4.78,
+      "previousPrice": 4.61,
+      "change": 0.16999999999999993,
+      "changePercent": 3.6876355748373086,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.78
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 10.49,
+      "previousPrice": 10.12,
+      "change": 0.370000000000001,
+      "changePercent": 3.6561264822134487,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.56
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.49
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.67,
+      "previousPrice": 4.53,
+      "change": 0.13999999999999968,
+      "changePercent": 3.0905077262693084,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.67
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 26.69,
+      "previousPrice": 25.89,
+      "change": 0.8000000000000007,
+      "changePercent": 3.089996137504831,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 26.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 26.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 26.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 26.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 24.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 25.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 23.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 26.12
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 25.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 26.69
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 2.94,
+      "previousPrice": 2.87,
+      "change": 0.06999999999999984,
+      "changePercent": 2.4390243902438966,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.94
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "New Brunswick",
+      "currentPrice": 12.61,
+      "previousPrice": 12.33,
+      "change": 0.27999999999999936,
+      "changePercent": 2.270884022708835,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 13.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.84
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.61
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 3.85,
+      "previousPrice": 3.77,
+      "change": 0.08000000000000007,
+      "changePercent": 2.1220159151193654,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.85
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 2.91,
+      "previousPrice": 2.85,
+      "change": 0.06000000000000005,
+      "changePercent": 2.1052631578947385,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.91
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 2.62,
+      "previousPrice": 2.57,
+      "change": 0.050000000000000266,
+      "changePercent": 1.9455252918288042,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.62
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 37.4,
+      "previousPrice": 46.14,
+      "change": -8.740000000000002,
+      "changePercent": -18.942349371478116,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 27.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 25.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 26.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 28.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 36.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 32.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 37.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 33.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 39.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 46.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 37.4
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 24.41,
+      "previousPrice": 29.21,
+      "change": -4.800000000000001,
+      "changePercent": -16.432728517630952,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 18.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 28.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 26.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 30.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 30.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 30.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 32.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 27.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.41
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "New Brunswick",
+      "currentPrice": 5.14,
+      "previousPrice": 5.98,
+      "change": -0.8400000000000007,
+      "changePercent": -14.04682274247493,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.29
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 6.58,
+      "previousPrice": 7.49,
+      "change": -0.9100000000000001,
+      "changePercent": -12.149532710280376,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.56
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.53
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.58
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 5.77,
+      "previousPrice": 6.47,
+      "change": -0.7000000000000002,
+      "changePercent": -10.819165378670792,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.77
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 3.88,
+      "previousPrice": 4.33,
+      "change": -0.4500000000000002,
+      "changePercent": -10.392609699769057,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 5.78,
+      "previousPrice": 6.27,
+      "change": -0.4899999999999993,
+      "changePercent": -7.814992025518332,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.93
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.92
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.78
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 8.93,
+      "previousPrice": 9.57,
+      "change": -0.6400000000000006,
+      "changePercent": -6.687565308254969,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.93
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "New Brunswick",
+      "currentPrice": 10.96,
+      "previousPrice": 11.58,
+      "change": -0.6199999999999992,
+      "changePercent": -5.354058721934363,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.9
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.95
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.96
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "New Brunswick",
+      "currentPrice": 11.04,
+      "previousPrice": 11.65,
+      "change": -0.6100000000000012,
+      "changePercent": -5.2360515021459335,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.04
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 2.73,
+      "previousPrice": 2.88,
+      "change": -0.1499999999999999,
+      "changePercent": -5.20833333333333,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.71
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.73
+        }
+      ]
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.42,
+      "previousPrice": 4.62,
+      "change": -0.20000000000000018,
+      "changePercent": -4.329004329004333,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.42
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 3.83,
+      "previousPrice": 3.97,
+      "change": -0.14000000000000012,
+      "changePercent": -3.526448362720406,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.83
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 6.11,
+      "previousPrice": 6.32,
+      "change": -0.20999999999999996,
+      "changePercent": -3.3227848101265813,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.11
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 5.57,
+      "previousPrice": 5.74,
+      "change": -0.16999999999999993,
+      "changePercent": -2.9616724738675946,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.57
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "New Brunswick",
+      "currentPrice": 4.21,
+      "previousPrice": 4.33,
+      "change": -0.1200000000000001,
+      "changePercent": -2.7713625866050835,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.21
+        }
+      ]
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 2.92,
+      "previousPrice": 3.0,
+      "change": -0.08000000000000007,
+      "changePercent": -2.6666666666666687,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 14.92,
+      "previousPrice": 15.31,
+      "change": -0.39000000000000057,
+      "changePercent": -2.547354670150232,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 15.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 15.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 15.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 15.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 16.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 17.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.92
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "New Brunswick",
+      "currentPrice": 14.52,
+      "previousPrice": 14.89,
+      "change": -0.370000000000001,
+      "changePercent": -2.4848891873740833,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 14.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 13.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 13.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 14.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.52
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 1.66,
+      "previousPrice": 1.7,
+      "change": -0.040000000000000036,
+      "changePercent": -2.35294117647059,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.51
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.66
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 1.26,
+      "previousPrice": 1.28,
+      "change": -0.020000000000000018,
+      "changePercent": -1.5625000000000013,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.99
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.26
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 5.31,
+      "previousPrice": 5.38,
+      "change": -0.07000000000000028,
+      "changePercent": -1.301115241635693,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.31
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "New Brunswick",
+      "currentPrice": 1.74,
+      "previousPrice": 1.76,
+      "change": -0.020000000000000018,
+      "changePercent": -1.1363636363636374,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.74
+        }
+      ]
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 2.17,
+      "previousPrice": 2.19,
+      "change": -0.020000000000000018,
+      "changePercent": -0.9132420091324209,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.17
+        }
+      ]
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 3.29,
+      "previousPrice": 3.32,
+      "change": -0.029999999999999805,
+      "changePercent": -0.9036144578313196,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.29
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 3.61,
+      "previousPrice": 3.64,
+      "change": -0.03000000000000025,
+      "changePercent": -0.824175824175831,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.61
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 9.82,
+      "previousPrice": 9.87,
+      "change": -0.049999999999998934,
+      "changePercent": -0.506585612968581,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.64
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.16
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.82
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "New Brunswick",
+      "currentPrice": 2.01,
+      "previousPrice": 2.02,
+      "change": -0.010000000000000231,
+      "changePercent": -0.4950495049505065,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.01
+        }
+      ]
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "New Brunswick",
+      "currentPrice": 10.4,
+      "previousPrice": 10.43,
+      "change": -0.02999999999999936,
+      "changePercent": -0.28763183125598624,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.61
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.9
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.02
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.4
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "New Brunswick",
+      "currentPrice": 3.71,
+      "previousPrice": 3.72,
+      "change": -0.010000000000000231,
+      "changePercent": -0.26881720430108147,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.71
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "New Brunswick",
+      "currentPrice": 5.81,
+      "previousPrice": 5.82,
+      "change": -0.010000000000000675,
+      "changePercent": -0.171821305841936,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.237423",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 31,
+  "trendPoints": 12
+}

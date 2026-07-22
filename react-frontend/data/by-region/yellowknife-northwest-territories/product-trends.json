@@ -1,0 +1,463 @@
+{
+  "geo": "Yellowknife, Northwest Territories",
+  "trends": {
+    "Canned tomatoes, 796 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 2.6
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 2.48
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 2.57
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 2.55
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 2.59
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 2.46
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 2.63
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 2.28
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 2.61
+      }
+    ],
+    "Laundry detergent, 4.43 litres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 15.97
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 14.13
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 15.41
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 15.06
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 16.01
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 16.55
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 14.51
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 15.39
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 16.89
+      }
+    ],
+    "Canned tuna, 170 grams": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 1.78
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 1.73
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 1.96
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 1.99
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 2.06
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 1.94
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 2.03
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 1.79
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 1.96
+      }
+    ],
+    "Toothpaste, 100 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 4.68
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 4.65
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 4.97
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 4.63
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 4.77
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 4.99
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 4.93
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 4.71
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 5.12
+      }
+    ],
+    "Canned pear, 398 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 3.1
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 3.09
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 3.02
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 3.07
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 3.19
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 3.17
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 3.2
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 2.54
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 2.75
+      }
+    ],
+    "Canned beans and lentils, 540 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 1.92
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 1.88
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 1.82
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 1.98
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 1.77
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 1.81
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 2.05
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 1.84
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 1.99
+      }
+    ],
+    "Canned corn, 341 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 1.8
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 1.7
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 1.9
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 1.82
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 1.91
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 1.98
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 1.83
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 1.85
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 1.71
+      }
+    ],
+    "Deodorant, 85 grams": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 8.68
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 9.0
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 8.81
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 8.61
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 8.49
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 8.9
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 8.85
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 9.07
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 8.53
+      }
+    ],
+    "Mayonnaise, 890 millilitres ": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 6.68
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 7.03
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 6.8
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 6.58
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 6.88
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 6.94
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 6.72
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 6.88
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 6.53
+      }
+    ],
+    "Apple juice, 2 litres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 4.47
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 4.82
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 4.79
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 4.89
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 4.79
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 5.07
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 4.78
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 4.97
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 4.72
+      }
+    ],
+    "Pasta sauce, 650 millilitres": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 4.12
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 3.85
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 3.9
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 4.11
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 4.11
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 4.18
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 3.96
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 4.25
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 4.04
+      }
+    ],
+    "Dry or fresh pasta, 500 grams": [
+      {
+        "REF_DATE": "2025-09",
+        "VALUE": 3.78
+      },
+      {
+        "REF_DATE": "2025-10",
+        "VALUE": 3.93
+      },
+      {
+        "REF_DATE": "2025-11",
+        "VALUE": 3.9
+      },
+      {
+        "REF_DATE": "2025-12",
+        "VALUE": 3.65
+      },
+      {
+        "REF_DATE": "2026-01",
+        "VALUE": 3.37
+      },
+      {
+        "REF_DATE": "2026-02",
+        "VALUE": 3.76
+      },
+      {
+        "REF_DATE": "2026-03",
+        "VALUE": 3.73
+      },
+      {
+        "REF_DATE": "2026-04",
+        "VALUE": 3.82
+      },
+      {
+        "REF_DATE": "2026-05",
+        "VALUE": 3.65
+      }
+    ]
+  },
+  "count": 12,
+  "months": 12
+}

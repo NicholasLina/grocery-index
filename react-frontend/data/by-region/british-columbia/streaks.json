@@ -1,0 +1,2076 @@
+{
+  "geo": "British Columbia",
+  "streaks": [
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.85
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "British Columbia",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "British Columbia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.9
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.25
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 43.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 24.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 24.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.27
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 32.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 33.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "British Columbia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 45.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 40.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.8
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 18.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.7
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 50.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.7
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "British Columbia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.204735"
+    }
+  ]
+}

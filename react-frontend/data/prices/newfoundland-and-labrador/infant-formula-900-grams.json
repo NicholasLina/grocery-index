@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.74
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.29
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.41
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.36
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 25.64
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.87
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.6
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.07
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.32
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.81
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.91
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 24.95
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 24.9
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 24.45
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 25.53
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 25.9
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 26.34
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.27
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.36
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.49
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.76
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.59
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.38
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.83
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.91
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.88
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.17
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.39
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.08
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.1
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.03
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.01
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.01
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.6
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.3
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.05
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.55
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.62
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.71
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.81
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.24
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.87
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.39
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.52
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.17
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.14
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.82
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.08
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 30.33
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.71
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 30.69
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.46
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 30.26
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.06
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.51
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 32.13
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.11
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 29.08
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 27.11
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.24
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 32.24
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 28.53
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.48
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 31.98
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 34.98
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 32.69
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 35.8
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 34.23
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 33.99
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 36.63
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 36.17
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 36.45
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 38.03
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 37.96
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 40.12
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 42.7
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 44.35
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 44.61
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 40.91
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 42.53
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 41.9
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 41.37
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 41.22
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 41.67
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 40.31
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 43.0
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 44.36
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.11
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.23
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.88
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.67
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 46.46
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 47.69
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 46.49
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 47.18
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.94
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 45.62
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 48.35
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 49.92
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 48.89
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.37
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.36
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.9
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 51.04
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 52.07
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.94
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 52.6
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 52.26
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 52.51
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 52.11
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.92
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.25
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Newfoundland and Labrador",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458869952",
+    "VALUE": 50.66
+  }
+]

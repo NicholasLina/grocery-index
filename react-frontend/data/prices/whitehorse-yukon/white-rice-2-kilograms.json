@@ -1,0 +1,65 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 9.81
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 9.6
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 10.12
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 9.52
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 8.88
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 10.13
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 9.63
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 10.06
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1793770475",
+    "VALUE": 8.8
+  }
+]

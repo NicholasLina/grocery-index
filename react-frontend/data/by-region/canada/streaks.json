@@ -2,28 +2,2135 @@
   "geo": "Canada",
   "streaks": [
     {
-      "product": "Apples",
+      "product": "Squash, per kilogram",
+      "geo": "Canada",
+      "streakLength": 9,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Canada",
+      "streakLength": 8,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Canada",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Canada",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Canada",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.47
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Canada",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Canada",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.21
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Canada",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Almonds, 200 grams",
       "geo": "Canada",
       "streakLength": 3,
       "streakType": "increase",
       "data": [
-        { "REF_DATE": "2024-01", "VALUE": 100 },
-        { "REF_DATE": "2024-02", "VALUE": 110 },
-        { "REF_DATE": "2024-03", "VALUE": 120 }
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.59
+        }
       ],
-      "lastUpdated": "2026-07-11T00:00:00"
+      "lastUpdated": "2026-07-14T18:26:03.215684"
     },
     {
-      "product": "Bananas",
+      "product": "Apples, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 21.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 22.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 23.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.03
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.55
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.85
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
       "geo": "Canada",
       "streakLength": 3,
       "streakType": "decrease",
       "data": [
-        { "REF_DATE": "2024-01", "VALUE": 80 },
-        { "REF_DATE": "2024-02", "VALUE": 75 },
-        { "REF_DATE": "2024-03", "VALUE": 70 }
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.09
+        }
       ],
-      "lastUpdated": "2026-07-11T00:00:00"
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.27
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 15.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.21
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.25
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Canada",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 30.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 31.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 42.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 35.3
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 49.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.36
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Canada",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.215684"
     }
   ]
 }

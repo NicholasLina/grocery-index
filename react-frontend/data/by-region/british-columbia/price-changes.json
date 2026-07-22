@@ -1,0 +1,5622 @@
+{
+  "geo": "British Columbia",
+  "gainers": [
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 11.29,
+      "previousPrice": 8.87,
+      "change": 2.42,
+      "changePercent": 27.28297632468997,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.99
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.34
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.29
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "British Columbia",
+      "currentPrice": 4.33,
+      "previousPrice": 3.62,
+      "change": 0.71,
+      "changePercent": 19.613259668508285,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.33
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 8.62,
+      "previousPrice": 7.35,
+      "change": 1.2699999999999996,
+      "changePercent": 17.278911564625847,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.62
+        }
+      ]
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 10.06,
+      "previousPrice": 8.67,
+      "change": 1.3900000000000006,
+      "changePercent": 16.032295271049605,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.9
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.58
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.06
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "British Columbia",
+      "currentPrice": 1.09,
+      "previousPrice": 0.94,
+      "change": 0.15000000000000013,
+      "changePercent": 15.957446808510653,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.92
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.09
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.16,
+      "previousPrice": 3.63,
+      "change": 0.5300000000000002,
+      "changePercent": 14.600550964187335,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 5.22,
+      "previousPrice": 4.58,
+      "change": 0.6399999999999997,
+      "changePercent": 13.973799126637548,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.22
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 3.88,
+      "previousPrice": 3.42,
+      "change": 0.45999999999999996,
+      "changePercent": 13.450292397660817,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 5.43,
+      "previousPrice": 4.8,
+      "change": 0.6299999999999999,
+      "changePercent": 13.124999999999998,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.79,
+      "previousPrice": 3.38,
+      "change": 0.41000000000000014,
+      "changePercent": 12.130177514792905,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.79
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 32.94,
+      "previousPrice": 29.43,
+      "change": 3.509999999999998,
+      "changePercent": 11.92660550458715,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 25.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 28.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 34.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 29.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 34.14
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 33.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 28.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 32.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.94
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "British Columbia",
+      "currentPrice": 8.08,
+      "previousPrice": 7.23,
+      "change": 0.8499999999999996,
+      "changePercent": 11.756569847856149,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.54
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.08
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "British Columbia",
+      "currentPrice": 4.19,
+      "previousPrice": 3.75,
+      "change": 0.4400000000000004,
+      "changePercent": 11.733333333333345,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 6.47,
+      "previousPrice": 5.82,
+      "change": 0.6499999999999995,
+      "changePercent": 11.168384879725076,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.47
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 4.71,
+      "previousPrice": 4.27,
+      "change": 0.4400000000000004,
+      "changePercent": 10.304449648711953,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.71
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.54,
+      "previousPrice": 4.12,
+      "change": 0.41999999999999993,
+      "changePercent": 10.194174757281552,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.54
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 3.58,
+      "previousPrice": 3.28,
+      "change": 0.30000000000000027,
+      "changePercent": 9.146341463414643,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.58
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 3.31,
+      "previousPrice": 3.05,
+      "change": 0.26000000000000023,
+      "changePercent": 8.524590163934434,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 2.96,
+      "previousPrice": 2.73,
+      "change": 0.22999999999999998,
+      "changePercent": 8.424908424908423,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.96
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 1.56,
+      "previousPrice": 1.44,
+      "change": 0.1200000000000001,
+      "changePercent": 8.333333333333341,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.43
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.56
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.4,
+      "previousPrice": 4.07,
+      "change": 0.33000000000000007,
+      "changePercent": 8.10810810810811,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.4
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 2.92,
+      "previousPrice": 2.73,
+      "change": 0.18999999999999995,
+      "changePercent": 6.959706959706957,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.82,
+      "previousPrice": 4.51,
+      "change": 0.3100000000000005,
+      "changePercent": 6.873614190687373,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.82
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 9.69,
+      "previousPrice": 9.1,
+      "change": 0.5899999999999999,
+      "changePercent": 6.483516483516483,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.62
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.88
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.69
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "British Columbia",
+      "currentPrice": 5.16,
+      "previousPrice": 4.9,
+      "change": 0.2599999999999998,
+      "changePercent": 5.306122448979587,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.16
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 4.07,
+      "previousPrice": 3.87,
+      "change": 0.20000000000000018,
+      "changePercent": 5.167958656330754,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 6.62,
+      "previousPrice": 6.33,
+      "change": 0.29000000000000004,
+      "changePercent": 4.58135860979463,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.62
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "British Columbia",
+      "currentPrice": 3.92,
+      "previousPrice": 3.75,
+      "change": 0.16999999999999993,
+      "changePercent": 4.533333333333331,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ]
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "British Columbia",
+      "currentPrice": 4.56,
+      "previousPrice": 4.37,
+      "change": 0.1899999999999995,
+      "changePercent": 4.347826086956511,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.56
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "British Columbia",
+      "currentPrice": 4.19,
+      "previousPrice": 4.02,
+      "change": 0.17000000000000082,
+      "changePercent": 4.228855721393056,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.12
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "British Columbia",
+      "currentPrice": 5.59,
+      "previousPrice": 5.37,
+      "change": 0.21999999999999975,
+      "changePercent": 4.096834264432025,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.59
+        }
+      ]
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "British Columbia",
+      "currentPrice": 4.69,
+      "previousPrice": 4.51,
+      "change": 0.1800000000000006,
+      "changePercent": 3.991130820399127,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 5.11,
+      "previousPrice": 4.92,
+      "change": 0.1900000000000004,
+      "changePercent": 3.861788617886187,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "British Columbia",
+      "currentPrice": 6.77,
+      "previousPrice": 6.52,
+      "change": 0.25,
+      "changePercent": 3.834355828220859,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.9
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.77
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "British Columbia",
+      "currentPrice": 1.11,
+      "previousPrice": 1.07,
+      "change": 0.040000000000000036,
+      "changePercent": 3.738317757009349,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.11
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 2.3,
+      "previousPrice": 2.22,
+      "change": 0.07999999999999963,
+      "changePercent": 3.6036036036035863,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.3
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.3
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 4.63,
+      "previousPrice": 4.48,
+      "change": 0.14999999999999947,
+      "changePercent": 3.348214285714274,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.63
+        }
+      ]
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "British Columbia",
+      "currentPrice": 4.76,
+      "previousPrice": 4.61,
+      "change": 0.14999999999999947,
+      "changePercent": 3.2537960954446734,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.76
+        }
+      ]
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 10.07,
+      "previousPrice": 9.77,
+      "change": 0.3000000000000007,
+      "changePercent": 3.0706243602865992,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.62
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.07
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 1.68,
+      "previousPrice": 1.63,
+      "change": 0.050000000000000044,
+      "changePercent": 3.06748466257669,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ]
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "British Columbia",
+      "currentPrice": 9.61,
+      "previousPrice": 9.33,
+      "change": 0.27999999999999936,
+      "changePercent": 3.0010718113611934,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.4
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.31
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.56
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.61
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 3.43,
+      "previousPrice": 3.35,
+      "change": 0.08000000000000007,
+      "changePercent": 2.3880597014925393,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.43
+        }
+      ]
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.96,
+      "previousPrice": 3.87,
+      "change": 0.08999999999999986,
+      "changePercent": 2.3255813953488333,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.96
+        }
+      ]
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "British Columbia",
+      "currentPrice": 4.83,
+      "previousPrice": 4.73,
+      "change": 0.09999999999999964,
+      "changePercent": 2.1141649048625717,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.83
+        }
+      ]
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 1.48,
+      "previousPrice": 1.45,
+      "change": 0.030000000000000027,
+      "changePercent": 2.0689655172413812,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.51
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.48
+        }
+      ]
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "British Columbia",
+      "currentPrice": 5.69,
+      "previousPrice": 5.58,
+      "change": 0.11000000000000032,
+      "changePercent": 1.9713261648745577,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 33.82,
+      "previousPrice": 33.23,
+      "change": 0.5900000000000034,
+      "changePercent": 1.7755040625940517,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 32.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.47
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 26.23
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 30.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 31.8
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 34.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 32.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 32.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 34.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 32.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 33.82
+        }
+      ]
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "British Columbia",
+      "currentPrice": 7.3,
+      "previousPrice": 7.18,
+      "change": 0.1200000000000001,
+      "changePercent": 1.6713091922005585,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.24
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.3
+        }
+      ]
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 50.82,
+      "previousPrice": 50.01,
+      "change": 0.8100000000000023,
+      "changePercent": 1.6196760647870474,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 48.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 49.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 48.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 49.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 49.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 51.47
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 51.57
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 51.3
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 50.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 50.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 50.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.82
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.78,
+      "previousPrice": 3.72,
+      "change": 0.05999999999999961,
+      "changePercent": 1.612903225806441,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 40.88,
+      "previousPrice": 45.4,
+      "change": -4.519999999999996,
+      "changePercent": -9.955947136563868,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 30.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 32.6
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 35.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 31.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 36.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 45.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 36.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 45.12
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 41.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 43.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 45.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 40.88
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "British Columbia",
+      "currentPrice": 6.83,
+      "previousPrice": 7.49,
+      "change": -0.6600000000000001,
+      "changePercent": -8.811748998664887,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.41
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.83
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "British Columbia",
+      "currentPrice": 5.8,
+      "previousPrice": 6.34,
+      "change": -0.54,
+      "changePercent": -8.517350157728707,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.8
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 30.97,
+      "previousPrice": 33.7,
+      "change": -2.730000000000004,
+      "changePercent": -8.100890207715144,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 35.45
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 38.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 36.4
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 42.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 32.04
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 42.69
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 34.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 39.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 33.44
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 43.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.97
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "British Columbia",
+      "currentPrice": 6.0,
+      "previousPrice": 6.46,
+      "change": -0.45999999999999996,
+      "changePercent": -7.120743034055726,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.0
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "British Columbia",
+      "currentPrice": 1.52,
+      "previousPrice": 1.63,
+      "change": -0.10999999999999988,
+      "changePercent": -6.748466257668705,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 1.58,
+      "previousPrice": 1.68,
+      "change": -0.09999999999999987,
+      "changePercent": -5.952380952380945,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.58
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "British Columbia",
+      "currentPrice": 9.75,
+      "previousPrice": 10.29,
+      "change": -0.5399999999999991,
+      "changePercent": -5.247813411078709,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 11.01
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.75
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 17.72,
+      "previousPrice": 18.65,
+      "change": -0.9299999999999997,
+      "changePercent": -4.9865951742627335,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 16.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 17.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 16.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 16.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 18.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 17.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 17.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 18.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 18.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 18.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.72
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 9.83,
+      "previousPrice": 10.27,
+      "change": -0.4399999999999995,
+      "changePercent": -4.2843232716650395,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.31
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.47
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.06
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.17
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.83
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 5.4,
+      "previousPrice": 5.63,
+      "change": -0.22999999999999954,
+      "changePercent": -4.085257548845463,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.4
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.7,
+      "previousPrice": 3.85,
+      "change": -0.1499999999999999,
+      "changePercent": -3.896103896103894,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.7
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "British Columbia",
+      "currentPrice": 2.75,
+      "previousPrice": 2.86,
+      "change": -0.10999999999999988,
+      "changePercent": -3.8461538461538423,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.75
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 9.18,
+      "previousPrice": 9.5,
+      "change": -0.3200000000000003,
+      "changePercent": -3.3684210526315814,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.18
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 13.66,
+      "previousPrice": 14.05,
+      "change": -0.39000000000000057,
+      "changePercent": -2.775800711743776,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 12.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.68
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.06
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.89
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.98
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 13.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.66
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "British Columbia",
+      "currentPrice": 5.42,
+      "previousPrice": 5.57,
+      "change": -0.15000000000000036,
+      "changePercent": -2.6929982046678695,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.42
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 6.26,
+      "previousPrice": 6.43,
+      "change": -0.16999999999999993,
+      "changePercent": -2.6438569206842915,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.26
+        }
+      ]
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.6,
+      "previousPrice": 4.72,
+      "change": -0.1200000000000001,
+      "changePercent": -2.5423728813559343,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 3.39,
+      "previousPrice": 3.47,
+      "change": -0.08000000000000007,
+      "changePercent": -2.3054755043227684,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.39
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "British Columbia",
+      "currentPrice": 13.7,
+      "previousPrice": 14.02,
+      "change": -0.3200000000000003,
+      "changePercent": -2.2824536376604874,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 13.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.4
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.7
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 17.41,
+      "previousPrice": 17.81,
+      "change": -0.3999999999999986,
+      "changePercent": -2.2459292532285158,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 16.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 15.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 16.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 17.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 16.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 16.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 17.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 16.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.41
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "British Columbia",
+      "currentPrice": 4.22,
+      "previousPrice": 4.3,
+      "change": -0.08000000000000007,
+      "changePercent": -1.8604651162790715,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.22
+        }
+      ]
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.73,
+      "previousPrice": 3.8,
+      "change": -0.06999999999999984,
+      "changePercent": -1.8421052631578907,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 7.59,
+      "previousPrice": 7.73,
+      "change": -0.14000000000000057,
+      "changePercent": -1.8111254851229048,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.69
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.59
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 1.95,
+      "previousPrice": 1.98,
+      "change": -0.030000000000000027,
+      "changePercent": -1.5151515151515165,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.95
+        }
+      ]
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "British Columbia",
+      "currentPrice": 6.08,
+      "previousPrice": 6.17,
+      "change": -0.08999999999999986,
+      "changePercent": -1.458670988654779,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.55
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.42
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.08
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 3.48,
+      "previousPrice": 3.53,
+      "change": -0.04999999999999982,
+      "changePercent": -1.4164305949008449,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.48
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "British Columbia",
+      "currentPrice": 4.92,
+      "previousPrice": 4.99,
+      "change": -0.07000000000000028,
+      "changePercent": -1.4028056112224505,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.92
+        }
+      ]
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "British Columbia",
+      "currentPrice": 6.02,
+      "previousPrice": 6.09,
+      "change": -0.07000000000000028,
+      "changePercent": -1.1494252873563264,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.02
+        }
+      ]
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "British Columbia",
+      "currentPrice": 3.82,
+      "previousPrice": 3.86,
+      "change": -0.040000000000000036,
+      "changePercent": -1.0362694300518145,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "British Columbia",
+      "currentPrice": 1.97,
+      "previousPrice": 1.99,
+      "change": -0.020000000000000018,
+      "changePercent": -1.0050251256281415,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.92
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.97
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "British Columbia",
+      "currentPrice": 4.1,
+      "previousPrice": 4.14,
+      "change": -0.040000000000000036,
+      "changePercent": -0.966183574879228,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.1
+        }
+      ]
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "British Columbia",
+      "currentPrice": 5.19,
+      "previousPrice": 5.24,
+      "change": -0.04999999999999982,
+      "changePercent": -0.9541984732824393,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.19
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 4.99,
+      "previousPrice": 5.03,
+      "change": -0.040000000000000036,
+      "changePercent": -0.7952286282306169,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "British Columbia",
+      "currentPrice": 5.11,
+      "previousPrice": 5.14,
+      "change": -0.02999999999999936,
+      "changePercent": -0.5836575875486257,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ]
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "British Columbia",
+      "currentPrice": 7.39,
+      "previousPrice": 7.43,
+      "change": -0.040000000000000036,
+      "changePercent": -0.5383580080753706,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.39
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "British Columbia",
+      "currentPrice": 10.49,
+      "previousPrice": 10.53,
+      "change": -0.03999999999999915,
+      "changePercent": -0.3798670465337051,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.49
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.9
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.25
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.49
+        }
+      ]
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "British Columbia",
+      "currentPrice": 3.17,
+      "previousPrice": 3.18,
+      "change": -0.010000000000000231,
+      "changePercent": -0.3144654088050387,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.06
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.17
+        }
+      ]
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "British Columbia",
+      "currentPrice": 3.3,
+      "previousPrice": 3.31,
+      "change": -0.010000000000000231,
+      "changePercent": -0.3021148036253846,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.3
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "British Columbia",
+      "currentPrice": 7.77,
+      "previousPrice": 7.79,
+      "change": -0.020000000000000462,
+      "changePercent": -0.2567394094993641,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.77
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "British Columbia",
+      "currentPrice": 4.44,
+      "previousPrice": 4.45,
+      "change": -0.009999999999999787,
+      "changePercent": -0.22471910112359073,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ]
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "British Columbia",
+      "currentPrice": 5.81,
+      "previousPrice": 5.82,
+      "change": -0.010000000000000675,
+      "changePercent": -0.171821305841936,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.204735",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 42,
+  "trendPoints": 12
+}

@@ -1,0 +1,65 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 1.91
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 1.85
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 1.89
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 2.03
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 2.02
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 2.0
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 1.92
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 1.96
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Canned tuna, 170 grams",
+    "VECTOR": "v1793770431",
+    "VALUE": 2.0
+  }
+]

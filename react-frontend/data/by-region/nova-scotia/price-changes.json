@@ -1,0 +1,4951 @@
+{
+  "geo": "Nova Scotia",
+  "gainers": [
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 11.19,
+      "previousPrice": 8.46,
+      "change": 2.7299999999999986,
+      "changePercent": 32.26950354609927,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.93
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.14
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.14
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.19
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.06,
+      "previousPrice": 3.2,
+      "change": 0.8599999999999994,
+      "changePercent": 26.874999999999982,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.06
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 32.66,
+      "previousPrice": 26.33,
+      "change": 6.329999999999998,
+      "changePercent": 24.0410178503608,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 29.25
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 33.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 35.72
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 41.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 31.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 36.44
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 43.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 41.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.66
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 12.69,
+      "previousPrice": 10.32,
+      "change": 2.369999999999999,
+      "changePercent": 22.965116279069758,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.69
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.01,
+      "previousPrice": 4.13,
+      "change": 0.8799999999999999,
+      "changePercent": 21.307506053268764,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.01
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Nova Scotia",
+      "currentPrice": 6.59,
+      "previousPrice": 5.55,
+      "change": 1.04,
+      "changePercent": 18.73873873873874,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.59
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.68,
+      "previousPrice": 1.43,
+      "change": 0.25,
+      "changePercent": 17.482517482517483,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.46
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.35
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.35,
+      "previousPrice": 3.73,
+      "change": 0.6199999999999997,
+      "changePercent": 16.621983914209107,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.35
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 7.88,
+      "previousPrice": 6.76,
+      "change": 1.12,
+      "changePercent": 16.56804733727811,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.88
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.53,
+      "previousPrice": 3.94,
+      "change": 0.5900000000000003,
+      "changePercent": 14.97461928934011,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.47
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.53
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.96,
+      "previousPrice": 4.4,
+      "change": 0.5599999999999996,
+      "changePercent": 12.727272727272718,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.96
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.25,
+      "previousPrice": 2.9,
+      "change": 0.3500000000000001,
+      "changePercent": 12.068965517241383,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.25
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 8.14,
+      "previousPrice": 7.27,
+      "change": 0.870000000000001,
+      "changePercent": 11.966987620357648,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.39
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.14
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.6,
+      "previousPrice": 4.12,
+      "change": 0.47999999999999954,
+      "changePercent": 11.650485436893192,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.43,
+      "previousPrice": 2.18,
+      "change": 0.25,
+      "changePercent": 11.46788990825688,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.43
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.82,
+      "previousPrice": 3.45,
+      "change": 0.36999999999999966,
+      "changePercent": 10.724637681159411,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.17,
+      "previousPrice": 3.77,
+      "change": 0.3999999999999999,
+      "changePercent": 10.610079575596815,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.79,
+      "previousPrice": 3.46,
+      "change": 0.33000000000000007,
+      "changePercent": 9.537572254335263,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.79
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.07,
+      "previousPrice": 0.98,
+      "change": 0.09000000000000008,
+      "changePercent": 9.183673469387763,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.93
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.07
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.12,
+      "previousPrice": 3.79,
+      "change": 0.33000000000000007,
+      "changePercent": 8.707124010554091,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.88,
+      "previousPrice": 5.41,
+      "change": 0.46999999999999975,
+      "changePercent": 8.687615526802213,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.88
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.05,
+      "previousPrice": 4.66,
+      "change": 0.3899999999999997,
+      "changePercent": 8.369098712446345,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 7.63,
+      "previousPrice": 7.07,
+      "change": 0.5599999999999996,
+      "changePercent": 7.920792079207915,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.63
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.88,
+      "previousPrice": 4.53,
+      "change": 0.34999999999999964,
+      "changePercent": 7.726269315673282,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.88
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 6.86,
+      "previousPrice": 6.37,
+      "change": 0.4900000000000002,
+      "changePercent": 7.692307692307695,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.73
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.86
+        }
+      ]
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.62,
+      "previousPrice": 5.23,
+      "change": 0.3899999999999997,
+      "changePercent": 7.456978967495213,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.62
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.76,
+      "previousPrice": 1.64,
+      "change": 0.1200000000000001,
+      "changePercent": 7.317073170731714,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.76
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.28,
+      "previousPrice": 3.99,
+      "change": 0.29000000000000004,
+      "changePercent": 7.268170426065164,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.28
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.73,
+      "previousPrice": 4.42,
+      "change": 0.3100000000000005,
+      "changePercent": 7.013574660633496,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.73
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.19,
+      "previousPrice": 3.92,
+      "change": 0.27000000000000046,
+      "changePercent": 6.8877551020408285,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.03,
+      "previousPrice": 1.9,
+      "change": 0.1299999999999999,
+      "changePercent": 6.842105263157889,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.99
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.03
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 16.95,
+      "previousPrice": 15.88,
+      "change": 1.0699999999999985,
+      "changePercent": 6.738035264483617,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 15.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.8
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 14.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.38
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.95
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.87,
+      "previousPrice": 4.58,
+      "change": 0.29000000000000004,
+      "changePercent": 6.331877729257643,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.59,
+      "previousPrice": 4.34,
+      "change": 0.25,
+      "changePercent": 5.76036866359447,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.59
+        }
+      ]
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.79,
+      "previousPrice": 1.7,
+      "change": 0.09000000000000008,
+      "changePercent": 5.294117647058829,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.79
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.61,
+      "previousPrice": 4.38,
+      "change": 0.23000000000000043,
+      "changePercent": 5.251141552511426,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.61
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.79,
+      "previousPrice": 5.51,
+      "change": 0.28000000000000025,
+      "changePercent": 5.08166969147006,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.79
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 10.68,
+      "previousPrice": 10.2,
+      "change": 0.4800000000000004,
+      "changePercent": 4.705882352941181,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.75
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.69
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.16
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.68
+        }
+      ]
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.73,
+      "previousPrice": 4.52,
+      "change": 0.21000000000000085,
+      "changePercent": 4.646017699115063,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.73
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 23.97,
+      "previousPrice": 22.91,
+      "change": 1.0599999999999987,
+      "changePercent": 4.626800523788733,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 22.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 21.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 22.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 24.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 23.19
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 23.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 27.07
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 21.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 21.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 22.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 23.97
+        }
+      ]
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.28,
+      "previousPrice": 3.14,
+      "change": 0.13999999999999968,
+      "changePercent": 4.458598726114639,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.28
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.43,
+      "previousPrice": 5.21,
+      "change": 0.21999999999999975,
+      "changePercent": 4.222648752399227,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.77,
+      "previousPrice": 5.56,
+      "change": 0.20999999999999996,
+      "changePercent": 3.7769784172661867,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.77
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.79,
+      "previousPrice": 5.59,
+      "change": 0.20000000000000018,
+      "changePercent": 3.577817531305907,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.79
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.86,
+      "previousPrice": 3.74,
+      "change": 0.11999999999999966,
+      "changePercent": 3.208556149732611,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.86
+        }
+      ]
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 6.24,
+      "previousPrice": 6.08,
+      "change": 0.16000000000000014,
+      "changePercent": 2.6315789473684235,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.16
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.16
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.24
+        }
+      ]
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.58,
+      "previousPrice": 5.44,
+      "change": 0.13999999999999968,
+      "changePercent": 2.5735294117647,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ]
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.09,
+      "previousPrice": 3.99,
+      "change": 0.09999999999999964,
+      "changePercent": 2.506265664160392,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.09
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.94,
+      "previousPrice": 2.87,
+      "change": 0.06999999999999984,
+      "changePercent": 2.4390243902438966,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.94
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.61,
+      "previousPrice": 2.55,
+      "change": 0.06000000000000005,
+      "changePercent": 2.3529411764705905,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.52
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.61
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 22.49,
+      "previousPrice": 28.51,
+      "change": -6.020000000000003,
+      "changePercent": -21.115398105927756,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 18.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 29.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 27.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 27.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 30.13
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 30.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 30.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 33.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 28.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 22.49
+        }
+      ]
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 36.9,
+      "previousPrice": 46.54,
+      "change": -9.64,
+      "changePercent": -20.71336484744306,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 29.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 28.17
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 28.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 29.46
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 33.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 43.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 32.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 40.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 32.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 40.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 46.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 36.9
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.23,
+      "previousPrice": 5.88,
+      "change": -0.6499999999999995,
+      "changePercent": -11.054421768707474,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.34
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.23
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.67,
+      "previousPrice": 6.28,
+      "change": -0.6100000000000003,
+      "changePercent": -9.71337579617835,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.67
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 7.13,
+      "previousPrice": 7.81,
+      "change": -0.6799999999999997,
+      "changePercent": -8.706786171574901,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.64
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.13
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.78,
+      "previousPrice": 6.28,
+      "change": -0.5,
+      "changePercent": -7.961783439490445,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.78
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 11.39,
+      "previousPrice": 12.35,
+      "change": -0.9599999999999991,
+      "changePercent": -7.773279352226714,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 13.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.39
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.72,
+      "previousPrice": 2.9,
+      "change": -0.17999999999999972,
+      "changePercent": -6.206896551724128,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.99
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.72
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 8.87,
+      "previousPrice": 9.41,
+      "change": -0.5400000000000009,
+      "changePercent": -5.738575982996822,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.02
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.69
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.87
+        }
+      ]
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 11.04,
+      "previousPrice": 11.6,
+      "change": -0.5600000000000005,
+      "changePercent": -4.827586206896556,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 10.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.8
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 11.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.92
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.04
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 14.19,
+      "previousPrice": 14.7,
+      "change": -0.5099999999999998,
+      "changePercent": -3.4693877551020393,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 13.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 13.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.88
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 14.05
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.19
+        }
+      ]
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.01,
+      "previousPrice": 3.11,
+      "change": -0.10000000000000009,
+      "changePercent": -3.2154340836012896,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.01
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.15,
+      "previousPrice": 4.28,
+      "change": -0.1299999999999999,
+      "changePercent": -3.037383177570091,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.55,
+      "previousPrice": 5.72,
+      "change": -0.16999999999999993,
+      "changePercent": -2.9720279720279708,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.55
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.23,
+      "previousPrice": 5.39,
+      "change": -0.15999999999999925,
+      "changePercent": -2.96846011131724,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.23
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.96,
+      "previousPrice": 4.08,
+      "change": -0.1200000000000001,
+      "changePercent": -2.9411764705882377,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.96
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.72,
+      "previousPrice": 3.83,
+      "change": -0.10999999999999988,
+      "changePercent": -2.872062663185375,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 4.31,
+      "previousPrice": 4.43,
+      "change": -0.1200000000000001,
+      "changePercent": -2.7088036117381518,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.31
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.98,
+      "previousPrice": 2.03,
+      "change": -0.04999999999999982,
+      "changePercent": -2.4630541871921094,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.98
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.62,
+      "previousPrice": 1.66,
+      "change": -0.039999999999999813,
+      "changePercent": -2.4096385542168566,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Nova Scotia",
+      "currentPrice": 12.23,
+      "previousPrice": 12.45,
+      "change": -0.21999999999999886,
+      "changePercent": -1.7670682730923604,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.24
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 13.25
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.95
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.07
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.42
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.23
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Nova Scotia",
+      "currentPrice": 1.27,
+      "previousPrice": 1.29,
+      "change": -0.020000000000000018,
+      "changePercent": -1.5503875968992262,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.02
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.27
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.69,
+      "previousPrice": 3.74,
+      "change": -0.050000000000000266,
+      "changePercent": -1.3368983957219323,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.42
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.69
+        }
+      ]
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Nova Scotia",
+      "currentPrice": 3.16,
+      "previousPrice": 3.2,
+      "change": -0.040000000000000036,
+      "changePercent": -1.250000000000001,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.16
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 9.63,
+      "previousPrice": 9.74,
+      "change": -0.10999999999999943,
+      "changePercent": -1.129363449691986,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.47
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.63
+        }
+      ]
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 8.19,
+      "previousPrice": 8.27,
+      "change": -0.08000000000000007,
+      "changePercent": -0.9673518742442574,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.19
+        }
+      ]
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Nova Scotia",
+      "currentPrice": 7.26,
+      "previousPrice": 7.33,
+      "change": -0.07000000000000028,
+      "changePercent": -0.9549795361528005,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.26
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 15.23,
+      "previousPrice": 15.35,
+      "change": -0.11999999999999922,
+      "changePercent": -0.7817589576547181,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 16.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 16.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 15.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.78
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.1
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.78
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 16.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 16.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.23
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 27.06,
+      "previousPrice": 27.26,
+      "change": -0.20000000000000284,
+      "changePercent": -0.7336757153338328,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 26.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 27.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 27.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.89
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 26.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 24.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 27.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 26.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 27.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.06
+        }
+      ]
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Nova Scotia",
+      "currentPrice": 5.43,
+      "previousPrice": 5.46,
+      "change": -0.03000000000000025,
+      "changePercent": -0.549450549450554,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ]
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Nova Scotia",
+      "currentPrice": 2.17,
+      "previousPrice": 2.18,
+      "change": -0.010000000000000231,
+      "changePercent": -0.45871559633028575,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.259931",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.17
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 31,
+  "trendPoints": 12
+}

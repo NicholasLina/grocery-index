@@ -1,0 +1,2138 @@
+{
+  "geo": "Nova Scotia",
+  "streaks": [
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.01
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.7
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 21.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 22.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 23.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 27.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.55
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 46.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 36.9
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 22.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.03
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.03
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 49.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.27
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.01
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Nova Scotia",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.259931"
+    }
+  ]
+}

@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.81
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.28
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.11
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.75
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.13
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.72
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 21.79
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 18.62
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.32
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 22.18
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.44
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.13
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 20.94
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 21.53
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.73
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.66
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.29
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.22
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.13
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 21.5
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.28
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.1
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.49
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.43
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.49
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.04
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.28
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.17
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.46
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.25
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.04
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.44
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.07
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.27
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.44
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.29
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.2
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.29
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.43
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.99
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.87
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.28
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.08
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 19.97
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.08
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.32
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.38
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.56
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.01
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.79
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.11
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 24.18
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.54
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.42
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.07
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 23.51
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.06
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.68
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.83
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.64
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.11
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.96
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.38
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.65
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.04
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.35
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.44
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.38
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.61
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.38
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.77
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.26
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.34
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.14
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.01
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.18
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.06
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.14
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.06
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 22.24
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.25
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.11
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.54
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.67
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.6
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.11
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.39
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.15
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 28.31
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.13
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 27.51
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 25.09
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.03
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.69
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 31.36
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 29.74
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 31.39
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 31.38
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 31.41
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.15
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 32.36
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 32.75
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.47
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 26.23
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 30.69
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 31.8
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 34.1
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 32.03
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 32.8
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 34.15
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 32.93
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 33.23
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "British Columbia",
+    "Products": "Salmon, per kilogram",
+    "VECTOR": "v1458870259",
+    "VALUE": 33.82
+  }
+]

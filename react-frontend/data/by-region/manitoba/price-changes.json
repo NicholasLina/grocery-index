@@ -1,0 +1,5317 @@
+{
+  "geo": "Manitoba",
+  "gainers": [
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 9.4,
+      "previousPrice": 6.05,
+      "change": 3.3500000000000005,
+      "changePercent": 55.37190082644629,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.93
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.0
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.6
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.84
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.4
+        }
+      ]
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 11.11,
+      "previousPrice": 8.57,
+      "change": 2.539999999999999,
+      "changePercent": 29.638273045507574,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.15
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.11
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Manitoba",
+      "currentPrice": 4.37,
+      "previousPrice": 3.49,
+      "change": 0.8799999999999999,
+      "changePercent": 25.21489971346704,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.37
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 9.46,
+      "previousPrice": 7.68,
+      "change": 1.7800000000000011,
+      "changePercent": 23.17708333333335,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.23
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.9
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.74
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.46
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 5.12,
+      "previousPrice": 4.34,
+      "change": 0.7800000000000002,
+      "changePercent": 17.97235023041475,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Manitoba",
+      "currentPrice": 4.1,
+      "previousPrice": 3.51,
+      "change": 0.5899999999999999,
+      "changePercent": 16.809116809116805,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.1
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.07,
+      "previousPrice": 3.56,
+      "change": 0.5100000000000002,
+      "changePercent": 14.32584269662922,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 3.31,
+      "previousPrice": 2.91,
+      "change": 0.3999999999999999,
+      "changePercent": 13.745704467353947,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 5.31,
+      "previousPrice": 4.71,
+      "change": 0.5999999999999996,
+      "changePercent": 12.738853503184705,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.37
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.31
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 6.52,
+      "previousPrice": 5.79,
+      "change": 0.7299999999999995,
+      "changePercent": 12.607944732297055,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.52
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 3.7,
+      "previousPrice": 3.3,
+      "change": 0.40000000000000036,
+      "changePercent": 12.121212121212132,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.7
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Manitoba",
+      "currentPrice": 3.67,
+      "previousPrice": 3.29,
+      "change": 0.3799999999999999,
+      "changePercent": 11.550151975683887,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.67
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.81,
+      "previousPrice": 4.33,
+      "change": 0.47999999999999954,
+      "changePercent": 11.085450346420313,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.81
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 3.64,
+      "previousPrice": 3.28,
+      "change": 0.3600000000000003,
+      "changePercent": 10.97560975609757,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.64
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 1.52,
+      "previousPrice": 1.37,
+      "change": 0.1499999999999999,
+      "changePercent": 10.948905109489043,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.57
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 4.54,
+      "previousPrice": 4.1,
+      "change": 0.4400000000000004,
+      "changePercent": 10.731707317073182,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.54
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Manitoba",
+      "currentPrice": 7.68,
+      "previousPrice": 6.95,
+      "change": 0.7299999999999995,
+      "changePercent": 10.503597122302152,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.68
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Manitoba",
+      "currentPrice": 3.9,
+      "previousPrice": 3.56,
+      "change": 0.33999999999999986,
+      "changePercent": 9.550561797752804,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.9
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 2.84,
+      "previousPrice": 2.6,
+      "change": 0.23999999999999977,
+      "changePercent": 9.230769230769221,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.84
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Manitoba",
+      "currentPrice": 0.99,
+      "previousPrice": 0.91,
+      "change": 0.07999999999999996,
+      "changePercent": 8.791208791208787,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.8
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.72
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.75
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.72
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.99
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.38,
+      "previousPrice": 4.04,
+      "change": 0.33999999999999986,
+      "changePercent": 8.415841584158413,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 4.85,
+      "previousPrice": 4.48,
+      "change": 0.3699999999999992,
+      "changePercent": 8.258928571428553,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.85
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.56,
+      "previousPrice": 4.25,
+      "change": 0.3099999999999996,
+      "changePercent": 7.2941176470588145,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.56
+        }
+      ]
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 2.53,
+      "previousPrice": 2.37,
+      "change": 0.1599999999999997,
+      "changePercent": 6.751054852320662,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.53
+        }
+      ]
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 29.16,
+      "previousPrice": 27.37,
+      "change": 1.7899999999999991,
+      "changePercent": 6.540007307270732,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 23.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 25.73
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 30.46
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 31.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 30.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 30.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.08
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 33.79
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 29.16
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Manitoba",
+      "currentPrice": 4.77,
+      "previousPrice": 4.48,
+      "change": 0.28999999999999915,
+      "changePercent": 6.473214285714265,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 3.98,
+      "previousPrice": 3.74,
+      "change": 0.23999999999999977,
+      "changePercent": 6.417112299465234,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.98
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 1.66,
+      "previousPrice": 1.56,
+      "change": 0.09999999999999987,
+      "changePercent": 6.410256410256402,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.66
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Manitoba",
+      "currentPrice": 7.33,
+      "previousPrice": 6.92,
+      "change": 0.41000000000000014,
+      "changePercent": 5.924855491329482,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.34
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.33
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 6.71,
+      "previousPrice": 6.38,
+      "change": 0.33000000000000007,
+      "changePercent": 5.172413793103449,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.42
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.71
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 2.93,
+      "previousPrice": 2.79,
+      "change": 0.14000000000000012,
+      "changePercent": 5.01792114695341,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.93
+        }
+      ]
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Manitoba",
+      "currentPrice": 1.09,
+      "previousPrice": 1.04,
+      "change": 0.050000000000000044,
+      "changePercent": 4.807692307692312,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.93
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.09
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Manitoba",
+      "currentPrice": 4.77,
+      "previousPrice": 4.56,
+      "change": 0.20999999999999996,
+      "changePercent": 4.605263157894736,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.99
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ]
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Manitoba",
+      "currentPrice": 4.37,
+      "previousPrice": 4.18,
+      "change": 0.1900000000000004,
+      "changePercent": 4.545454545454556,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.37
+        }
+      ]
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 3.43,
+      "previousPrice": 3.3,
+      "change": 0.13000000000000034,
+      "changePercent": 3.9393939393939497,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.43
+        }
+      ]
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Manitoba",
+      "currentPrice": 4.38,
+      "previousPrice": 4.22,
+      "change": 0.16000000000000014,
+      "changePercent": 3.7914691943128,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 2.19,
+      "previousPrice": 2.12,
+      "change": 0.06999999999999984,
+      "changePercent": 3.3018867924528226,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.19
+        }
+      ]
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Manitoba",
+      "currentPrice": 4.7,
+      "previousPrice": 4.55,
+      "change": 0.15000000000000036,
+      "changePercent": 3.2967032967033045,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.7
+        }
+      ]
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Manitoba",
+      "currentPrice": 1.6,
+      "previousPrice": 1.55,
+      "change": 0.050000000000000044,
+      "changePercent": 3.2258064516129057,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.6
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 5.5,
+      "previousPrice": 5.33,
+      "change": 0.16999999999999993,
+      "changePercent": 3.189493433395871,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.92
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.5
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Manitoba",
+      "currentPrice": 5.36,
+      "previousPrice": 5.2,
+      "change": 0.16000000000000014,
+      "changePercent": 3.0769230769230793,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.36
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Manitoba",
+      "currentPrice": 7.97,
+      "previousPrice": 7.75,
+      "change": 0.21999999999999975,
+      "changePercent": 2.8387096774193514,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.97
+        }
+      ]
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Manitoba",
+      "currentPrice": 7.56,
+      "previousPrice": 7.38,
+      "change": 0.17999999999999972,
+      "changePercent": 2.439024390243899,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.78
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.89
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.03
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.06
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.93
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.56
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 28.58,
+      "previousPrice": 27.92,
+      "change": 0.6599999999999966,
+      "changePercent": 2.3638968481375233,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 26.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 24.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 22.84
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 25.85
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 29.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 27.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 27.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 29.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 27.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 28.58
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Manitoba",
+      "currentPrice": 11.97,
+      "previousPrice": 11.7,
+      "change": 0.27000000000000135,
+      "changePercent": 2.3076923076923195,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.48
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.24
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.73
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.97
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Manitoba",
+      "currentPrice": 3.63,
+      "previousPrice": 3.55,
+      "change": 0.08000000000000007,
+      "changePercent": 2.2535211267605657,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.63
+        }
+      ]
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Manitoba",
+      "currentPrice": 4.55,
+      "previousPrice": 4.45,
+      "change": 0.09999999999999964,
+      "changePercent": 2.2471910112359472,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.55
+        }
+      ]
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Manitoba",
+      "currentPrice": 5.22,
+      "previousPrice": 5.11,
+      "change": 0.10999999999999943,
+      "changePercent": 2.1526418786692645,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.22
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.84,
+      "previousPrice": 4.74,
+      "change": 0.09999999999999964,
+      "changePercent": 2.1097046413502034,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ]
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Manitoba",
+      "currentPrice": 8.94,
+      "previousPrice": 8.76,
+      "change": 0.17999999999999972,
+      "changePercent": 2.054794520547942,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.55
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.99
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.94
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Avocado, unit",
+      "geo": "Manitoba",
+      "currentPrice": 1.85,
+      "previousPrice": 2.1,
+      "change": -0.25,
+      "changePercent": -11.904761904761903,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.33
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.16
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.85
+        }
+      ]
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 29.01,
+      "previousPrice": 31.93,
+      "change": -2.919999999999998,
+      "changePercent": -9.14500469777638,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 33.11
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 36.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 32.38
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 38.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 30.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 35.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 33.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 38.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 35.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 31.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 29.01
+        }
+      ]
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 35.51,
+      "previousPrice": 38.89,
+      "change": -3.3800000000000026,
+      "changePercent": -8.691180251992806,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 25.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 29.77
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 31.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 29.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 29.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 38.29
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 37.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 42.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 34.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 38.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 38.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 35.51
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Manitoba",
+      "currentPrice": 5.74,
+      "previousPrice": 6.28,
+      "change": -0.54,
+      "changePercent": -8.598726114649683,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.41
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.74
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Manitoba",
+      "currentPrice": 6.76,
+      "previousPrice": 7.38,
+      "change": -0.6200000000000001,
+      "changePercent": -8.40108401084011,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.62
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.76
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Manitoba",
+      "currentPrice": 5.69,
+      "previousPrice": 6.1,
+      "change": -0.40999999999999925,
+      "changePercent": -6.721311475409824,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 5.35,
+      "previousPrice": 5.7,
+      "change": -0.35000000000000053,
+      "changePercent": -6.140350877192992,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.65
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.35
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Manitoba",
+      "currentPrice": 2.79,
+      "previousPrice": 2.97,
+      "change": -0.18000000000000016,
+      "changePercent": -6.060606060606066,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.79
+        }
+      ]
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 1.56,
+      "previousPrice": 1.65,
+      "change": -0.08999999999999986,
+      "changePercent": -5.454545454545446,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.56
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 16.27,
+      "previousPrice": 17.2,
+      "change": -0.9299999999999997,
+      "changePercent": -5.406976744186045,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 15.78
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 17.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 16.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 16.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 17.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 17.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 17.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 17.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.27
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Manitoba",
+      "currentPrice": 3.56,
+      "previousPrice": 3.75,
+      "change": -0.18999999999999995,
+      "changePercent": -5.0666666666666655,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.56
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 13.3,
+      "previousPrice": 14.0,
+      "change": -0.6999999999999993,
+      "changePercent": -4.999999999999995,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 12.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.09
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.4
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.64
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.3
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 3.25,
+      "previousPrice": 3.4,
+      "change": -0.1499999999999999,
+      "changePercent": -4.411764705882351,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.25
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Manitoba",
+      "currentPrice": 9.41,
+      "previousPrice": 9.81,
+      "change": -0.40000000000000036,
+      "changePercent": -4.0774719673802275,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.58
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.45
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.32
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.25
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.78
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.15
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.41
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Manitoba",
+      "currentPrice": 1.48,
+      "previousPrice": 1.54,
+      "change": -0.06000000000000005,
+      "changePercent": -3.8961038961038996,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.21
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.35
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.58
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.76
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.48
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 8.88,
+      "previousPrice": 9.24,
+      "change": -0.35999999999999943,
+      "changePercent": -3.89610389610389,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.24
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.56
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.88
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Manitoba",
+      "currentPrice": 5.45,
+      "previousPrice": 5.63,
+      "change": -0.17999999999999972,
+      "changePercent": -3.197158081705146,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.45
+        }
+      ]
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 9.26,
+      "previousPrice": 9.56,
+      "change": -0.3000000000000007,
+      "changePercent": -3.138075313807539,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 10.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.26
+        }
+      ]
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Manitoba",
+      "currentPrice": 4.01,
+      "previousPrice": 4.13,
+      "change": -0.1200000000000001,
+      "changePercent": -2.9055690072639253,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.01
+        }
+      ]
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 9.58,
+      "previousPrice": 9.84,
+      "change": -0.2599999999999998,
+      "changePercent": -2.6422764227642253,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.44
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.27
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.07
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.85
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.82
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 9.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 9.52
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.58
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 23.65,
+      "previousPrice": 24.28,
+      "change": -0.6300000000000026,
+      "changePercent": -2.594728171334442,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 22.21
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 23.32
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 22.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 21.99
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 22.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 22.4
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 21.43
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 24.76
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 22.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 24.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 23.65
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 7.17,
+      "previousPrice": 7.36,
+      "change": -0.1900000000000004,
+      "changePercent": -2.58152173913044,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.04
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.17
+        }
+      ]
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 6.19,
+      "previousPrice": 6.35,
+      "change": -0.15999999999999925,
+      "changePercent": -2.519685039370067,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.79
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.97
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.19
+        }
+      ]
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Manitoba",
+      "currentPrice": 3.74,
+      "previousPrice": 3.83,
+      "change": -0.08999999999999986,
+      "changePercent": -2.349869451697124,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.74
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Manitoba",
+      "currentPrice": 13.61,
+      "previousPrice": 13.93,
+      "change": -0.3200000000000003,
+      "changePercent": -2.297200287150038,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.91
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 13.03
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.82
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.49
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.12
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.43
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.61
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Manitoba",
+      "currentPrice": 3.49,
+      "previousPrice": 3.56,
+      "change": -0.06999999999999984,
+      "changePercent": -1.9662921348314562,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.49
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.49
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Manitoba",
+      "currentPrice": 16.52,
+      "previousPrice": 16.83,
+      "change": -0.3099999999999987,
+      "changePercent": -1.8419489007724228,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 15.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 15.39
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 15.7
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 14.7
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 16.13
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.54
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 16.03
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 16.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 16.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.52
+        }
+      ]
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Manitoba",
+      "currentPrice": 6.04,
+      "previousPrice": 6.14,
+      "change": -0.09999999999999964,
+      "changePercent": -1.6286644951140006,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.04
+        }
+      ]
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Manitoba",
+      "currentPrice": 6.98,
+      "previousPrice": 7.06,
+      "change": -0.07999999999999918,
+      "changePercent": -1.1331444759206684,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.51
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.98
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Manitoba",
+      "currentPrice": 1.87,
+      "previousPrice": 1.89,
+      "change": -0.019999999999999796,
+      "changePercent": -1.0582010582010475,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.92
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.87
+        }
+      ]
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Manitoba",
+      "currentPrice": 2.04,
+      "previousPrice": 2.06,
+      "change": -0.020000000000000018,
+      "changePercent": -0.9708737864077678,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.04
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Manitoba",
+      "currentPrice": 4.83,
+      "previousPrice": 4.87,
+      "change": -0.040000000000000036,
+      "changePercent": -0.8213552361396311,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.83
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Manitoba",
+      "currentPrice": 4.01,
+      "previousPrice": 4.04,
+      "change": -0.03000000000000025,
+      "changePercent": -0.7425742574257487,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.01
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 1.94,
+      "previousPrice": 1.95,
+      "change": -0.010000000000000009,
+      "changePercent": -0.5128205128205132,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.94
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Manitoba",
+      "currentPrice": 5.05,
+      "previousPrice": 5.07,
+      "change": -0.020000000000000462,
+      "changePercent": -0.39447731755424975,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ]
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Manitoba",
+      "currentPrice": 8.29,
+      "previousPrice": 8.32,
+      "change": -0.030000000000001137,
+      "changePercent": -0.36057692307693673,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.06
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.46
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.43
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.61
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.99
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.41
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.29
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Manitoba",
+      "currentPrice": 4.38,
+      "previousPrice": 4.39,
+      "change": -0.009999999999999787,
+      "changePercent": -0.2277904328018175,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.226504",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 37,
+  "trendPoints": 12
+}

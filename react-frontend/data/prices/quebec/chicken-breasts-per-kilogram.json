@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 10.9
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.65
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.11
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 10.98
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.76
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.8
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.83
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.93
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.55
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.99
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.0
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.96
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.97
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.5
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.16
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.46
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.18
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.75
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.34
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.26
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.96
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.51
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.01
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.3
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.86
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.91
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.83
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.1
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.2
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.02
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.27
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.02
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.63
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.6
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.0
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.97
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.12
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.97
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.07
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 10.56
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.33
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.9
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.9
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.93
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.87
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.06
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 10.58
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.25
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.56
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.71
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.56
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.55
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.35
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.95
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.07
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 10.88
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.66
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.27
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.76
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.24
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.01
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.01
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.24
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 17.77
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 17.63
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.33
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.07
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.34
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.98
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.04
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.91
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.92
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.68
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.38
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.67
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.17
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.09
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.9
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.59
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.05
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.28
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.22
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.12
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.1
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.27
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.56
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.01
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.67
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.48
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.5
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.4
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.8
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 11.19
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.2
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.73
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.83
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.97
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.98
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.77
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.4
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.81
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.5
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.99
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.98
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.18
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 14.8
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 15.02
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.82
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Quebec",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447142",
+    "VALUE": 13.77
+  }
+]

@@ -1,0 +1,4890 @@
+{
+  "geo": "Prince Edward Island",
+  "gainers": [
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 33.77,
+      "previousPrice": 26.6,
+      "change": 7.170000000000002,
+      "changePercent": 26.95488721804512,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 32.73
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 36.71
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 41.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 47.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 26.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 34.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 25.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 38.14
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 48.95
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 45.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 33.77
+        }
+      ]
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.99,
+      "previousPrice": 3.22,
+      "change": 0.77,
+      "changePercent": 23.913043478260867,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.12
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.99
+        }
+      ]
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.34,
+      "previousPrice": 3.61,
+      "change": 0.73,
+      "changePercent": 20.221606648199447,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.34
+        }
+      ]
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.02,
+      "previousPrice": 4.21,
+      "change": 0.8099999999999996,
+      "changePercent": 19.239904988123506,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.89
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.94
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ]
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 9.99,
+      "previousPrice": 8.47,
+      "change": 1.5199999999999996,
+      "changePercent": 17.945690672963394,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 8.3
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.52
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.04
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.76
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.99
+        }
+      ]
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 6.57,
+      "previousPrice": 5.6,
+      "change": 0.9700000000000006,
+      "changePercent": 17.321428571428584,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.57
+        }
+      ]
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.43,
+      "previousPrice": 3.81,
+      "change": 0.6199999999999997,
+      "changePercent": 16.272965879265083,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.43
+        }
+      ]
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 12.11,
+      "previousPrice": 10.53,
+      "change": 1.58,
+      "changePercent": 15.004748338081672,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.57
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.69
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.55
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.35
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 10.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.63
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.43
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.11
+        }
+      ]
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.53,
+      "previousPrice": 3.99,
+      "change": 0.54,
+      "changePercent": 13.533834586466165,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.53
+        }
+      ]
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 1.7,
+      "previousPrice": 1.5,
+      "change": 0.19999999999999996,
+      "changePercent": 13.33333333333333,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.49
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.36
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.7
+        }
+      ]
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 8.15,
+      "previousPrice": 7.3,
+      "change": 0.8500000000000005,
+      "changePercent": 11.643835616438365,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.12
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.5
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.15
+        }
+      ]
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.33,
+      "previousPrice": 3.02,
+      "change": 0.31000000000000005,
+      "changePercent": 10.264900662251657,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.4
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.33
+        }
+      ]
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.41,
+      "previousPrice": 2.19,
+      "change": 0.2200000000000002,
+      "changePercent": 10.04566210045663,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.23
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.28
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.41
+        }
+      ]
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 25.57,
+      "previousPrice": 23.25,
+      "change": 2.3200000000000003,
+      "changePercent": 9.978494623655914,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 23.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 22.49
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 24.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 24.81
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 24.12
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 23.83
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 28.07
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 22.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 26.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 21.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 23.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.57
+        }
+      ]
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.13,
+      "previousPrice": 2.85,
+      "change": 0.2799999999999998,
+      "changePercent": 9.824561403508765,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.21
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.2
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.13
+        }
+      ]
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 6.97,
+      "previousPrice": 6.35,
+      "change": 0.6200000000000001,
+      "changePercent": 9.763779527559057,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.64
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.97
+        }
+      ]
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.73,
+      "previousPrice": 3.4,
+      "change": 0.33000000000000007,
+      "changePercent": 9.70588235294118,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ]
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.66,
+      "previousPrice": 4.25,
+      "change": 0.41000000000000014,
+      "changePercent": 9.647058823529415,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.66
+        }
+      ]
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.09,
+      "previousPrice": 4.65,
+      "change": 0.4399999999999995,
+      "changePercent": 9.462365591397838,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.09
+        }
+      ]
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.72,
+      "previousPrice": 3.4,
+      "change": 0.3200000000000003,
+      "changePercent": 9.41176470588236,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ]
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.04,
+      "previousPrice": 3.7,
+      "change": 0.33999999999999986,
+      "changePercent": 9.189189189189186,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.04
+        }
+      ]
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 0.99,
+      "previousPrice": 0.91,
+      "change": 0.07999999999999996,
+      "changePercent": 8.791208791208787,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 0.97
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 0.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 0.94
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 0.92
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.99
+        }
+      ]
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.63,
+      "previousPrice": 4.28,
+      "change": 0.34999999999999964,
+      "changePercent": 8.177570093457936,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.04
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.63
+        }
+      ]
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.08,
+      "previousPrice": 1.93,
+      "change": 0.15000000000000013,
+      "changePercent": 7.772020725388608,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.11
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.08
+        }
+      ]
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.55,
+      "previousPrice": 5.15,
+      "change": 0.39999999999999947,
+      "changePercent": 7.766990291262125,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.92
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.6
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.23
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.55
+        }
+      ]
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.87,
+      "previousPrice": 4.52,
+      "change": 0.35000000000000053,
+      "changePercent": 7.743362831858419,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.77
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ]
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.14,
+      "previousPrice": 3.86,
+      "change": 0.2799999999999998,
+      "changePercent": 7.25388601036269,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.14
+        }
+      ]
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.53,
+      "previousPrice": 5.16,
+      "change": 0.3700000000000001,
+      "changePercent": 7.170542635658917,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.84
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.53
+        }
+      ]
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.81,
+      "previousPrice": 4.49,
+      "change": 0.3199999999999994,
+      "changePercent": 7.1269487750556655,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.81
+        }
+      ]
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 7.79,
+      "previousPrice": 7.29,
+      "change": 0.5,
+      "changePercent": 6.858710562414267,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.58
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.66
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.68
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.79
+        }
+      ]
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.31,
+      "previousPrice": 4.97,
+      "change": 0.33999999999999986,
+      "changePercent": 6.841046277665994,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.95
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.31
+        }
+      ]
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 1.74,
+      "previousPrice": 1.63,
+      "change": 0.1100000000000001,
+      "changePercent": 6.748466257668719,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.72
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.74
+        }
+      ]
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.68,
+      "previousPrice": 3.45,
+      "change": 0.22999999999999998,
+      "changePercent": 6.666666666666665,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.25
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.68
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 6.0,
+      "previousPrice": 5.63,
+      "change": 0.3700000000000001,
+      "changePercent": 6.571936056838368,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.06
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.44
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.0
+        }
+      ]
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.54,
+      "previousPrice": 4.27,
+      "change": 0.27000000000000046,
+      "changePercent": 6.323185011709613,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.64
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.54
+        }
+      ]
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 7.41,
+      "previousPrice": 6.97,
+      "change": 0.4400000000000004,
+      "changePercent": 6.312769010043047,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.41
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.0
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.41
+        }
+      ]
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Prince Edward Island",
+      "currentPrice": 1.62,
+      "previousPrice": 1.53,
+      "change": 0.09000000000000008,
+      "changePercent": 5.8823529411764754,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.77
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ]
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 16.32,
+      "previousPrice": 15.44,
+      "change": 0.8800000000000008,
+      "changePercent": 5.699481865284979,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.67
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 14.33
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 14.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 14.29
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 14.93
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.53
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 15.1
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 14.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.32
+        }
+      ]
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.69,
+      "previousPrice": 4.44,
+      "change": 0.25,
+      "changePercent": 5.63063063063063,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.46
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.69
+        }
+      ]
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.17,
+      "previousPrice": 4.9,
+      "change": 0.2699999999999996,
+      "changePercent": 5.5102040816326445,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.72
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.05
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.17
+        }
+      ]
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.6,
+      "previousPrice": 4.37,
+      "change": 0.22999999999999954,
+      "changePercent": 5.263157894736832,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ]
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.36,
+      "previousPrice": 4.15,
+      "change": 0.20999999999999996,
+      "changePercent": 5.060240963855421,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.42
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.61
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.36
+        }
+      ]
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.05,
+      "previousPrice": 4.81,
+      "change": 0.2400000000000002,
+      "changePercent": 4.989604989604994,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.0
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.05
+        }
+      ]
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 7.37,
+      "previousPrice": 7.02,
+      "change": 0.35000000000000053,
+      "changePercent": 4.985754985754993,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.2
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.49
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.52
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.37
+        }
+      ]
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 27.5,
+      "previousPrice": 26.27,
+      "change": 1.2300000000000004,
+      "changePercent": 4.682146935668064,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 25.27
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 27.24
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 27.6
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 25.95
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 25.99
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 24.3
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 25.9
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 25.14
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 26.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 26.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.5
+        }
+      ]
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 6.53,
+      "previousPrice": 6.24,
+      "change": 0.29000000000000004,
+      "changePercent": 4.647435897435898,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.68
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.46
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.45
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.53
+        }
+      ]
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.71,
+      "previousPrice": 5.49,
+      "change": 0.21999999999999975,
+      "changePercent": 4.0072859744990845,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.84
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.74
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.31
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.71
+        }
+      ]
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.67,
+      "previousPrice": 3.53,
+      "change": 0.14000000000000012,
+      "changePercent": 3.966005665722383,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.65
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.67
+        }
+      ]
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.87,
+      "previousPrice": 2.77,
+      "change": 0.10000000000000009,
+      "changePercent": 3.610108303249101,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.87
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.87
+        }
+      ]
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.89,
+      "previousPrice": 2.79,
+      "change": 0.10000000000000009,
+      "changePercent": 3.5842293906810068,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.85
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.71
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.57
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.49
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.48
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.89
+        }
+      ]
+    }
+  ],
+  "losers": [
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 18.91,
+      "previousPrice": 27.46,
+      "change": -8.55,
+      "changePercent": -31.136198106336494,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 18.23
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 29.75
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 32.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 32.76
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 25.34
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 32.29
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 34.79
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 30.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 26.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 27.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 18.91
+        }
+      ]
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.11,
+      "previousPrice": 5.89,
+      "change": -0.7799999999999994,
+      "changePercent": -13.242784380305592,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.37
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.42
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.2
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.31
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.45
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.11
+        }
+      ]
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.62,
+      "previousPrice": 6.25,
+      "change": -0.6299999999999999,
+      "changePercent": -10.079999999999998,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.83
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.71
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.5
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.62
+        }
+      ]
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 41.56,
+      "previousPrice": 45.63,
+      "change": -4.07,
+      "changePercent": -8.919570458031997,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 30.17
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 30.55
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 30.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 31.48
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 33.47
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 42.02
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 31.95
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 43.86
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 41.98
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 42.24
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 45.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 41.56
+        }
+      ]
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 7.2,
+      "previousPrice": 7.85,
+      "change": -0.6499999999999995,
+      "changePercent": -8.280254777070057,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.28
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.44
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.69
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.7
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.84
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.71
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.2
+        }
+      ]
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 10.82,
+      "previousPrice": 11.66,
+      "change": -0.8399999999999999,
+      "changePercent": -7.204116638078902,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 11.48
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 11.93
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 12.64
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 11.71
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.59
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 12.44
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 12.46
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 11.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 11.42
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.82
+        }
+      ]
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 13.96,
+      "previousPrice": 14.94,
+      "change": -0.9799999999999986,
+      "changePercent": -6.559571619812575,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 13.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 13.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.76
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 13.77
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 13.27
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 13.37
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.76
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 13.96
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.96
+        }
+      ]
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.72,
+      "previousPrice": 6.11,
+      "change": -0.39000000000000057,
+      "changePercent": -6.382978723404264,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 6.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.87
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.72
+        }
+      ]
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 8.84,
+      "previousPrice": 9.33,
+      "change": -0.4900000000000002,
+      "changePercent": -5.251875669882103,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 9.48
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 9.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 9.57
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 9.26
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 9.0
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.86
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.39
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.84
+        }
+      ]
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Prince Edward Island",
+      "currentPrice": 11.95,
+      "previousPrice": 12.61,
+      "change": -0.6600000000000001,
+      "changePercent": -5.233941316415545,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 14.05
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 12.65
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 13.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 12.32
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 12.49
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 13.14
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 11.89
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 12.43
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.11
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.48
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.95
+        }
+      ]
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.63,
+      "previousPrice": 2.76,
+      "change": -0.1299999999999999,
+      "changePercent": -4.710144927536229,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.84
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.63
+        }
+      ]
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.88,
+      "previousPrice": 3.02,
+      "change": -0.14000000000000012,
+      "changePercent": -4.635761589403978,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 2.89
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.86
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.88
+        }
+      ]
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.98,
+      "previousPrice": 4.15,
+      "change": -0.17000000000000037,
+      "changePercent": -4.096385542168683,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.06
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.98
+        }
+      ]
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 1.88,
+      "previousPrice": 1.95,
+      "change": -0.07000000000000006,
+      "changePercent": -3.589743589743593,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 2.09
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ]
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.49,
+      "previousPrice": 4.65,
+      "change": -0.16000000000000014,
+      "changePercent": -3.440860215053766,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.7
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.6
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.34
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.41
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ]
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.6,
+      "previousPrice": 5.76,
+      "change": -0.16000000000000014,
+      "changePercent": -2.7777777777777803,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.4
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.51
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.6
+        }
+      ]
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.16,
+      "previousPrice": 4.27,
+      "change": -0.10999999999999943,
+      "changePercent": -2.576112412177973,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.31
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 4.38
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.16
+        }
+      ]
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.65,
+      "previousPrice": 3.72,
+      "change": -0.07000000000000028,
+      "changePercent": -1.8817204301075345,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.46
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.65
+        }
+      ]
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.12,
+      "previousPrice": 3.17,
+      "change": -0.04999999999999982,
+      "changePercent": -1.5772870662460512,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.02
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.15
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.12
+        }
+      ]
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Prince Edward Island",
+      "currentPrice": 8.17,
+      "previousPrice": 8.3,
+      "change": -0.13000000000000078,
+      "changePercent": -1.566265060240973,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 8.06
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 8.12
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 8.36
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 8.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 8.29
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 8.06
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.05
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.17
+        }
+      ]
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 9.67,
+      "previousPrice": 9.82,
+      "change": -0.15000000000000036,
+      "changePercent": -1.527494908350309,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 9.96
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 10.1
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 10.0
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 10.67
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 11.88
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 10.24
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 10.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 8.96
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 10.2
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.67
+        }
+      ]
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.74,
+      "previousPrice": 3.78,
+      "change": -0.03999999999999959,
+      "changePercent": -1.0582010582010475,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.51
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.79
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.74
+        }
+      ]
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 15.11,
+      "previousPrice": 15.23,
+      "change": -0.120000000000001,
+      "changePercent": -0.7879185817465594,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 15.65
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 16.44
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 15.79
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 15.75
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 16.19
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 15.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 16.68
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 15.89
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 15.55
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 17.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.11
+        }
+      ]
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.22,
+      "previousPrice": 5.26,
+      "change": -0.040000000000000036,
+      "changePercent": -0.7604562737642593,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.22
+        }
+      ]
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 47.95,
+      "previousPrice": 48.31,
+      "change": -0.35999999999999943,
+      "changePercent": -0.7451873318153579,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 47.64
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 49.55
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 47.98
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 49.31
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 46.99
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 50.1
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 50.27
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 50.17
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 50.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 48.66
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 48.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 47.95
+        }
+      ]
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 5.99,
+      "previousPrice": 6.03,
+      "change": -0.040000000000000036,
+      "changePercent": -0.6633499170812609,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 6.28
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 6.53
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.63
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 6.22
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.43
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.99
+        }
+      ]
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Prince Edward Island",
+      "currentPrice": 4.98,
+      "previousPrice": 5.01,
+      "change": -0.02999999999999936,
+      "changePercent": -0.5988023952095681,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 5.27
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 5.08
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.98
+        }
+      ]
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Prince Edward Island",
+      "currentPrice": 2.16,
+      "previousPrice": 2.17,
+      "change": -0.009999999999999787,
+      "changePercent": -0.4608294930875478,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 2.08
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 1.98
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.97
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.16
+        }
+      ]
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Prince Edward Island",
+      "currentPrice": 7.25,
+      "previousPrice": 7.27,
+      "change": -0.019999999999999574,
+      "changePercent": -0.27510316368637655,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 7.01
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 7.21
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 7.44
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.25
+        }
+      ]
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Prince Edward Island",
+      "currentPrice": 3.81,
+      "previousPrice": 3.82,
+      "change": -0.009999999999999787,
+      "changePercent": -0.26178010471203633,
+      "currentDate": "2026-05",
+      "previousDate": "2026-04",
+      "lastUpdated": "2026-07-14T18:26:03.282012",
+      "history": [
+        {
+          "REF_DATE": "2025-06",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2025-07",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2025-08",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.85
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ]
+    }
+  ],
+  "totalGainers": 50,
+  "totalLosers": 30,
+  "trendPoints": 12
+}

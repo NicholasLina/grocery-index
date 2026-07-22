@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.7
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.98
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.96
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.79
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.95
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.26
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.53
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.94
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.82
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 15.0
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 14.24
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.0
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.51
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.78
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.02
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.7
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.51
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.82
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.42
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.36
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.61
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.16
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.68
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.1
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.73
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 18.97
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.83
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.03
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.53
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.48
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.87
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.53
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 17.14
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.88
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 20.8
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.84
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.73
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 18.32
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.22
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 18.15
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 31.55
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 33.85
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.3
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.41
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.16
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.81
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.28
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 19.84
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.91
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.27
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.48
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.89
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.37
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.8
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.94
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.5
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.07
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.41
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.62
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.36
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.7
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.68
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 32.29
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.45
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.97
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 30.67
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.46
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.96
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.39
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.75
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.39
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 17.41
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 23.2
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 21.99
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.28
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.69
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 32.88
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.85
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 37.19
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 24.57
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.19
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.73
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.8
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 22.18
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 28.59
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.18
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.63
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.28
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 30.75
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.74
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.1
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 28.61
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 32.22
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.63
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 27.67
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.76
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 28.7
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 26.93
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 39.46
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 44.7
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 30.54
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 25.31
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.77
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 31.21
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.5
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 29.82
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 38.29
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 37.84
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 42.11
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 34.36
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 38.02
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 38.89
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Manitoba",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447216",
+    "VALUE": 35.51
+  }
+]

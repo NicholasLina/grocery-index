@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.65
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.29
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.29
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.94
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.4
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.78
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.44
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 8.99
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.89
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 8.81
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.65
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 8.82
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.77
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.62
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.34
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.1
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.06
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.8
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.86
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.66
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.88
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.2
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.61
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.5
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.1
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.67
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.09
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.38
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.3
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.49
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.3
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.0
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.73
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.27
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.19
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 8.62
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.21
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 8.7
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.09
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.55
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.84
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.47
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.01
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.4
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.83
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.31
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 7.98
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.8
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 9.5
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.39
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.74
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.19
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.25
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.14
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.16
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.97
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.39
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.36
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.92
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.69
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.8
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 10.73
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.8
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.05
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.49
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.84
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.86
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.16
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.18
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.44
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.43
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.73
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.31
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.95
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.0
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.74
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.39
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.94
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.74
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.24
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.45
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.68
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.15
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.2
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.62
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.51
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.75
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.23
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.33
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.47
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.7
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.32
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.96
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 11.25
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.55
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.22
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.17
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.73
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.48
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.8
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.91
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.98
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 12.6
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.51
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.14
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 14.06
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Alberta",
+    "Products": "Chicken thigh, per kilogram",
+    "VECTOR": "v1159447303",
+    "VALUE": 13.8
+  }
+]

@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 12.67
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.63
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.01
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.38
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.5
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.95
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.22
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.2
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.79
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.72
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.98
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.08
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 12.08
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.01
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.0
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.11
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.72
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.63
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.94
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.14
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 12.81
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.08
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.79
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.32
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.52
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.95
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.64
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.92
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.44
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.62
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.54
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.85
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.47
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.51
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 13.85
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.65
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.38
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.95
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.25
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.39
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.31
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.84
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.52
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.21
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.75
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.22
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.19
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.2
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 14.38
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.54
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 15.44
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.2
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.61
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.64
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.4
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.04
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.56
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.93
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.75
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.01
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.78
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.68
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.99
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.09
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.31
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.21
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.91
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.27
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.27
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.96
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.66
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.69
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.73
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.49
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.32
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.67
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.91
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.29
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.55
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.23
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.36
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.8
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.04
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.51
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 16.52
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.59
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.41
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.42
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.66
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 22.29
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.79
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 20.04
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 17.98
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.61
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 18.28
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 19.77
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.3
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 22.02
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 22.91
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 23.69
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 23.91
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 24.8
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 23.81
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.6
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 22.92
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 25.24
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 24.33
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 22.81
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 24.11
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 21.69
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Ontario",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447175",
+    "VALUE": 26.1
+  }
+]

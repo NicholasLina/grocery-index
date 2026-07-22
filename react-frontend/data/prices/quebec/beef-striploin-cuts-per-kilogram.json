@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.41
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.47
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.05
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.74
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.79
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 20.05
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.87
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.46
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 27.22
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 11.91
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 27.74
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.37
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.37
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 16.17
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.11
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.06
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 17.28
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.25
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 28.36
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.67
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.1
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 30.12
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.77
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 14.75
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.92
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.7
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 20.16
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 30.29
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.57
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.39
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.99
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 17.8
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.67
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 14.15
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.7
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.0
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.33
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 20.74
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 18.24
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.3
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.39
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 31.18
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 32.23
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.23
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 30.79
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 27.8
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 27.85
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 14.21
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.49
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 29.16
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 32.42
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.25
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 31.49
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.86
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 37.26
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.62
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.14
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.6
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 37.93
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 19.25
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 30.48
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 35.53
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 35.4
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 35.56
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.62
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 34.91
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.72
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 38.21
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 34.07
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 19.13
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.9
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 34.47
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 34.34
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 36.0
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 36.5
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.91
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 38.14
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 38.47
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 41.05
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 37.79
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 38.8
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.72
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 39.33
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 20.12
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.45
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.22
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.67
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.75
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.19
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.1
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.07
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 34.25
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.67
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.0
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.22
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 21.26
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.32
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.61
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 33.29
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.07
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.66
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 24.11
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 28.04
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 23.21
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.46
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 25.18
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 37.61
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 22.73
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.48
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 26.76
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 39.01
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 40.87
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Quebec",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447136",
+    "VALUE": 28.18
+  }
+]

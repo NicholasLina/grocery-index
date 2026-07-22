@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.48
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.34
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.79
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.47
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.18
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.03
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.79
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.61
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.13
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.36
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.06
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.11
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.41
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.09
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.51
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.95
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.48
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.07
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.46
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.44
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.8
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.04
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.72
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 8.99
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.31
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.04
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.59
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.06
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.28
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.69
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.98
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.56
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.48
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.1
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.54
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.79
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.18
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.19
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.22
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.18
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.25
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.07
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.45
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.27
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.5
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.19
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.1
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.41
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.88
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.1
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.07
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.81
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.32
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.69
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.29
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.11
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.82
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.32
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.28
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.64
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.47
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.54
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.22
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.24
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.92
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.64
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 9.92
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 10.31
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.12
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.23
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.5
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.19
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.45
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.69
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.82
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.72
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 12.71
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.16
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.38
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.72
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 11.53
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 12.55
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 12.68
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 12.78
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 12.96
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.46
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.25
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.08
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.91
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 13.85
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.17
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.67
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.73
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.78
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.06
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 14.85
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.83
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.54
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.79
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.36
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 16.46
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.57
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 15.59
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Canada",
+    "Products": "Ground beef, per kilogram",
+    "VECTOR": "v1353834274",
+    "VALUE": 16.07
+  }
+]

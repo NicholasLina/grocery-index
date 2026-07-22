@@ -1,0 +1,2126 @@
+{
+  "geo": "Alberta",
+  "streaks": [
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Alberta",
+      "streakLength": 6,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.86
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.7
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Alberta",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.59
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.56
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 41.04
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 37.61
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 33.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 31.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.16
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.31
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.78
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 8.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.85
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.67
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.47
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.67
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 18.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.23
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.07
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.05
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.8
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.74
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.38
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 29.37
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 29.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.56
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.38
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.64
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Alberta",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.56
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 42.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 35.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 28.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 30.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.82
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.8
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.36
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.45
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.07
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 17.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 17.27
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.65
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 49.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.46
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.43
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.36
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.01
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.21
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Alberta",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.193155"
+    }
+  ]
+}

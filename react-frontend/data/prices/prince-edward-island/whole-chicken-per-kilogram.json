@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.49
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.49
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.77
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.81
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.13
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.92
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.59
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.69
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.18
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.3
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.44
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.36
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.14
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.09
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.83
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.64
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.09
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.76
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.58
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.05
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.93
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.96
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.09
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.37
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.64
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.01
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.77
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.63
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.98
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.24
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.21
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.95
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.96
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.7
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.93
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.47
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.51
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.31
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.6
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.57
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.58
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.9
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.24
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.86
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.63
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.53
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.06
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.57
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.04
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.4
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.99
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.11
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.65
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.98
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.8
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.92
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.37
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.18
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.72
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.7
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.32
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.23
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.29
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 4.77
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.21
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.98
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.13
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.63
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.26
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.76
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.74
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.02
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.64
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.05
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.08
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.8
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.4
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.74
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.59
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.19
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.64
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.47
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 5.77
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.23
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.39
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.9
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.46
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.0
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.45
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.22
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.29
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 9.24
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.68
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.66
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.34
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.72
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.67
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 6.96
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.58
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.46
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.85
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.45
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.5
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.6
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 7.81
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.28
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.21
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Prince Edward Island",
+    "Products": "Whole chicken, per kilogram",
+    "VECTOR": "v1159447021",
+    "VALUE": 8.26
+  }
+]

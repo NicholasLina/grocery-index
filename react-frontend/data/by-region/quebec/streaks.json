@@ -1,0 +1,1997 @@
+{
+  "geo": "Quebec",
+  "streaks": [
+    {
+      "product": "Limes, unit",
+      "geo": "Quebec",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 0.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 0.74
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 0.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Tofu, 350 grams ",
+      "geo": "Quebec",
+      "streakLength": 5,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 2.72
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.8
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.03
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Quebec",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.03
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.18
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.7
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.82
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.22
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.95
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.15
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.55
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Quebec",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.23
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.53
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 15.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.18
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.44
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.3
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.62
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.97
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.69
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Quebec",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 35.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 54.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 21.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 20.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 40.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 28.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 38.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 35.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.86
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 15.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.08
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 48.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 48.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 0.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 0.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.49
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.5
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.34
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.54
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.45
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.93
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.45
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.85
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 24.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.73
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.05
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.04
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Quebec",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.293159"
+    }
+  ]
+}

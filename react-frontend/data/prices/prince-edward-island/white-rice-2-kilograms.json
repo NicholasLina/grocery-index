@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.32
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.48
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.52
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.73
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.55
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.86
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.56
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.06
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.71
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.75
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.0
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.06
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.46
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.93
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.93
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.68
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.96
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.87
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.21
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.03
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.03
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.9
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.56
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.15
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.0
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.72
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.71
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.92
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.59
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.89
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.19
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.65
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.84
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.71
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.7
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.57
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.86
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.17
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.16
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.79
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.04
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.84
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.99
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.25
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.04
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.73
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.81
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.88
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.27
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.68
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.44
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.2
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.18
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.03
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.37
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.77
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.68
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.56
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.22
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.52
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.1
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.78
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.34
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.58
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.59
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.0
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.77
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.55
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.41
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.44
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.08
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.13
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.52
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.17
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.09
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.01
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.81
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.7
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.79
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.42
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.61
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.59
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.45
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 7.53
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.46
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 8.42
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.36
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.23
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.91
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.8
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.6
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.42
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.4
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.24
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.0
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.72
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.53
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 11.05
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.98
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.05
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.36
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.24
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 9.97
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.34
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.29
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.63
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Prince Edward Island",
+    "Products": "White rice, 2 kilograms",
+    "VECTOR": "v1458870003",
+    "VALUE": 10.79
+  }
+]

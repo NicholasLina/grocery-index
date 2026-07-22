@@ -76,6 +76,36 @@ class SqliteStoreTests(unittest.TestCase):
         payload = json.loads((output_dir / "products.json").read_text(encoding="utf-8"))
         self.assertEqual(payload["products"], ["Apples"])
 
+    def test_export_includes_year_over_year_change(self):
+        records = [
+            {"REF_DATE": "2024-03", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 100},
+            {"REF_DATE": "2024-04", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 105},
+            {"REF_DATE": "2025-03", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 120},
+            {"REF_DATE": "2025-04", "GEO": "Canada", "Products": "Apples", "VECTOR": "v1", "VALUE": 130},
+        ]
+        upsert_source_records(self.conn, records)
+        recalculate_all_price_changes(self.conn)
+
+        output_dir = Path(self.temp_dir.name) / "static-yoy"
+        export_static_json(self.conn, output_dir)
+
+        payload = json.loads(
+            (output_dir / "by-region" / "canada" / "all-price-changes.json").read_text(encoding="utf-8")
+        )
+        product = payload["products"][0]
+        self.assertEqual(product["currentDate"], "2025-04")
+        self.assertEqual(product["yearAgoPrice"], 105)
+        self.assertAlmostEqual(product["yearAgoChange"], 25)
+        self.assertAlmostEqual(product["yearAgoPercent"], (25 / 105) * 100)
+
+    def test_year_ago_month_helper(self):
+        from storage.static_json_export import year_ago_month
+
+        self.assertEqual(year_ago_month("2026-05"), "2025-05")
+        self.assertEqual(year_ago_month("2026-01"), "2025-01")
+        self.assertEqual(year_ago_month("2026-07-15"), "2025-07")
+        self.assertIsNone(year_ago_month("bad"))
+
 
 if __name__ == "__main__":
     unittest.main()

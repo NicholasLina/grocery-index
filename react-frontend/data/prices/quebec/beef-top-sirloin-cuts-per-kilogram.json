@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.54
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 16.59
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 14.81
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.52
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.81
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.24
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.38
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.68
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.89
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 19.23
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.95
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 12.43
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 16.87
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.26
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.1
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.3
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 17.14
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.9
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.94
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.23
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.46
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.04
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.09
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.92
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 17.6
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 17.59
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.03
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.2
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 12.6
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.63
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.16
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.49
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 21.35
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.54
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 13.23
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.3
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.04
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.63
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.1
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 21.6
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.58
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.55
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.39
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 14.16
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.07
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.97
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.73
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.14
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.64
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.3
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.49
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.76
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.3
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.89
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.79
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.18
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.13
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.84
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.3
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.61
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.02
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.55
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 24.19
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.68
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.09
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.98
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.85
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.95
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.61
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.54
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 22.42
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.29
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.47
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.91
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 28.27
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 30.53
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 32.82
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 31.55
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 32.31
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 30.1
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 35.55
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 31.47
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 31.36
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 30.6
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 30.33
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 17.82
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.98
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.83
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 28.96
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 29.21
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.22
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.35
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 26.11
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.49
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 15.67
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 25.29
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 17.82
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 19.15
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 27.7
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 28.68
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 30.35
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 33.81
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 36.28
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 21.26
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 36.3
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 21.79
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 18.74
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 36.05
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 20.87
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 23.83
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 38.59
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Quebec",
+    "Products": "Beef top sirloin cuts, per kilogram",
+    "VECTOR": "v1159447137",
+    "VALUE": 35.12
+  }
+]

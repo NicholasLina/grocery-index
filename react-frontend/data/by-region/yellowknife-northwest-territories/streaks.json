@@ -1,0 +1,710 @@
+{
+  "geo": "Yellowknife, Northwest Territories",
+  "streaks": [
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 54.1
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 51.75
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 50.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 49.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 47.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 14.06
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.89
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 12.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 12.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-09",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.88
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.72
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.09
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.64
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.04
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.24
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.28
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.72
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.79
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.27
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.04
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.9
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Yellowknife, Northwest Territories",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.316126"
+    }
+  ]
+}

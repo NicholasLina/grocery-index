@@ -1,0 +1,2137 @@
+{
+  "geo": "Newfoundland and Labrador",
+  "streaks": [
+    {
+      "product": "Squash, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 8,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-10",
+          "VALUE": 4.29
+        },
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 4.65
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.85
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.93
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Carrots, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.07
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.78
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.91
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 7,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.96
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 3.87
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.77
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Lemons, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 1.06
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 1.19
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 1.21
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 1.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Onions, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 7,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2025-11",
+          "VALUE": 3.93
+        },
+        {
+          "REF_DATE": "2025-12",
+          "VALUE": 4.43
+        },
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 4.62
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 4.68
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.83
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.41
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.4
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.36
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Beef top sirloin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 32.34
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 29.17
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 27.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.42
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.25
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.82
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Mushrooms, 227 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.23
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.19
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.99
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.03
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Potatoes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 5.89
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Whole chicken, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 7.73
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.0
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Bananas, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Beef stewing cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 24.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 24.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 25.22
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Brown rice, 900 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cabbage, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 12.39
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.77
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.18
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.34
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.45
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.57
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.48
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.52
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.75
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Ground beef, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 14.96
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Iceberg lettuce, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Limes, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.08
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.07
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.05
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Margarine, 907 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Pears, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 7.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.16
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Pork loin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.14
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.88
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Pork shoulder cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 8.45
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Salad dressing, 475 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.58
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.6
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Salad greens, 142 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.14
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Salmon, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 25.16
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.69
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 27.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.4
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Tomatoes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.91
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 11.2
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.13
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.8
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 10.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 2.29
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.92
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.26
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Yogurt, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Almonds, 200 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.38
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.2
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.23
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Apples, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.13
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Avocado, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.18
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.31
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.61
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Beef rib cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 25.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 32.4
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Beef striploin cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 47.99
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 36.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.01
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Broccoli, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.5
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.0
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.76
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.57
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.44
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.53
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.33
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.2
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.6
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.17
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.39
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cantaloupe, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.71
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Celery, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.49
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.32
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Chicken breasts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 15.91
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 16.02
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Chicken drumsticks, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.27
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Chicken thigh, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.62
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.51
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cream, 1 litre",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.05
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.11
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Cucumber, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.87
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.02
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.9
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.82
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.61
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.14
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.71
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.89
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Grapes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.67
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Hummus, 227 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.88
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 50.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.66
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.94
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.42
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 13.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Meatless burgers, 226 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.47
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.75
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.83
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.13
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 11.85
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 11.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Onions, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.21
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Oranges, 1.36 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.1
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Oranges, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.97
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.65
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Peppers, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.68
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Pork rib cuts, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Potatoes, 4.54 kilograms",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Romaine lettuce, unit",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.39
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Salsa, 418 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.95
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Shrimp, 300 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.31
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Strawberries, 454 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.92
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.54
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.84
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Sweet potatoes, per kilogram",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.15
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.1
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Newfoundland and Labrador",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.41
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.248654"
+    }
+  ]
+}

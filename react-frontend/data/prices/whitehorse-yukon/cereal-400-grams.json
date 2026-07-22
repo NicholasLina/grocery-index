@@ -1,0 +1,65 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.48
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.55
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.43
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.56
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.42
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.41
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.43
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.45
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Whitehorse, Yukon",
+    "Products": "Cereal, 400 grams",
+    "VECTOR": "v1793770447",
+    "VALUE": 4.44
+  }
+]

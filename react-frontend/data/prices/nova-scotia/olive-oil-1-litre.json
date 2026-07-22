@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.01
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.21
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.08
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.05
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.23
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.68
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.87
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.1
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.25
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.7
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.77
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.54
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.44
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.2
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.22
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.86
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.54
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.16
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.31
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.01
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.2
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.77
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.35
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 6.97
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.58
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.67
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.44
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.1
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.18
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.34
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.7
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.22
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.27
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.63
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.47
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.32
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.38
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.09
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.17
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.78
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.0
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.97
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.28
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.7
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.87
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.82
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.3
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.47
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.71
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.25
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 7.14
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.05
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.36
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.46
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.67
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.9
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.22
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.28
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.35
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.2
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.63
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.49
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.25
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.57
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.81
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.42
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.31
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 8.24
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.93
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.83
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 10.11
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 9.64
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 11.43
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.52
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.84
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.87
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 11.9
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.72
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 13.19
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.92
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 15.26
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 15.07
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.36
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 15.74
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 15.79
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 16.78
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 16.69
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.62
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.16
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 16.96
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 16.27
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.94
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.3
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.08
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 17.35
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.84
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 15.14
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.03
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 13.15
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 14.24
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.67
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 13.19
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.76
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 13.25
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.95
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.07
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.42
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.36
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 11.54
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.45
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Nova Scotia",
+    "Products": "Olive oil, 1 litre",
+    "VECTOR": "v1458870023",
+    "VALUE": 12.23
+  }
+]

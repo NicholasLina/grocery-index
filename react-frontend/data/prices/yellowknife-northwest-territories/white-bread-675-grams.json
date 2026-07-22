@@ -1,0 +1,30 @@
+[
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Yellowknife, Northwest Territories",
+    "Products": "White bread, 675 grams",
+    "VECTOR": "v1793770490",
+    "VALUE": 3.61
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Yellowknife, Northwest Territories",
+    "Products": "White bread, 675 grams",
+    "VECTOR": "v1793770490",
+    "VALUE": 3.92
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Yellowknife, Northwest Territories",
+    "Products": "White bread, 675 grams",
+    "VECTOR": "v1793770490",
+    "VALUE": 3.96
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Yellowknife, Northwest Territories",
+    "Products": "White bread, 675 grams",
+    "VECTOR": "v1793770490",
+    "VALUE": 4.2
+  }
+]

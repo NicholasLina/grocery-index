@@ -1,0 +1,1059 @@
+{
+  "geo": "Whitehorse, Yukon",
+  "streaks": [
+    {
+      "product": "Orange juice, 2 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 5,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-01",
+          "VALUE": 6.67
+        },
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 6.54
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 6.26
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.08
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.95
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen french fried potatoes, 750 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 2.66
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.12
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Olive oil, 1 litre",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 4,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 12.17
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.01
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.3
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.32
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Apple juice, 2 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 4.76
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.98
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.01
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned soup, 284 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.51
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.67
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned tuna, 170 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 1.92
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.96
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canola oil, 3 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 10.59
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.96
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Deodorant, 85 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 9.09
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.99
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Flatbread and pita, 500 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-02",
+          "VALUE": 3.24
+        },
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 3.27
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.35
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen pizza, 390 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.1
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen strawberries, 600 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.11
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.41
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.58
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Laundry detergent, 4.43 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 13.32
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 14.37
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Milk, 2 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 3,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-03",
+          "VALUE": 5.71
+        },
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.64
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Baby food, 128 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.34
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Bacon, 500 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.36
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.85
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Block cheese, 500 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.46
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Butter, 454 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.29
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned baked beans, 398 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.94
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.93
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned beans and lentils, 540 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.72
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned corn, 341 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 1.74
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 1.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned peach, 398 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.4
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.47
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned pear, 398 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.51
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned salmon, 213 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.81
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.69
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Canned tomatoes, 796 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.35
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.43
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Cereal, 400 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.45
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Cookies and sweet biscuits, 300 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.83
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.79
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Crackers and crisp breads, 200 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.25
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Dried lentils, 900 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.21
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.17
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Dry beans and legumes, 900 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.63
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.62
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Dry or fresh pasta, 500 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.66
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.78
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Eggs, 1 dozen",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.52
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen broccoli, 500 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.7
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen corn, 750 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.73
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.24
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen green beans, 750 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.52
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.77
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen mixed vegetables, 750 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.33
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen peas, 750 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.48
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.98
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Frozen spinach, 300 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.12
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.19
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Infant formula, 900 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 49.25
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 50.74
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Ketchup, 1 litre",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.8
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.81
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Mayonnaise, 890 millilitres ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.55
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.12
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Milk, 1 litre",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 2.9
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 2.91
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Milk, 4 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.29
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.28
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Nut milk, 1.89 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.44
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Pasta sauce, 650 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.84
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.87
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Peanut butter, 1 kilogram",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 7.19
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.03
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Peanuts, 450 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.26
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Roasted or ground coffee, 340 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 9.76
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 9.97
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Shampoo, 400 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 8.22
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 7.63
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Soy milk, 1.89 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Sunflower seeds, 400 grams ",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.56
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.16
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Tea (20 bags)",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.58
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 4.86
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Toothpaste, 100 millilitres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 4.78
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.15
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Vegetable oil, 3 litres",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 13.57
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 14.0
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Wheat flour, 2.5 kilograms",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 5.53
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 5.37
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "White bread, 675 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.75
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.59
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "White rice, 2 kilograms",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 10.06
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 8.8
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "White sugar, 2 kilograms",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "decrease",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 3.09
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 3.06
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    },
+    {
+      "product": "Wieners, 400 grams",
+      "geo": "Whitehorse, Yukon",
+      "streakLength": 2,
+      "streakType": "increase",
+      "data": [
+        {
+          "REF_DATE": "2026-04",
+          "VALUE": 6.68
+        },
+        {
+          "REF_DATE": "2026-05",
+          "VALUE": 6.89
+        }
+      ],
+      "lastUpdated": "2026-07-14T18:26:03.314555"
+    }
+  ]
+}

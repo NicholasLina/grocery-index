@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 24.93
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.23
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.07
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.39
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.36
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.8
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.89
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.44
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.53
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.06
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.01
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.93
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.44
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.38
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.4
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 25.44
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.64
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.86
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.02
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.74
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.36
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.41
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.5
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.27
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.36
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.99
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.81
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.41
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.52
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.34
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.28
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.36
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.14
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.14
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.36
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.25
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 26.78
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.05
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.23
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.22
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.83
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.72
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.73
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.54
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.96
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.38
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.89
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.06
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 27.86
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.62
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.64
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.89
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.66
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.5
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 30.05
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.67
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.46
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.4
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 29.66
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.71
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.3
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.11
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.23
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 28.21
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 31.26
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 31.56
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 31.88
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 31.59
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 30.38
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 31.03
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 32.4
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 34.66
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 34.37
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 37.38
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 34.29
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 34.0
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 35.62
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 35.9
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 35.77
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 36.35
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 36.8
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 39.89
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 40.98
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 41.04
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 39.06
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 42.18
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 42.64
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 43.38
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 43.31
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.73
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 45.37
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 45.49
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.54
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.32
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.63
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 43.76
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.31
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 44.88
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 46.77
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 46.1
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.14
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.1
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.88
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 46.79
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.98
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 46.71
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 48.59
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.97
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 49.07
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.7
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 48.23
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.54
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Saskatchewan",
+    "Products": "Infant formula, 900 grams ",
+    "VECTOR": "v1458870183",
+    "VALUE": 47.96
+  }
+]

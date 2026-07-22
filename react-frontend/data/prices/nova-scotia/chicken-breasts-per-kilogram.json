@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.93
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.37
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.33
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.71
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.07
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.6
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.14
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.72
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.66
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.02
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.47
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.56
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.92
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.85
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.59
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.07
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.66
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 8.11
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.31
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.7
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.75
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.57
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.76
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.27
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.85
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.54
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.05
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.78
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.54
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.2
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.76
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.12
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.64
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.22
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.2
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.5
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.35
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.65
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.69
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.45
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.83
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.02
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.9
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.25
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.12
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.35
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.17
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.44
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.55
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.48
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.36
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 9.37
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 10.78
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.04
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 11.61
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.24
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.98
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.72
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.79
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.87
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.21
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.06
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.89
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.8
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.17
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.63
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.35
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.22
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.32
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.27
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.67
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.52
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.63
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.95
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.6
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.13
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.23
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.49
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.64
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.8
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.47
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.22
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.46
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.72
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.88
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 12.78
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.89
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.56
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.28
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.82
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.95
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.7
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.6
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.2
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.3
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.45
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.73
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 13.42
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.06
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 14.7
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.16
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.02
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.81
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.78
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.1
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.78
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.88
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.96
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 16.13
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 18.56
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.35
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Nova Scotia",
+    "Products": "Chicken breasts, per kilogram",
+    "VECTOR": "v1159447062",
+    "VALUE": 15.23
+  }
+]

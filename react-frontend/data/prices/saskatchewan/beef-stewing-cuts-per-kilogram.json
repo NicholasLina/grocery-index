@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.54
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.3
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.99
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.24
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.41
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.2
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.11
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.39
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.96
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.56
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.65
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.38
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.19
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.62
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.74
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.88
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.92
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.68
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.03
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.52
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.06
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.42
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.27
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.09
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.47
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.41
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.43
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.99
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.07
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.44
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.87
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.3
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.42
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 12.78
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.11
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.77
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.83
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.78
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.54
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.86
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.3
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.22
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.93
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.82
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.99
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.96
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.99
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 13.27
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.83
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.65
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.53
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 14.8
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.18
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.82
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.51
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.12
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.81
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.54
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.79
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.06
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.88
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.89
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.95
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.24
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.38
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.87
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.69
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.75
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.64
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.18
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.09
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.94
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.62
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 15.3
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.14
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.65
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.58
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.64
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.74
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.73
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.57
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 16.42
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.52
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.24
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.56
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.48
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.27
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.32
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.79
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.96
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.33
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.63
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.17
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.82
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.29
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 19.6
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.99
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 18.95
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 17.84
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 20.26
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 20.53
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 21.82
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 22.36
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 22.11
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 21.61
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 22.45
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 22.22
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 24.24
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 21.37
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 24.44
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 22.96
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 24.67
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Saskatchewan",
+    "Products": "Beef stewing cuts, per kilogram",
+    "VECTOR": "v1159447255",
+    "VALUE": 23.76
+  }
+]

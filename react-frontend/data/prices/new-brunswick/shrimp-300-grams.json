@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.12
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.36
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.76
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.58
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.44
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.54
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.0
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.12
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.21
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.8
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.68
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.37
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.48
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.62
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.39
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.84
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 8.22
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.76
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.86
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.9
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.8
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.2
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.58
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.44
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.51
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.39
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.1
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.87
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.94
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.88
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.76
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.59
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.8
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.52
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.52
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.49
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.64
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.38
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 5.92
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.45
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.36
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.63
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.34
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.73
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.21
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.43
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.18
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.64
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.33
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.65
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.53
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.94
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.88
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.56
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.26
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.03
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.45
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.43
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.94
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.52
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.92
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.63
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.83
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.57
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.24
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.58
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.27
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.99
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.8
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.52
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.63
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.74
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.97
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.77
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 8.19
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 8.38
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 8.38
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.92
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.95
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 8.04
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.66
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.41
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.44
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.09
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.33
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.57
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.45
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.09
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.06
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.12
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.22
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.89
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.3
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.04
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 6.68
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.08
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.09
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.32
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.47
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.16
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.43
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.36
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.57
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.95
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.62
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.38
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.31
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.32
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "New Brunswick",
+    "Products": "Shrimp, 300 grams",
+    "VECTOR": "v1458870063",
+    "VALUE": 7.38
+  }
+]

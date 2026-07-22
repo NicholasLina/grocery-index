@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.92
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.06
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.12
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.69
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.35
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.34
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.69
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.71
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.4
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 17.12
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 16.78
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.44
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 20.85
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.28
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.11
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 20.07
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.65
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.64
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 19.77
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.53
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.34
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 20.39
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.49
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.32
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.37
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 19.6
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.39
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 18.54
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.86
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.96
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.66
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.02
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 18.39
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.89
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.22
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 20.27
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.1
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 19.21
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.62
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 18.87
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 30.42
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 32.82
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.93
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.16
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.52
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.71
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.91
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 20.29
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.9
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 21.84
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.43
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.55
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.13
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.34
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.43
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.79
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.94
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.01
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.49
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.54
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.32
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.17
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 32.31
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.83
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.42
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.38
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.84
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.42
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 24.72
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 23.55
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.58
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 17.96
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.57
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.61
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.09
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.82
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 32.05
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.43
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 35.43
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.49
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.07
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 26.35
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 30.28
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 22.66
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.46
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.65
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.14
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 25.7
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 32.79
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.09
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 30.83
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.96
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 34.03
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.64
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.41
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.82
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 29.81
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 28.17
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 40.2
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 45.7
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 34.18
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 27.22
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 30.8
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 33.84
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 31.96
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 31.92
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 42.25
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 34.41
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 45.61
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 33.14
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 40.19
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 42.06
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Alberta",
+    "Products": "Beef striploin cuts, per kilogram",
+    "VECTOR": "v1159447296",
+    "VALUE": 35.49
+  }
+]

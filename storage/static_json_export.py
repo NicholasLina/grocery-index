@@ -16,13 +16,30 @@ def slugify(value: str) -> str:
     return slug.strip("-")
 
 
+def year_ago_month(ref_date: str) -> str | None:
+    """
+    Return YYYY-MM exactly 12 months before ref_date.
+
+    Accepts YYYY-MM or YYYY-MM-DD. Returns None when the value cannot be parsed.
+    """
+    if not ref_date:
+        return None
+    month_value = str(ref_date)[:7]
+    try:
+        current = datetime.strptime(month_value, "%Y-%m")
+    except ValueError:
+        return None
+    return f"{current.year - 1:04d}-{current.month:02d}"
+
+
 def _fetch_price_changes(conn: sqlite3.Connection, geo: str, limit: int, direction: str):
     comparator = ">" if direction == "gainers" else "<"
     order = "DESC" if direction == "gainers" else "ASC"
+    # Quote "current_date" — bare current_date is SQLite's CURRENT_DATE function.
     rows = conn.execute(
         f"""
         SELECT product, geo, current_price, previous_price, change, change_percent,
-               current_date, previous_date, last_updated
+               "current_date", previous_date, last_updated
         FROM price_changes
         WHERE geo = ? AND change_percent {comparator} 0
         ORDER BY change_percent {order}
@@ -141,7 +158,7 @@ def export_static_json(conn: sqlite3.Connection, output_dir: str | Path) -> dict
         all_changes = conn.execute(
             """
             SELECT product, geo, current_price, previous_price, change, change_percent,
-                   current_date, previous_date
+                   "current_date", previous_date
             FROM price_changes
             WHERE geo = ?
             ORDER BY product ASC
@@ -154,12 +171,8 @@ def export_static_json(conn: sqlite3.Connection, output_dir: str | Path) -> dict
             year_ago_price = None
             year_ago_percent = None
             year_ago_change = None
-            if row[6]:
-                month_value = str(row[6])[:7]
-                current = datetime.strptime(month_value, "%Y-%m")
-                year = current.year - 1 if current.month == 12 else current.year
-                month = 12 if current.month == 1 else current.month - 1
-                year_ago_date = f"{year:04d}-{month:02d}"
+            year_ago_date = year_ago_month(row[6]) if row[6] else None
+            if year_ago_date:
                 year_row = conn.execute(
                     """
                     SELECT value FROM source_prices

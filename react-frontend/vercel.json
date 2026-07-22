@@ -7,6 +7,11 @@
     "env": {
         "NEXT_PUBLIC_DATA_SOURCE": "static"
     },
+    "build": {
+        "env": {
+            "NEXT_PUBLIC_DATA_SOURCE": "static"
+        }
+    },
     "headers": [
         {
             "source": "/(.*)",

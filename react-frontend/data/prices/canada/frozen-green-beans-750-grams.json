@@ -1,0 +1,793 @@
+[
+  {
+    "REF_DATE": "2017-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2017-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.0
+  },
+  {
+    "REF_DATE": "2017-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2017-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 2.96
+  },
+  {
+    "REF_DATE": "2017-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.23
+  },
+  {
+    "REF_DATE": "2017-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.3
+  },
+  {
+    "REF_DATE": "2017-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.37
+  },
+  {
+    "REF_DATE": "2017-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.37
+  },
+  {
+    "REF_DATE": "2017-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.11
+  },
+  {
+    "REF_DATE": "2017-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.04
+  },
+  {
+    "REF_DATE": "2017-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2017-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 2.95
+  },
+  {
+    "REF_DATE": "2018-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2018-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.19
+  },
+  {
+    "REF_DATE": "2018-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 2.93
+  },
+  {
+    "REF_DATE": "2018-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.12
+  },
+  {
+    "REF_DATE": "2018-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.07
+  },
+  {
+    "REF_DATE": "2018-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.13
+  },
+  {
+    "REF_DATE": "2018-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.21
+  },
+  {
+    "REF_DATE": "2018-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.1
+  },
+  {
+    "REF_DATE": "2018-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.07
+  },
+  {
+    "REF_DATE": "2018-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.08
+  },
+  {
+    "REF_DATE": "2018-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.25
+  },
+  {
+    "REF_DATE": "2018-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.05
+  },
+  {
+    "REF_DATE": "2019-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2019-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.25
+  },
+  {
+    "REF_DATE": "2019-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2019-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.31
+  },
+  {
+    "REF_DATE": "2019-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.4
+  },
+  {
+    "REF_DATE": "2019-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.37
+  },
+  {
+    "REF_DATE": "2019-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.33
+  },
+  {
+    "REF_DATE": "2019-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2019-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.3
+  },
+  {
+    "REF_DATE": "2019-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.2
+  },
+  {
+    "REF_DATE": "2019-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.33
+  },
+  {
+    "REF_DATE": "2019-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.1
+  },
+  {
+    "REF_DATE": "2020-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.36
+  },
+  {
+    "REF_DATE": "2020-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.3
+  },
+  {
+    "REF_DATE": "2020-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.47
+  },
+  {
+    "REF_DATE": "2020-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.41
+  },
+  {
+    "REF_DATE": "2020-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.43
+  },
+  {
+    "REF_DATE": "2020-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.42
+  },
+  {
+    "REF_DATE": "2020-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.34
+  },
+  {
+    "REF_DATE": "2020-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.36
+  },
+  {
+    "REF_DATE": "2020-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.24
+  },
+  {
+    "REF_DATE": "2020-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.16
+  },
+  {
+    "REF_DATE": "2020-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.28
+  },
+  {
+    "REF_DATE": "2020-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.15
+  },
+  {
+    "REF_DATE": "2021-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.18
+  },
+  {
+    "REF_DATE": "2021-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.48
+  },
+  {
+    "REF_DATE": "2021-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.57
+  },
+  {
+    "REF_DATE": "2021-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.55
+  },
+  {
+    "REF_DATE": "2021-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2021-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.49
+  },
+  {
+    "REF_DATE": "2021-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.44
+  },
+  {
+    "REF_DATE": "2021-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.4
+  },
+  {
+    "REF_DATE": "2021-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.33
+  },
+  {
+    "REF_DATE": "2021-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.23
+  },
+  {
+    "REF_DATE": "2021-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.41
+  },
+  {
+    "REF_DATE": "2021-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.32
+  },
+  {
+    "REF_DATE": "2022-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.49
+  },
+  {
+    "REF_DATE": "2022-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.47
+  },
+  {
+    "REF_DATE": "2022-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.5
+  },
+  {
+    "REF_DATE": "2022-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.35
+  },
+  {
+    "REF_DATE": "2022-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.51
+  },
+  {
+    "REF_DATE": "2022-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.43
+  },
+  {
+    "REF_DATE": "2022-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.53
+  },
+  {
+    "REF_DATE": "2022-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.51
+  },
+  {
+    "REF_DATE": "2022-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.53
+  },
+  {
+    "REF_DATE": "2022-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.5
+  },
+  {
+    "REF_DATE": "2022-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.67
+  },
+  {
+    "REF_DATE": "2022-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.56
+  },
+  {
+    "REF_DATE": "2023-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.58
+  },
+  {
+    "REF_DATE": "2023-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.77
+  },
+  {
+    "REF_DATE": "2023-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.94
+  },
+  {
+    "REF_DATE": "2023-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.85
+  },
+  {
+    "REF_DATE": "2023-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.95
+  },
+  {
+    "REF_DATE": "2023-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.88
+  },
+  {
+    "REF_DATE": "2023-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.9
+  },
+  {
+    "REF_DATE": "2023-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.85
+  },
+  {
+    "REF_DATE": "2023-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.85
+  },
+  {
+    "REF_DATE": "2023-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.85
+  },
+  {
+    "REF_DATE": "2023-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.04
+  },
+  {
+    "REF_DATE": "2023-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.0
+  },
+  {
+    "REF_DATE": "2024-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.05
+  },
+  {
+    "REF_DATE": "2024-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.15
+  },
+  {
+    "REF_DATE": "2024-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.91
+  },
+  {
+    "REF_DATE": "2024-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.23
+  },
+  {
+    "REF_DATE": "2024-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.21
+  },
+  {
+    "REF_DATE": "2024-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.12
+  },
+  {
+    "REF_DATE": "2024-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.06
+  },
+  {
+    "REF_DATE": "2024-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.0
+  },
+  {
+    "REF_DATE": "2024-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.95
+  },
+  {
+    "REF_DATE": "2024-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.96
+  },
+  {
+    "REF_DATE": "2024-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.08
+  },
+  {
+    "REF_DATE": "2024-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.93
+  },
+  {
+    "REF_DATE": "2025-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.01
+  },
+  {
+    "REF_DATE": "2025-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.16
+  },
+  {
+    "REF_DATE": "2025-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.17
+  },
+  {
+    "REF_DATE": "2025-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 3.98
+  },
+  {
+    "REF_DATE": "2025-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.36
+  },
+  {
+    "REF_DATE": "2025-06",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.33
+  },
+  {
+    "REF_DATE": "2025-07",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.36
+  },
+  {
+    "REF_DATE": "2025-08",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.31
+  },
+  {
+    "REF_DATE": "2025-09",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.4
+  },
+  {
+    "REF_DATE": "2025-10",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.31
+  },
+  {
+    "REF_DATE": "2025-11",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.51
+  },
+  {
+    "REF_DATE": "2025-12",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.19
+  },
+  {
+    "REF_DATE": "2026-01",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.43
+  },
+  {
+    "REF_DATE": "2026-02",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.5
+  },
+  {
+    "REF_DATE": "2026-03",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.36
+  },
+  {
+    "REF_DATE": "2026-04",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.35
+  },
+  {
+    "REF_DATE": "2026-05",
+    "GEO": "Canada",
+    "Products": "Frozen green beans, 750 grams",
+    "VECTOR": "v1353834321",
+    "VALUE": 4.58
+  }
+]
