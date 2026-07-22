@@ -1,6 +1,7 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Header from '../components/Header';
+import DeploymentSkewRecovery from '../components/DeploymentSkewRecovery';
 import { RegionProvider } from '../components/RegionProvider';
 
 const geistSans = Geist({
@@ -42,6 +43,7 @@ export default function RootLayout({ children }) {
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
         <RegionProvider>
+          <DeploymentSkewRecovery />
           <Header />
           {children}
         </RegionProvider>
